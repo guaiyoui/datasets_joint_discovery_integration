@@ -1,0 +1,4 @@
+site_nm,loc_nm,brc_yr,brc_month_nm,brc_wk,day_of_wk,dt,hr,in_cnt,out_cnt,report_cnt,factored_in_cnt,factored_out_cnt,factored_report_cnt
+Leeds City,South Albion Street,two thousand seventeen,Feb,fifth,Sun,"Feb 5, 2017",1:00 PM,"2,865",Zero,"2,865","2,865",Zero,"2,865"
+City of Leeds,Dortmund Sq,'17,Feb,8th week,Fri,"February 24, 2017",0200,Seventy,Zero,70.0,Seventy,Zero,70.0
+The city of Leeds,Commercial St. at Sharps,Year 2017,Feb.,Week 7,Sat,2017-02-18,7 AM,One hundred thirty,zero,one hundred thirty,one hundred thirty,zero,one hundred thirty

@@ -1,0 +1,870 @@
+beer_no,abv_percentage,maker_name,beer_kind
+0,7.50 %,TrÃ ¶ egs Brewing Company,American Amber / Red Ale
+1,5.20 %,New Belgium Brewing,American Amber / Red Ale
+2,4.40 %,Stone Brewing Co. .,American Amber / Red Ale
+3,8.10 %,Green Flash Brewing Co. .,American Amber / Red Ale
+4,6.00 %,TrÃ ¶ egs Brewing Company,American Amber / Red Ale
+5,6.20 %,Sierra Nevada Brewing Co. .,American Amber / Red Ale
+6,6.75 %,Lagunitas Brewing Company,American Amber / Red Ale
+7,6.80 %,Bear Republic Brewing Co. .,American Amber / Red Ale
+8,8.00 %,Great Lakes Brewing Co. .,American Amber / Red Ale
+9,7.80 %,Lagunitas Brewing Company,American Amber / Red Ale
+10,7.20 %,Maine Beer Company,American Amber / Red Ale
+11,5.30 %,Rogue Ales,American Amber / Red Ale
+12,8.65 %,Lagunitas Brewing Company,American Amber / Red Ale
+13,5.40 %,North Coast Brewing Co. .,American Amber / Red Ale
+14,5.80 %,Anderson Valley Brewing Company,American Amber / Red Ale
+15,5.30 %,Rogue Ales,American Amber / Red Ale
+16,5.80 %,Highland Brewing,American Amber / Red Ale
+17,7.40 %,Cigar City Brewing,American Amber / Red Ale
+18,5.50 %,Ballast Point Brewing Company,American Amber / Red Ale
+19,4.40 %,Breckenridge Brewery,American Amber / Red Ale
+20,7.00 %,Ithaca Beer Company,American Amber / Red Ale
+21,5.50 %,Full Sail Brewery & Tasting Room & Pub,American Amber / Red Ale
+22,5.10 %,Rogue Ales,American Amber / Red Ale
+23,6.10 %,Mendocino Brewing Company,American Amber / Red Ale
+24,6.10 %,Speakeasy Ales & Lagers,American Amber / Red Ale
+25,7.00 %,Sixpoint Brewery,American Amber / Red Ale
+26,6.80 %,Modern Times Beer,American Amber / Red Ale
+27,7.00 %,Maine Beer Company,American Amber / Red Ale
+28,6.00 %,Anchor Brewing Company,American Amber / Red Ale
+29,10.00 %,Ballast Point Brewing Company,American Amber / Red Ale
+30,6.00 %,New Belgium Brewing,American Amber / Red Ale
+31,6.20 %,Rogue Ales,American Amber / Red Ale
+32,5.00 %,BrewDog,American Amber / Red Ale
+33,8.50 %,AleSmith Brewing Company,American Amber / Red Ale
+34,9.00 %,Port Brewing,American Amber / Red Ale
+35,5.00 %,Switchback Brewing Company,American Amber / Red Ale
+36,6.50 %,Odell Brewing Company,American Amber / Red Ale
+37,5.40 %,Humboldt Brewing Co. .,American Amber / Red Ale
+38,6.80 %,Ale Asylum,American Amber / Red Ale
+39,10.30 %,Terrapin Beer Company,American Amber / Red Ale
+40,5.40 %,Weyerbacher Brewing Co. .,American Amber / Red Ale
+41,6.66 %,AleSmith Brewing Company,American Amber / Red Ale
+42,7.50 %,BridgePort Brewing Co. / Brewpub,American Amber / Red Ale
+43,6.90 %,The Bruery,American Amber / Red Ale
+44,8.00 %,Sierra Nevada Brewing Co. .,American Amber / Red Ale
+45,5.80 %,Redhook Ale Brewery,American Amber / Red Ale
+46,5.50 %,The Duck-Rabbit Craft Brewery,American Amber / Red Ale
+47,5.70 %,Boston Beer Company ( Samuel Adams ),American Amber / Red Ale
+48,6.90 %,Ninkasi Brewing Company,American Amber / Red Ale
+49,5.70 %,Coronado Brewing Company,American Amber / Red Ale
+50,6.50 %,Mad River Brewing Company,American Amber / Red Ale
+51,6.10 %,Revolution Brewing Company,American Amber / Red Ale
+52,5.50 %,Saint Arnold Brewing Company,American Amber / Red Ale
+53,8.50 %,Grand Teton Brewing Co. .,American Amber / Red Ale
+54,7.30 %,Local Option,American Amber / Red Ale
+55,5.90 %,Coors Brewing Company,American Amber / Red Ale
+56,5.70 %,New Glarus Brewing Company,American Amber / Red Ale
+57,6.50 %,Pipeworks Brewing Company,American Amber / Red Ale
+58,6.66 %,AleSmith Brewing Company,American Amber / Red Ale
+59,5.25 %,New Holland Brewing Company,American Amber / Red Ale
+60,5.30 %,Deschutes Brewery,American Amber / Red Ale
+61,5.50 %,Dark Horse Brewing Company,American Amber / Red Ale
+62,5.70 %,Red Brick Brewing Company,American Amber / Red Ale
+63,5.00 %,Widmer Brothers Brewing Company,American Amber / Red Ale
+64,5.90 %,Thirsty Dog Brewing Company,American Amber / Red Ale
+65,8.00 %,Finch 's Beer Co. .,American Amber / Red Ale
+66,8.50 %,Sierra Nevada Brewing Co. .,American Amber / Red Ale
+67,7.00 %,Evil Twin Brewing,American Amber / Red Ale
+68,4.80 %,Florida Beer Company,American Amber / Red Ale
+69,5.50 %,Lost Coast Brewery and Cafe,American Amber / Red Ale
+70,5.20 %,Mac and Jack 's Brewery,American Amber / Red Ale
+71,5.00 %,Odell Brewing Company,American Amber / Red Ale
+72,6.50 %,Brewery Vivant,American Amber / Red Ale
+73,7.00 %,Blue Point Brewing Company,American Amber / Red Ale
+74,7.00 %,Flying Fish Brewing Company,American Amber / Red Ale
+75,5.30 %,The Fort Collins Brewery,American Amber / Red Ale
+76,5.20 %,Deschutes Brewery,American Amber / Red Ale
+77,5.40 %,Coors Brewing Company,American Amber / Red Ale
+78,6.80 %,Heretic Brewing Company,American Amber / Red Ale
+79,4.90 %,Natty Greene 's Pub & Brewing Co. .,American Amber / Red Ale
+80,5.50 %,O'Fallon Brewery,American Amber / Red Ale
+81,9.50 %,Two Brothers Brewing Company,American Amber / Red Ale
+82,5.15 %,Ska Brewing Co. .,American Amber / Red Ale
+83,5.20 %,Coastal Extreme Brewing Co. .,American Amber / Red Ale
+84,5.90 %,Redhook Ale Brewery,American Amber / Red Ale
+85,9.00 %,Rogue Ales,American Amber / Red Ale
+86,5.60 %,Elysian Brewing Company,American Amber / Red Ale
+87,5.00 %,Belfast Bay Brewing Co. .,American Amber / Red Ale
+88,5.30 %,Mayflower Brewing Company,American Amber / Red Ale
+89,6.00 %,New Belgium Brewing,American Amber / Red Ale
+90,6.20 %,Stoudts Brewing Co. .,American Amber / Red Ale
+91,5.00 %,Cottrell Brewing Co. .,American Amber / Red Ale
+92,7.00 %,Ninkasi Brewing Company,American Amber / Red Ale
+93,7.90 %,Long Trail Brewing Co. .,American Amber / Red Ale
+94,4.80 %,Central Waters Brewing Co. .,American Amber / Red Ale
+95,5.40 %,Caldera Brewing Company,American Amber / Red Ale
+96,4.50 %,Jackie O 's Pub & Brewery,American Amber / Red Ale
+97,6.00 %,4 Hands Brewing Co. .,American Amber / Red Ale
+98,5.50 %,Flying Fish Brewing Company,American Amber / Red Ale
+99,8.50 %,Alaskan Brewing Co. .,American Amber / Red Ale
+100,5.10 %,Portland Brewing Company,American Amber / Red Ale
+101,5.50 %,Palmetto Brewing Company,American Amber / Red Ale
+102,6.50 %,Steel Toe Brewing,American Amber / Red Ale
+103,6.50 %,Half Acre Beer Company,American Amber / Red Ale
+104,6.50 %,Marble Brewery,American Amber / Red Ale
+105,5.20 %,The Fort Collins Brewery,American Amber / Red Ale
+106,7.20 %,Napa Smith Brewery,American Amber / Red Ale
+107,5.60 %,Coors Brewing Company,American Amber / Red Ale
+108,6.60 %,Three Heads Brewing,American Amber / Red Ale
+109,8.80 %,Revolution Brewing Company,American Amber / Red Ale
+110,7.00 %,Peak Organic Brewing Company,American Amber / Red Ale
+111,4.95 %,Pizza Port Solana Beach,American Amber / Red Ale
+112,-,Central Waters Brewing Co. .,American Amber / Red Ale
+113,5.00 %,Alexander Keith 's,American Amber / Red Ale
+114,4.50 %,River Horse Brewing Co. .,American Amber / Red Ale
+115,5.25 %,Crazy Mountain Brewing Company,American Amber / Red Ale
+116,5.50 %,Inlet Brewing Co. .,American Amber / Red Ale
+117,4.80 %,World Brews,American Amber / Red Ale
+118,5.70 %,Kirkland Signature / Costco Wholesale Corporation,American Amber / Red Ale
+119,6.00 %,Parallel 49 Brewing Company,American Amber / Red Ale
+120,4.80 %,Rock Art Brewery,American Amber / Red Ale
+121,9.40 %,Fat Head 's Brewery & Saloon,American Amber / Red Ale
+122,4.80 %,Independence Brewing Co. .,American Amber / Red Ale
+123,6.00 %,Port Brewing,American Amber / Red Ale
+124,5.20 %,Spanish Peaks Brewing Co. .,American Amber / Red Ale
+125,9.00 %,Cambridge Brewing Company,American Amber / Red Ale
+126,5.50 %,Steinhaus Brewing Co. .,American Amber / Red Ale
+127,6.10 %,Coop Ale Works,American Amber / Red Ale
+128,5.80 %,Rush River Brewing Company,American Amber / Red Ale
+129,5.20 %,Blitz-Weinhard Brewing Co. .,American Amber / Red Ale
+130,5.20 %,Adirondack Pub & Brewery,American Amber / Red Ale
+131,-,New Holland Brewing Company,American Amber / Red Ale
+132,12.00 %,Clown Shoes,American Amber / Red Ale
+133,5.00 %,North Peak Brewing Company,American Amber / Red Ale
+134,5.30 %,Grand Teton Brewing Co. .,American Amber / Red Ale
+135,5.00 %,Flying Bison Brewing Company,American Amber / Red Ale
+136,8.20 %,Mountain Town Brewing Co. .,American Amber / Red Ale
+137,5.20 %,Wachusett Brewing Company,American Amber / Red Ale
+138,8.60 %,Mad River Brewing Company,American Amber / Red Ale
+139,5.40 %,Lost Nation Brewing,American Amber / Red Ale
+140,8.50 %,Fulton Beer,American Amber / Red Ale
+141,8.30 %,Short 's Brewing Company,American Amber / Red Ale
+142,4.75 %,Finnegans Inc. .,American Amber / Red Ale
+143,5.00 %,Philadelphia Brewing Company,American Amber / Red Ale
+144,9.50 %,Peak Organic Brewing Company,American Amber / Red Ale
+145,4.80 %,Milwaukee Ale House,American Amber / Red Ale
+146,5.50 %,West Sixth Brewing Company,American Amber / Red Ale
+147,6.00 %,MadTree Brewing,American Amber / Red Ale
+148,6.80 %,Thomas Creek Brewery,American Amber / Red Ale
+149,5.50 %,Cape Cod Beer,American Amber / Red Ale
+150,5.60 %,Bissell Brothers Brewing Co. .,American Amber / Red Ale
+151,4.40 %,Sebago Brewing Company,American Amber / Red Ale
+152,9.00 %,Pipeworks Brewing Company,American Amber / Red Ale
+153,5.00 %,AleWerks Brewing Company,American Amber / Red Ale
+154,5.20 %,Sierra Blanca Brewing Company ( Rio Grande ),American Amber / Red Ale
+155,5.80 %,Hopworks Urban Brewery,American Amber / Red Ale
+156,5.70 %,Peak Organic Brewing Company,American Amber / Red Ale
+157,9.50 %,Upland Brewing Company,American Amber / Red Ale
+158,6.10 %,No Label Brewing Company,American Amber / Red Ale
+159,8.20 %,Speakeasy Ales & Lagers,American Amber / Red Ale
+160,6.50 %,Three Heads Brewing,American Amber / Red Ale
+161,5.80 %,Great Lakes Brewing Co. .,American Amber / Red Ale
+162,6.10 %,Laurelwood Public House & Brewery,American Amber / Red Ale
+163,6.50 %,Prism Brewing Company,American Amber / Red Ale
+164,5.90 %,Buffalo Bayou Brewing Co,American Amber / Red Ale
+165,5.20 %,Wynkoop Brewing Company,American Amber / Red Ale
+166,5.20 %,Magic Hat Brewing Company,American Amber / Red Ale
+167,6.00 %,OPA-OPA Steakhouse & Brewery,American Amber / Red Ale
+168,10.20 %,Mission Brewery,American Amber / Red Ale
+169,5.70 %,Boston Beer Company ( Samuel Adams ),American Amber / Red Ale
+170,5.80 %,Full Pint Brewing Company,American Amber / Red Ale
+171,7.70 %,Epic Brewing Company,American Amber / Red Ale
+172,8.00 %,Martin House Brewing Company,American Amber / Red Ale
+173,4.50 %,Tin Roof Brewing Company,American Amber / Red Ale
+174,6.80 %,Thirsty Planet Brewing Company,American Amber / Red Ale
+175,6.70 %,Goose Island Beer Co. .,American Amber / Red Ale
+176,4.90 %,Peak Organic Brewing Company,American Amber / Red Ale
+177,5.80 %,Peace Tree Brewing Co. .,American Amber / Red Ale
+178,8.00 %,Kern River Brewing Company,American Amber / Red Ale
+179,5.10 %,Keweenaw Brewing Company,American Amber / Red Ale
+180,8.25 %,Element Brewing Company,American Amber / Red Ale
+181,5.80 %,Flat 12 Bierwerks,American Amber / Red Ale
+182,9.20 %,O'so Brewing Company & Tap House,American Amber / Red Ale
+183,4.85 %,Boulder Beer / Wilderness Pub,American Amber / Red Ale
+184,8.50 %,Smuttynose Brewing Company,American Amber / Red Ale
+185,4.50 %,Rahr & Sons Brewing Company,American Amber / Red Ale
+186,6.00 %,Flying Dog Brewery,American Amber / Red Ale
+187,6.50 %,Griffin Claw Brewing Company,American Amber / Red Ale
+188,7.30 %,Tree House Brewing Company,American Amber / Red Ale
+189,7.00 %,New Albanian Brewing Company - Pizzeria and Public House,American Amber / Red Ale
+190,7.00 %,Peak Organic Brewing Company,American Amber / Red Ale
+191,5.50 %,Fish Brewing Company / Fishbowl Brewpub,American Amber / Red Ale
+192,5.00 %,Otto 's Pub and Brewery,American Amber / Red Ale
+193,7.00 %,Boneyard Beer Company,American Amber / Red Ale
+194,-,Cigar City Brewing,American Amber / Red Ale
+195,5.50 %,Oaken Barrel Brewing Company,American Amber / Red Ale
+196,5.60 %,Switchback Brewing Company,American Amber / Red Ale
+197,5.00 %,Cigar City Brewing,American Amber / Red Ale
+198,5.50 %,SanTan Brewing Co. .,American Amber / Red Ale
+199,5.00 %,Tree Brewing,American Amber / Red Ale
+200,5.60 %,Rock Bottom Restaurant & Brewery,American Amber / Red Ale
+201,7.20 %,Wicked Weed Brewing,American Amber / Red Ale
+202,5.00 %,Cameron 's Brewing Co. .,American Amber / Red Ale
+203,6.00 %,O'so Brewing Company & Tap House,American Amber / Red Ale
+204,10.20 %,Milwaukee Brewing Company,American Amber / Red Ale
+205,6.00 %,Al 's of Hampden / Pizza Boy Brewing,American Amber / Red Ale
+206,4.50 %,McAuslan Brewing,American Amber / Red Ale
+207,6.00 %,Anderson Valley Brewing Company,American Amber / Red Ale
+208,5.20 %,Sackets Harbor Brewing Co. .,American Amber / Red Ale
+209,5.00 %,Amsterdam Brewing Company,American Amber / Red Ale
+210,5.40 %,14th Star Brewing Co. .,American Amber / Red Ale
+211,5.80 %,Right Brain Brewery,American Amber / Red Ale
+212,7.00 %,Narragansett Brewing Co. .,American Amber / Red Ale
+213,5.40 %,Odin Brewing Company,American Amber / Red Ale
+214,5.10 %,Scuttlebutt Brewing Company,American Amber / Red Ale
+215,5.50 %,Perrin Brewery,American Amber / Red Ale
+216,7.00 %,Smog City Brewing,American Amber / Red Ale
+217,5.70 %,Sprecher Brewing Company,American Amber / Red Ale
+218,5.50 %,Sleeman Breweries Ltd. .,American Amber / Red Ale
+219,5.30 %,Offshore Ale Company,American Amber / Red Ale
+220,5.60 %,Lancaster Brewing Company,American Amber / Red Ale
+221,5.60 %,McNeill 's Brewery,American Amber / Red Ale
+222,8.00 %,Southern Prohibition Brewing,American Amber / Red Ale
+223,8.00 %,Burley Oak Brewery,American Amber / Red Ale
+224,5.60 %,Upland Brewing Company,American Amber / Red Ale
+225,5.00 %,3 Sheeps Brewing,American Amber / Red Ale
+226,8.00 %,Apocalypse Ale Works,American Amber / Red Ale
+227,5.10 %,DuClaw Brewing Company,American Amber / Red Ale
+228,8.50 %,Southern Star Brewing Company,American Amber / Red Ale
+229,8.00 %,Rapscallion,American Amber / Red Ale
+230,4.00 %,Utah Brewers Cooperative,American Amber / Red Ale
+231,6.00 %,SingleCut Beersmiths,American Amber / Red Ale
+232,5.60 %,Kona Brewing Co. .,American Amber / Red Ale
+233,5.00 %,Brasseurs Du Nord Inc. .,American Amber / Red Ale
+234,6.90 %,Ipswich Ale Brewery,American Amber / Red Ale
+235,5.40 %,Big Muddy Brewing,American Amber / Red Ale
+236,6.00 %,Bad Weather Brewing Company,American Amber / Red Ale
+237,5.00 %,Nimbus Brewing Company,American Amber / Red Ale
+238,4.90 %,Cambridge Brewing Company,American Amber / Red Ale
+239,7.50 %,Solemn Oath Brewery,American Amber / Red Ale
+240,4.60 %,Hale 's Ales Brewery & Pub,American Amber / Red Ale
+241,5.00 %,NoDa Brewing Company,American Amber / Red Ale
+242,5.00 %,Lake of Bays Brewing Company,American Amber / Red Ale
+243,7.00 %,Drake 's Brewing Co. .,American Amber / Red Ale
+244,5.00 %,Bristol Brewing Company,American Amber / Red Ale
+245,5.00 %,Thimble Island Brewing Company,American Amber / Red Ale
+246,6.00 %,Big Storm Brewing Company,American Amber / Red Ale
+247,5.80 %,Ale Industries,American Amber / Red Ale
+248,4.70 %,Grand River Brewing,American Amber / Red Ale
+249,5.20 %,Fire Island Beer Company,American Amber / Red Ale
+250,5.60 %,Tighthead Brewing Company,American Amber / Red Ale
+251,6.00 %,Silver City Brewing Co. .,American Amber / Red Ale
+252,5.40 %,Baird Brewing Company / Fishmarket Taproom,American Amber / Red Ale
+253,5.80 %,Pizza Port Solana Beach,American Amber / Red Ale
+254,8.00 %,Knee Deep Brewing Company,American Amber / Red Ale
+255,9.00 %,Rushing Duck Brewing Company,American Amber / Red Ale
+256,8.50 %,Wicked Weed Brewing,American Amber / Red Ale
+257,5.00 %,Back East Brewing Company,American Amber / Red Ale
+258,7.50 %,Lucid Brewing,American Amber / Red Ale
+259,5.30 %,Upstate Brewing Company,American Amber / Red Ale
+260,-,Flossmoor Station Restaurant & Brewery,American Amber / Red Ale
+261,4.80 %,Milwaukee Brewing Company,American Amber / Red Ale
+262,-,Rogue Ales,American Amber / Red Ale
+263,5.40 %,Grand Canyon Brewing Company,American Amber / Red Ale
+264,5.30 %,El Toro Brewing Co. .,American Amber / Red Ale
+265,6.60 %,ReaperAle,American Amber / Red Ale
+266,5.60 %,Karben4 Brewing,American Amber / Red Ale
+267,8.20 %,Grand Teton Brewing Co. .,American Amber / Red Ale
+268,5.60 %,Ruhstaller,American Amber / Red Ale
+269,5.50 %,O'Connor Brewing Co. .,American Amber / Red Ale
+270,7.00 %,Ballast Point Brewing Company,American Amber / Red Ale
+271,4.50 %,Mammoth Brewing Company,American Amber / Red Ale
+272,5.00 %,COAST Brewing Company,American Amber / Red Ale
+273,5.75 %,Utah Brewers Cooperative,American Amber / Red Ale
+274,9.00 %,Greenbush Brewing Company,American Amber / Red Ale
+275,5.60 %,Matt Brewing Company / Saranac Brewery,American Amber / Red Ale
+276,5.70 %,McNeill 's Brewery,American Amber / Red Ale
+277,5.50 %,Oak Creek Brewery and Grill,American Amber / Red Ale
+278,-,Dark Horse Brewing Company,American Amber / Red Ale
+279,6.00 %,De Struise Brouwers,American Amber / Red Ale
+280,5.40 %,Half Pints Brewing Company,American Amber / Red Ale
+281,9.50 %,Solemn Oath Brewery,American Amber / Red Ale
+282,6.70 %,Frankenmuth Brewery,American Amber / Red Ale
+283,5.50 %,Empire Brewing Company,American Amber / Red Ale
+284,6.00 %,Great Lakes Brewing Co. .,American Amber / Red Ale
+285,8.20 %,Lavery Brewing Company,American Amber / Red Ale
+286,5.90 %,Evolution Craft Brewing Company,American Amber / Red Ale
+287,4.60 %,Flying Monkey Brewing Company,American Amber / Red Ale
+288,5.20 %,Boston Beer Works - Canal Street,American Amber / Red Ale
+289,6.50 %,Marshall Brewing Company,American Amber / Red Ale
+290,-,Weston Brewing Company & O'Malley 's Pub,American Amber / Red Ale
+291,5.40 %,Oakshire Brewing,American Amber / Red Ale
+292,6.00 %,Dock Street Brewery & Restaurant,American Amber / Red Ale
+293,4.90 %,Arbor Brewing Company,American Amber / Red Ale
+294,6.00 %,Crazy Mountain Brewing Company,American Amber / Red Ale
+295,7.50 %,Figure 8 Brewing,American Amber / Red Ale
+296,5.60 %,Charleville Vineyard Microbrewery,American Amber / Red Ale
+297,6.20 %,Cigar City Brewing,American Amber / Red Ale
+298,5.50 %,Creature Comforts,American Amber / Red Ale
+299,4.40 %,Brouwerij De Molen,American Amber / Red Ale
+300,4.50 %,World Brews,American Amber / Red Ale
+301,6.00 %,Cellar Rats Brewery,American Amber / Red Ale
+302,6.80 %,Blue & Gray Brewing Co. .,American Amber / Red Ale
+303,7.00 %,8 Wired Brewing Co. .,American Amber / Red Ale
+304,5.30 %,Twisted Pine Brewing Company,American Amber / Red Ale
+305,6.00 %,Rhinegeist Brewery,American Amber / Red Ale
+306,7.30 %,BJ 's Restaurant & Brewhouse,American Amber / Red Ale
+307,5.50 %,Yukon Brewing Company,American Amber / Red Ale
+308,5.20 %,Kern River Brewing Company,American Amber / Red Ale
+309,6.10 %,Fat Bottom Brewing,American Amber / Red Ale
+310,5.20 %,Lighthouse Brewing Company,American Amber / Red Ale
+311,8.30 %,Swamp Head Brewery,American Amber / Red Ale
+312,6.00 %,Freetail Brewing Company,American Amber / Red Ale
+313,4.50 %,World Brews,American Amber / Red Ale
+314,-,Rogue Ales,American Amber / Red Ale
+315,5.50 %,Jailhouse Brewing Company,American Amber / Red Ale
+316,4.90 %,Coors Brewing Company,American Amber / Red Ale
+317,4.80 %,Cricket Hill Brewing Co. .,American Amber / Red Ale
+318,6.00 %,Solemn Oath Brewery,American Amber / Red Ale
+319,6.10 %,Hoppy Brewing Co. .,American Amber / Red Ale
+320,4.60 %,Garrison Brewing Company,American Amber / Red Ale
+321,5.80 %,Siren Craft Brew,American Amber / Red Ale
+322,5.30 %,The Pike Brewing Company,American Amber / Red Ale
+323,5.30 %,Moosehead Breweries Ltd. .,American Amber / Red Ale
+324,5.20 %,Mountain State Brewing Co. .,American Amber / Red Ale
+325,5.50 %,The Brew Kettle Taproom & Smokehouse / Production Works,American Amber / Red Ale
+326,5.50 %,Los Muertos Brewing,American Amber / Red Ale
+327,6.50 %,Amarcord Birra Artigianale Italiana,American Amber / Red Ale
+328,8.00 %,Right Brain Brewery,American Amber / Red Ale
+329,7.00 %,Iron Horse Brewery,American Amber / Red Ale
+330,6.20 %,Lompoc Tavern,American Amber / Red Ale
+331,6.70 %,Goose Island Beer Co. .,American Amber / Red Ale
+332,7.10 %,Bootlegger 's Brewery,American Amber / Red Ale
+333,5.50 %,Pump House Brewery,American Amber / Red Ale
+334,7.50 %,Bold City Brewery,American Amber / Red Ale
+335,5.80 %,Mountain Town Brewing Co. .,American Amber / Red Ale
+336,5.00 %,Lake Placid Craft Brewing Company,American Amber / Red Ale
+337,5.60 %,Hoppy Brewing Co. .,American Amber / Red Ale
+338,6.50 %,Barrier Brewing Company,American Amber / Red Ale
+339,5.60 %,Liquid Hero Brewery,American Amber / Red Ale
+340,5.50 %,Minhas Craft Brewery,American Amber / Red Ale
+341,6.00 %,Goose Island Beer Co. .,American Amber / Red Ale
+342,-,Ghost River Brewing,American Amber / Red Ale
+343,5.60 %,The Fort Collins Brewery,American Amber / Red Ale
+344,5.50 %,Gray 's Brewing Company,American Amber / Red Ale
+345,5.40 %,Pensacola Bay Brewery,American Amber / Red Ale
+346,8.30 %,Spring House Brewing Company,American Amber / Red Ale
+347,4.00 %,Meantime Brewing Company Limited,American Amber / Red Ale
+348,5.40 %,Carolina Brewery,American Amber / Red Ale
+349,6.00 %,Flat 12 Bierwerks,American Amber / Red Ale
+350,5.60 %,Elysian Brewing Company,American Amber / Red Ale
+351,5.30 %,Triton Brewing Company,American Amber / Red Ale
+352,6.70 %,10 Barrel Brewing Co. .,American Amber / Red Ale
+353,5.50 %,Maritime Pacific Brewing Company,American Amber / Red Ale
+354,9.20 %,Eel River Brewing Co. .,American Amber / Red Ale
+355,6.00 %,Uehara Shuzou Co. Ltd. / Echigo Beer Pub,American Amber / Red Ale
+356,8.00 %,Elysian Brewing Company,American Amber / Red Ale
+357,12.00 %,Firestone Walker Brewing Co. .,American Amber / Red Ale
+358,5.80 %,Jekyll Brewing,American Amber / Red Ale
+359,4.50 %,World Brews,American Amber / Red Ale
+360,5.00 %,DuClaw Brewing Company,American Amber / Red Ale
+361,7.00 %,Blue Pants Brewery,American Amber / Red Ale
+362,6.50 %,Latitude 42 Brewing Company,American Amber / Red Ale
+363,5.38 %,Backcountry Brewery,American Amber / Red Ale
+364,6.50 %,Lake Superior Brewing Company,American Amber / Red Ale
+365,7.20 %,Cigar City Brewing,American Amber / Red Ale
+366,6.20 %,Alpine Beer Company,American Amber / Red Ale
+367,5.20 %,Hawai'i Nui Brewing / Mehana Brewing Company,American Amber / Red Ale
+368,5.50 %,Triple C Brewing Co. .,American Amber / Red Ale
+369,5.10 %,Strand Brewing Co. .,American Amber / Red Ale
+370,5.70 %,Rock Bottom Restaurant & Brewery,American Amber / Red Ale
+371,5.00 %,South Street Brewery,American Amber / Red Ale
+372,-,Dead Armadillo Craft Brewing,American Amber / Red Ale
+373,5.10 %,Parish Brewing Company,American Amber / Red Ale
+374,4.70 %,Big River Grille & Brewing Works,American Amber / Red Ale
+375,5.50 %,Beer Valley Brewing Co. .,American Amber / Red Ale
+376,7.50 %,BottleTree Beer Co. .,American Amber / Red Ale
+377,5.50 %,Madison River Brewing Company,American Amber / Red Ale
+378,5.80 %,Smartmouth Brewing Company,American Amber / Red Ale
+379,5.50 %,Cerveceria Mexicana S.A. De C.V.,American Amber / Red Ale
+380,5.80 %,Mankato Brewery,American Amber / Red Ale
+381,7.50 %,Lickinghole Creek Craft Brewery,American Amber / Red Ale
+382,8.50 %,Laurelwood Public House & Brewery,American Amber / Red Ale
+383,5.50 %,Devil 's Canyon Brewing Company,American Amber / Red Ale
+384,5.20 %,Vancouver Island Brewery,American Amber / Red Ale
+385,5.70 %,New Orleans Lager & Ale Brewing Company ( NOLA ),American Amber / Red Ale
+386,5.20 %,Brasseurs R.J.,American Amber / Red Ale
+387,6.60 %,603 Brewery,American Amber / Red Ale
+388,5.50 %,Cannery Brewing Company,American Amber / Red Ale
+389,6.00 %,North Country Brewing,American Amber / Red Ale
+390,5.50 %,Steamworks Brewing Co. .,American Amber / Red Ale
+391,7.50 %,River Horse Brewing Co. .,American Amber / Red Ale
+392,5.20 %,Henniker Brewing Co. .,American Amber / Red Ale
+393,5.40 %,Bozeman Brewing Company,American Amber / Red Ale
+394,6.00 %,Fountain Square Brewing Co. .,American Amber / Red Ale
+395,5.00 %,Choc Beer Co. / Pete 's Place,American Amber / Red Ale
+396,8.60 %,Real Ale Brewing Company,American Amber / Red Ale
+397,7.50 %,Matt Brewing Company / Saranac Brewery,American Amber / Red Ale
+398,5.00 %,Central City Brewers + Distillers,American Amber / Red Ale
+399,9.00 %,Mispillion River Brewing,American Amber / Red Ale
+400,5.00 %,Old Credit Brewing Co. .,American Amber / Red Ale
+401,5.50 %,Fish Brewing Company / Fishbowl Brewpub,American Amber / Red Ale
+402,6.30 %,Spanish Peaks Brewing Co. .,American Amber / Red Ale
+403,7.50 %,Fish Brewing Company / Fishbowl Brewpub,American Amber / Red Ale
+404,8.00 %,Austin Beerworks,American Amber / Red Ale
+405,5.40 %,Brew Hub,American Amber / Red Ale
+406,10.00 %,Ballast Point Brewing Company,American Amber / Red Ale
+407,8.00 %,Trillium Brewing Company,American Amber / Red Ale
+408,5.50 %,Grizzly Peak Brewing Company,American Amber / Red Ale
+409,4.80 %,Big Bay Brewing Co. .,American Amber / Red Ale
+410,9.20 %,Columbus Brewing Company,American Amber / Red Ale
+411,5.50 %,West Sixth Brewing Company,American Amber / Red Ale
+412,5.60 %,Denali Brewing Company / Twister Creek Restaurant,American Amber / Red Ale
+413,6.50 %,Ritual Brewing Co. .,American Amber / Red Ale
+414,-,Prescott Brewing Company,American Amber / Red Ale
+415,4.70 %,Cold Spring Brewing Co. .,American Amber / Red Ale
+416,4.90 %,Boulder Beer / Wilderness Pub,American Amber / Red Ale
+417,5.00 %,The Brew Kettle Taproom & Smokehouse / Production Works,American Amber / Red Ale
+418,8.00 %,Grado Plato,American Amber / Red Ale
+419,8.30 %,Elevation Beer Co. .,American Amber / Red Ale
+420,7.00 %,New Albanian Brewing Company - Pizzeria and Public House,American Amber / Red Ale
+421,6.20 %,Green Man Brewery,American Amber / Red Ale
+422,8.00 %,Lighthouse Brewing Company,American Amber / Red Ale
+423,6.00 %,Green 's Gluten Free Beers,American Amber / Red Ale
+424,5.00 %,Quidi Vidi Brewing Company,American Amber / Red Ale
+425,5.00 %,The Gahan House,American Amber / Red Ale
+426,7.60 %,Aztec Brewing Company,American Amber / Red Ale
+427,7.80 %,Pinglehead Brewing Co. / Brewer 's Pizza,American Amber / Red Ale
+428,7.50 %,Atwater Brewery,American Amber / Red Ale
+429,4.50 %,Picaroons Brewing Co. .,American Amber / Red Ale
+430,5.00 %,Jailbreak Brewing Company,American Amber / Red Ale
+431,4.80 %,Epic Brewing Company,American Amber / Red Ale
+432,5.70 %,Pisgah Brewing Co. .,American Amber / Red Ale
+433,6.50 %,Portsmouth Brewery,American Amber / Red Ale
+434,5.90 %,Lagerheads Smokehouse & Brewing Co. .,American Amber / Red Ale
+435,5.50 %,Utah Brewers Cooperative,American Amber / Red Ale
+436,6.00 %,Blue Frog Grog & Grill,American Amber / Red Ale
+437,5.50 %,Iron Springs Pub & Brewery,American Amber / Red Ale
+438,6.00 %,Bloomington Brewing Company,American Amber / Red Ale
+439,6.80 %,Cascade Lakes Brewing Co. .,American Amber / Red Ale
+440,6.00 %,Stoudts Brewing Co. .,American Amber / Red Ale
+441,5.50 %,Beach Haus Brewery,American Amber / Red Ale
+442,4.00 %,Utah Brewers Cooperative,American Amber / Red Ale
+443,4.20 %,Hockley Valley Brewing Co. .,American Amber / Red Ale
+444,-,Trailhead Brewing Co,American Amber / Red Ale
+445,7.10 %,603 Brewery,American Amber / Red Ale
+446,-,Eugene City Brewery,American Amber / Red Ale
+447,5.00 %,Boston Beer Works - Canal Street,American Amber / Red Ale
+448,7.60 %,21st Amendment Brewery,American Amber / Red Ale
+449,5.00 %,Ruby Mountain Brewing,American Amber / Red Ale
+450,5.20 %,Tractor Brewing Co. .,American Amber / Red Ale
+451,5.00 %,Kiuchi Brewery,American Amber / Red Ale
+452,5.00 %,Roscoe Beer Co. .,American Amber / Red Ale
+453,8.80 %,Anderson Valley Brewing Company,American Amber / Red Ale
+454,-,Belmont Brewing Company,American Amber / Red Ale
+455,5.70 %,Beachwood BBQ & Brewing,American Amber / Red Ale
+456,6.80 %,Twisted Manzanita Ales,American Amber / Red Ale
+457,-,Springfield Brewing Company,American Amber / Red Ale
+458,5.50 %,Cumberland Brews,American Amber / Red Ale
+459,5.20 %,Branchline Brewing Co. .,American Amber / Red Ale
+460,6.50 %,Track 7 Brewing Co. .,American Amber / Red Ale
+461,5.10 %,Stillmank Beer Company,American Amber / Red Ale
+462,6.00 %,Boneyard Beer Company,American Amber / Red Ale
+463,5.50 %,Mount Shasta Brewing,American Amber / Red Ale
+464,8.00 %,Rivertowne Brewing,American Amber / Red Ale
+465,6.70 %,Sloop Brewing,American Amber / Red Ale
+466,5.70 %,Black Diamond Brewing Co. .,American Amber / Red Ale
+467,5.25 %,Upland Brewing Company,American Amber / Red Ale
+468,6.50 %,West O Beer,American Amber / Red Ale
+469,6.00 %,Jailhouse Brewing Company,American Amber / Red Ale
+470,5.00 %,Scuttlebutt Brewing Company,American Amber / Red Ale
+471,5.50 %,Tap It Brewing Co. .,American Amber / Red Ale
+472,5.50 %,Minhas Craft Brewery,American Amber / Red Ale
+473,5.60 %,Lengthwise Brewing Company,American Amber / Red Ale
+474,6.90 %,Rubicon Brewing Company,American Amber / Red Ale
+475,6.30 %,Ranger Creek Brewing & Distilling,American Amber / Red Ale
+476,-,Blackhorse Pub & Brewery,American Amber / Red Ale
+477,4.90 %,The Hartford Better Beer Co. .,American Amber / Red Ale
+478,5.50 %,Oak Creek Brewing Co. .,American Amber / Red Ale
+479,5.00 %,Fish Brewing Company / Fishbowl Brewpub,American Amber / Red Ale
+480,5.65 %,Yalobusha Brewing Company,American Amber / Red Ale
+481,8.10 %,Rivertowne Pourhouse,American Amber / Red Ale
+482,5.30 %,Brewery Terra Firma,American Amber / Red Ale
+483,4.60 %,Rohrbach Brewing Company ( Brewpub ),American Amber / Red Ale
+484,5.00 %,Flying Monkeys Craft Brewery,American Amber / Red Ale
+485,5.50 %,Naparbier Sdad . Coop .,American Amber / Red Ale
+486,8.00 %,Worthy Brewing Co. .,American Amber / Red Ale
+487,7.50 %,Howe Sound Inn & Brewing Company,American Amber / Red Ale
+488,5.30 %,Schmohz Brewing Company,American Amber / Red Ale
+489,5.50 %,Sapporo Breweries Ltd. .,American Amber / Red Ale
+490,5.50 %,961 Beer,American Amber / Red Ale
+491,13.00 %,West Sixth Brewing Company,American Amber / Red Ale
+492,8.20 %,Phillips Brewing Company,American Amber / Red Ale
+493,6.20 %,Berghoff Brewery,American Amber / Red Ale
+494,-,Independence Brewing Co. .,American Amber / Red Ale
+495,8.80 %,Urban Legend Brewing Company,American Amber / Red Ale
+496,5.40 %,Mountain Goat Beer Pty Ltd,American Amber / Red Ale
+497,5.20 %,Liberty Street Brewing Company,American Amber / Red Ale
+498,6.20 %,Radiant Pig Craft Beers,American Amber / Red Ale
+499,3.40 %,Banner Beer Company,American Amber / Red Ale
+500,5.50 %,Horseheads Brewing Inc. .,American Amber / Red Ale
+501,7.50 %,Great Northern Brewing Co. / Black Star Draught House,American Amber / Red Ale
+502,5.60 %,Emmett 's Brewing Company,American Amber / Red Ale
+503,5.00 %,Cigar City Brewing,American Amber / Red Ale
+504,5.50 %,High Noon Saloon & Brewery,American Amber / Red Ale
+505,6.70 %,One Trick Pony,American Amber / Red Ale
+506,5.50 %,Fire Station 5 Brewing Company,American Amber / Red Ale
+507,5.80 %,RJ Rockers Brewing Company,American Amber / Red Ale
+508,10.00 %,Santa Clara Valley Brewing,American Amber / Red Ale
+509,5.00 %,Bolero Snort Brewery,American Amber / Red Ale
+510,7.00 %,Cortland Beer Company,American Amber / Red Ale
+511,4.80 %,Half Moon Bay Brewing Company,American Amber / Red Ale
+512,5.45 %,Hawai'i Nui Brewing / Mehana Brewing Company,American Amber / Red Ale
+513,5.80 %,Ram Restaurant & Brewery,American Amber / Red Ale
+514,7.00 %,Ruckus Brewing,American Amber / Red Ale
+515,5.30 %,Sun King Brewing Company,American Amber / Red Ale
+516,7.00 %,Omnipollo,American Amber / Red Ale
+517,5.20 %,Two Beers Brewing Co. .,American Amber / Red Ale
+518,4.50 %,BJ 's Chicago Pizza & Brewery Inc. .,American Amber / Red Ale
+519,7.18 %,Black Shirt Brewing Co. .,American Amber / Red Ale
+520,4.00 %,Utah Brewers Cooperative,American Amber / Red Ale
+521,-,Thirsty Pagan Brewing,American Amber / Red Ale
+522,8.00 %,Hop Valley Brewing Company,American Amber / Red Ale
+523,-,Anheuser-Busch,American Amber / Red Ale
+524,5.00 %,Costa Rica 's Craft Brewing Co. .,American Amber / Red Ale
+525,5.60 %,Central City Brewers + Distillers,American Amber / Red Ale
+526,-,Heavy Seas Beer,American Amber / Red Ale
+527,7.00 %,Hi-Wire Brewing,American Amber / Red Ale
+528,6.50 %,Georgetown Brewing Company,American Amber / Red Ale
+529,4.00 %,Moab Brewery,American Amber / Red Ale
+530,6.50 %,Fordham Brewing Company,American Amber / Red Ale
+531,5.70 %,Northshire Brewery,American Amber / Red Ale
+532,5.50 %,Bridge Brew Works LLC,American Amber / Red Ale
+533,5.50 %,Piney River Brewing Co. .,American Amber / Red Ale
+534,7.10 %,Pikes Peak Brewing Company,American Amber / Red Ale
+535,5.60 %,Mickey Finn 's Brewery,American Amber / Red Ale
+536,9.20 %,Kane Brewing Company,American Amber / Red Ale
+537,5.70 %,Orlando Brewing Partners,American Amber / Red Ale
+538,4.00 %,Snoqualmie Falls Brewing Company & Taproom,American Amber / Red Ale
+539,5.25 %,Cahaba Brewing Company,American Amber / Red Ale
+540,5.00 %,Red Brick Station,American Amber / Red Ale
+541,5.00 %,Southend Brewery & Smokehouse,American Amber / Red Ale
+542,8.00 %,Lagerheads Smokehouse & Brewing Co. .,American Amber / Red Ale
+543,-,Black Husky Brewing,American Amber / Red Ale
+544,5.50 %,Eastern Shore Brewing,American Amber / Red Ale
+545,5.00 %,Ezo Beer KK,American Amber / Red Ale
+546,6.10 %,Broad Brook Brewing Company,American Amber / Red Ale
+547,5.00 %,August Schell Brewing Company,American Amber / Red Ale
+548,5.30 %,River Rat Brewery,American Amber / Red Ale
+549,5.42 %,A1A Aleworks,American Amber / Red Ale
+550,4.50 %,Jacob Leinenkugel Brewing Company,American Amber / Red Ale
+551,-,Phantom Canyon Brewing Company,American Amber / Red Ale
+552,-,Portsmouth Brewing Co. / Mault 's Brewpub,American Amber / Red Ale
+553,5.30 %,Round Barn Brewery,American Amber / Red Ale
+554,5.40 %,Marin Brewing Company,American Amber / Red Ale
+555,7.30 %,Lonerider Brewing Company,American Amber / Red Ale
+556,5.50 %,Granville Island Brewery,American Amber / Red Ale
+557,5.30 %,Midland Brewing Company,American Amber / Red Ale
+558,5.50 %,The BrÃ 1/4 Rm . at BAR,American Amber / Red Ale
+559,6.50 %,North End Tavern & Brewery,American Amber / Red Ale
+560,6.30 %,Southern Oregon Brewing Company,American Amber / Red Ale
+561,4.80 %,Broadhead Brewing Company,American Amber / Red Ale
+562,5.00 %,Atwater Brewery,American Amber / Red Ale
+563,5.40 %,Capitol City Brewing,American Amber / Red Ale
+564,4.50 %,Black Bear Brewery,American Amber / Red Ale
+565,6.00 %,Mayday Brewery,American Amber / Red Ale
+566,4.62 %,Galena Brewing Company,American Amber / Red Ale
+567,5.40 %,Golden Valley Brewery and Pub,American Amber / Red Ale
+568,5.10 %,Ezo Beer KK,American Amber / Red Ale
+569,5.00 %,Wisconsin Dells Brewing Co. .,American Amber / Red Ale
+570,-,Franconia Brewing Company,American Amber / Red Ale
+571,5.60 %,Half Full Brewery,American Amber / Red Ale
+572,5.20 %,Tied House Cafe & Brewery,American Amber / Red Ale
+573,4.60 %,Homestead Beer Co. .,American Amber / Red Ale
+574,4.70 %,Mountain Sun Pub & Brewery,American Amber / Red Ale
+575,-,Mt. Carmel Brewing Company,American Amber / Red Ale
+576,5.50 %,Sleeman Breweries Ltd. .,American Amber / Red Ale
+577,5.20 %,Mammoth Brewing Company,American Amber / Red Ale
+578,-,Fiddler 's Green Brewing Company,American Amber / Red Ale
+579,9.10 %,DESTIHL Brewery,American Amber / Red Ale
+580,5.80 %,The Fin City Brewing Co. .,American Amber / Red Ale
+581,5.25 %,Public Works Ale,American Amber / Red Ale
+582,5.40 %,Horny Goat Brewing Co. .,American Amber / Red Ale
+583,5.60 %,New Republic Brewing Company,American Amber / Red Ale
+584,5.70 %,RoughTail Brewing Co. .,American Amber / Red Ale
+585,5.74 %,Coalition Brewing Co. .,American Amber / Red Ale
+586,6.00 %,Bison Brewing,American Amber / Red Ale
+587,6.80 %,Pig Minds Brewing Co. .,American Amber / Red Ale
+588,5.30 %,Day Block Brewing Company,American Amber / Red Ale
+589,-,Grand Lake Brewing Company,American Amber / Red Ale
+590,4.70 %,Pizza Port Solana Beach,American Amber / Red Ale
+591,-,Mackinaw Brewing Company,American Amber / Red Ale
+592,9.40 %,Yellowhammer Brewing,American Amber / Red Ale
+593,5.60 %,Caldera Brewing Company,American Amber / Red Ale
+594,5.80 %,Kuhnhenn Brewing Company,American Amber / Red Ale
+595,-,North by Northwest Restaurant & Brewery,American Amber / Red Ale
+596,6.00 %,Empyrean Brewing Company,American Amber / Red Ale
+597,-,Estes Park Brewery,American Amber / Red Ale
+598,4.10 %,Firehouse Brewing Co. .,American Amber / Red Ale
+599,-,Ei8ht Ball Brewing,American Amber / Red Ale
+600,-,Long Valley Pub & Brewery,American Amber / Red Ale
+601,5.00 %,Big Rock Brewery,American Amber / Red Ale
+602,6.00 %,Lawson 's Finest Liquids,American Amber / Red Ale
+603,5.50 %,Keuka Brewing Company,American Amber / Red Ale
+604,9.00 %,Cerveza Artesanal BarbaRoja,American Amber / Red Ale
+605,7.10 %,Zipline Brewing Co,American Amber / Red Ale
+606,5.80 %,Olde Main Brewing Co. & Restaurant,American Amber / Red Ale
+607,8.20 %,Cricket Hill Brewing Co. .,American Amber / Red Ale
+608,5.60 %,Tamarack Brewing Company,American Amber / Red Ale
+609,5.00 %,Rockyard Brewing,American Amber / Red Ale
+610,6.50 %,Lucid Brewing,American Amber / Red Ale
+611,5.60 %,Depot Street Brewing,American Amber / Red Ale
+612,5.00 %,Mt. Begbie Brewing Co. .,American Amber / Red Ale
+613,9.10 %,Beachwood BBQ & Brewing,American Amber / Red Ale
+614,4.40 %,Railway City Brewing Company,American Amber / Red Ale
+615,5.00 %,Moosehead Breweries Ltd. .,American Amber / Red Ale
+616,6.70 %,El Segundo Brewing Company,American Amber / Red Ale
+617,3.50 %,TRVE Brewing Co. .,American Amber / Red Ale
+618,6.00 %,Arizona Wilderness Brewing Co,American Amber / Red Ale
+619,6.20 %,Tenaya Creek Brewery,American Amber / Red Ale
+620,5.40 %,Devils Backbone Brewing Company,American Amber / Red Ale
+621,6.00 %,Bull & Bush Brewery,American Amber / Red Ale
+622,6.20 %,Four Corners Brewing Company,American Amber / Red Ale
+623,7.70 %,The LAB ( Lexington Avenue Brewery ),American Amber / Red Ale
+624,6.00 %,Naked Dove Brewing Company,American Amber / Red Ale
+625,4.80 %,Coney Island Brewing Company,American Amber / Red Ale
+626,6.20 %,Micro-brasserie Saint-Arnould,American Amber / Red Ale
+627,5.00 %,Brasseurs Sans Gluten,American Amber / Red Ale
+628,7.00 %,Jackie O 's Pub & Brewery,American Amber / Red Ale
+629,6.40 %,St. Francis Brewery & Restaurant,American Amber / Red Ale
+630,6.70 %,Blue Point Brewing Company,American Amber / Red Ale
+631,7.50 %,Birra Tenute Collesi SRL,American Amber / Red Ale
+632,5.40 %,Moat Mountain Smoke House & Brewing Co. .,American Amber / Red Ale
+633,6.50 %,Brasserie De Brunehaut,American Amber / Red Ale
+634,5.50 %,Hoptown Brewing Company,American Amber / Red Ale
+635,5.70 %,Ice Harbor Brewing Company,American Amber / Red Ale
+636,5.80 %,Original Ittinger KlosterbrÃ $ u,American Amber / Red Ale
+637,5.00 %,Geneva Lake Brewing Company,American Amber / Red Ale
+638,6.00 %,Ellis Island Casino & Brewery,American Amber / Red Ale
+639,7.07 %,Odd13 Brewing,American Amber / Red Ale
+640,5.20 %,CB Craft Brewers,American Amber / Red Ale
+641,5.70 %,Caldera Brewing Company,American Amber / Red Ale
+642,4.80 %,Sun Up Brewing Co. .,American Amber / Red Ale
+643,4.50 %,BrewDog,American Amber / Red Ale
+644,-,World Brews,American Amber / Red Ale
+645,6.00 %,Strawn Brewing Company,American Amber / Red Ale
+646,8.50 %,Madhouse Brewing Company,American Amber / Red Ale
+647,8.70 %,Iron Hill Brewery & Restaurant,American Amber / Red Ale
+648,4.80 %,Silver Gulch Brewing and Bottling Co. .,American Amber / Red Ale
+649,4.50 %,The Able Ebenezer Brewing Company,American Amber / Red Ale
+650,7.60 %,Southbound Brewing Company,American Amber / Red Ale
+651,6.30 %,Firefly Hollow Brewing Co. .,American Amber / Red Ale
+652,8.24 %,Bitter Root Brewing,American Amber / Red Ale
+653,9.00 %,Monday Night Brewing,American Amber / Red Ale
+654,5.00 %,Wormtown Brewery,American Amber / Red Ale
+655,9.50 %,Pizza Port Solana Beach,American Amber / Red Ale
+656,7.20 %,Noble Ale Works,American Amber / Red Ale
+657,4.00 %,Zion Canyon Brewing Company,American Amber / Red Ale
+658,4.50 %,Granville Island Brewery,American Amber / Red Ale
+659,5.20 %,Thunderhead Brewing Company,American Amber / Red Ale
+660,5.50 %,Hopothesis Beer Company,American Amber / Red Ale
+661,7.80 %,Ale Asylum,American Amber / Red Ale
+662,5.50 %,NÃ ¸ rrebro Bryghus,American Amber / Red Ale
+663,9.00 %,Flying Fish Brewing Company,American Amber / Red Ale
+664,-,Maumee Bay Brewing Company,American Amber / Red Ale
+665,6.00 %,Kuhnhenn Brewing Company,American Amber / Red Ale
+666,5.00 %,Brouwerij Martens NV,American Amber / Red Ale
+667,10.30 %,Breakside Brewery,American Amber / Red Ale
+668,4.60 %,Two Birds Brewing,American Amber / Red Ale
+669,5.00 %,Okanagan Spring Brewery,American Amber / Red Ale
+670,5.90 %,Fort George Brewery + Public House,American Amber / Red Ale
+671,4.70 %,Beer Here,American Amber / Red Ale
+672,5.50 %,Mudshark Brewing Co. .,American Amber / Red Ale
+673,6.00 %,Sprecher Brewing Company,American Amber / Red Ale
+674,-,Boundary Bay Brewery & Bistro,American Amber / Red Ale
+675,7.00 %,Battered Boar Brewing Company,American Amber / Red Ale
+676,10.80 %,Eagle Rock Brewery,American Amber / Red Ale
+677,5.20 %,Four Sons Brewing,American Amber / Red Ale
+678,8.60 %,The Actual Brewing Co. .,American Amber / Red Ale
+679,7.30 %,Tustin Brewing Company,American Amber / Red Ale
+680,4.50 %,Chicago Brewing Company,American Amber / Red Ale
+681,5.80 %,Ram Restaurant & Brewery,American Amber / Red Ale
+682,5.25 %,Odd Side Ales,American Amber / Red Ale
+683,5.40 %,Ontario Beer Company,American Amber / Red Ale
+684,5.00 %,Denen Plaza Kawaba Brewery,American Amber / Red Ale
+685,-,Pair O ' Dice Brewing Company,American Amber / Red Ale
+686,6.40 %,Weeping Radish Eco Farm & Brewery,American Amber / Red Ale
+687,6.00 %,Back Bay Brewing Co. .,American Amber / Red Ale
+688,5.00 %,Crooked Ladder Brewing Company,American Amber / Red Ale
+689,5.50 %,Infamous Brewing Company,American Amber / Red Ale
+690,5.50 %,Cerveceria Mexicana S.A. De C.V.,American Amber / Red Ale
+691,5.30 %,DESTIHL Brewery,American Amber / Red Ale
+692,5.30 %,All Saints Brewing Company,American Amber / Red Ale
+693,5.70 %,Barrio Brewing Company,American Amber / Red Ale
+694,6.20 %,Ruhstaller,American Amber / Red Ale
+695,8.00 %,Brew Hub,American Amber / Red Ale
+696,9.00 %,BJ 's Restaurant & Brewhouse,American Amber / Red Ale
+697,7.70 %,Fearless Brewing Company,American Amber / Red Ale
+698,6.00 %,Roy Pitz Brewing Company,American Amber / Red Ale
+699,9.90 %,Black Market Brewing Co. .,American Amber / Red Ale
+700,6.20 %,Les 3 Brasseurs Vieux-MontrÃ © al,American Amber / Red Ale
+701,4.80 %,Circle Brewing Company,American Amber / Red Ale
+702,5.00 %,The Seven Barrel Brewery,American Amber / Red Ale
+703,7.50 %,Rhinegeist Brewery,American Amber / Red Ale
+704,8.20 %,Boston Beer Works - Canal Street,American Amber / Red Ale
+705,5.20 %,Great Adirondack Steak And Seafood Co. .,American Amber / Red Ale
+706,5.00 %,Fernie Brewing Co. .,American Amber / Red Ale
+707,5.40 %,Roosterfish Brewing Co. .,American Amber / Red Ale
+708,-,New South Brewing Co. .,American Amber / Red Ale
+709,5.80 %,Morgantown Brewing Company,American Amber / Red Ale
+710,-,Boston Beer Company ( Samuel Adams ),American Amber / Red Ale
+711,4.90 %,Brewboys,American Amber / Red Ale
+712,4.90 %,Barkerville Brewing Co. .,American Amber / Red Ale
+713,6.10 %,Hop Valley Brewing Company,American Amber / Red Ale
+714,6.30 %,Wit 's End Brewing Company,American Amber / Red Ale
+715,5.50 %,Backwoods Brewing Company,American Amber / Red Ale
+716,5.60 %,Faction Brewing,American Amber / Red Ale
+717,4.50 %,BlueTarp Brewing Co. .,American Amber / Red Ale
+718,6.20 %,Four Corners Brewing Company,American Amber / Red Ale
+719,8.20 %,Voodoo Brewing Company,American Amber / Red Ale
+720,6.50 %,New England Brewing Co. .,American Amber / Red Ale
+721,4.50 %,McCashin 's Brewery,American Amber / Red Ale
+722,5.50 %,Fat Head 's Brewery & Saloon,American Amber / Red Ale
+723,5.00 %,Bluegrass Brewing Co. - East St. Matthew 's,American Amber / Red Ale
+724,5.20 %,Ecliptic Brewing,American Amber / Red Ale
+725,-,Market Cross Pub & Brewery,American Amber / Red Ale
+726,8.90 %,Firefly Hollow Brewing Co. .,American Amber / Red Ale
+727,8.00 %,Temperance Beer Co. .,American Amber / Red Ale
+728,4.70 %,World Brews,American Amber / Red Ale
+729,5.60 %,Beach Chalet Brewery and Restaurant,American Amber / Red Ale
+730,5.00 %,Naked Dove Brewing Company,American Amber / Red Ale
+731,7.10 %,Revolution Brewing Company,American Amber / Red Ale
+732,-,Abita Brewing Co. .,American Amber / Red Ale
+733,5.50 %,Royal Oak Brewery,American Amber / Red Ale
+734,6.00 %,Triple Rock Brewery & Alehouse,American Amber / Red Ale
+735,6.00 %,Altamont Beer Works,American Amber / Red Ale
+736,5.80 %,Petoskey Brewing Company,American Amber / Red Ale
+737,6.80 %,Freetail Brewing Company,American Amber / Red Ale
+738,5.00 %,McAuslan Brewing,American Amber / Red Ale
+739,6.50 %,Brasserie Distillerie Du Mont Blanc,American Amber / Red Ale
+740,11.00 %,Clown Shoes,American Amber / Red Ale
+741,6.70 %,Vintage Brewing Company,American Amber / Red Ale
+742,8.10 %,Council Brewing Company,American Amber / Red Ale
+743,-,Les 3 Brasseurs,American Amber / Red Ale
+744,5.00 %,Dick 's Brewing Company,American Amber / Red Ale
+745,5.00 %,Dead Frog Brewing,American Amber / Red Ale
+746,5.10 %,World Brews,American Amber / Red Ale
+747,7.10 %,Green Man Brewery,American Amber / Red Ale
+748,-,Sierra Blanca Brewing Company ( Rio Grande ),American Amber / Red Ale
+749,5.90 %,Klamath Basin Brewing Co. - The Creamery Brew Pub And Grill,American Amber / Red Ale
+750,6.00 %,Texas Ale Project,American Amber / Red Ale
+751,-,Fulton Beer,American Amber / Red Ale
+752,9.00 %,Big Island Brewhaus & Tako Taco Taqueria,American Amber / Red Ale
+753,4.50 %,Thornbridge Brewery,American Amber / Red Ale
+754,4.60 %,Railway City Brewing Company,American Amber / Red Ale
+755,5.00 %,Sail and Anchor Pub Brewery,American Amber / Red Ale
+756,5.00 %,Wachusett Brewing Company,American Amber / Red Ale
+757,5.80 %,Pinthouse Pizza Craft Brewpub,American Amber / Red Ale
+758,-,Santa Barbara Brewing Company,American Amber / Red Ale
+759,5.00 %,Great Black Swamp Brewing Co. .,American Amber / Red Ale
+760,4.50 %,Septem Microbrewery,American Amber / Red Ale
+761,7.00 %,CIB Brewery & BBQ,American Amber / Red Ale
+762,-,Phantom Canyon Brewing Company,American Amber / Red Ale
+763,-,Four Corners Brewing Company,American Amber / Red Ale
+764,6.00 %,L'AmÃ ¨ re _ Boire,American Amber / Red Ale
+765,6.50 %,Hardknott Brewery,American Amber / Red Ale
+766,-,Boston Beer Works - Canal Street,American Amber / Red Ale
+767,5.20 %,Barley and Hops Grill & Microbrewery,American Amber / Red Ale
+768,4.50 %,Mildura Theatre Brewery Pty Ltd,American Amber / Red Ale
+769,-,Liberty Steakhouse & Brewery,American Amber / Red Ale
+770,5.00 %,Persephone Brewing,American Amber / Red Ale
+771,6.00 %,Alameda Brewhouse,American Amber / Red Ale
+772,6.40 %,Galaxy Brewing Company,American Amber / Red Ale
+773,6.10 %,Flat 12 Bierwerks,American Amber / Red Ale
+774,4.60 %,World Brews,American Amber / Red Ale
+775,5.10 %,Olde Peninsula Brewpub & Restaurant,American Amber / Red Ale
+776,5.70 %,Dragonmead Microbrewery,American Amber / Red Ale
+777,6.00 %,Bowen Island Brewing Co. Ltd. .,American Amber / Red Ale
+778,5.50 %,Silver Moon Brewing,American Amber / Red Ale
+779,4.40 %,Captain Lawrence Brewing Co. .,American Amber / Red Ale
+780,6.50 %,Iron Horse Brewery,American Amber / Red Ale
+781,7.50 %,Grand Lake Brewing Company,American Amber / Red Ale
+782,5.00 %,Harviestoun Brewery Ltd. .,American Amber / Red Ale
+783,4.50 %,Beer Here,American Amber / Red Ale
+784,4.70 %,Phantom Carriage,American Amber / Red Ale
+785,7.80 %,River City Brewing Co. .,American Amber / Red Ale
+786,-,Engine House No. 9,American Amber / Red Ale
+787,6.20 %,Endeavour Beverages,American Amber / Red Ale
+788,5.20 %,Highland Brewing,American Amber / Red Ale
+789,5.80 %,Marley 's Brewery And Grille,American Amber / Red Ale
+790,6.30 %,Magic Rock Brewing,American Amber / Red Ale
+791,4.60 %,Yazoo Brewing Company,American Amber / Red Ale
+792,4.50 %,Anacortes Brewery & Rockfish Grill,American Amber / Red Ale
+793,5.00 %,The Lucky Monk,American Amber / Red Ale
+794,5.50 %,Water Street Brewery,American Amber / Red Ale
+795,-,21st Amendment Brewery,American Amber / Red Ale
+796,5.40 %,Great Western Brewing,American Amber / Red Ale
+797,5.20 %,The Unknown Brewing Co. .,American Amber / Red Ale
+798,5.50 %,Asher Brewing Company,American Amber / Red Ale
+799,8.50 %,Smog City Brewing,American Amber / Red Ale
+800,5.20 %,Beaver Street Brewery & Whistle Stop Cafe,American Amber / Red Ale
+801,5.20 %,Kennebec River Brewery,American Amber / Red Ale
+802,5.20 %,The Defiant Brewing Company,American Amber / Red Ale
+803,5.90 %,3 Daughters Brewing,American Amber / Red Ale
+804,10.00 %,Kern River Brewing Company,American Amber / Red Ale
+805,7.40 %,The Wrecking Bar Brewpub,American Amber / Red Ale
+806,6.60 %,Six String Brewing Company,American Amber / Red Ale
+807,5.00 %,Great Rhythm Brewing Company,American Amber / Red Ale
+808,5.20 %,Mill House Brewing Company,American Amber / Red Ale
+809,4.50 %,Krogh 's Restaurant And Brewpub,American Amber / Red Ale
+810,5.60 %,Big Dog 's Draft House,American Amber / Red Ale
+811,6.20 %,Dempsey 's Restaurant And Brewery,American Amber / Red Ale
+812,6.30 %,Right Brain Brewery,American Amber / Red Ale
+813,6.60 %,Jupiter,American Amber / Red Ale
+814,8.50 %,Auburn Alehouse Brewery & Restaurant,American Amber / Red Ale
+815,-,Peg 's Cantina & Brew Pub,American Amber / Red Ale
+816,6.00 %,Freetail Brewing Company,American Amber / Red Ale
+817,7.00 %,Intuition Ale Works,American Amber / Red Ale
+818,5.50 %,Creature Comforts,American Amber / Red Ale
+819,-,The Cannon Brewpub,American Amber / Red Ale
+820,4.60 %,Tiny Rebel Brewing Co. .,American Amber / Red Ale
+821,-,Harmon Restaurant & Brewery,American Amber / Red Ale
+822,6.40 %,7 Seas Brewery and Taproom,American Amber / Red Ale
+823,5.80 %,StormBreaker Brewing,American Amber / Red Ale
+824,-,Big Time Brewery & Alehouse,American Amber / Red Ale
+825,7.90 %,Austin Beer Garden Brewing Co. .,American Amber / Red Ale
+826,6.00 %,Microbrasserie de l'ile d'OrlÃ © ans,American Amber / Red Ale
+827,5.00 %,Microbrasserie du LiÃ ¨ vre,American Amber / Red Ale
+828,-,Duquesne Bottling Company,American Amber / Red Ale
+829,4.80 %,Bent Hill Brewery,American Amber / Red Ale
+830,5.00 %,Crossroads Brewing Company,American Amber / Red Ale
+831,6.00 %,Bullfrog Brewery,American Amber / Red Ale
+832,5.00 %,Picaroons Brewing Co. .,American Amber / Red Ale
+833,9.20 %,Three Heads Brewing,American Amber / Red Ale
+834,-,Minocqua Brewing Company,American Amber / Red Ale
+835,-,McMenamins,American Amber / Red Ale
+836,7.00 %,Aspen Brewing Co. .,American Amber / Red Ale
+837,8.30 %,HammerHeart Brewing Company,American Amber / Red Ale
+838,7.40 %,Obed & Isaac _ ™ s Microbrewery & Eatery,American Amber / Red Ale
+839,5.50 %,Howe Sound Inn & Brewing Company,American Amber / Red Ale
+840,6.50 %,Riverside Brewing Company,American Amber / Red Ale
+841,8.30 %,Snoqualmie Falls Brewing Company & Taproom,American Amber / Red Ale
+842,6.50 %,The Grumpy Troll Restaurant and Brewery,American Amber / Red Ale
+843,6.20 %,Williams Brothers Brewing Company,American Amber / Red Ale
+844,7.50 %,Payette Brewing,American Amber / Red Ale
+845,5.00 %,Microbrasserie Pit Caribou,American Amber / Red Ale
+846,5.50 %,Stoup Brewing,American Amber / Red Ale
+847,5.00 %,Rock Bottom Restaurant & Brewery,American Amber / Red Ale
+848,6.70 %,Tradesman Brewing Co. .,American Amber / Red Ale
+849,6.10 %,Crabtree Brewing Company,American Amber / Red Ale
+850,5.60 %,Pumphouse Brewery,American Amber / Red Ale
+851,5.00 %,Bogota Beer Company,American Amber / Red Ale
+852,4.80 %,Snowy Mountains Brewery,American Amber / Red Ale
+853,6.00 %,Baja Brewing Company,American Amber / Red Ale
+854,6.00 %,Boxing Rock Brewing Co. .,American Amber / Red Ale
+855,5.50 %,Original Gravity Brewing Company,American Amber / Red Ale
+856,7.00 %,Rip Current Brewing,American Amber / Red Ale
+857,5.60 %,Big Muddy Brewing,American Amber / Red Ale
+858,6.50 %,Drake 's Brewing Co. .,American Amber / Red Ale
+859,6.83 %,5 Stones Craft Brewing Co. .,American Amber / Red Ale
+860,5.30 %,Big Elm Brewing,American Amber / Red Ale
+861,-,Bold City Brewery,American Amber / Red Ale
+862,6.00 %,Cervejaria AmazÃ ´ nia Ltda .,American Amber / Red Ale
+863,6.00 %,Labatt Brewing Company Ltd. .,American Amber / Red Ale
+864,5.50 %,Strangeways Brewing,American Amber / Red Ale
+865,6.00 %,Double Barley Brewing,American Amber / Red Ale
+866,-,Charlie & Jake 's Brewery & Grille,American Amber / Red Ale
+867,4.70 %,Lervig Aktiebryggeri AS,American Amber / Red Ale
+868,5.60 %,Redhook Ale Brewery,American Amber / Red Ale

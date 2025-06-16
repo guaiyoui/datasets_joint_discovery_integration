@@ -1,0 +1,4 @@
+immig_nm,nationality,dest_city,origin_loc,rec_status_ind,has_fam_ind,admitted_ind
+"Willis, Peter",British,Province of Quebec,"Goldstone, United Kingdom",One,One,One
+Thomas Johns,British,"Quebec, Canada","Craigleith, Ontario",True,False,False
+Alfred Palmer,British,QC,"London, UK",One,One,Zero

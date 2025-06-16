@@ -1,0 +1,107 @@
+record_id,contact_phone,municipality,rank,restaurant_style,billing_address,restaurant_title
+318,212/944 -3643,` new york ',317,italian,' 142 w. 44th st. ',` osteria al droge '
+319,212/223 -7575,` new york ',318,asian,'68 e. 56th st. ',otabe
+320,212/941 -4168,` new york ',319,asian,' 138 lafayette st. between canal and howard sts . ',pacifica
+321,212/245 -4850,` new york ',320,italian,' 151 w. 51st . st. ',palio
+322,212/644 -9258,` new york ',321,` middle eastern ',' 1065 1st ave. at 58th st. ',pamir
+323,212/288 -2391,` new york ',322,italian,'24 e. 81st st. ',` parioli romanissimo '
+324,212/777 -6211,` new york ',323,` latin american ',' 250 park ave. s at 20th st. ',patria
+325,212/872 -4895,` new york ',324,french,' 301 park ave. between 49th and 50th sts . ',` peacock alley '
+326,212/682 -8660,` new york ',325,american,' 205 e. 45th st. ',` pen & pencil '
+327,212/274 -8883,` new york ',326,asian,' 109 spring st. between greene and mercer sts . ',` penang soho '
+328,212/535 -1100,` new york ',327,` middle eastern ',' 1423 2nd ave. between 74th and 75th sts . ',persepolis
+329,212/333 -7827,` new york ',328,american,' 140 w. 57th st. ',` planet hollywood '
+330,' 212 / 956-3055 ',` new york ',329,` latin american ',' 371 w. 46th st. off 9th ave. ',pomaire
+331,212/595 -8555,` new york ',330,american,' 551 amsterdam ave. between 86th and 87th sts . ',` popover cafe '
+332,212/935 -2888,` new york ',331,american,'28 e. 63rd st. ',` post house '
+333,212/501 -0776,` new york ',332,asian,' 100 w. 82nd st. ',rain
+334,212/734 -4893,` new york ',333,` eastern european ',' 439 e. 75th st. ',` red tulip '
+335,212/627 -7172,` new york ',335,asian,' 37a union sq. w between 16th and 17th sts . ',republic
+336,212/674 -4140,` new york ',336,continental,' 126 e. 7th st. between 1st ave. and ave. a ',` roettelle a. g '
+337,212/753 -7407,` new york ',337,mexican,' 1063 1st ave. at 58th st. ',` rosa mexicano '
+338,212/245 -9600,` new york ',338,american,' 148 w. 51st st. ',` ruth \ 's chris '
+339,212/925 -3120,` new york ',339,italian,' 133 mulberry st. between hester and grand sts . ',s.p.q.r
+340,212/982 -9030,` new york ',340,italian,'55 irving pl . ',` sal anthony \ 's '
+341,212/673 -0330,` new york ',341,` east european ',' 157 chrystie st. at delancey st. ',` sammy \ 's roumanian steak house '
+342,212/753 -9015,` new york ',342,italian,'18 e. 54th st. ',` san pietro '
+343,212/570 -2211,` new york ',343,` coffee bar ',' 1000 madison ave. between 77th and 78th sts . ',` sant ambroeus '
+344,212/496 -6280,` new york ',344,american,' 423 amsterdam ave. between 80th and 81st sts . ',` sarabeth \ 's kitchen '
+345,212/332 -7610,` new york ',345,seafood,'19 w. 49th st. ',` sea grill '
+346,212/838 -3531,` new york ',346,american,' 3 225 e. 60th st. ',serendipity
+347,212/744 -4107,` new york ',347,american,' 643 park ave. at 66th st. ',` seventh regiment mess and bar '
+348,212/873 -3700,` new york ',348,american,'58 w. 65th st. ',sfuzzi
+349,' 212 / 977-8400 ',` new york ',349,asian,'57 w. 48th st. ',shaan
+350,212/734 -2676,` new york ',350,italian,' 1022 madison ave. near 79th st. ',` sofia fabulous pizza '
+351,212/966 -0290,` new york ',351,american,'62 spring st. at lafayette st. ',` spring street natural restaurant & bar '
+352,212/245 -7850,` new york ',352,delicatessen,' 834 7th ave. between 53rd and 54th sts . ',` stage deli '
+353,212/501 -7515,` new york ',353,seafood,' 428 amsterdam ave. between 80th and 81st sts . ',stingray
+354,212/334 -8088,` new york ',354,asian,'76 mott st. at canal st. ',` sweet \ ` n \ ` tart cafe '
+355,212/925 -3700,` new york ',355,` coffee bar ',' 143 mercer st. at prince st. ',' t salon '
+356,212/956 -6888,` new york ',356,asian,'65 w. 55th st. ',` tang pavillion '
+357,' 212 / 397-3737 ',` new york ',357,american,' 950 8th ave. at 56th st. ',tapika
+358,212/228 -0604,` new york ',358,` east european ',' 103 1st ave. between 6th and 7th sts . ',` teresa \ 's '
+359,212/666 -9490,` new york ',359,continental,' 400 w. 119th st. between amsterdam and morningside aves . ',terrace
+360,212/265 -3566,` new york ',360,` coffee bar ',' 350 9th ave. at 49th st. ',` the coffee pot '
+361,212/496 -1066,` new york ',361,american,' 2420 broadway at 89th st. ',` the savannah club '
+362,212/245 -9800,` new york ',362,italian,' 900 7th ave. between 56th and 57th sts . ',` trattoria dell \ ` arte '
+363,212/472 -4488,` new york ',363,italian,' 345 e. 83rd st. ',triangolo
+364,212/941 -3900,` new york ',364,american,' 375 greenwich st. near franklin st. ',` tribeca grill '
+365,212/988 -4858,` new york ',365,` coffee bar ',' 154 e. 79th st. between lexington and 3rd aves . ',` trois jean '
+366,212/688 -5447,` new york ',366,asian,'34 e. 51st st. ',` tse yang '
+367,212/679 -1810,` new york ',367,` middle eastern ',' 386 3rd ave. between 27th and 28th sts . ',` turkish kitchen '
+368,212/799 -0400,` new york ',368,american,' 222 w. 79th st. ',` two two two '
+369,212/674 -7264,` new york ',369,` coffee bar ',' 342 e. 11th st. near 1st ave. ',` veniero \ 's pasticceria '
+370,212/260 -5454,` new york ',370,american,'54 irving pl . at 17th st. ',verbena
+371,212/586 -7714,` new york ',371,` latin american ','52 236 w. 52nd st. ',` victor \ 's cafe '
+372,212/721 -0068,` new york ',372,american,'70 w. 68th st. ',` vince & eddie \ 's '
+373,212/486 -9592,` new york ',373,american,' 200 e. 54th st. ',vong
+374,212/683 -3333,` new york ',374,american,' 500 e. 30th st. ',` water club '
+375,212/246 -6363,` new york ',375,american,' 63rd street steakhouse 44 w. 63rd st. ',west
+376,212/614 -0620,` new york ',376,mediterranean,' 174 1st ave. between 10th and 11th sts . ',xunta
+377,212/614 -9291,` new york ',377,` and 212/614 -9345 asian ','34 union sq. e at 16th st. ',` zen palate '
+378,212/966 -6722,` new york ',378,american,'90 prince st. between broadway and mercer st. ',zoe
+379,404/876 -8532,atlanta,379,international,' 163 ponce de leon ave. ',abbey
+380,404/525 -2062,atlanta,380,barbecue,' 783 martin luther king jr. dr. ',` aleck \ 's barbecue heaven '
+381,404/264 -9546,atlanta,381,asian,' 3195 roswell rd. ',` annie \ 's thai castle '
+382,404/262 -7379,atlanta,382,american,' 3109 piedmont rd. . just south of peachtree rd. ',anthonys
+383,404/262 -3165,atlanta,383,american,' 265 pharr rd. ',` atlanta fish market '
+384,404/264 -1334,atlanta,384,continental,' 260 e. paces ferry road ',` beesley \ 's of buckhead '
+385,404/233 -2333,atlanta,385,italian,' 3500 peachtree rd. . phipps plaza ',` bertolini \ 's '
+386,404/724 -0901,atlanta,386,mediterranean,' 1100 peachtree st. ',bistango
+387,770/441 -- 0291,atlanta,387,american,' 7050 jimmy carter blvd. . norcross ',` cafe renaissance '
+388,404/872 -7203,atlanta,388,italian,' 1186 n. highland ave. ',` camille \ 's '
+389,404/365 -8100,atlanta,389,mediterranean,' 3300 peachtree rd. . grand hyatt ',cassis
+390,404/524 -2489,atlanta,390,international,'50 hurt plaza ',` city grill '
+391,404/364 -0212,atlanta,391,caribbean,'40 buckhead crossing mall on the sidney marcus blvd. ',` coco loco '
+392,404/874 -5642,atlanta,392,southern,' 1879 cheshire bridge rd. ',` colonnade restaurant '
+393,404/266 -1600,atlanta,393,continental,' 3380 peachtree rd. ',` dante \ 's down the hatch buckhead '
+394,404/577 -1800,atlanta,394,continental,` underground underground mall underground atlanta ',` dante \ 's down the hatch '
+395,404/607 -1622,atlanta,395,barbecue,' 1811 piedmont ave. near cheshire bridge rd. ',` fat matt \ 's rib shack '
+396,404/875 -2489,atlanta,396,southern,' 923 peachtree st. at 8th st. ',` french quarter food shop '
+397,770/242 -3984,atlanta,397,barbecue,' 6359 jimmy carter blvd. . at buford hwy . norcross ',` holt bros. bar-b-q '
+398,404/255 -7277,atlanta,398,southern,' 4320 powers ferry rd. ',` horseradish grill '
+399,404/659 -2788,atlanta,399,asian,' 192 peachtree center ave. at international blvd. ',` hsu \ 's gourmet '
+400,404/351 -0870,atlanta,400,mediterranean,' 2285 peachtree rd. . peachtree battle condominium ',` imperial fez '
+401,404/841 -0314,atlanta,401,asian,' 3300 peachtree rd. . grand hyatt ',kamogawa
+402,770/395 -9925,atlanta,402,italian,` holiday inn/crowne plaza at ravinia dunwoody ',` la grotta at ravinia dunwoody rd. '
+403,770/451 -0192,atlanta,403,asian,' c buford hwy . northwoods plaza doraville ',` little szechuan '
+404,404/255 -5160,atlanta,404,barbecue,' 6301 roswell rd. . sandy springs plaza sandy springs ',` lowcountry barbecue '
+405,404/355 -5993,atlanta,405,continental,' 1931 peachtree rd. ',` luna si '
+406,404/874 -2626,atlanta,406,caribbean,' 1402 n. highland ave. ',` mambo restaurante cubano '
+407,404/237 -1313,atlanta,407,southern,' 3209 maple dr. ',` mckinnon \ 's louisiane '
+408,770/393 -1333,atlanta,408,italian,` park place across from perimeter mall dunwoody ',` mi spia dunwoody rd. '
+409,404/842 -0334,atlanta,409,fusion,' 247 buckhead ave. east village sq. ',` nickiemoto \ 's : a sushi bar '
+410,404/350 -6755,atlanta,410,continental,' 1829 peachtree rd. ',palisades
+411,404/874 -3223,atlanta,411,american,' 555 peachtree st. at linden ave. ',` pleasant peasant '
+412,404/237 -2941,atlanta,412,italian,' 500 pharr rd. ',pricci
+413,404/875 -7775,atlanta,413,american,' 870 n. highland ave. ',` r.j. \ 's uptown kitchen & wine bar '
+414,404/233 -7644,atlanta,414,barbecue,'25 irby ave. ',` rib ranch '
+415,404/325 -5285,atlanta,415,asian,' 3043 buford hwy . ',` sa tsu ki '
+416,770/449 -0033,atlanta,416,asian,' 6050 peachtree pkwy . norcross ',` sato sushi and thai '
+417,404/873 -7358,atlanta,417,southern,' 1144 crescent ave. ',` south city kitchen '
+418,404/325 -6963,atlanta,418,french,' 2345 cheshire bridge rd. ',` south of france '
+419,770/458 -7145,atlanta,419,southern,' 3384 shallowford rd. . chamblee ',` stringer \ 's fish camp and oyster bar '
+420,404/321 -1118,atlanta,420,american,' 2165 cheshire bridge rd. ',` sundown cafe '
+421,404/874 -5535,atlanta,421,southern,' 889 w. peachtree st. ',` taste of new orleans '
+422,404/264 -1163,atlanta,422,continental,' 3393 peachtree rd. ',tomtom
+423,702/252 -7737,` las vegas ',423,italian,' 3700 w. flamingo ',` antonio \ 's '

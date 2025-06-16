@@ -1,0 +1,320 @@
+nohup: ignoring input
+  0%|          | 0/49 [00:00<?, ?it/s]▶︎ Processing dataset: 
+Processing 377_analytics-iris-complet-termes-de-recherche-20160701-20160731.csv
+Processing 150_figure-3.csv
+Processing 446_figure-6.csv
+  2%|▏         | 1/49 [02:04<1:39:17, 124.12s/it]▶︎ Processing dataset: oil_and_gas_summary_production_data_1967_1999
+Processing 513_oil_and_gas_summary_production_data_1967_1999_0.csv
+Processing 329_oil_and_gas_summary_production_data_1967_1999_6.csv
+Processing 577_oil_and_gas_summary_production_data_1967_1999_a.csv
+  4%|▍         | 2/49 [03:34<1:21:47, 104.42s/it]▶︎ Processing dataset: animal_tag_data
+Processing 423_animal_tag_data_8.csv
+Processing 299_animal_tag_data_1.csv
+Processing 572_animal_tag_data_a.csv
+  6%|▌         | 3/49 [05:39<1:27:17, 113.87s/it]▶︎ Processing dataset: wholesale_markets
+Processing 252_wholesale_markets_8.csv
+Processing 599_wholesale_markets_a.csv
+Processing 104_wholesale_markets_7.csv
+  8%|▊         | 4/49 [07:13<1:19:32, 106.05s/it]▶︎ Processing dataset: stockport_contracts
+Processing 110_stockport_contracts_a.csv
+Processing 103_stockport_contracts_11.csv
+Processing 439_stockport_contracts_10.csv
+ 10%|█         | 5/49 [09:07<1:19:39, 108.62s/it]▶︎ Processing dataset: monthly_data_feed
+Processing 283_monthly_data_feed_8.csv
+⚠️  283_monthly_data_feed_8.csv has less effect samples
+Processing 418_monthly_data_feed_a.csv
+⚠️  418_monthly_data_feed_a.csv has less effect samples
+Processing 305_monthly_data_feed_1.csv
+⚠️  305_monthly_data_feed_1.csv has less effect samples
+Processing 354_monthly_data_feed_10.csv
+⚠️  354_monthly_data_feed_10.csv has less effect samples
+Processing 292_monthly_data_feed_b.csv
+Processing 265_monthly_data_feed_2.csv
+⚠️  265_monthly_data_feed_2.csv has less effect samples
+Processing 96_monthly_data_feed_6.csv
+⚠️  96_monthly_data_feed_6.csv has less effect samples
+Processing 580_monthly_data_feed_b.csv
+Processing 209_monthly_data_feed_3.csv
+ 12%|█▏        | 6/49 [10:46<1:15:38, 105.56s/it]▶︎ Processing dataset: cihr_co-applicant
+Processing 228_cihr_co-applicant_a.csv
+Processing 51_cihr_co-applicant_1.csv
+Processing 268_cihr_co-applicant_6.csv
+ 14%|█▍        | 7/49 [12:41<1:15:57, 108.52s/it]▶︎ Processing dataset: HMRC_WMI_headcount_and_payroll_data_Nov
+Processing 522_HMRC_WMI_headcount_and_payroll_data_Nov_2014.csv
+⚠️  522_HMRC_WMI_headcount_and_payroll_data_Nov_2014.csv has less effect samples
+Processing 57_HMRC_WMI_headcount_and_payroll_data_Nov_2015.csv
+⚠️  57_HMRC_WMI_headcount_and_payroll_data_Nov_2015.csv has less effect samples
+▶︎ Processing dataset: business_rates
+Processing 583_business_rates_a.csv
+⚠️  583_business_rates_a.csv has less effect samples
+Processing 74_business_rates_2.csv
+⚠️  74_business_rates_2.csv has less effect samples
+Processing 307_business_rates_a.csv
+⚠️  307_business_rates_a.csv has less effect samples
+Processing 16_business_rates_3.csv
+⚠️  16_business_rates_3.csv has less effect samples
+Processing 109_business_rates_9.csv
+⚠️  109_business_rates_9.csv has less effect samples
+Processing 539_business_rates_8.csv
+⚠️  539_business_rates_8.csv has less effect samples
+Processing 501_business_rates_4.csv
+⚠️  501_business_rates_4.csv has less effect samples
+Processing 272_business_rates_7.csv
+⚠️  272_business_rates_7.csv has less effect samples
+Processing 75_business_rates_0.csv
+⚠️  75_business_rates_0.csv has less effect samples
+Processing 291_business_rates_5.csv
+⚠️  291_business_rates_5.csv has less effect samples
+Processing 306_business_rates_10.csv
+⚠️  306_business_rates_10.csv has less effect samples
+Processing 33_business_rates_6.csv
+⚠️  33_business_rates_6.csv has less effect samples
+Processing 523_business_rates_1.csv
+⚠️  523_business_rates_1.csv has less effect samples
+ 18%|█▊        | 9/49 [12:41<37:29, 56.23s/it]   ▶︎ Processing dataset: ipopayments
+Processing 2_ipopayments_b.csv
+Processing 286_ipopayments_10.csv
+Processing 71_ipopayments_11.csv
+ 20%|██        | 10/49 [14:02<40:35, 62.46s/it]▶︎ Processing dataset: lane_description
+Processing 93_lane_description_b.csv
+⚠️  93_lane_description_b.csv has less effect samples
+Processing 352_lane_description_7.csv
+⚠️  352_lane_description_7.csv has less effect samples
+Processing 419_lane_description_6.csv
+⚠️  419_lane_description_6.csv has less effect samples
+Processing 487_lane_description_1.csv
+⚠️  487_lane_description_1.csv has less effect samples
+Processing 274_lane_description_8.csv
+⚠️  274_lane_description_8.csv has less effect samples
+Processing 243_lane_description_0.csv
+⚠️  243_lane_description_0.csv has less effect samples
+Processing 92_lane_description_10.csv
+Processing 9_lane_description_a.csv
+⚠️  9_lane_description_a.csv has less effect samples
+Processing 463_lane_description_4.csv
+⚠️  463_lane_description_4.csv has less effect samples
+Processing 32_lane_description_3.csv
+⚠️  32_lane_description_3.csv has less effect samples
+Processing 226_lane_description_12.csv
+⚠️  226_lane_description_12.csv has less effect samples
+Processing 552_lane_description_a.csv
+⚠️  552_lane_description_a.csv has less effect samples
+Processing 560_lane_description_b.csv
+⚠️  560_lane_description_b.csv has less effect samples
+Processing 527_lane_description_5.csv
+Processing 83_lane_description_11.csv
+⚠️  83_lane_description_11.csv has less effect samples
+Processing 505_lane_description_13.csv
+⚠️  505_lane_description_13.csv has less effect samples
+Processing 206_lane_description_9.csv
+⚠️  206_lane_description_9.csv has less effect samples
+Processing 321_lane_description_2.csv
+⚠️  321_lane_description_2.csv has less effect samples
+ 22%|██▏       | 11/49 [15:37<45:11, 71.36s/it]▶︎ Processing dataset: purchasing_card
+Processing 498_purchasing_card_1.csv
+Processing 324_purchasing_card_6.csv
+Processing 517_purchasing_card_5.csv
+ 24%|██▍       | 12/49 [16:53<44:39, 72.42s/it]▶︎ Processing dataset: HMRC_exceptions_to_spending_controls_April_to_June_2019
+Processing 26_HMRC_exceptions_to_spending_controls_April_to_June_2019_consultancy.csv
+⚠️  26_HMRC_exceptions_to_spending_controls_April_to_June_2019_consultancy.csv has less effect samples
+Processing 105_HMRC_exceptions_to_spending_controls_April_to_June_2019_ICT.csv
+⚠️  105_HMRC_exceptions_to_spending_controls_April_to_June_2019_ICT.csv has less effect samples
+Processing 496_HMRC_exceptions_to_spending_controls_April_to_June_2019_commercial.csv
+⚠️  496_HMRC_exceptions_to_spending_controls_April_to_June_2019_commercial.csv has less effect samples
+▶︎ Processing dataset: report_card_discipline_for_2015_16
+Processing 123_report_card_discipline_for_2015_16_3.csv
+Processing 555_report_card_discipline_for_2015_16_a.csv
+Processing 218_report_card_discipline_for_2015_16_0.csv
+ 29%|██▊       | 14/49 [18:17<34:26, 59.04s/it]▶︎ Processing dataset: prescribing
+Processing 35_prescribing_7.csv
+⚠️  35_prescribing_7.csv has less effect samples
+Processing 366_prescribing_6.csv
+⚠️  366_prescribing_6.csv has less effect samples
+Processing 87_prescribing_11.csv
+⚠️  87_prescribing_11.csv has less effect samples
+Processing 596_prescribing_b.csv
+⚠️  596_prescribing_b.csv has less effect samples
+Processing 177_prescribing_0.csv
+⚠️  177_prescribing_0.csv has less effect samples
+Processing 563_prescribing_a.csv
+⚠️  563_prescribing_a.csv has less effect samples
+Processing 544_prescribing_5.csv
+⚠️  544_prescribing_5.csv has less effect samples
+Processing 116_prescribing_8.csv
+⚠️  116_prescribing_8.csv has less effect samples
+Processing 210_prescribing_2.csv
+Processing 494_prescribing_10.csv
+⚠️  494_prescribing_10.csv has less effect samples
+Processing 28_prescribing_4.csv
+⚠️  28_prescribing_4.csv has less effect samples
+Processing 130_prescribing_a.csv
+⚠️  130_prescribing_a.csv has less effect samples
+Processing 437_prescribing_1.csv
+Processing 248_prescribing_3.csv
+⚠️  248_prescribing_3.csv has less effect samples
+Processing 488_prescribing_b.csv
+⚠️  488_prescribing_b.csv has less effect samples
+Processing 108_prescribing_9.csv
+⚠️  108_prescribing_9.csv has less effect samples
+Processing 273_prescribing_12.csv
+⚠️  273_prescribing_12.csv has less effect samples
+ 31%|███       | 15/49 [20:03<39:49, 70.28s/it]▶︎ Processing dataset: albums
+Processing 562_albums_a.csv
+Processing 406_albums_8.csv
+Processing 160_albums_4.csv
+ 33%|███▎      | 16/49 [21:34<41:31, 75.51s/it]▶︎ Processing dataset: complaint_by_practice
+Processing 3_complaint_by_practice_10.csv
+Processing 525_complaint_by_practice_1.csv
+Processing 415_complaint_by_practice_2.csv
+ 35%|███▍      | 17/49 [24:25<53:57, 101.19s/it]▶︎ Processing dataset: ydn_spending_data
+Processing 17_ydn_spending_data_4.csv
+⚠️  17_ydn_spending_data_4.csv has less effect samples
+Processing 237_ydn_spending_data_8.csv
+⚠️  237_ydn_spending_data_8.csv has less effect samples
+Processing 309_ydn_spending_data_7.csv
+⚠️  309_ydn_spending_data_7.csv has less effect samples
+Processing 300_ydn_spending_data_2.csv
+⚠️  300_ydn_spending_data_2.csv has less effect samples
+Processing 320_ydn_spending_data_b.csv
+⚠️  320_ydn_spending_data_b.csv has less effect samples
+Processing 192_ydn_spending_data_6.csv
+⚠️  192_ydn_spending_data_6.csv has less effect samples
+Processing 282_ydn_spending_data_3.csv
+⚠️  282_ydn_spending_data_3.csv has less effect samples
+Processing 80_ydn_spending_data_a.csv
+⚠️  80_ydn_spending_data_a.csv has less effect samples
+Processing 455_ydn_spending_data_0.csv
+⚠️  455_ydn_spending_data_0.csv has less effect samples
+Processing 56_ydn_spending_data_1.csv
+⚠️  56_ydn_spending_data_1.csv has less effect samples
+Processing 559_ydn_spending_data_a.csv
+⚠️  559_ydn_spending_data_a.csv has less effect samples
+Processing 254_ydn_spending_data_9.csv
+⚠️  254_ydn_spending_data_9.csv has less effect samples
+Processing 584_ydn_spending_data_b.csv
+⚠️  584_ydn_spending_data_b.csv has less effect samples
+Processing 368_ydn_spending_data_5.csv
+⚠️  368_ydn_spending_data_5.csv has less effect samples
+ 37%|███▋      | 18/49 [24:25<37:51, 73.26s/it] ▶︎ Processing dataset: film_locations_in_san_francisco
+Processing 598_film_locations_in_san_francisco_a.csv
+Processing 89_film_locations_in_san_francisco_7.csv
+Processing 400_film_locations_in_san_francisco_2.csv
+ 39%|███▉      | 19/49 [25:57<39:12, 78.41s/it]▶︎ Processing dataset: job_pay_scales
+Processing 287_job_pay_scales_13.csv
+⚠️  287_job_pay_scales_13.csv has less effect samples
+Processing 298_job_pay_scales_8.csv
+Processing 213_job_pay_scales_9.csv
+Processing 325_job_pay_scales_10.csv
+ 41%|████      | 20/49 [27:18<38:13, 79.10s/it]▶︎ Processing dataset: civic_building_locations
+Processing 482_civic_building_locations_1.csv
+Processing 378_civic_building_locations_6.csv
+Processing 77_civic_building_locations_4.csv
+ 43%|████▎     | 21/49 [29:17<42:20, 90.73s/it]▶︎ Processing dataset: HMRC_Officials_meetings_with_tobacco_stakeholders_Apr_2015_to_Jun
+Processing 393_HMRC_Officials_meetings_with_tobacco_stakeholders_Apr_2015_to_Jun_2015.csv
+ 45%|████▍     | 22/49 [29:48<33:02, 73.42s/it]▶︎ Processing dataset: minister_meetings
+Processing 135_minister_meetings_1.csv
+Processing 451_minister_meetings_6.csv
+Processing 279_minister_meetings_4.csv
+ 47%|████▋     | 23/49 [31:29<35:21, 81.59s/it]▶︎ Processing dataset: immigration_records
+Processing 424_immigration_records_12.csv
+Processing 433_immigration_records_7.csv
+Processing 284_immigration_records_14.csv
+ 49%|████▉     | 24/49 [33:25<38:13, 91.75s/it]▶︎ Processing dataset: abandoned_wells
+Processing 69_abandoned_wells_2.csv
+Processing 365_abandoned_wells_8.csv
+Processing 384_abandoned_wells_0.csv
+ 51%|█████     | 25/49 [35:37<41:27, 103.65s/it]▶︎ Processing dataset: new_york_city_restaurant_inspection_results
+Processing 322_new_york_city_restaurant_inspection_results_7.csv
+Processing 379_new_york_city_restaurant_inspection_results_12.csv
+Processing 457_new_york_city_restaurant_inspection_results_2.csv
+ 53%|█████▎    | 26/49 [37:29<40:39, 106.05s/it]▶︎ Processing dataset: data_mill
+Processing 98_data_mill_6.csv
+Processing 453_data_mill_1.csv
+⚠️  453_data_mill_1.csv has less effect samples
+Processing 204_data_mill_11.csv
+Processing 236_data_mill_5.csv
+ 55%|█████▌    | 27/49 [39:41<41:44, 113.82s/it]▶︎ Processing dataset: HMRC_Officials_meetings_with_tobacco_stakeholders_Jul_2014_to_Sept
+Processing 474_HMRC_Officials_meetings_with_tobacco_stakeholders_Jul_2014_to_Sept_2014.csv
+ 57%|█████▋    | 28/49 [40:13<31:15, 89.32s/it] ▶︎ Processing dataset: workforce_management_information
+Processing 48_workforce_management_information_14.csv
+⚠️  48_workforce_management_information_14.csv has less effect samples
+Processing 334_workforce_management_information_1.csv
+Processing 182_workforce_management_information_13.csv
+⚠️  182_workforce_management_information_13.csv has less effect samples
+Processing 67_workforce_management_information_9.csv
+Processing 549_workforce_management_information_3.csv
+ 59%|█████▉    | 29/49 [43:09<38:27, 115.39s/it]▶︎ Processing dataset: senior_officials_expenses
+Processing 229_senior_officials_expenses_3.csv
+⚠️  229_senior_officials_expenses_3.csv has less effect samples
+Processing 576_senior_officials_expenses_a.csv
+Processing 344_senior_officials_expenses_1.csv
+Processing 24_senior_officials_expenses_7.csv
+ 61%|██████    | 30/49 [44:37<33:56, 107.17s/it]▶︎ Processing dataset: practice_reference
+Processing 342_practice_reference_5.csv
+Processing 396_practice_reference_2.csv
+Processing 410_practice_reference_4.csv
+ 63%|██████▎   | 31/49 [46:25<32:12, 107.37s/it]▶︎ Processing dataset: cdc_nutrition_physical_activity_and_obesity_legislation
+Processing 337_cdc_nutrition_physical_activity_and_obesity_legislation_3.csv
+Processing 132_cdc_nutrition_physical_activity_and_obesity_legislation_8.csv
+Processing 540_cdc_nutrition_physical_activity_and_obesity_legislation_0.csv
+ 65%|██████▌   | 32/49 [48:27<31:42, 111.92s/it]▶︎ Processing dataset: contributors_parties
+Processing 166_contributors_parties_18.csv
+Processing 170_contributors_parties_5.csv
+Processing 58_contributors_parties_3.csv
+ 67%|██████▋   | 33/49 [49:55<27:55, 104.72s/it]▶︎ Processing dataset: psyckes_antipsychotic_polypharmacy_quality_indicators_beginning_2012
+Processing 281_psyckes_antipsychotic_polypharmacy_quality_indicators_beginning_2012_7.csv
+Processing 196_psyckes_antipsychotic_polypharmacy_quality_indicators_beginning_2012_9.csv
+Processing 195_psyckes_antipsychotic_polypharmacy_quality_indicators_beginning_2012_6.csv
+ 69%|██████▉   | 34/49 [51:33<25:39, 102.64s/it]▶︎ Processing dataset: deaths_2012_2018
+Processing 389_deaths_2012_2018_3.csv
+Processing 63_deaths_2012_2018_8.csv
+Processing 569_deaths_2012_2018_a.csv
+ 71%|███████▏  | 35/49 [53:25<24:33, 105.28s/it]▶︎ Processing dataset: biodiversity
+Processing 290_biodiversity_6.csv
+Processing 426_biodiversity_a.csv
+Processing 392_biodiversity_2.csv
+ 73%|███████▎  | 36/49 [55:05<22:29, 103.82s/it]▶︎ Processing dataset: 311_calls_historic_data
+Processing 585_311_calls_historic_data_a.csv
+Processing 476_311_calls_historic_data_4.csv
+Processing 338_311_calls_historic_data_a.csv
+ 76%|███████▌  | 37/49 [56:50<20:50, 104.20s/it]▶︎ Processing dataset: tuition_assistance_program_tap_recipients
+Processing 250_tuition_assistance_program_tap_recipients_0.csv
+Processing 121_tuition_assistance_program_tap_recipients_6.csv
+Processing 106_tuition_assistance_program_tap_recipients_4.csv
+ 78%|███████▊  | 38/49 [58:13<17:56, 97.91s/it] ▶︎ Processing dataset: HMRC_Officials_meetings_with_tobacco_stakeholders_Apr_2017_to_June
+Processing 533_HMRC_Officials_meetings_with_tobacco_stakeholders_Apr_2017_to_June_2017.csv
+ 80%|███████▉  | 39/49 [58:45<12:59, 77.96s/it]▶︎ Processing dataset: time_spent_watching_vcr_movies
+Processing 589_time_spent_watching_vcr_movies_a.csv
+Processing 350_time_spent_watching_vcr_movies_1.csv
+Processing 176_time_spent_watching_vcr_movies_0.csv
+ 82%|████████▏ | 40/49 [1:00:31<12:59, 86.56s/it]▶︎ Processing dataset: mines
+Processing 343_mines_8.csv
+Processing 193_mines_0.csv
+Processing 387_mines_2.csv
+ 84%|████████▎ | 41/49 [1:02:15<12:13, 91.74s/it]▶︎ Processing dataset: HMRC_WMI_headcount_and_payroll_data_May
+Processing 22_HMRC_WMI_headcount_and_payroll_data_May_2016.csv
+⚠️  22_HMRC_WMI_headcount_and_payroll_data_May_2016.csv has less effect samples
+▶︎ Processing dataset: HMRC_exceptions_to_spending_controls_October_to_December_2017
+Processing 203_HMRC_exceptions_to_spending_controls_October_to_December_2017_property.csv
+⚠️  203_HMRC_exceptions_to_spending_controls_October_to_December_2017_property.csv has less effect samples
+Processing 19_HMRC_exceptions_to_spending_controls_October_to_December_2017_recruitment.csv
+⚠️  19_HMRC_exceptions_to_spending_controls_October_to_December_2017_recruitment.csv has less effect samples
+Processing 62_HMRC_exceptions_to_spending_controls_October_to_December_2017_ICT.csv
+⚠️  62_HMRC_exceptions_to_spending_controls_October_to_December_2017_ICT.csv has less effect samples
+▶︎ Processing dataset: HMRC_exceptions_to_spending_controls_April_to_June_2018_facilities
+Processing 127_HMRC_exceptions_to_spending_controls_April_to_June_2018_facilities_management.csv
+⚠️  HMRC_exceptions_to_spending_controls_April_to_June_2018_facilities-127_HMRC_exceptions_to_spending_controls_April_to_June_2018_facilities_management.csv has less effect samples
+▶︎ Processing dataset: HMRC_Officials_meetings_with_tobacco_stakeholders_Jan_2020_to_Mar
+Processing 152_HMRC_Officials_meetings_with_tobacco_stakeholders_Jan_2020_to_Mar_2020.csv
+ 92%|█████████▏| 45/49 [1:02:42<02:32, 38.01s/it]▶︎ Processing dataset: HMRC_WMI_headcount_and_payroll_data_Mar
+Processing 225_HMRC_WMI_headcount_and_payroll_data_Mar_2015.csv
+⚠️  225_HMRC_WMI_headcount_and_payroll_data_Mar_2015.csv has less effect samples
+▶︎ Processing dataset: HMRC_exceptions_to_spending_controls_April_to_June_2018
+Processing 449_HMRC_exceptions_to_spending_controls_April_to_June_2018_consultancy.csv
+⚠️  HMRC_exceptions_to_spending_controls_April_to_June_2018-449_HMRC_exceptions_to_spending_controls_April_to_June_2018_consultancy.csv has less effect samples
+▶︎ Processing dataset: HMRC_Officials_meetings_with_tobacco_stakeholders_Apr_2018_to_June
+Processing 65_HMRC_Officials_meetings_with_tobacco_stakeholders_Apr_2018_to_June_2018.csv
+ 98%|█████████▊| 48/49 [1:03:04<00:25, 25.59s/it]▶︎ Processing dataset: HMRC_Officials_meetings_with_tobacco_stakeholders_Jul_2015_to__Sept
+Processing 493_HMRC_Officials_meetings_with_tobacco_stakeholders_Jul_2015_to__Sept_2015.csv
+100%|██████████| 49/49 [1:03:38<00:00, 27.01s/it]100%|██████████| 49/49 [1:03:38<00:00, 77.93s/it]
+✔︎ Completed. Results written to output_concise.json

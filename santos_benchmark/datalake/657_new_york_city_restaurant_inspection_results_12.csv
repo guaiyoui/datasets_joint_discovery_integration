@@ -1,0 +1,4 @@
+camis_id,dba,street,zip_code,cuisine,critical_flag,score,grade,inspection_type
+50016671,L'APERITIF,39th AVE,11361.0,French Cuisine,C,13.0,A,Re-inspection (Cycle)
+50057753,Alex's Pizza and Deli,35th Avenue,11372,American Cuisine,General,Four,Grade A,Initial Cycle Inspection
+41474984,Taste of China Restaurant,Grand Ave.,11378,Chinese Food,General,7,Grade A,Routine Cycle Re-inspection

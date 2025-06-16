@@ -1,0 +1,525 @@
+ref_id,contributors,source_name,pub_yr
+2092,"j zhou , j sander",vldb,2003
+2093,"y shi , y song , a zhang",vldb,2003
+2094,"a hinneburg , w lehner , d habich",vldb,2003
+2095,"r hankins , j patel",vldb,2003
+2096,"n tatbul , u чetintemel , s zdonik , m cherniack , m stonebraker",vldb,2003
+2097,"m hammad , m franklin , w aref , a elmagarmid",vldb,2003
+2098,"s viglas , j naughton , j burger",vldb,2003
+2099,"h jiang , w wang , h lu , j yu",vldb,2003
+2100,"h he , w meng , c yu , z wu",vldb,2003
+2101,"a lerner , d shasha",vldb,2003
+2102,"f tian , d dewitt",vldb,2003
+2103,"r huebsch , j hellerstein , n lanham , b loo , s shenker , i stoica",vldb,2003
+2104,"y velegrakis , r miller , l popa",vldb,2003
+2105,"g luo , j naughton , c ellmann , m watzke",vldb,2003
+2106,"s papadimitriou , a brockwell , c faloutsos",vldb,2003
+2107,"j madhavan , a halevy",vldb,2003
+2108,"d gao , r snodgrass",vldb,2003
+2109,"a tsois , t sellis",vldb,2003
+2110,"m lee , w hsu , c jensen , b cui , k teo",vldb,2003
+2111,"g qian , q zhu , q xue , s pramanik",vldb,2003
+2112,"t kraft , h schwarz , r rantzau , b mitschang",vldb,2003
+2113,"l golab , m жzsu",vldb,2003
+2114,"g cormode , f korn , s muthukrishnan , d srivastava",vldb,2003
+2115,"d xin , j han , x li , b wah",vldb,2003
+2116,"f korn , s muthukrishnan , y zhu",vldb,2003
+2117,"d lќbbers , u grimmer , m jarke",vldb,2003
+2118,"g iwerks , h samet , k smith",vldb,2003
+2119,"t grust , m keulen , j teubner",vldb,2003
+2120,"s blott , h korth",vldb,2002
+2121,"l daynшs , g czajkowski",vldb,2002
+2122,"n karayannidis , a tsois , t sellis , r pieringer , v markl , f ramsak , r fenk , k elhardt , r bayer",vldb,2002
+2123,"h kang , c chung",vldb,2002
+2124,"a nierman , h jagadish",vldb,2002
+2125,"v hristidis , y papakonstantinou",vldb,2002
+2126,"s rizvi , j haritsa",vldb,2002
+2127,"p senkul , m kifer , i toroslu",vldb,2002
+2128,"t palpanas , r sidle , r cochrane , h pirahesh",vldb,2002
+2129,"f korn , s muthukrishnan , d srivastava",vldb,2002
+2130,"c chan , w fan , p felber , m garofalakis , r rastogi",vldb,2002
+2131,"m benedikt , c chan , w fan , r rastogi , s zheng , a zhou",vldb,2002
+2132,"u rіhm , k bіhm , h schek , h schuldt",vldb,2002
+2133,"l lakshmanan , r ng , c wang , x zhou , t johnson",vldb,2002
+2134,"l lakshmanan , j pei , j han",vldb,2002
+2135,"y lee , k whang , y moon , i song",vldb,2002
+2136,"b zeller , a kemper",vldb,2002
+2137,r vingralek,vldb,2002
+2138,"k goto , y kambayashi",vldb,2002
+2139,p selinger,vldb,2002
+2140,a fox,vldb,2002
+2141,"a seifert , m scholl",vldb,2002
+2142,"m sayal , f casati , u dayal , m shan",vldb,2002
+2143,"g lohman , s lightstone",vldb,2002
+2144,"a schmidt , f waas , m kersten , m carey , i manolescu , r busse",vldb,2002
+2145,"b dageville , m zaяt",vldb,2002
+2146,"w kieпling , g kіstler",vldb,2002
+2147,"a pan , j raposo , m сlvarez , p montoto , v orjales , j hidalgo , l ardao , a molano , с viёa",vldb,2002
+2148,"a laud , s bhowmick , p cruz , d singh , g rajesh",vldb,2002
+2149,"i alexandrov , a amorim , e badescu , m barczyk , d burckhart-chromek , m caprini , m dobson , j flammer , r hart , r jones , a kazarov , s kolos , v kotov , d liko , l lucio , l mapelli , m mineev , l moneta , i papadopoulos , m nassiakou , n parrington , l pedro , a ribeiro ,",vldb,2002
+2150,"i ilyas , w aref , a elmagarmid",vldb,2002
+2151,c mohan,vldb,2002
+2152,"m keidl , s seltzsam , k stocker , a kemper",vldb,2002
+2153,"q sheng , b benatallah , m dumas , e mak",vldb,2002
+2154,"c aggarwal , p yu",vldb,2002
+2155,"g shegalov , g weikum , r barga , d lomet",vldb,2002
+2156,"y ohura , k takahashi , i pramudiono , m kitsuregawa",vldb,2002
+2157,"w li , w hsiung , d kalashnikov , r sion , o po , d agrawal , k candan",vldb,2002
+2158,r king,vldb,2002
+2159,s sripada,vldb,2002
+2160,"w mahnke , c mathis , h steiert",vldb,2002
+2161,"b aditya , g bhalotia , s chakrabarti , a hulgeri , c nakhe , p parag , s sudarshan",vldb,2002
+2162,"m cilia , p hasselmayer , a buchmann",vldb,2002
+2163,"s santini , a gupta",vldb,2002
+2164,"k lam , a kwan , k ramamritham",vldb,2002
+2165,"s heymann , k tham , a kilian , g wegner , p rieger , d merkel , j freytag",vldb,2002
+2166,"r agrawal , r srikant , y xu",vldb,2002
+2167,"w hsu , m lee , b ooi , p mohanty , k teo , c xia",vldb,2002
+2168,c mohan,vldb,2001
+2169,"m garofalakis , p gibbons",vldb,2001
+2170,"h liu , h jacobsen",vldb,2002
+2171,"s sarawagi , a bhamidipaty , a kirpal , c mouli",vldb,2002
+2172,"r rantzau , c constantinescu , u heinkel , h meinecke",vldb,2002
+2173,"a herlekar , a deopujari , k ramamritham , s gopale , s shukla",vldb,2002
+2174,"p bohannon , j freire , j haritsa , m ramanath , p roy , j simщon",vldb,2002
+2175,"s abiteboul , o benjelloun , i manolescu , t milo , r weber",vldb,2002
+2176,"s raghavan , h garcia-molina",vldb,2001
+2177,"i stanoi , m riedewald , d agrawal , a abbadi",vldb,2001
+2178,"a amir , r kashi , n netanyahu",vldb,2001
+2179,"r chirkova , a halevy , d suciu",vldb,2001
+2180,"j madhavan , p bernstein , e rahm",vldb,2001
+2181,p wadler,vldb,2001
+2182,"u dayal , m hsu , r ladin",vldb,2001
+2183,"m cherniack , m franklin , s zdonik",vldb,2001
+2184,,,2003
+2185,,,2003
+2186,,,2003
+2187,"d shasha , p bonnet",vldb,2002
+2188,"g gottlob , c koch , r pichler",vldb,2002
+2189,"g cormode , m datar , p indyk , s muthukrishnan",vldb,2002
+2190,"r ramamurthy , d dewitt , q su",vldb,2002
+2191,"s chakrabarti , s roy , m soundalgekar",vldb,2002
+2192,,,2002
+2193,,,2002
+2194,,,2002
+2195,,,2002
+2196,,,2002
+2197,,,2002
+2198,"t imielinski , b badrinath",vldb,2002
+2199,"g weikum , a mіnkeberg , c hasse , p zabback",vldb,2002
+2200,"t ashwin , r gupta , s ghosal",vldb,2002
+2201,"d cosley , s lawrence , d pennock",vldb,2002
+2202,"j conrad , x guo , p jackson , m meziou",vldb,2002
+2203,"g жzsoyoglu , a al-hamdani , i altingіvde , s жzel , ж ulusoy , z жzsoyoglu",vldb,2002
+2204,g moerkotte,vldb,2002
+2205,"c park , j min , c chung",vldb,2002
+2206,"l bouganim , p pucheral",vldb,2002
+2207,"p bohannon , s ganguly , h korth , p narayan , p shenoy",vldb,2002
+2208,"r agrawal , j kiernan",vldb,2002
+2209,"r agrawal , j kiernan , r srikant , y xu",vldb,2002
+2210,"a ghosh , j parikh , v sengar , j haritsa",vldb,2002
+2211,"a hulgeri , s sudarshan",vldb,2002
+2212,"s chandrasekaran , m franklin",vldb,2002
+2213,"s manegold , p boncz , m kersten",vldb,2002
+2214,"b ludфscher , p mukhopadhyay , y papakonstantinou",vldb,2002
+2215,"d carney , u чetintemel , m cherniack , c convey , s lee , g seidman , m stonebraker , n tatbul , s zdonik",vldb,2002
+2216,"c chan , m garofalakis , r rastogi",vldb,2002
+2217,"d kossmann , f ramsak , s rost",vldb,2002
+2218,"r kaushik , p bohannon , j naughton , p shenoy",vldb,2002
+2219,"s chien , z vagena , d zhang , v tsotras , c zaniolo",vldb,2002
+2220,w kieпling,vldb,2002
+2221,"y chen , g dong , j han , b wah , j wang",vldb,2002
+2222,"y tao , d papadias , q shen",vldb,2002
+2223,"j dittrich , b seeger , d taylor , p widmayer",vldb,2002
+2224,"r lempel , s moran",vldb,2002
+2225,"m lifantsev , t chiueh",vldb,2002
+2226,"g manku , r motwani",vldb,2002
+2227,"y zhu , d shasha",vldb,2002
+2228,"y tao , d papadias",vldb,2002
+2229,"l lim , m wang , s padmanabhan , j vitter , r parr",vldb,2002
+2230,"p ipeirotis , l gravano",vldb,2002
+2231,e keogh,vldb,2002
+2232,"s cho , s amer-yahia , l lakshmanan , d srivastava",vldb,2002
+2233,"t yu , d srivastava , l lakshmanan , h jagadish",vldb,2002
+2234,"n polyzotis , m garofalakis",vldb,2002
+2235,"a gilbert , y kotidis , s muthukrishnan , m strauss",vldb,2002
+2236,a uhl,vldb,2002
+2237,"s shah , k ramamritham , p shenoy",vldb,2002
+2238,"j cho , a ntoulas",vldb,2002
+2239,"c bettini , s jajodia , x wang , d wijesekera",vldb,2002
+2240,"r ananthakrishna , s chaudhuri , v ganti",vldb,2002
+2241,"s kounev , a buchmann",vldb,2002
+2242,"k candan , d agrawal , w li , o po , w hsiung",vldb,2002
+2243,"l bright , l raschid",vldb,2002
+2244,"l hammel , j patel",vldb,2002
+2245,"e stolte , g alonso",vldb,2002
+2246,"h do , e rahm",vldb,2002
+2247,"l popa , y velegrakis , r miller , m hernсndez , r fagin",vldb,2002
+2248,"a aiken , j hellerstein , j widom",acm trans . database syst .,1995
+2249,w chen,acm trans . database syst .,1995
+2250,h jagadish,acm trans . database syst .,1995
+2251,"k goldman , n lynch",acm trans . database syst .,1994
+2252,"s ceri , p fraternali , s paraboschi , l tanca",acm trans . database syst .,1995
+2253,"l bцkgaard , l mark",acm trans . database syst .,1995
+2254,j chomicki,acm trans . database syst .,1995
+2255,"g graefe , r cole",acm trans . database syst .,1995
+2256,"d srivastava , s sudarshan , r ramakrishnan , j naughton",acm trans . database syst .,1995
+2257,w chen,acm trans . database syst .,1995
+2258,"y ioannidis , r ramakrishnan",acm trans . database syst .,1995
+2259,"d shasha , f llirbat , e simon , p valduriez",acm trans . database syst .,1995
+2260,"w mok , y ng , d embley",acm trans . database syst .,1996
+2261,"i mumick , s finkelstein , h pirahesh , r ramakrishnan",acm trans . database syst .,1996
+2262,"i chen , r hull , d mcleod",acm trans . database syst .,1995
+2263,"p fraternali , l tanca",acm trans . database syst .,1995
+2264,"s guo , w sun , m weiss",acm trans . database syst .,1996
+2265,"c bell , a nerode , r ng , v subrahmanian",acm trans . database syst .,1996
+2266,"p buneman , a ohori",acm trans . database syst .,1996
+2267,"e baralis , s ceri , s paraboschi",acm trans . database syst .,1996
+2268,"s ghandeharizadeh , r hull , d jacobs",acm trans . database syst .,1996
+2269,"d dey , s sarkar",acm trans . database syst .,1996
+2270,k ross,acm trans . database syst .,1996
+2271,"l liu , r meersman",acm trans . database syst .,1996
+2272,"l raschid , j lobo",acm trans . database syst .,1996
+2273,d kuo,acm trans . database syst .,1996
+2274,"p ciaccia , p tiberio , p zezula",acm trans . database syst .,1996
+2275,"w litwin , m neimat , d schneider",acm trans . database syst .,1996
+2276,"c galindo-legaria , a rosenthal",acm trans . database syst .,1997
+2277,"j clifford , c dyreson , t isakowitz , c jensen , r snodgrass",acm trans . database syst .,1997
+2278,"j keen , w dally",acm trans . database syst .,1997
+2279,"r peters , m жzsu",acm trans . database syst .,1997
+2280,,,2003
+2281,"c chan , m garofalakis , r rastogi",vldb j.,2003
+2282,"d abadi , d carney , u чetintemel , m cherniack , c convey , s lee , m stonebraker , n tatbul , s zdonik",vldb j.,2003
+2283,"s chakrabarti , s roy , m soundalgekar",vldb j.,2003
+2284,"j yang , j widom",vldb j.,2003
+2285,"r ramamurthy , d dewitt , q su",vldb j.,2003
+2286,"s helmer , g moerkotte",vldb j.,2003
+2287,"c cecil , r chiang , e lim",vldb j.,2003
+2288,"c fung , k karlapalem , q li",vldb j.,2003
+2289,c li,vldb j.,2003
+2290,"m halkidi , b nguyen , i varlamis , m vazirgiannis",vldb j.,2003
+2291,"r fileto , l liu , c pu , e assad , c medeiros",vldb j.,2003
+2292,"a maedche , b motik , l stojanovic",vldb j.,2003
+2293,"a doan , j madhavan , r dhamankar , p domingos , a halevy",vldb j.,2003
+2294,"b medjahed , a bouguettaya , a elmagarmid",vldb j.,2003
+2295,,,2003
+2296,w kim,acm trans . database syst .,1994
+2297,"k salem , h garcia-molina , j shands",acm trans . database syst .,1994
+2298,"j clifford , a croker , a tuzhilin",acm trans . database syst .,1994
+2299,"p tendick , n matloff",acm trans . database syst .,1994
+2300,"m olivier , s solms",acm trans . database syst .,1994
+2301,"e sciore , m siegel , a rosenthal",acm trans . database syst .,1994
+2302,"t yan , h garcia-molina",acm trans . database syst .,1994
+2303,v subrahmanian,acm trans . database syst .,1994
+2304,"m bright , a hurson , s pakzad",acm trans . database syst .,1994
+2305,"a rosenthal , d reiner",acm trans . database syst .,1994
+2306,"h korth , g speegle",acm trans . database syst .,1994
+2307,"p chrysanthis , k ramamritham",acm trans . database syst .,1994
+2308,"c polyzois , h garcia-molina",acm trans . database syst .,1994
+2309,"s ceri , p fraternali , s paraboschi , l tanca",acm trans . database syst .,1994
+2310,"m winslett , k smith , x qian",acm trans . database syst .,1994
+2311,"n krishnakumar , a bernstein",acm trans . database syst .,1994
+2312,"y cui , j widom , j wiener",acm trans . database syst .,2000
+2313,"j parsons , y wand",acm trans . database syst .,2000
+2314,c bіhm,acm trans . database syst .,2000
+2315,"d kossmann , k stocker",acm trans . database syst .,2000
+2316,b lerner,acm trans . database syst .,2000
+2317,"r gќting , m bіhlen , m erwig , c jensen , n lorentzos , m schneider , m vazirgiannis",acm trans . database syst .,2000
+2318,"d dey , v storey , t barron",acm trans . database syst .,1999
+2319,"k muralidhar , r sarathy",acm trans . database syst .,1999
+2320,"a dekhtyar , r ross , v subrahmanian",acm trans . database syst .,2001
+2321,"w hsu , a smith , h young",acm trans . database syst .,2001
+2322,"m bіhlen , c jensen , r snodgrass",acm trans . database syst .,2000
+2323,"l fegaras , d maier",acm trans . database syst .,2000
+2324,"d kossmann , m franklin , g drasch",acm trans . database syst .,2000
+2325,"b kemme , g alonso",acm trans . database syst .,2000
+2326,r meo,acm trans . database syst .,2000
+2327,"e baralis , j widom",acm trans . database syst .,2000
+2328,"c li , e chang",acm trans . database syst .,2001
+2329,"t eiter , j lu , t lukasiewicz , v subrahmanian",acm trans . database syst .,2001
+2330,,,2001
+2331,w ng,acm trans . database syst .,2001
+2332,"t fukuda , y morimoto , s morishita , t tokuyama",acm trans . database syst .,2001
+2333,"j chomicki , d toman , m bіhlen",acm trans . database syst .,2001
+2334,"m andries , l cabibbo , j paredaens , j bussche",acm trans . database syst .,2001
+2335,"s jajodia , p samarati , m sapino , v subrahmanian",acm trans . database syst .,2001
+2336,d suciu,acm trans . database syst .,2002
+2337,"n bruno , s chaudhuri , l gravano",acm trans . database syst .,2002
+2338,"m liu , g dobbie , t ling",acm trans . database syst .,2002
+2339,"h schuldt , g alonso , c beeri , h schek",acm trans . database syst .,2002
+2340,"n mamoulis , d papadias",acm trans . database syst .,2001
+2341,"y kotidis , n roussopoulos",acm trans . database syst .,2001
+2342,,,2001
+2343,"l lakshmanan , f sadri , s subramanian",acm trans . database syst .,2001
+2344,"m franklin , m carey , m livny",acm trans . database syst .,1997
+2345,"t eiter , g gottlob , h mannila",acm trans . database syst .,1997
+2346,"z tari , j stokes , s spaccapietra",acm trans . database syst .,1997
+2347,"m zaharioudakis , m carey , m franklin",acm trans . database syst .,1997
+2348,"p ammann , s jajodia , i ray",acm trans . database syst .,1997
+2349,"o wolfson , s jajodia , y huang",acm trans . database syst .,1997
+2350,"l lakshmanan , n leone , r ross , v subrahmanian",acm trans . database syst .,1997
+2351,"x wang , c bettini , a brodsky , s jajodia",acm trans . database syst .,1997
+2352,"x liu , a helal , w du",acm trans . database syst .,1998
+2353,"s mehrotra , r rastogi , h korth , a silberschatz",acm trans . database syst .,1998
+2354,"a formica , h grіger , m missikoff",acm trans . database syst .,1998
+2355,j hellerstein,acm trans . database syst .,1998
+2356,"a stolboushkin , m taitslin",acm trans . database syst .,1998
+2357,"v storey , r chiang , d dey , r goldstein , s sundaresan",acm trans . database syst .,1997
+2358,"c dyreson , r snodgrass",acm trans . database syst .,1998
+2359,p revesz,acm trans . database syst .,1998
+2360,"d konopnicki , o shmueli",acm trans . database syst .,1998
+2361,"m levene , g loizou",acm trans . database syst .,1999
+2362,j wijsen,acm trans . database syst .,1999
+2363,"a datta , d vandermeer , a celik , v kumar",acm trans . database syst .,1999
+2364,"s castano , v antonellis , m fugini , b pernici",acm trans . database syst .,1998
+2365,"e bertino , c bettini , e ferrari , p samarati",acm trans . database syst .,1998
+2366,"j zobel , a moffat , k ramamohanarao",acm trans . database syst .,1998
+2367,"a sistla , o wolfson , y yesha , r sloan",acm trans . database syst .,1998
+2368,"t bozkaya , z жzsoyoglu",acm trans . database syst .,1999
+2369,s alagic,acm trans . database syst .,1999
+2370,"t yan , h garcia-molina",acm trans . database syst .,1999
+2371,"y wand , v storey , r weber",acm trans . database syst .,1999
+2372,"g hjaltason , h samet",acm trans . database syst .,1999
+2373,"l gravano , h garcia-molina , a tomasic",acm trans . database syst .,1999
+2374,"s chaudhuri , k shim",acm trans . database syst .,1999
+2375,"f casati , s ceri , s paraboschi , g pozzi",acm trans . database syst .,1999
+2376,"g aslan , d mcleod",vldb j.,1999
+2377,"p boncz , m kersten",vldb j.,1999
+2378,"t hфrder , g sauter , j thomas",vldb j.,1999
+2379,"z li , k ross",vldb j.,1999
+2380,"w liang , m orlowska , j yu",vldb j.,2000
+2381,"e pacitti , e simon",vldb j.,2000
+2382,"k law , j lui , l golubchik",vldb j.,1999
+2383,"n krivokapic , a kemper , e gudes",vldb j.,1999
+2384,"m garofalakis , b жzden , a silberschatz",vldb j.,1998
+2385,"m жzsu , s christodoulakis",vldb j.,1998
+2386,"r ng , p shum",vldb j.,1998
+2387,"h jiang , a elmagarmid",vldb j.,1998
+2388,"n kabra , d dewitt",vldb j.,1999
+2389,"y huang , j ding , s tsao",vldb j.,1999
+2390,"n balkir , g жzsoyoglu",vldb j.,1998
+2391,"p zezula , p savino , g amato , f rabitti",vldb j.,1998
+2392,"b chidlovskii , u borghoff",vldb j.,2000
+2393,"j gruser , l raschid , v zadorozhny , t zhan",vldb j.,2000
+2394,"p buneman , m fernandez , d suciu",vldb j.,2000
+2395,"r braumandl , j clauпen , a kemper , d kossmann",vldb j.,2000
+2396,"k candan , e lemar , v subrahmanian",vldb j.,2000
+2397,"m fernandez , d florescu , a levy , d suciu",vldb j.,2000
+2398,"b berendt , m spiliopoulou",vldb j.,2000
+2399,,,2000
+2400,"b george , j haritsa",vldb j.,2000
+2401,"p muth , p o'neil , a pick , g weikum",vldb j.,2000
+2402,"f korn , a labrinidis , y kotidis , c faloutsos",vldb j.,2000
+2403,"g sheikholeslami , s chatterjee , a zhang",vldb j.,2000
+2404,"d gibson , j kleinberg , p raghavan",vldb j.,2000
+2405,"e knorr , r ng , v tucakov",vldb j.,2000
+2406,"k torp , c jensen , r snodgrass",vldb j.,2000
+2407,,,2000
+2408,"l haas , m carey , m livny , a shukla",vldb j.,1997
+2409,"e panagos , a biliris",vldb j.,1997
+2410,e cobb,vldb j.,1997
+2411,"d lomet , b salzberg",vldb j.,1997
+2412,"m steinbrunn , g moerkotte , a kemper",vldb j.,1997
+2413,"s berchtold , d keim , h kriegel",vldb j.,1997
+2414,"t mќck , m polaschek",vldb j.,1997
+2415,"k bіhm , k aberer , e neuhold , x yang",vldb j.,1997
+2416,"v singhal , a smith",vldb j.,1997
+2417,g antoshenkov,vldb j.,1997
+2418,"y ioannidis , r ng , k shim , t sellis",vldb j.,1997
+2419,"m chen , h hsiao , p yu",vldb j.,1997
+2420,"s mehrotra , h korth , a silberschatz",vldb j.,1997
+2421,"t catarci , g santucci , j cardiff",vldb j.,1997
+2422,"m papazoglou , b krфmer",vldb j.,1997
+2423,"m papazoglou , b krфmer",vldb j.,1997
+2424,"s abiteboul , s cluet , t milo",vldb j.,1998
+2425,"b ooi , k tan , t chua , w hsu",vldb j.,1998
+2426,"s chakrabarti , b dom , r agrawal , p raghavan",vldb j.,1998
+2427,"w ng , p chen",vldb j.,1998
+2428,"p roy , s seshadri , a silberschatz , s sudarshan , s ashwin",vldb j.,1998
+2429,"a kraiss , g weikum",vldb j.,1998
+2430,"a soffer , h samet",vldb j.,1998
+2431,p seshadri,vldb j.,1998
+2432,"o dэaz , a jaime",vldb j.,1997
+2433,"g fahl , t risch",vldb j.,1997
+2434,j han,vldb j.,1998
+2435,"a mehta , j geller , y perl , e neuhold",vldb j.,1998
+2436,"e hanson , i chen , r dastur , k engel , v ramaswamy , w tan , c xu",vldb j.,1998
+2437,"p scheuermann , g weikum , p zabback",vldb j.,1998
+2438,"n ishakbeyoglu , z жzsoyoglu",vldb j.,1998
+2439,"s deпloch , t hфrder , n mattos , b mitschang , j thomas",vldb j.,1998
+2440,"a ailamaki , d dewitt , m hill",vldb j.,2002
+2441,"e hunt , m atkinson , r irving",vldb j.,2002
+2442,"v aguilera , s cluet , t milo , p veltri , d vodislav",vldb j.,2002
+2443,,,2002
+2444,"l feng , j yu , h lu , j han",vldb j.,2002
+2445,"a nanopoulos , y manolopoulos",vldb j.,2002
+2446,"g hjaltason , h samet",vldb j.,2002
+2447,"y sakurai , m yoshikawa , s uemura , h kojima",vldb j.,2002
+2448,"e ferrari , n adam , v atluri , e bertino , u capuozzo",vldb j.,2002
+2449,"d rafiei , a mendelzon",vldb j.,2002
+2450,g navarro,vldb j.,2002
+2451,"s saltenis , c jensen",vldb j.,2002
+2452,"a marathe , k salem",vldb j.,2002
+2453,"g mihaila , l raschid , a tomasic",vldb j.,2002
+2454,"p grefen , j vonk , p apers",vldb j.,2001
+2455,a halevy,vldb j.,2001
+2456,"s chandrasekaran , m franklin",vldb j.,2003
+2457,"r agrawal , p haas , j kiernan",vldb j.,2003
+2458,"a sheth , s thacker , s patel",vldb j.,2003
+2459,"v verykios , g moustakides , m elfeky",vldb j.,2003
+2460,"b medjahed , b benatallah , a bouguettaya , a ngu , a elmagarmid",vldb j.,2003
+2461,m жzsu,vldb j.,2003
+2462,"y cui , j widom",vldb j.,2003
+2463,"s chien , v tsotras , c zaniolo",vldb j.,2002
+2464,"c chan , p felber , m garofalakis , r rastogi",vldb j.,2002
+2465,"z ives , a halevy , d weld",vldb j.,2002
+2466,,,2002
+2467,"h jagadish , s al-khalifa , a chapman , l lakshmanan , a nierman , s paparizos , j patel , d srivastava , n wiwatwattana , y wu , c yu",vldb j.,2002
+2468,"t fiebig , s helmer , c kanne , g moerkotte , j neumann , r schiele , t westmann",vldb j.,2002
+2469,"s amer-yahia , s cho , l lakshmanan , d srivastava",vldb j.,2002
+2470,"n an , s gurumurthi , a sivasubramaniam , n vijaykrishnan , m kandemir , m irwin",vldb j.,2002
+2471,"r chirkova , a halevy , d suciu",vldb j.,2002
+2472,"c lee , c shih , y chen",vldb j.,2001
+2473,"a ngu , q sheng , d huynh , r lei",vldb j.,2001
+2474,"g shegalov , m gillmann , g weikum",vldb j.,2001
+2475,"r braumandl , m keidl , a kemper , d kossmann , a kreutz , s seltzsam , k stocker",vldb j.,2001
+2476,"p bernstein , s pal , d shutt",vldb j.,2000
+2477,"c wang , x wang",vldb j.,2001
+2478,"w li , k candan , k hirata , y hara",vldb j.,2001
+2479,"c combi , g pozzi",vldb j.,2001
+2480,"s manegold , p boncz , m kersten",vldb j.,2000
+2481,"h jagadish , o kapitskaia , r ng , d srivastava",vldb j.,2000
+2482,"j clauпen , a kemper , d kossmann , c wiesner",vldb j.,2000
+2483,,,2000
+2484,"a fu , p chan , y cheung , y moon",vldb j.,2000
+2485,"i mirbel , b pernici , t sellis , s tserkezoglou , m vazirgiannis",vldb j.,2000
+2486,"k tan , c goh , b ooi",vldb j.,2000
+2487,"v raman , b raman , j hellerstein",vldb j.,2000
+2488,"d laurent , j lechtenbіrger , n spyratos , g vossen",vldb j.,2001
+2489,"j shanmugasundaram , e shekita , r barr , m carey , b lindsay , h pirahesh , b reinwald",vldb j.,2001
+2490,"e rahm , p bernstein",vldb j.,2001
+2491,"c tќrker , m gertz",vldb j.,2001
+2492,,,2001
+2493,"p pucheral , l bouganim , p valduriez , c bobineau",vldb j.,2001
+2494,"k chang , h garcia-molina",vldb j.,2001
+2495,"k chakrabarti , m garofalakis , r rastogi , k shim",vldb j.,2001
+2496,"m mecella , b pernici",vldb j.,2001
+2497,"a bonifati , s ceri , s paraboschi",vldb j.,2001
+2498,"r pottinger , a halevy",vldb j.,2001
+2499,s sarawagi,vldb j.,2001
+2500,,,2001
+2501,"a eyal , t milo",vldb j.,2001
+2502,"s su , c huang , j hammer , y huang , h li , l wang , y liu , c pluempitiwiriyawej , m lee , h lam",vldb j.,2001
+2503,"a datta , k dutta , d vandermeer , k ramamritham , s navathe",vldb j.,2001
+2504,"o tsatalos , m solomon , y ioannidis",vldb j.,1996
+2505,"a poulovassilis , c small",vldb j.,1996
+2506,"b ooi , j han , h lu , k tan",vldb j.,1996
+2507,"y shyy , j arroyo , s su , h lam",vldb j.,1996
+2508,"k ramamritham , p chrysanthis",vldb j.,1996
+2509,"a keller , j basu",vldb j.,1996
+2510,"d fang , s ghandeharizadeh",vldb j.,1996
+2511,"e amiel , m bellosta , e dujardin , e simon",vldb j.,1996
+2512,"b becker , s gschwind , t ohler , b seeger , p widmayer",vldb j.,1996
+2513,"j mylopoulos , v chaudhri , d plexousakis , a shrufi , t topaloglou",vldb j.,1996
+2514,"g evangelidis , d lomet , b salzberg",vldb j.,1997
+2515,"m mehta , d dewitt",vldb j.,1997
+2516,"t hфrder , j reinert",vldb j.,1996
+2517,"d dey , t barron , v storey",vldb j.,1996
+2518,"v kashyap , a sheth",vldb j.,1996
+2519,"g antoshenkov , m ziauddin",vldb j.,1996
+2520,"s abiteboul , c beeri",vldb j.,1995
+2521,"a albano , g ghelli , r orsini",vldb j.,1995
+2522,"s white , d dewitt",vldb j.,1995
+2523,"g landau , j schmidt , v tsotras",vldb j.,1995
+2524,"m жzsu , r peters , d szafron , b irani , a lipka , a muёoz",vldb j.,1995
+2525,"v benzaken , a doucet",vldb j.,1995
+2526,,,1995
+2527,"m atkinson , r morrison",vldb j.,1995
+2528,"m stonebraker , p aoki , w litwin , a pfeffer , a sah , j sidell , c staelin , a yu",vldb j.,1996
+2529,"e harris , k ramamohanarao",vldb j.,1996
+2530,"d dewitt , j naughton , j shafer , s venkataraman",vldb j.,1996
+2531,"r sivasankaran , j stankovic , d towsley , b purimetla , k ramamritham",vldb j.,1996
+2532,,,1995
+2533,"d barbarс , t imielinski",vldb j.,1995
+2534,"c nyberg , t barclay , z cvetanovic , j gray , d lomet",vldb j.,1995
+2535,"a swami , k schiefer",vldb j.,1995
+2536,"c clifton , h garcia-molina , d bloom",vldb j.,1995
+2537,"p constantopoulos , m jarke , j mylopoulos , y vassiliou",vldb j.,1995
+2538,r gќting,vldb j.,1994
+2539,"d agrawal , a abbadi , r jeffers , l lin",vldb j.,1995
+2540,,,1994
+2541,"w chu , i ieong , r taira",vldb j.,1994
+2542,"d papadias , t sellis",vldb j.,1994
+2543,p baumann,vldb j.,1994
+2544,,,1995
+2545,"a kemper , d kossmann",vldb j.,1995
+2546,"e teniente , a olivщ",vldb j.,1995
+2547,"j peckham , b mackellar , m doherty",vldb j.,1995
+2548,"m templeton , h henley , e maros , d buer",vldb j.,1995
+2549,"r gќting , m schneider",vldb j.,1995
+2550,,,1995
+2551,"a dan , p yu , j chung",vldb j.,1995
+2552,"m derr , s morishita , g phipps",vldb j.,1994
+2553,"r ramakrishnan , d srivastava , s sudarshan , p seshadri",vldb j.,1994
+2554,"j vaghani , k ramamohanarao , d kemp , z somogyi , p stuckey , t leask , j harland",vldb j.,1994
+2555,"d georgakopoulos , m rusinkiewicz , w litwin",vldb j.,1994
+2556,"k whang , s kim , g wiederhold",vldb j.,1994
+2557,"n kamel , p wu , s su",vldb j.,1994
+2558,,,1994
+2559,e sciore,vldb j.,1994
+2560,"k lin , h jagadish , c faloutsos",vldb j.,1994
+2561,"b lee , g wiederhold",vldb j.,1994
+2562,,,1994
+2563,"d barbarс , h garcia-molina",vldb j.,1994
+2564,e bertino,vldb j.,1994
+2565,"k ramamohanarao , j harland",vldb j.,1994
+2566,"w kieпling , h schmidt , w strauп , g dќnzinger",vldb j.,1994
+2567,,,1994
+2568,h toivonen,vldb,1996
+2569,,,2003
+2570,l liu,sigmod record,2003
+2571,"s sarawagi , m stonebraker",vldb,1996
+2572,"j bercken , b seeger",vldb,1996
+2573,y chang,sigmod record,2003
+2574,"m carey , l haas , v maganty , j williams",vldb,1996
+2575,"j wen , q li , w ma , h zhang",sigmod record,2003
+2576,,,2003
+2577,d suciu,vldb,1996
+2578,"c campbell , a eisenberg , j melton",sigmod record,2003
+2579,"l lakshmanan , f sadri , i subramanian",vldb,1996
+2580,"a ailamaki , j gehrke",sigmod record,2003
+2581,"a levy , a rajaraman , j ordille",vldb,1996
+2582,"m winslett , x ma , t yu",sigmod record,2003
+2583,"a sheth , k kochut , j miller , d worah , s das , c lin , d palaniswami , j lynch , i shevchenko",vldb,1996
+2584,j kleewein,vldb,1996
+2585,,,2002
+2586,"j melton , a eisenberg",sigmod record,2002
+2587,"r cochrane , h pirahesh , n mattos",vldb,1996
+2588,,,2002
+2589,d gawlick,vldb,1996
+2590,r snodgrass,sigmod record,2002
+2591,n mattos,vldb,1996
+2592,"w grosky , d sreenath , f fotouhi",sigmod record,2002
+2593,s atal,vldb,1996
+2594,"k aberer , p cudrщ-mauroux , m hauswirth",sigmod record,2002
+2595,a dasgupta,vldb,1996
+2596,b hammond,vldb,1996
+2597,"a sheth , r meersman",sigmod record,2002
+2598,k aberer,sigmod record,2002
+2599,t rengarajan,vldb,1996
+2600,"e bertino , c bettini , e ferrari , p samarati",vldb,1996
+2601,"p spyns , r meersman , m jarrar",sigmod record,2002
+2602,"m rys , m norrie , h schek",vldb,1996
+2603,l liu,sigmod record,2002
+2604,"s agarwal , r agrawal , p deshpande , a gupta , j naughton , r ramakrishnan , s sarawagi",vldb,1996
+2605,"e maximilien , m singh",sigmod record,2002
+2606,f cuppens,vldb,1996
+2607,"c bussler , d fensel , a maedche",sigmod record,2002
+2608,,,2003
+2609,c dyreson,vldb,1996
+2610,,,2003
+2611,"a shukla , p deshpande , j naughton , k ramasamy",vldb,1996
+2612,,,2003
+2613,"r ramakrishnan , d ram",vldb,1996
+2614,"j shafer , r agrawal , m mehta",vldb,1996
+2615,,,2003

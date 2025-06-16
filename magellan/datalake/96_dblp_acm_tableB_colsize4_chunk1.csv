@@ -1,0 +1,459 @@
+dblp_id,event_location,event_year,authors_list
+458,acm sigmod record,2000,jan van den bussche
+459,acm sigmod record,2000,"till westmann , donald kossmann , sven helmer , guido moerkotte"
+460,acm transactions on database systems ( tods ),2000,"bettina kemme , gustavo alonso"
+461,acm transactions on database systems ( tods ),2000,rosa meo
+462,acm sigmod record,2000,themistoklis palpanas
+463,acm transactions on database systems ( tods ),2000,"elena baralis , jennifer widom"
+464,acm sigmod record,2001,"jim melton , jan-eike michels , vanja josifovski , krishna kulkarni , peter schwarz , kathy zeidenstein"
+465,acm sigmod record,2001,"patrick bosc , amihai motro , gabriella pasi"
+466,acm sigmod record,2001,"david carmel , yoelle maarek , aya soffer"
+467,acm sigmod record,2001,terence critchlow
+468,international conference on management of data,2001,"raymond t. ng , alan wagner , yu yin"
+469,international conference on management of data,2001,"johannes gehrke , flip korn , divesh srivastava"
+470,international conference on management of data,2001,"jiawei han , jian pei , guozhu dong , ke wang"
+471,acm sigmod record,2001,"ren &#233; e j. miller , mauricio a. hern &#225; ndez , laura m. haas , lingling yan , c. t. howard ho , ronald fagin , lucian popa"
+472,acm sigmod record,2001,"j. k. lawder , p. j. h. king"
+473,acm sigmod record,2001,charu c. aggarwal
+474,acm sigmod record,2001,"chiara biancheri , jean-christophe pazzaglia , gavino paddeu"
+475,acm sigmod record,2000,"meikel poess , chris floyd"
+476,acm sigmod record,2001,"peter buneman , wenfei fan , j &#233; r &#244; me sim &#233; on , scott weinstein"
+477,acm sigmod record,2001,"ling feng , marfred a. jeusfeld , jeroen hoppenbrouwers"
+478,acm sigmod record,2001,"elisa bertino , ahmed k. elmagarmid , mohand-sa &#239; d hacid"
+479,acm sigmod record,2001,"calton pu , karsten schwan , jonathan walpole"
+480,acm sigmod record,1999,opher etzion
+481,acm sigmod record,2000,"angela bonifati , stefano ceri"
+482,acm sigmod record,1999,"stella gatziu , manfred jeusfeld , martin staudt , yannis vassiliou"
+483,acm sigmod record,2000,"andreas paepcke , hector garcia-molina , gerard rodriguez-mula , junghoo cho"
+484,acm sigmod record,1999,"eric n. hanson , lloyd x. noronha"
+485,acm sigmod record,1999,"tim kempster , colin stirling , peter thanisch"
+486,acm sigmod record,1999,leonid libkin
+487,acm sigmod record,1999,serge abiteboul
+488,international conference on management of data,2000,"peter revesz , rui chen , pradip kanjamala , yiming li , yuguo liu , yonghui wang"
+489,acm sigmod record,2000,"john f. roddick , lina al-jadir , leopoldo bertossi , marlon dumas , florida estrella , heidi gregersen , kathleen hornsby , jens lufter , federica mandreoli , tomi m &#228; nnist &#246; , enric mayol , lex wedemeijer"
+490,acm sigmod record,2000,"alexandros labrinidis , nick roussopoulos"
+491,acm sigmod record,2000,"elaheh pourabbas , maurizio rafanelli"
+492,acm sigmod record,2000,costas vassilakis
+493,acm sigmod record,2000,"guozhu dong , jianwen su"
+494,acm sigmod record,2000,"hartmut liefke , dan suciu"
+495,acm sigmod record,2000,"andrew eisenberg , jim melton"
+496,acm transactions on database systems ( tods ),2000,"jeffrey parsons , yair wand"
+497,acm transactions on database systems ( tods ),2000,"yingwei cui , jennifer widom , janet l. wiener"
+498,acm sigmod record,2000,"heiko ludwig , paul grefen"
+499,acm sigmod record,2000,"krishna kant , prasant mohapatra"
+500,acm sigmod record,2000,"sena arpinar , asuman dogac"
+501,acm sigmod record,2000,"kun-lung wu , philip s. yu"
+502,acm sigmod record,2000,"yannis theodoridis , mario a. nascimento"
+503,acm sigmod record,2000,"eliseo clementini , paolino di felice"
+504,acm sigmod record,1999,"ron musick , terence critchlow"
+505,acm sigmod record,1999,"kaippallimalil j. jacob , dennis shasha"
+506,acm sigmod record,1999,"panos vassiliadis , timos sellis"
+507,acm sigmod record,1999,"andrew eisenberg , jim melton"
+508,acm transactions on database systems ( tods ),2000,"donald kossmann , konrad stocker"
+509,acm transactions on database systems ( tods ),2000,"ralf hartmut g &#252; ting , michael h. b &#246; hlen , martin erwig , christian s. jensen , nikos a. lorentzos , markus schneider , michalis vazirgiannis"
+510,acm transactions on database systems ( tods ),2000,christian b &#246; hm
+511,acm transactions on database systems ( tods ),2000,barbara staudt lerner
+512,acm sigmod record,2002,karl aberer
+513,acm sigmod record,2002,karl aberer
+514,acm sigmod record,2002,"maria halkidi , yannis batistakis , michalis vazirgiannis"
+515,acm sigmod record,2002,"shi ming huang , irene kwan , chih he li"
+516,acm sigmod record,2002,leonid libkin
+517,acm sigmod record,2002,frank neven
+518,acm sigmod record,2002,bart kuijpers
+519,acm sigmod record,2002,gerhard weikum
+520,acm sigmod record,2002,len seligman
+521,acm sigmod record,2002,"sam s. lightstone , guy lohman , danny zilio"
+522,acm sigmod record,2002,marianne winslett
+523,acm sigmod record,2002,marianne winslett
+524,acm sigmod record,2002,jim melton
+525,acm sigmod record,2002,"jim melton , jan eike michels , vanja josifovski , krishna kulkarni , peter schwarz"
+526,acm sigmod record,2002,ken ross
+527,acm sigmod record,2002,"kenneth a. ross , theodore johnson , richard thomas snodgrass"
+528,acm transactions on database systems ( tods ),2002,"nicolas bruno , surajit chaudhuri , luis gravano"
+529,acm sigmod record,2002,ronald fagin
+530,acm sigmod record,2002,leonid libkin
+531,acm sigmod record,2002,"andrew eisenberg , jim melton"
+532,acm transactions on database systems ( tods ),2002,"toon calders , raymond t. ng , jef wijsen"
+533,acm transactions on database systems ( tods ),1995,won kim
+534,acm transactions on database systems ( tods ),1995,won kim
+535,acm transactions on database systems ( tods ),2002,"kaushik chakrabarti , eamonn keogh , sharad mehrotra , michael pazzani"
+536,acm transactions on database systems ( tods ),2002,"paolo ciaccia , marco patella"
+537,acm transactions on database systems ( tods ),2002,"wolfgang may , bertram lud &#228; scher"
+538,acm transactions on database systems ( tods ),2002,"yufei tao , dimitris papadias , jun zhang"
+539,acm transactions on database systems ( tods ),2002,"phillip b. gibbons , yossi matias , viswanath poosala"
+540,acm sigmod record,2002,"yong yao , johannes gehrke"
+541,acm sigmod record,2002,avigdor gal
+542,acm sigmod record,2002,joachim hammer
+543,acm transactions on database systems ( tods ),2002,"mary fern &#225; ndez , yana kadiyska , dan suciu , atsuyuki morishima , wang-chiew tan"
+544,acm sigmod record,2001,"luc bouganim , maria claudia cavalcanti , fran &#231; oise fabret , maria luiza campos , fran &#231; ois llirbat , marta mattoso , rubens melo , ana maria moura , esther pacitti , fabio porto , margareth simoes , eric simon , asterio tanaka , patrick valduriez"
+545,acm sigmod record,2001,nam huyn
+546,acm sigmod record,2001,ken ross
+547,acm sigmod record,2001,kenneth a. ross
+548,acm sigmod record,2001,"shivnath babu , jennifer widom"
+549,acm sigmod record,2001,alexandros labrinidis
+550,acm sigmod record,2001,"alexandros labrinidis , alberto o. mendelzon"
+551,acm sigmod record,2001,kenneth a. ross
+552,acm sigmod record,2001,daniel barbar &#225;
+553,acm sigmod record,2001,daniel barbar &#225;
+554,acm sigmod record,2001,"salvatore j. stolfo , wenke lee , philip k. chan , wei fan , eleazar eskin"
+555,acm sigmod record,2001,"daniel barbar &#225; , julia couto , sushil jajodia , ningning wu"
+556,acm sigmod record,2001,"jo &#227; o b. d. cabrera , lundy lewis , raman k. mehra"
+557,acm sigmod record,2001,"wenke lee , wei fan"
+558,acm sigmod record,2001,"y &#252; cel saygin , vassilios s. verykios , chris clifton"
+559,acm sigmod record,2001,"o. de vel , a. anderson , m. corney , g. mohay"
+560,acm sigmod record,2002,"zachary g. ives , qiong luo"
+561,acm sigmod record,2002,alexandros labrinidis
+562,acm sigmod record,2002,"m. winslett , k. chang , a. doan , j. han , c. zhai , y. zhou"
+563,acm sigmod record,2002,amit sheth
+564,acm sigmod record,2000,kenneth a. ross
+565,acm sigmod record,2002,"isabel cruz , ashfaq khokhar , bing liu , prasad sistla , ouri wolfson , clement yu"
+566,acm sigmod record,2001,peter fankhauser
+567,acm sigmod record,2001,karl aberer
+568,acm sigmod record,2001,"albrecht schmidt , florian waas , martin kersten , daniela florescu , michael j. carey , ioana manolescu , ralph busse"
+569,acm sigmod record,2001,"jayavel shanmugasundaram , eugene shekita , jerry kiernan , rajasekar krishnamurthy , efstratios viglas , jeffrey naughton , igor tatarinov"
+570,acm sigmod record,2001,dan suciu
+571,acm sigmod record,2001,"wei han , david buttler , calton pu"
+572,acm sigmod record,2001,"bertram lud &#228; scher , richard marciano , reagan moore"
+573,acm sigmod record,2001,"shu yao chien , vassilis j. tsotras , carlo zaniolo"
+574,acm sigmod record,2001,david lomet
+575,acm sigmod record,2001,avigdor gal
+576,the vldb journal -- the international journal on very large data bases,1994,"jayen vaghani , kotagiri ramamohanarao , david b. kemp , zoltan somogyi , peter j. stuckey , tim s. leask , james harland"
+577,the vldb journal -- the international journal on very large data bases,1994,"byung suk lee , gio wiederhold"
+578,the vldb journal -- the international journal on very large data bases,1994,"raghu ramakrishnan , divesh srivastava , s. sudarshan , praveen seshadri"
+579,the vldb journal -- the international journal on very large data bases,1994,"werner kie &#223; ling , helmut schmidt , werner strau &#223; , gerhard d &#252; nzinger"
+580,the vldb journal -- the international journal on very large data bases,1994,"kotagiri ramamohanarao , james harland"
+581,the vldb journal -- the international journal on very large data bases,1994,"marcia a. derr , shinichi morishita , geoffrey phipps"
+582,the vldb journal -- the international journal on very large data bases,1994,edward sciore
+583,the vldb journal -- the international journal on very large data bases,1994,k. ramamohanarao
+584,the vldb journal -- the international journal on very large data bases,1994,"dimitris papadias , timos sellis"
+585,the vldb journal -- the international journal on very large data bases,1994,"king ip lin , h. v. jagadish , christos faloutsos"
+586,the vldb journal -- the international journal on very large data bases,1994,peter baumann
+587,the vldb journal -- the international journal on very large data bases,1994,"wesley w. chu , ion t. ieong , ricky k. taira"
+588,the vldb journal -- the international journal on very large data bases,1994,h. j. schek
+589,the vldb journal -- the international journal on very large data bases,1994,ralf hartmut g &#252; ting
+590,the vldb journal -- the international journal on very large data bases,1994,"daniel barbar &#225; - mill &#225; , hector garcia-molina"
+591,the vldb journal -- the international journal on very large data bases,1994,elisa bertino
+592,acm sigmod record,2001,"jim melton , andrew eisenberg"
+593,acm sigmod record,2001,andrew eisenberg
+594,acm sigmod record,2001,luca cardelli
+595,acm sigmod record,2001,leonid libkin
+596,acm sigmod record,2001,h. v. jagadish
+597,acm sigmod record,2001,marc h. scholl
+598,acm sigmod record,2001,karl aberer
+599,acm sigmod record,2001,karl aberer
+600,the vldb journal -- the international journal on very large data bases,1994,"nabil kamel , ping wu , stanley y. w. su"
+601,the vldb journal -- the international journal on very large data bases,1994,"kyu young whang , sang wook kim , gio wiederhold"
+602,the vldb journal -- the international journal on very large data bases,1994,"dimitrios georgakopoulos , marek rusinkiewicz , witold litwin"
+603,acm sigmod record,2001,"amit sheth , john miller , krys kochut , budak arpinar"
+604,acm sigmod record,2001,amit sheth
+605,acm sigmod record,2001,u &#287; ur &#199; etintemel
+606,acm sigmod record,2001,alexandros labrinidis
+607,acm sigmod record,2001,"mehul a. shah , michael j. franklin , samuel madden , joseph m. hellerstein"
+608,acm sigmod record,2002,"robert meersman , amit sheth"
+609,acm sigmod record,2002,"peter spyns , robert meersman , mustafa jarrar"
+610,acm sigmod record,2002,"york sure , steffen staab , rudi studer"
+611,acm sigmod record,2002,"christoph bussler , dieter fensel , alexander maedche"
+612,the vldb journal -- the international journal on very large data bases,1995,"daniel barbar &#225; , tomasz imieli &#324; ski"
+613,the vldb journal -- the international journal on very large data bases,1995,"chris nyberg , tom barclay , zarka cvetanovic , jim gray , dave lomet"
+614,the vldb journal -- the international journal on very large data bases,1995,"seth j. white , david j. dewitt"
+615,the vldb journal -- the international journal on very large data bases,1995,"arun swami , k. bernhard schiefer"
+616,acm sigmod record,2002,"w. i. grosky , d. v. sreenath , f. fotouhi"
+617,acm sigmod record,2002,"david buttler , matthew coleman , terence critchlow , renato fileto , wei han , calton pu , daniel rocco , li xiong"
+618,acm sigmod record,2002,"carole goble , david de roure"
+619,acm sigmod record,2002,karl aberer
+620,acm sigmod record,2002,"tim finin , anupam joshi"
+621,acm sigmod record,2002,"e. michael maximilien , munindar p. singh"
+622,acm sigmod record,2002,"kemafor anyanwu , amit sheth"
+623,acm sigmod record,2002,"karl aberer , philippe cudr &#233; - mauroux , manfred hauswirth"
+624,the vldb journal -- the international journal on very large data bases,1995,"ernest teniente , antoni oliv &#233;"
+625,the vldb journal -- the international journal on very large data bases,1995,"joan peckham , bonnie mackellar , michael doherty"
+626,the vldb journal -- the international journal on very large data bases,1995,"marjorie templeton , herbert henley , edward maros , darrel j. van buer"
+627,the vldb journal -- the international journal on very large data bases,1995,"ralf hartmut g &#252; ting , markus schneider"
+628,the vldb journal -- the international journal on very large data bases,1995,"chris clifton , hector garcia-molina , david bloom"
+629,the vldb journal -- the international journal on very large data bases,1995,"panos constantopoulos , matthias jarke , john mylopoulos , yannis vassiliou"
+630,the vldb journal -- the international journal on very large data bases,1995,"asit dan , philip s. yu , jen yao chung"
+631,the vldb journal -- the international journal on very large data bases,1995,"divyakant agrawal , amr el abbadi , richard jeffers , lijing lin"
+632,the vldb journal -- the international journal on very large data bases,1995,"gad m. landau , jeanette p. schmidt , vassilis j. tsotras"
+633,the vldb journal -- the international journal on very large data bases,1995,"alfons kemper , donald kossmann"
+634,the vldb journal -- the international journal on very large data bases,1995,stanley y. w. su
+635,the vldb journal -- the international journal on very large data bases,1995,"serge abiteboul , catriel beeri"
+636,the vldb journal -- the international journal on very large data bases,1995,"antonio albano , giorgio ghelli , renzo orsini"
+637,the vldb journal -- the international journal on very large data bases,1995,"malcolm atkinson , ronald morrison"
+638,the vldb journal -- the international journal on very large data bases,1995,"v &#233; ronique benzaken , anne doucet"
+639,the vldb journal -- the international journal on very large data bases,1995,"m. tamer &#214; zsu , randal peters , duane szafron , boman irani , anna lipka , adriana mu &#241; oz"
+640,international conference on management of data,2002,"stratis d. viglas , jeffrey f. naughton"
+641,international conference on management of data,2002,"panos kalnis , wee siong ng , beng chin ooi , dimitris papadias , kian-lee tan"
+642,international conference on management of data,2002,"mirek riedewald , divyakant agrawal , amr el abbadi"
+643,international conference on management of data,2002,"peter buneman , sanjeev khanna , keishi tajima , wang-chiew tan"
+644,international conference on management of data,2002,"vladimir zadorozhny , louiqa raschid , maria esther vidal , tolga urhan , laura bright"
+645,international conference on management of data,2002,"chris olston , jennifer widom"
+646,international conference on management of data,2002,"alin dobra , minos garofalakis , johannes gehrke , rajeev rastogi"
+647,international conference on management of data,2002,"samuel madden , mehul shah , joseph m. hellerstein , vijayshankar raman"
+648,acm sigmod record,2002,avigdor gal
+649,acm sigmod record,2002,kenneth a. ross
+650,acm sigmod record,2002,ken ross
+651,acm sigmod record,2002,michael stonebraker
+652,acm sigmod record,2002,richard thomas snodgrass
+653,acm sigmod record,2002,alexandros labrinidis
+654,acm sigmod record,2002,"albertas caplinskas , johann eder , olegas vasilecas"
+655,acm sigmod record,2002,"carole goble , brian read"
+656,acm sigmod record,2002,michael dertouzos
+657,acm sigmod record,2002,marianne winslett
+658,acm sigmod record,2002,"philip m. lewis , arthur bernstein , michael kifer"
+659,acm sigmod record,2002,"ian h. witten , eibe frank"
+660,acm sigmod record,2002,dan suciu
+661,acm sigmod record,2002,len seligman
+662,acm sigmod record,2002,marianne winslett
+663,acm sigmod record,2002,leonid libkin
+664,acm sigmod record,2002,"christoph quix , mareike schoop , manfred jeusfeld"
+665,acm sigmod record,2002,"riza cenk erdur , o &#287; uz dikenelli"
+666,acm sigmod record,2002,hyoungdo kim
+667,acm sigmod record,2002,"zhan cui , dean jones , paul o'brien"
+668,acm sigmod record,2002,karl aberer
+669,acm sigmod record,2002,karl aberer
+670,acm sigmod record,2002,"michael o. ball , meng ma , louiqa raschid , zhengying zhao"
+671,acm sigmod record,2002,christoph bussler
+672,international conference on management of data,2002,"haixun wang , wei wang , jiong yang , philip s. yu"
+673,international conference on management of data,2002,"yang-sae moon , kyu-young whang , wook-shin han"
+674,international conference on management of data,2002,"cecilia m. procopiuc , michael jones , pankaj k. agarwal , t. m. murali"
+675,international conference on management of data,2002,"jiong yang , wei wang , philip s. yu , jiawei han"
+676,international conference on management of data,2002,"yong-jin choi , chin-wan chung"
+677,international conference on management of data,2002,"nitin thaper , sudipto guha , piotr indyk , nick koudas"
+678,international conference on management of data,2002,"yannis sismanis , antonios deligiannakis , nick roussopoulos , yannis kotidis"
+679,international conference on management of data,2002,charu c. aggarwal
+680,international conference on management of data,2002,prakash ramanan
+681,international conference on management of data,2002,"sudipto guha , h. v. jagadish , nick koudas , divesh srivastava , ting yu"
+682,international conference on management of data,2002,"arjen p. de vries , nikos mamoulis , niels nes , martin kersten"
+683,international conference on management of data,2002,"nicolas bruno , nick koudas , divesh srivastava"
+684,international conference on management of data,2002,"kevin chen-chuan chang , seung-won hwang"
+685,international conference on management of data,2002,"yufei tao , dimitris papadias"
+686,international conference on management of data,2002,"like gao , x. sean wang"
+687,international conference on management of data,2002,"neoklis polyzotis , minos garofalakis"
+688,international conference on management of data,2002,"yannis papakonstantinou , michalis petropoulos , vasilis vassalos"
+689,international conference on management of data,2002,"igor tatarinov , stratis d. viglas , kevin beyer , jayavel shanmugasundaram , eugene shekita , chun zhang"
+690,international conference on management of data,2002,"hakan hacig &#252; m &#252; &#351; , bala iyer , chen li , sharad mehrotra"
+691,international conference on management of data,2002,"michael gillmann , gerhard weikum , wolfgang wonner"
+692,international conference on management of data,2002,"tamraparni dasu , theodore johnson , s. muthukrishnan , vladislav shkapenyuk"
+693,international conference on management of data,2002,"gang luo , curt j. ellmann , peter j. haas , jeffrey f. naughton"
+694,international conference on management of data,2002,"nicolas bruno , surajit chaudhuri"
+695,international conference on management of data,2002,"vijayshankar raman , joseph m. hellerstein"
+696,international conference on management of data,2002,"anindya datta , kaushik dutta , helen thomas , debra vandermeer , suresha , krithi ramamritham"
+697,international conference on management of data,2002,torsten grust
+698,international conference on management of data,2002,"chin-wan chung , jun-ki min , kyuseok shim"
+699,international conference on management of data,2002,"raghav kaushik , philip bohannon , jeffrey f naughton , henry f korth"
+700,international conference on management of data,2002,"jingren zhou , kenneth a. ross"
+701,international conference on management of data,2002,"shimin chen , phillip b. gibbons , todd c. mowry , gary valentin"
+702,international conference on management of data,2002,"wei li , dengfeng gao , richard thomas snodgrass"
+703,international conference on management of data,2002,"juliana freire , jayant r. haritsa , maya ramanath , prasan roy , j &#233; r &#244; me sim &#233; on"
+704,international conference on management of data,2002,"alexander hinneburg , daniel a. keim , markus wawryniuk"
+705,international conference on management of data,2002,"jessica m. phan , raymond ng"
+706,international conference on management of data,2002,"sanjay agrawal , surajit chaudhuri , gautam das"
+707,international conference on management of data,2002,"jiawei han , jianyong wang , guozhu dong , jian pei , ke wang"
+708,international conference on management of data,2002,"daniela florescu , andreas gr &#252; nhagen , donald kossmann , steffen rost"
+709,international conference on management of data,2002,"valter crescenzi , giansalvatore mecca , paolo merialdo"
+710,international conference on management of data,2002,"chuck cranor , yuan gao , theodore johnson , vlaidslav shkapenyuk , oliver spatscheck"
+711,international conference on management of data,2002,"samuel madden , joseph m. hellerstein"
+712,international conference on management of data,2002,"wai fu fung , david sun , johannes gehrke"
+713,international conference on management of data,2002,"tengjiao wang , shiwei tang , dongqing yang , jun gao , yuqing wu , jian pei"
+714,international conference on management of data,2002,"pradnya karbhari , michael rabinovich , zhen xiao , fred douglis"
+715,international conference on management of data,2002,"li chen , elke a. rundensteiner , song wang"
+716,international conference on management of data,2002,"daniel j. abadi , mitch cherniack"
+717,international conference on management of data,2002,"denilson barbosa , alberto mendelzon , john keenleyside , kelly lyons"
+718,international conference on management of data,2002,"anja theobald , gerhard weikum"
+719,international conference on management of data,2002,"xin zhang , mukesh mulchandani , steffen christ , brian murphy , elke a. rundensteiner"
+720,international conference on management of data,2002,"mehmet altinel , qiong luo , sailesh krishnamurthy , c. mohan , hamid pirahesh , bruce g. lindsay , honguk woo , larry brown"
+721,international conference on management of data,2002,"volker markl , guy lohman"
+722,international conference on management of data,2002,"jesse anton , lawrence jacobs , xiang liu , jordan parker , zheng zeng , tie zhong"
+723,international conference on management of data,2002,"qiong luo , sailesh krishnamurthy , c. mohan , hamid pirahesh , honguk woo , bruce g. lindsay , jeffrey f. naughton"
+724,international conference on management of data,2002,"meikel poess , bryan smith , lubor kollar , paul larson"
+725,international conference on management of data,2002,the timesten team
+726,international conference on management of data,2002,"jun rao , chun zhang , nimrod megiddo , guy lohman"
+727,international conference on management of data,2002,"alexander s. szalay , jim gray , ani r. thakar , peter z. kunszt , tanu malik , jordan raddick , christopher stoughton , jan vandenberg"
+728,international conference on management of data,2002,andreas weininger
+729,international conference on management of data,2002,"ravi kanth v kothuri , siva ravada , daniel abugov"
+730,international conference on management of data,2002,"vanja josifovski , peter schwarz , laura haas , eileen lin"
+731,international conference on management of data,2002,"peter bumbulis , ivan t. bowman"
+732,international conference on management of data,2002,"suparna bhattacharya , c. mohan , karen w. brannon , inderpal narang , hui-i hsiao , mahadevan subramanian"
+733,international conference on management of data,2002,"asuman dogac , yusuf tambag , pinar pembecioglu , sait pektas , gokce laleci , gokhan kurt , serkan toprak , yildiray kabak"
+734,international conference on management of data,2002,"minos garofalakis , phillip b. gibbons"
+735,international conference on management of data,2002,"surajit chaudhuri , ashish kumar gupta , vivek narasayya"
+736,acm sigmod record,2002,jignesh patel
+737,acm sigmod record,2002,"alberto h. f. laender , berthier a. ribeiro-neto , altigran s. da silva , juliana s. teixeira"
+738,acm sigmod record,2002,andrew eisenberg
+739,acm sigmod record,2002,"roger barga , david lomet"
+740,acm sigmod record,2002,avigdor gal
+741,acm sigmod record,2002,frank g. goethals
+742,acm sigmod record,2002,joachim hammer
+743,acm sigmod record,2002,"birgitta k &#246; nig-ries , kia makki , sam makki , charles perkins , niki pissinou , peter reiher , peter scheuermann , jari veijalainen , ouri wolfson"
+744,acm sigmod record,2002,karl aberer
+745,acm sigmod record,2002,karl aberer
+746,acm sigmod record,2002,aris ouksel
+747,acm sigmod record,2002,"fernando berzal , nicolf &#225; s mat &#237; n"
+748,acm sigmod record,2002,rafael camps par &#233;
+749,acm sigmod record,2002,"maria halkidi , yannis batistakis , michalis vazirgiannis"
+750,acm sigmod record,2002,marianne winslett
+751,acm sigmod record,2002,marianne winslett
+752,acm sigmod record,2002,"ratko orlandic , jack lukaszuk , craig swietlik"
+753,acm sigmod record,2002,"elaheh pourabbas , maurizio rafanelli"
+754,acm sigmod record,2002,nancy wiegand
+755,acm sigmod record,2002,harald kosch
+756,international conference on management of data,2002,"dennis shasha , philippe bonnet"
+757,international conference on management of data,2002,christoph bussler
+758,acm sigmod record,2002,avigdor gal
+759,acm sigmod record,2002,"giedrius slivinskas , christian s. jensen , richard thomas snodgrass"
+760,international conference on management of data,2002,paul cotton
+761,international conference on management of data,2002,"minos garofalakis , johannes gehrke , rajeev rastogi"
+762,international conference on management of data,2002,c. mohan
+763,international conference on management of data,2002,"dennis shasha , philippe bonnet"
+764,international conference on management of data,2002,"hongjun lu , guoren wang , ge yu , yubin bao , jianhua lv , yaxin yu"
+765,international conference on management of data,2002,"elke a. rundensteiner , matthew o. ward , jing yang , punit r. doshi"
+766,international conference on management of data,2002,"joseph m. hellerstein , jennifer widom"
+767,international conference on management of data,2002,philippe bonnet
+768,very large data bases,1998,"edwin m. knorr , raymond t. ng"
+769,very large data bases,1998,"stephen blott , henry f. korth , abraham silberschatz"
+770,very large data bases,1998,laurent vieille
+771,very large data bases,1998,"randall g. bello , karl dias , alan downing , james j. feenan , jr. , james l. finnerty , william d. norcott , harry sun , andrew witkowski , mohamed ziauddin"
+772,very large data bases,1998,"min fang , narayanan shivakumar , hector garcia-molina , rajeev motwani , jeffrey d. ullman"
+773,very large data bases,1998,"clara nippl , bernhard mitschang"
+774,very large data bases,1998,"lars arge , octavian procopiuc , sridhar ramaswamy , torsten suel , jeffrey scott vitter"
+775,very large data bases,1998,"rasa bliujute , christian s. jensen , simonas saltenis , giedrius slivinskas"
+776,very large data bases,1998,"gholamhosein sheikholeslami , surojit chatterjee , aidong zhang"
+777,very large data bases,1998,"reinhard braumandl , jens clau &#223; en , alfons kemper"
+778,very large data bases,1998,sergio greco
+779,very large data bases,1998,j. d. tygar
+780,very large data bases,1998,"roy goldman , narayanan shivakumar , suresh venkatasubramanian , hector garcia-molina"
+781,very large data bases,1998,"erik riedel , garth a. gibson , christos faloutsos"
+782,very large data bases,1999,"jason mchugh , jennifer widom"
+783,very large data bases,1999,"swarup acharya , phillip b. gibbons , viswanath poosala"
+784,very large data bases,1999,"arnaud sahuguet , fabien azavant"
+785,very large data bases,1999,theodore johnson
+786,very large data bases,1999,"anindya datta , krithi ramamritham , helen m. thomas"
+787,very large data bases,1999,david campbell
+788,very large data bases,1999,"sin yeung lee , tok wang ling"
+789,very large data bases,1999,"jianzhong li , doron rotem , jaideep srivastava"
+790,very large data bases,1999,"felix naumann , ulf leser , johann christoph freytag"
+791,very large data bases,1999,"qi cheng , jarek gryz , fred koo , t. y. cliff leung , linqi liu , xiaoyan qian , k. bernhard schiefer"
+792,very large data bases,1999,marcel kornacker
+793,very large data bases,1999,"surajit chaudhuri , luis gravano"
+794,very large data bases,1999,"ke wang , senqiang zhou , shiang chen liew"
+795,very large data bases,1999,"j &#233; r &#244; me darmont , michel schneider"
+796,very large data bases,1999,"jun rao , kenneth a. ross"
+797,very large data bases,1999,"kaladhar voruganti , m. tamer &#214; zsu , ronald c. unrau"
+798,very large data bases,1999,"peter a. boncz , stefan manegold , martin l. kersten"
+799,very large data bases,1999,"chee yong chan , yannis e. ioannidis"
+800,very large data bases,1999,"mary tork roth , fatma ozcan , laura m. haas"
+801,very large data bases,1999,"daniela florescu , alon y. levy , dan suciu , khaled yagoub"
+802,very large data bases,1999,"michael l. brodie , surajit chaudhuri"
+803,very large data bases,1999,"torben bach pedersen , christian s. jensen , curtis e. dyreson"
+804,very large data bases,1999,"philip a. bernstein , shankar pal , david shutt"
+805,very large data bases,1999,"serge abiteboul , vincent aguilera , s &#233; bastien ailleret , bernd amann , sophie cluet , brendan hills , fr &#233; d &#233; ric hubert , jean-claude mamou , am &#233; lie marian , laurent mignet , tova milo , cassio souza dos santos , bruno tessier , anne-marie vercoustre"
+806,very large data bases,1999,"weidong chen , jyh-herng chow , you-chin fuh , jean grandbois , michelle jou , nelson mendon &#231; a mattos , brian t. tran , yun wang"
+807,very large data bases,1999,"masahisa tamura , masaru kitsuregawa"
+808,very large data bases,1999,umeshwar dayal
+809,very large data bases,1999,"h. v. jagadish , olga kapitskaia , raymond t. ng , divesh srivastava"
+810,very large data bases,1999,sunita sarawagi
+811,very large data bases,1999,"jayavel shanmugasundaram , kristin tufte , chun zhang , gang he , david j. dewitt , jeffrey f. naughton"
+812,very large data bases,1999,"alfons kemper , donald kossmann , christian wiesner"
+813,very large data bases,1999,"alexander hinneburg , daniel a. keim"
+814,very large data bases,1999,"evaggelia pitoura , panos k. chrysanthis"
+815,very large data bases,1999,"antony l. hosking , jiawan chen"
+816,very large data bases,1999,"roger bamford , rafiul ahad , angelo pruscino"
+817,very large data bases,1999,"donko donjerkovic , raghu ramakrishnan"
+818,very large data bases,1999,"cheng hian goh , beng chin ooi , d. sim , kian-lee tan"
+819,very large data bases,1999,james r. hamilton
+820,very large data bases,1999,"peter baumann , andreas dehmel , paula furtado , roland ritsch , norbert widmann"
+821,very large data bases,1999,"minos n. garofalakis , rajeev rastogi , kyuseok shim"
+822,very large data bases,1999,"laks v. s. lakshmanan , fereidoon sadri , subbu n. subramanian"
+823,very large data bases,1999,"ravi kumar , prabhakar raghavan , sridhar rajagopalan , andrew tomkins"
+824,very large data bases,1999,"chris jermaine , anindya datta , edward omiecinski"
+825,very large data bases,1999,"luc bouganim , tatiana chan-sine-ying , tuyet-tram dang-ngoc , jean-luc darroux , georges gardarin , fei sha"
+826,very large data bases,1999,"michael jaedicke , bernhard mitschang"
+827,very large data bases,1999,"aristides gionis , piotr indyk , rajeev motwani"
+828,very large data bases,1999,"esther pacitti , pascale minet , eric simon"
+829,very large data bases,1999,"michael j. carey , donald d. chamberlin , srinivasa narayanan , bennet vance , doug doole , serge rielau , richard swagerman , nelson mendon &#231; a mattos"
+830,very large data bases,1999,"kian-lee tan , cheng hian goh , beng chin ooi"
+831,very large data bases,1999,"you-chin fuh , stefan de &#223; loch , weidong chen , nelson mendon &#231; a mattos , brian t. tran , bruce g. lindsay , linda demichel , serge rielau , danko mannhaupt"
+832,very large data bases,1999,goetz graefe
+833,very large data bases,1999,"yannis e. ioannidis , viswanath poosala"
+834,very large data bases,1999,"arjen p. de vries , mark g. l. m. van doorn , henk m. blanken , peter m. g. apers"
+835,very large data bases,1999,"edwin m. knorr , raymond t. ng"
+836,very large data bases,1999,"stefano ceri , piero fraternali , stefano paraboschi"
+837,very large data bases,1999,"soumen chakrabarti , martin van den berg , byron dom"
+838,very large data bases,1999,c. mohan
+839,very large data bases,1999,"felipe cari &#241; o , william o'connell , john burgess , joel h. saltz"
+840,very large data bases,1999,"h. v. jagadish , laks v. s. lakshmanan , divesh srivastava"
+841,very large data bases,1999,"thomas zurek , markus sinnwell"
+842,very large data bases,1999,"arnd christian k &#246; nig , gerhard weikum"
+843,very large data bases,1999,"h. v. jagadish , j. madar , raymond t. ng"
+844,very large data bases,1999,"anastassia ailamaki , david j. dewitt , mark d. hill , david a. wood"
+845,very large data bases,1999,"udo nink , theo h &#228; rder , norbert ritter"
+846,very large data bases,1999,"serge abiteboul , bernd amann , sophie cluet , adi eyal , laurent mignet , tova milo"
+847,very large data bases,1999,"vijayshankar raman , bhaskaran raman , joseph m. hellerstein"
+848,very large data bases,1999,"vanja josifovski , tore risch"
+849,very large data bases,2000,"alexander hinneburg , charu c. aggarwal , daniel a. keim"
+850,very large data bases,2000,"yasushi sakurai , masatoshi yoshikawa , shunsuke uemura , haruhiko kojima"
+851,very large data bases,2000,"ren &#233; e j. miller , laura m. haas , mauricio a. hern &#225; ndez"
+852,very large data bases,1999,sudarshan s. chawathe
+853,very large data bases,1999,steven j. derose
+854,very large data bases,1999,"laura m. haas , donald kossmann , ioana ursu"
+855,very large data bases,1999,"curtis e. dyreson , michael h. b &#246; hlen , christian s. jensen"
+856,very large data bases,2000,"cyrus shahabi , adil faisal , farnoush banaei kashani , jabed faruque"
+857,very large data bases,2000,sandeepan banerjee
+858,very large data bases,2000,"wilburt labio , jun yang , yingwei cui , hector garcia-molina , jennifer widom"
+859,very large data bases,2000,john l. schnase
+860,very large data bases,2000,"yanlei diao , hongjun lu , songting chen , zengping tian"
+861,very large data bases,2000,"junghoo cho , hector garcia-molina"
+862,very large data bases,2000,michael l. brodie
+863,very large data bases,2000,"naphtali rishe , jun yuan , rukshan athauda , shu-ching chen , xiaoling lu , xiaobin ma , alexander vaschillo , artyom shaposhnikov , dmitry vasilevsky"
+864,very large data bases,2000,"fabio casati , ming-chien shan"
+865,very large data bases,2000,"maurizio panti , luca spalazzi , alberto giretti"
+866,very large data bases,2000,"rachel pottinger , alon y. levy"
+867,very large data bases,2000,"jo &#227; o pereira , fran &#231; oise fabret , fran &#231; ois llirbat , radu preotiuc-pietro , kenneth a. ross , dennis shasha"
+868,very large data bases,2000,"byoung-kee yi , christos faloutsos"
+869,very large data bases,2000,"matthias jarke , thomas list , j &#246; rg k &#246; ller"
+870,very large data bases,2000,"haixun wang , carlo zaniolo"
+871,very large data bases,2000,"hongjun lu , hongyan liu"
+872,very large data bases,2000,"s. misbah deen , anant jhingran , shamkant b. navathe , erich j. neuhold , gio wiederhold"
+873,very large data bases,2000,"sanjay agrawal , surajit chaudhuri , vivek r. narasayya"
+874,very large data bases,2000,michael j. carey
+875,very large data bases,2000,"piotr indyk , nick koudas , s. muthukrishnan"
+876,very large data bases,2000,anil nori
+877,very large data bases,2000,"ke wang , yu he , jiawei han"
+878,very large data bases,2000,"surajit chaudhuri , gerhard weikum"
+879,very large data bases,2000,"jayavel shanmugasundaram , eugene j. shekita , rimon barr , michael j. carey , bruce g. lindsay , hamid pirahesh , berthold reinwald"
+880,very large data bases,2000,"torben bach pedersen , christian s. jensen , curtis e. dyreson"
+881,very large data bases,2000,"thomas st &#246; hr , holger m &#228; rtens , erhard rahm"
+882,very large data bases,2000,shalom tsur
+883,very large data bases,2000,"mehmet altinel , michael j. franklin"
+884,very large data bases,2000,
+885,very large data bases,2000,"asaf adi , david botzer , opher etzion , tali yatzkar-haham"
+886,very large data bases,2000,"amir netz , surajit chaudhuri , jeff bernhardt , usama m. fayyad"
+887,very large data bases,2000,"wes cowley , dimitris plexousakis"
+888,very large data bases,2000,"nikos pappas , stavros christodoulakis"
+889,very large data bases,2000,"kaushik chakrabarti , minos n. garofalakis , rajeev rastogi , kyuseok shim"
+890,very large data bases,2000,joseph y. halpern
+891,very large data bases,2000,"jonathan goldstein , raghu ramakrishnan"
+892,very large data bases,2000,"ioana manolescu , daniela florescu , donald kossmann , florian xhumari , dan olteanu"
+893,very large data bases,2000,"leejay wu , christos faloutsos , katia p. sycara , terry r. payne"
+894,very large data bases,2000,"hans-peter kriegel , marco p &#246; tke , thomas seidl"
+895,very large data bases,2000,"elvira schaefer , jan-dirk becker , andreas boehmer , matthias jarke"
+896,acm sigmod record,2002,jim melton
+897,acm sigmod record,2002,"andrew eisenberg , jim melton"
+898,acm sigmod record,2002,amit sheth
+899,acm sigmod record,2002,"mark roantree , alan f. smeaton"
+900,acm sigmod record,2003,"s. j. o'connell , n. winterbottom"
+901,acm sigmod record,2003,"georg gottlob , christoph koch , reinhard pichler"
+902,acm sigmod record,2003,ya-hui chang
+903,acm sigmod record,2003,"ji-rong wen , qing li , wei-ying ma , hong-jiang zhang"
+904,acm sigmod record,2002,karl aberer
+905,acm sigmod record,2002,antonio badia
+906,acm sigmod record,2002,"jie wu , duncan j. watts"
+907,acm sigmod record,2002,marianne winslett
+908,acm sigmod record,2002,martin grohe
+909,acm sigmod record,2002,avigdor gal
+910,acm sigmod record,2002,"amit sheth , robert meersman"
+911,acm sigmod record,2002,"omar boucelma , silvana castano , carole goble , vanja josifovski , zo &#233; lacroix , bertram lud &#228; scher"
+912,acm sigmod record,2003,karl aberer
+913,acm sigmod record,2003,"zo &#233; lacroix , omar boucelma"
+914,acm sigmod record,2003,"sharma chakravarthy , alp aslandogan , ramez elmasri , leonidas fegaras , junghwan oh"
+915,acm sigmod record,2003,amit sheth

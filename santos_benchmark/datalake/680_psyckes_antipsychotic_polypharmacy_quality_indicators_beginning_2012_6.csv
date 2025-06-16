@@ -1,0 +1,4 @@
+indicator_nm,age_grp,county_nm,provider_nm,eligible_pop_cnt,num_with_qi_flag,rate_high_flg
+2AP Indicator,Ages 18 and up,"Manhattan County, NY",Community Care Mgmt. Partners,"1,491 eligible individuals",160 flagged individuals,"No, rate is not high"
+Third Antipsychotic Polypharmacy,18 and older,Orange County,Restorative Management Corporation,Thirty-six,Zero,False
+2-AP,Ages 18 and older,Queens County,Flushing Hospital and Medical Center,Four Hundred Five,Thirty-Two,Not High

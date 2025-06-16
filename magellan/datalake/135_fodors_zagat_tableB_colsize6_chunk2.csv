@@ -1,0 +1,132 @@
+restaurant_id,physical_address,phone_number,restaurant_category,city_name,quality_score
+200,' 288 noe st. ',415-431-7210,mediterranean,` san francisco ',735
+201,' 2889 mission st. ',415-285-7117,mexican,` san francisco ',736
+202,' 2209 polk st. ',415-776-8226,italian,` san francisco ',737
+203,' 2225 irving st. ',415-665-9500,thai,` san francisco ',738
+204,' 3355 geary st. ',415-387-2244,hamburgers,` san francisco ',739
+205,' 1322 grant st. ',415-788-3779,hamburgers,` san francisco ',740
+206,' 631 larkin st. ',415-775-5979,cambodian,` san francisco ',741
+207,' 2817 24th st. ',415-550-9213,mexican,` san francisco ',742
+208,' 300 de haro st. ',415-626-6006,american,` san francisco ',743
+209,' 1328 18th st. ',415-431-8956,thai,` san francisco ',744
+210,' 584 valencia st. ',415-861-8032,vietnamese,` san francisco ',745
+211,' 1517 polk st. ',415-673-1101,seafood,` san francisco ',746
+212,' 400 waller st. ',415-431-2526,thai,` san francisco ',747
+213,' 3108 16th st. ',415-252-7373,french,` san francisco ',748
+214,' 1870 fillmore st. ',415-563-2248,american,` san francisco ',749
+215,' 8 sixth st. ',415-626-0927,vietnamese,` san francisco ',750
+216,' 201 ivy st. ',415-863-2382,pizza,` san francisco ',751
+217,' 2141 polk st. ',415-775-1055,mexican,` san francisco ',752
+218,' 435 s. la cienega blvd. ',310-246-1501,steakhouses,` los angeles ',0
+219,' 12224 ventura blvd. ',818-762-1221,delis,` studio city ',1
+220,' 701 stone canyon rd. ',310-472-1211,californian,` bel air ',2
+221,' 14016 ventura blvd. ',818-788-3536,` french bistro ',` sherman oaks ',3
+222,' 624 s. la brea ave. ',213-938-1447,californian,` los angeles ',4
+223,' 2709 main st. ',310-392-9025,` pacific new wave ',` santa monica ',5
+224,' 6703 melrose ave. ',213-857-0034,californian,` los angeles ',6
+225,' 8358 sunset blvd. ',213-848-6677,` french ( new ) ',` w. hollywood ',7
+226,' 23725 w. malibu rd. ',310-456-0488,californian,malibu,8
+227,' 9560 dayton way ',310-276-0615,` american ( traditional ) ',` beverly hills ',9
+228,' 1972 hillhurst ave. ',213-665-1891,japanese,` los feliz ',10
+229,' 903 n. la cienega blvd. ',310-652-9770,` french ( classic ) ',` w. hollywood ',11
+230,' 8284 melrose ave. ',213-655-8880,` french bistro ',` los angeles ',12
+231,' 8638 w. third st. ',310-274-1893,italian,` los angeles ',13
+232,' 129 n. la cienega blvd. ',310-659-9639,seafood,` beverly hills ',14
+233,' 9001 santa monica blvd. ',310-550-8811,steakhouses,` w. hollywood ',15
+234,' 5955 melrose ave. ',213-467-1108,californian,` los angeles ',16
+235,' 1001 n. alameda st. ',213-628-3781,cafeterias,chinatown,17
+236,' 12969 ventura blvd. ',818-990-0500,` french bistro ',` studio city ',18
+237,' 617 s. olive st. ',213-627-2300,` nuova cucina italian ',` los angeles ',19
+238,' 8795 sunset blvd. ',310-652-4025,californian,` w. hollywood ',20
+239,' 3115 pico blvd. ',310-829-4313,italian,` santa monica ',21
+240,'67 n. raymond ave. ',818-585-0855,chinese,pasadena,22
+241,'21 w. 52nd st. ',212-582-7200,` american ( new ) ',` new york city ',23
+242,'13 w. 54th st. ',212-307-7311,scandinavian,` new york city ',24
+243,'34 e. 61st st. ',212-319-1660,` american ( new ) ',` new york city ',25
+244,' 201 w. 83rd st. ',212-496-6031,coffeehouses,` new york city ',26
+245,' 1 w. 67th st. ',212-877-3500,` french ( classic ) ',` new york city ',27
+246,' 2450 broadway ',212-362-2200,italian,` new york city ',28
+247,' 854 seventh ave. ',212-757-2245,delis,` new york city ',29
+248,' 2 harrison st. ',212-966-6960,` french ( new ) ',` new york city ',30
+249,'20 e. 76th st. ',212-288-0033,` french ( new ) ',` new york city ',31
+250,' 210 e. 58th st. ',212-355-7555,indian,` new york city ',32
+251,' 243 e. 58th st. ',212-758-1479,italian,` new york city ',33
+252,'99 e. 52nd st. ',212-754-9494,` american ( new ) ',` new york city ',34
+253,'12 e. 12th st. ',212-620-4020,` american ( new ) ',` new york city ',35
+254,'42 e. 20th st. ',212-477-0777,` american ( new ) ',` new york city ',36
+255,' 402 w. 44th st. ',212-765-1737,caribbean,` new york city ',37
+256,' 160 e. 64th st. ',212-223-5656,` french bistro ',` new york city ',38
+257,'33 w. 55th st. ',212-586-4252,` french ( classic ) ',` new york city ',39
+258,'60 w. 55th st. ',212-688-6525,` french ( classic ) ',` new york city ',40
+259,' 155 w. 51st st. ',212-489-1515,seafood,` new york city ',41
+260,' 155 w. 58th st. ',212-484-5113,` french ( classic ) ',` new york city ',42
+261,' 2 e. 55th st. ',212-339-6719,asian,` new york city ',43
+262,' 249 e. 50th st. ',212-752-2225,` french ( classic ) ',` new york city ',44
+263,'57 w. 58th st. ',212-371-7777,seafood,` new york city ',45
+264,' 405 e. 58th st. ',212-754-6272,` american ( new ) ',` new york city ',46
+265,' 102 fifth ave. ',212-807-7400,southwestern,` new york city ',47
+266,'57 jane st. ',212-627-8273,mexican,` new york city ',48
+267,' 239 w. broadway ',212-219-2777,` french bistro ',` new york city ',49
+268,'55 e. 54th st. ',212-759-5941,seafood,` new york city ',50
+269,' 100 e. 63rd st. ',212-644-1900,` american ( new ) ',` new york city ',51
+270,' 182 w. 58th st. ',212-245-2214,russian,` new york city ',52
+271,'35 w. 64th st. ',212-724-8585,mediterranean,` new york city ',53
+272,'95 ave. a ',212-260-6660,seafood,` new york city ',54
+273,'30 rockefeller plaza ',212-632-5000,` american ( new ) ',` new york city ',55
+274,' 1 water st. ',718-522-5200,` american ( new ) ',brooklyn,56
+275,' 240 central park s. ',212-265-5959,italian,` new york city ',57
+276,' 156 second ave. ',212-677-0606,delis,` new york city ',58
+277,'11 e. 53rd st. ',212-980-9393,japanese,` new york city ',59
+278,' 155 e. 55th st. ',212-371-8844,chinese,` new york city ',60
+279,' 1110 third ave. ',212-861-8080,` american ( new ) ',` new york city ',61
+280,' 797 third ave. ',212-753-1530,steakhouses,` new york city ',62
+281,` central park west ',212-873-3200,` american ( new ) ',` new york city ',63
+282,' 747 ninth ave. ',212-245-7992,greek,` new york city ',64
+283,'21 e. 16th st. ',212-243-4020,` american ( new ) ',` new york city ',65
+284,' 152 w. 44th st. ',212-921-9494,bbq,` new york city ',66
+285,' 3200 las vegas blvd. s. ',702-733-8899,chinese,` las vegas ',67
+286,' 3799 las vegas blvd. s. ',702-891-7349,southwestern,` las vegas ',68
+287,' 3000 paradise rd. ',702-732-5651,` french bistro ',` las vegas ',69
+288,' 3570 las vegas blvd. s. ',702-731-7110,` french ( new ) ',` las vegas ',70
+289,' 200 e. fremont st. ',702-385-6277,` pacific rim ',` las vegas ',71
+290,' 2880 las vegas blvd. s. ',702-734-0410,steakhouses,` las vegas ',72
+291,' 2245 e. flamingo rd. ',702-731-4036,steakhouses,` las vegas ',73
+292,' 2355 peachtree rd. ne ',404-261-8186,italian,atlanta,74
+293,' 3125 piedmont rd. ',404-365-0410,californian,atlanta,75
+294,' 3130 piedmont rd. ne ',404-237-2663,steakhouses,atlanta,76
+295,' 3393 peachtree rd. ',404-266-1440,` french bistro ',atlanta,77
+296,' 3073 piedmont rd. ',404-262-3336,` american ( new ) ',atlanta,78
+297,' 1529 piedmont ave. ',404-874-7600,` french ( new ) ',atlanta,79
+298,' 1 margaret mitchell sq. ',404-681-2909,cafeterias,atlanta,80
+299,' 2290 peachtree rd. ',404-352-3517,southwestern,atlanta,81
+300,' 490 e. paces ferry rd. ne ',404-233-7673,continental,atlanta,82
+301,' 595 piedmont ave. ',404-876-4408,indian,atlanta,83
+302,' 1397 n. highland ave. ',404-876-0676,eclectic,atlanta,84
+303,' 2637 peachtree rd. ne ',404-231-1368,italian,atlanta,85
+304,' 224 ponce de leon ave. ',404-876-1800,southern/soul,atlanta,86
+305,' 255 courtland st. ',404-221-6362,continental,atlanta,87
+306,' 1232 w. paces ferry rd. ',404-261-3662,` american ( new ) ',atlanta,88
+307,' 3434 peachtree rd. ne ',404-237-2700,` american ( new ) ',atlanta,89
+308,' 3434 peachtree rd. ne ',404-237-2700,` american ( new ) ',atlanta,90
+309,' 181 peachtree st. ',404-659-0400,` french ( classic ) ',atlanta,91
+310,' 293-b peachtree rd. ',404-351-9533,` french ( new ) ',atlanta,92
+311,'41 14th st. ',404-875-8424,italian,atlanta,93
+312,' 126 clement st. ',415-387-0408,` french ( new ) ',` san francisco ',94
+313,' 252 california st. ',415-956-9662,` american ( new ) ',` san francisco ',95
+314,' 1 mission st. ',415-543-6084,` american ( new ) ',` san francisco ',96
+315,' 7 claude ln . ',415-392-3505,` french bistro ',` san francisco ',97
+316,' 340 stockton st. ',415-955-5555,` american ( new ) ',` san francisco ',98
+317,' 804 north point st. ',415-775-7036,californian,` san francisco ',99
+318,' 777 sutter st. ',415-673-7779,` french ( new ) ',` san francisco ',100
+319,' 570 fourth st. ',415-543-0573,` french bistro ',` san francisco ',101
+320,'22 hawthorne st. ',415-777-9779,californian,` san francisco ',102
+321,' 5937 geary blvd. ',415-668-6654,thai,` san francisco ',103
+322,' 2316 polk st. ',415-776-5577,` french ( new ) ',` san francisco ',104
+323,' 816 folsom st. ',415-495-5775,mediterranean,` san francisco ',105
+324,' 648 bush st. ',415-989-7154,` french ( new ) ',` san francisco ',106
+325,' 1737 post st. ',415-922-0337,japanese,` san francisco ',107
+326,' 3127 fillmore st. ',415-563-4755,` american ( new ) ',` san francisco ',108
+327,' 545 post st. ',415-776-7825,californian,` san francisco ',109
+328,' 600 stockton st. ',415-296-7465,` french ( new ) ',` san francisco ',110
+329,' 532 columbus ave. ',415-399-0499,italian,` san francisco ',111
+330,' 181 peachtree st. ',404-659-0400,` american ( new ) ',atlanta,711

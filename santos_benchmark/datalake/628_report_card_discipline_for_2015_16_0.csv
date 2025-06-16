@@ -1,0 +1,4 @@
+school_yr,county_name,esd_name,school_cd,school_nm,student_grp,disc_suppress_notes,disc_denominator,disc_numerator,disc_rate
+2015-2016,Lincoln County,ESD 101,3113,Harrington HS,Boys,Suppression: Top/Bottom,Suppressed Denominator,Suppressed Numerator,Less than 10%
+Academic Year 2015-16,Stevens County,ESD 101,3197,Evergreen,Economically Disadvantaged,Number of students below 10,Data Count Suppressed,Data Count Suppressed,Rate Unavailable due to N<10
+Academic Year 2015/2016,Spokane County,ESD 101,3693,Brentwood Elementary,Non-Military Parents,Data Suppressed Due to Top/Bottom Rule,Denominator Count Suppressed,Numerator Count Suppressed,Less than 4%

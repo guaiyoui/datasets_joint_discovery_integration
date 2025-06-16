@@ -1,0 +1,4 @@
+death_id,death_date,date_type,res_city,res_county,location,injury_desc,injury_place,cause_of_death,death_city_geo,res_city_geo
+2018-0620,"August 5, 2018",Date of Death,West Hartford,Hartford County,Home,Drug Overdose,At Home,"Overdose from a combination of Acetyl Fentanyl, Cocaine, and Fentanyl","West Hartford, Connecticut (41.762008, -72.741807)","West Hartford, Connecticut (41.762008, -72.741807)"
+18/0602,"July 29, 2018",Date of Demise,"Hartford, CT",Hartford County,Home,Drug Overdose,Home,"Fatal Overdose from Fentanyl, Cocaine, and Clonazepam","Hartford, CT; Lat: 41.765775, Lon: -72.673356","Hartford, CT; Lat: 41.765775, Lon: -72.673356"
+13-0223,"July 6, 2013",Death Date,East Hampton,Middlesex County,Home,Via Injection,Decedent's Residence,Fatal Heroin Overdose,"East Hampton, Connecticut (Lat: 41.575581, Long: -72.502526)","Residential Location: East Hampton, CT (41.575581, -72.502526)"

@@ -1,0 +1,4 @@
+comp_name,county,town,api_well_num,well_name,well_status_cd,well_type_cd,surf_lon,surf_lat
+Unidentified Operator,Cattaraugus County,Town of Allegany,31009700000000,Well KC-300,Status: Unknown,Type: NL,-78.51495,42.018188
+Messer Oil Company,Cattaraugus County,Town of Allegany,31009700000000,Dot No. 2,Unplugged,Natural Gas Liquid,-78.48584,42.011103000000006
+Fin Oil & Gas,Erie Co.,Town of Collins,31-029-10000-0000,Linas Logan R124,Unknown,Gas Well,-78.96920,42.4992380

@@ -1,0 +1,4 @@
+comp_name,county,town,api_well_num,well_name,well_status_cd,well_type_cd,surf_long,surf_lat
+N/A,Allegany Co.,Town of Alma,31-003-70000-00-00,Balcerak G. 79,Unknown Status,Non-Commercial,-78.0630,42.0662
+Not Specified,Cattaraugus Co.,Town of Allegany,31-009-60000-00-00,Kurty U-14,Unplugged,Oil Discovery,-78.50520,42.028110
+Not Available,Allegany County,Town of Alma,API: 31003700000000,Balcerak G-14,Status: UM,Type: NL,-78.062740,42.0633010

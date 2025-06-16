@@ -1,0 +1,601 @@
+beer_id,producer_name,alcohol_content,brew_product
+2400,Smuttynose Brewing Company,10.80 %,Smuttynose Smuttlabs Ol _ Grundy Humper
+2401,Saint Arnold Brewing Company,12.70 %,Saint Arnold Bishops Barrel # 10
+2402,Grand Lake Brewing Co,11 %,Grand Lake Barrel Aged Super Chicken Barley Wine
+2403,Four Peaks Brewing Company,11.50 %,Four Peaks Hopsquatch Barleywine
+2404,Big Rig Brewery,6.20 %,Big Rig Release the Hounds
+2405,Cape Ann Brewing Company,9 %,Cape Ann Fisherman_s Tea Party
+2406,5 Rabbit Cerveceria,11.50 %,5 Rabbit Ponche
+2407,Carolina Brewing Company,9.30 %,Carolina Old 392 Barleywine
+2408,Odell Brewing Company,6.40 %,Odell Gramps
+2409,Golden City Brewery,11.20 %,Golden City Centurion Barleywine Ale
+2410,13 Virtues Brewing Company,9 %,13 Virtues Mob Barleywine
+2411,Big Time Brewery,9 %,Big Time Old Wooly Barleywine
+2412,Cahaba Brewing Company,5.50 %,Cahaba Liquidambar Amber Ale
+2413,Harmon Brewery & Restaurant,11 %,Harmon Super Samurai Barley Wine Ale
+2414,De Proefbrouwerij,10.40 %,Mikkeller / Three Floyds Risgoop
+2415,Elysian Brewing &#40; AB-InBev &#41;,11.20 %,Elysian The Gourdfather Pumpkin Barleywine
+2416,Elevator Brewing Company,-,Elevator Barrel Aged Barley Wine
+2417,Breakwater Brewing Company,5.20 %,Breakwater Wellenbrecher Lager
+2418,Alcatraz Brewing,8.50 %,Alcatraz Annihilator Doppelbock
+2419,612 Brew,4.10 %,612 Brew Mary Ann
+2420,Boundary Bay Brewery and Bistro,10 %,Boundary Bay Old Bounder
+2421,Mighty Oak,4 %,Mighty Oak Snowbeard
+2422,Cold Spring Brewery,4.70 %,Olde Johnnie Ale
+2423,Black Husky Brewing,-,Black Husky Beware of Dog Series : Headbutter Barleywine
+2424,Revolution Brewing Company,13 %,Revolution Barrel Aged Institutionalized Barley Wine
+2425,Tighthead Brewing Company,10.30 %,Tighthead Barrel Aged Old Kaya Dog Barleywine
+2426,Fort George Brewery,8.20 %,Fort George Hogfather
+2427,White Birch Brewing,9 %,White Birch Barley Wine Ale
+2428,Nebraska Brewing Company,11.90 %,Nebraska Inception Series Runnin _ with the Devil
+2429,Anderson Valley Brewing Company,8.60 %,Anderson Valley Barrel Aged Horn of the Beer Barley Wine
+2430,BrewDog,12 %,BrewDog Clown King
+2431,Creature Comforts Brewing Company,4.50 %,Creature Comforts Tritonia
+2432,BrewDog,10.50 %,BrewDog / Oskar Blues Shipwrecker Circus
+2433,Snipes Mountain Microbrewery,9.20 %,Snipes Mountain Roza Reserve
+2434,Crown Valley Brewing & Distilling,9 %,Cathedral Square Repent Rye
+2435,Abbot BrewHouse,7 %,Abbot BrewHouse Benedictus Primus
+2436,Burnt Hickory Brewery,13 %,Burnt Hickory Killdozer 12 Point Buck Ale
+2437,Ladyface Ale Companie,10.50 %,Ladyface Oaked Bluebelly Barleywine
+2438,Copperhead Brewery,5.30 %,Copperhead Red
+2439,Block 15 Brewery,12 %,Block 15 Hypnosis
+2440,Excel Brewing Company,12 %,Excel Ryeday The 13th
+2441,Birrificio Grado Plato,8 %,Grado Plato Strada S. Felice
+2442,Napa Smith Brewery,10 %,Napa Smith Grateful Dog Barleywine
+2443,Tired Hands Brewing Company,10.80 %,Tired Hands StonerWitch
+2444,Drakes Brewing Company,11.50 %,Drakes Rakish Ryewine
+2445,Mother_s Brewing Company,10.80 %,Mother_s Foggy Notion - Single Barrel
+2446,La Voie MaltÃ © e,10 %,La Voie MaltÃ © e Polissonne
+2447,Revolution Brewing Company,13 %,Revolution Mineshaft Gap
+2448,Twisted Pine Brewing,9.10 %,Twisted Pine Bough Breaker Barleywine
+2449,Brakspear &#40; Marstons &#41;,4.50 %,Brakspear Downpour
+2450,Albuquerque Brewing Company,6 %,Albuquerque The Dukes Pale Ale
+2451,Burnt Hickory Brewery,11 %,Burnt Hickory / Coastal Empire March to the Sea
+2452,Piece Brewery & Pizzeria,-,Piece Barrel Aged Moose Knuckle
+2453,Jackie O_s Pub & Brewery,7 %,Jackie O_s Really Nelson India Red Ale
+2454,XT Brewing,4.60 %,Animal Big Bang
+2455,Sockeye Brewing,10.30 %,Sockeye Old Devils Tooth Barleywine
+2456,5 Seasons North,10.40 %,5 Seasons North Cloud 9 Barleywine
+2457,FiftyFifty Brewing Company,12.50 %,FiftyFifty Cherry Annularity
+2458,New Albanian Brewing Company,7 %,New Albanian Hoosier Daddy Crimson & Cream Ale
+2459,Broue Pub Brouhaha,12 %,Brouhaha Gaz de Course
+2460,Hay Camp Brewing Company,9.10 %,Hay Camp Hoplessness Barleywine
+2461,Microbrasserie du Lac Saint-Jean,11 %,Du Lac Saint-Jean Frappabord
+2462,Port Jeff Brewing Company,8.70 %,Port Jeff Cold North Wind
+2463,Lompoc Brewing,9.70 %,Lompoc Bourbon Barrel Aged Old Tavern Rat
+2464,10 Barrel Brewing &#40; AB InBev &#41;,4.70 %,10 Barrel Mike Saw a Sasquatch Session Ale
+2465,Crazy Mountain Brewing Company,7.50 %,Crazy Mountain Old Soul Belgian Strong Ale
+2466,Union Craft Brewing Company,9.80 %,Union Craft Chessie Barleywine Barrel Aged
+2467,Barrington / Berkshire Mountain Brewery,11 %,Barrington Yule Fuel
+2468,Walking Man Brewing,13 %,Walking Man Bourbon Barrel Old Stumblefoot
+2469,Equinox Brewing,10 %,Equinox Midwinter Warmer
+2470,Figure Eight Brewing,-,Figure Eight Bourbon Barrel Aged Jumbo Love
+2471,Airways Brewing Company,-,Airways Autumnfest Lager
+2472,Lighthouse Brewing &#40; Canada &#41;,8 %,Lighthouse Siren Red Ale
+2473,Bluejacket,9.60 %,Bluejacket High Society
+2474,Birrificio Barley,10 %,Barley BB10Â ° &#40; Dexi &#41;
+2475,Capitol City Brewing Company,11.50 %,Capitol City Slobberknocker Barleywine
+2476,Beer Works,11.50 %,Beer Works Hercules Strong Ale
+2477,AleSmith Brewing Company,8.50 %,AleSmith YuleSmith &#40; Summer &#41; India Pale Ale
+2478,Ale Asylum,9.20 %,Ale Asylum Diablo Belga
+2479,Birra del Borgo,16 %,Birra del Borgo Sedicigradi
+2480,Brewsters Brewing Co. - Alberta,9.90 %,Brewsters Blue Monk Barley Wine
+2481,Motor City Brewing Works,8.80 %,Motor City Winter Ale
+2482,Perennial Artisan Ales,14 %,Side Project Anabasis
+2483,Brouwerij de Molen,15.20 %,De Molen Bommen & Granaten Cascade Dry Hopped
+2484,Empire Brewing Company,12.50 %,Empire Barley Wine
+2485,Quidi Vidi Brewing Company,5 %,Quidi Vidi 1892 Traditional Ale
+2486,Barrier Brewing Company,5.50 %,Barrier Undertow Dunkel Rauch
+2487,Devils Canyon Brewing Co. .,16 %,Devils Canyon Barrel of Monkeys Barleywine
+2488,Wormtown Brewing Co. .,10 %,Wormtown Beer Goggles Barleywine
+2489,Mike Hess Brewing Company,11.50 %,Mike Hess Ordeum Rex Barley Wine
+2490,Barnstormer Brewing and Pizzeria,7 %,Barnstormer Dead Stick Stout
+2491,Hangar 24 Craft Brewery,13.90 %,Hangar 24 Barrel Roll No. 04 : Hammerhead - Bourbon Barrel Aged with Chai Tea
+2492,8 Wired Brewing,5.50 %,8 Wired Flat White Coffee Milk Stout
+2493,De Proefbrouwerij,13 %,Omnipollo Erzulie Barley Wine
+2494,Les Brasseurs du Temps,9 %,Les Brasseurs du Temps Mea Magna Culpa
+2495,Fredericksburg Brewing Company,5.30 %,Fredericksburg Enchanted Rock Red Ale
+2496,Pizza Port &#40; Solana Beach &#41;,9.80 %,Pizza Port Old Boneyards Barleywine
+2497,Sprague Farm & Brew Works,-,Sprague Farm Barbarian Barley Wine
+2498,Crabtree Brewing Company,12 %,Crabtree Woody B. Barley Wine Ale
+2499,BrewDog,10 %,BrewDog #MashTag 2015
+2500,Pizza Boy Brewing,10 %,Pizza Boy / Chip Bender - Benders Barleywine
+2501,Aztec Brewing Company,7.60 %,Aztec Sacrifice Red IPA
+2502,Jackie O_s Pub & Brewery,11.50 %,Jackie O_s Bourbon Barrel Nutted Brick Kiln
+2503,Peter Bs Brewpub,6.10 %,Peter Bs Dr. Strangelove
+2504,Blue Hills Brewery,11.80 %,Blue Hills Fortis Pagus
+2505,Telegraph Brewing Company,10 %,Telegraph Obscura Aurantium
+2506,Strange Land Brewery,10.90 %,Strange Land Bishopsgate
+2507,De Proefbrouwerij,18.30 %,Mikkeller Big Worster Barrel Aged Barley Wine Malaga Edition
+2508,Hermit Thrush Brewery,13 %,Hermit Thrush Abbey Series # 1 - Jolly Abbot Barley Wine
+2509,Trinity Brewhouse,9 %,Trinity Wolfs Breath Winter Warmer
+2510,21st Amendment Brewery,9.50 %,21st Amendment Bourbon Barrel Lower da Boom Barleywine
+2511,Flying Goose Brew Pub,9.40 %,Flying Goose Isle Of Pines Barley Wine
+2512,Aardwolf,9.10 %,Aardwolf / Pinglehead How Heavy This Hop
+2513,Microbrasserie Le Castor - Le Castor Brewing Co. .,9.50 %,Le Castor Vin No. 1 Grande RÃ © serve &#40; fÃ '' ts de rhum &#41;
+2514,Devils Backbone Brewing Company,11 %,Devils Backbone Tectonic Barleywine
+2515,Destihl Brewery,11.50 %,Destihl Triton Barleywine
+2516,Hardywood Park Craft Brewery,12.50 %,Hardywood x RVA Beard League Barleywine 2014
+2517,Amsterdam Brewing Company,10 %,Amsterdam X Sawdust City X Great Lakes X Indie Ale Barley Wine &#40; Oak &#41;
+2518,American Brewing Company,10.50 %,American Old Glory Barleywine
+2519,Absolution Brewing Company,7.20 %,Absolution Angel_s Demise
+2520,Bullfrog Brewery,11.50 %,Bullfrog Oak Aged Old Toad Barleywine
+2521,Birdsong Brewing,6 %,Birdsong Sticky Situation
+2522,Relic Brewing Company,10.80 %,Relic Morgue Party
+2523,Odd Side Ales,12 %,Odd Side Ales Colossal Oversight
+2524,De Proefbrouwerij,11 %,Beer Here Farligwine
+2525,Northampton Brewing Co. &#40; NB &#41;,4.50 %,Simeon Jones River Valley Amber Ale
+2526,Barley Browns Brewpub,10.50 %,Barley Browns Sledwreck Winter Ale
+2527,Carlow,9.60 %,Carlow O_Hara_s Barrel Aged Series Barley Wine
+2528,4 Noses Brewing Company,9.50 %,4 Noses Bonaparte Barleywine &#40; Breckenridge Bourbon Barrel Aged &#41;
+2529,Broadway Pub,10 %,Broadway Pub Elixir de Belphegor Barley Wine
+2530,Eden Brewery &#40; Cumbria &#41;,5.50 %,Eden The Embalmer
+2531,Amicas Pizza & Microbrew,12 %,Amicas Infinite Search
+2532,Aardwolf,10.40 %,Aardwolf Whisperer in Darkness
+2533,The Brew Gentlemen Beer Company,10.40 %,The Brew Gentlemen Nonstop Forever &#40; Batch 1 &#41;
+2534,Laurelwood Public House & Brewery,-,Laurelwood Bourbon Barrel Olde Reliable
+2535,AleSmith Brewing Company,6.66 %,AleSmith My Bloody Valentine
+2536,Epic Brewing Company &#40; UT/CO &#41;,4.80 %,Epic Cross Fever Amber Ale
+2537,Lagerheads Brewing Company,5.90 %,Lagerheads Bed Head Red
+2538,Squatters Craft Beers,5.50 %,Squatters Radio From Hell the Brew &#033; Red as Hell Ale
+2539,Blue Frog Brewery,7.65 %,Blue Frog Red Ale
+2540,Abbeydale,4.60 %,Abbeydale Epiphany
+2541,Bloomington Brewing Co. .,-,Bloomington Lambic-aged Ruby Bloom Amber
+2542,Acadian Farms & Brewery,6.90 %,Acadian Farms India Red Ale &#40; IRA &#41;
+2543,BridgePort Brewing,7.50 %,BridgePort Kingpin Double Red Ale
+2544,Genesee Brewing Company &#40; North American Breweries &#41;,5.50 %,East Coast Kick Back Ale
+2545,Hockley Valley Brewing & Malting Company,4.20 %,Hockley Valley Amber
+2546,Trailhead Brewing Co. .,-,Trailhead Red Amber Ale
+2547,603 Brewery,7.10 %,603 9th State Red IPA
+2548,Beer Works,5 %,Beer Works Victory Red
+2549,21st Amendment Brewery,7.60 %,21st Amendment Toaster Pastry
+2550,Ruby Mountain Brewing Company,-,Ruby Mountain Angel Creek Amber Ale
+2551,Baeltane Brewing,5.10 %,Baeltane Farmer_s Flock
+2552,The Bruery,6.90 %,The Bruery Double Dry Hopped Loakal Red
+2553,Kiuchi Brewery,6 %,Hitachino Nest Amber Ale
+2554,Adirondack Pub and Brewery,5.60 %,Roscoe Trout Town American Amber Ale
+2555,Anderson Valley Brewing Company,8.80 %,Anderson Valley Bahl Hornin _ Imperial Boont Amber Ale
+2556,Auburn Alehouse &#40; CA &#41;,8.30 %,Auburn Alehouse Red Headed Hop Donkey
+2557,Golden Triangle,5.50 %,Golden Triangle Hop Lobster
+2558,Big Time Brewery,6 %,Big Time Matts Red Eye IPA
+2559,Branchline Brewing,5.24 %,Branchline Evil Owl Amber
+2560,Track 7 Brewing Company,6.25 %,Track 7 Daylight Amber
+2561,Stillmank Brewing Company,5.10 %,Wisco Disco
+2562,Boneyard Beer Company,6.50 %,Boneyard Skunkape India Red Ale
+2563,Rivertowne Pour House,9.30 %,Rivertowne Patrick_s Poison
+2564,Black Diamond Brewing Company,5.70 %,Black Diamond Steep Trail Amber Ale
+2565,Upland Brewing Company,5.60 %,Upland Easy Chair Amber Ale
+2566,Cerveses Alpha,5.80 %,Alpha Smoked Red Ale
+2567,JailHouse Brewing Co,6 %,JailHouse Conjugal Visit
+2568,Scuttlebutt Brewing Co. .,5 %,Scuttlebutt Tell Tale Red
+2569,Redhook Brewery,5.80 %,Redhook CopperHook Spring Ale
+2570,Stone Brewing Company,9.50 %,21st Amendment / Firestone Walker / Stone El Camino &#40; Un &#41; Real Black Ale
+2571,Minhas Craft Brewery,5.50 %,Gnarly Oak Hazelnut Dark
+2572,Lengthwise Brewery,5.60 %,Lengthwise Triple Hop Red Ale
+2573,21st Amendment Brewery,6.30 %,21st Amendment Red Headed Stranger
+2574,Evan Evans,4 %,Archers Single Hop Amber Ale
+2575,Fish Brewing Company/Leavenworth Beers,5 %,Fish Tale Vicious Circle Amber Ale
+2576,Yalobusha Brewing Company,5.60 %,Yalobusha Copperhead Amber Ale
+2577,The Duck-Rabbit Craft Brewery,5.50 %,The Duck-Rabbit Amber Ale
+2578,Bricktown Brewery / Blackwater Grill,-,Bricktown Rudolphs Red Nose Ale
+2579,Brewery Terra Firma,5.70 %,Brewery Terra Firma Manitou Amber Ale
+2580,Indian Wells Brewing,5.50 %,Ballistic Brewing Gorgon Red Ale
+2581,Flying Monkeys Craft Brewery,5 %,Flying Monkeys Amber Ale
+2582,Worthy Brewing Company,8 %,Worthy Eruption Imperial Red Ale
+2583,Howe Sound Brewing,7.50 %,Howe Sound Three Beavers Imperial Red Ale
+2584,Schmohz Brewing Co. .,5.30 %,Schmohz Amber Tease
+2585,Sapporo Breweries,5.50 %,Sapporo Yebisu Kohaku
+2586,961 Beer - Gravity Brewing,5.50 %,961 Red Ale
+2587,Boston Beer Company,5.70 %,Samuel Adams Mighty Oak Ale
+2588,Wadworth,3 %,Wadworth Light Ale
+2589,Wadworth,3.80 %,Wadworth Ipanema
+2590,Wadworth,3.60 %,Wadworth Henrys Smooth
+2591,Wadworth,5 %,Wadworth Heather & Honey
+2592,Wadworth,4.10 %,Wadworth Dray Bells
+2593,Wadworth,5 %,Wadworth Cooper ¡ ¯ s Vice
+2594,Wadworth,4.10 %,Wadworth Corvus Stout
+2595,Wadworth,6.20 %,Ushers Ruby Ale
+2596,Wadworth,4.30 %,Wadworth / Dungarvan Copper Coast Irish Red Ale
+2597,Wadworth,4.50 %,Wadworth Crimson Dawn
+2598,Stevens Point Brewery,6.20 %,Berghoff Reppin _ Red Ale
+2599,Urban Legend Brewing Company,8.80 %,Urban Legend You Big Dummy
+2600,Mountain Goat Beer &#40; Asahi Holdings - Australia &#41;,5.20 %,Mountain Goat Fancy Pants Amber Ale
+2601,Liberty Street Brewing Company,5.20 %,Liberty Street Red Glare Amber Ale
+2602,Radiant Pig Beer Company,6.20 %,Radiant Pig Gangster Duck American Red Ale
+2603,Brewmaster_s Tavern &#40; Opa-Opa Brewing &#41;,3.40 %,Banner American Ale
+2604,Great Raft Brewing,5 %,Great Raft Make Believer
+2605,Emmetts Tavern and Brewing Company,5.20 %,Emmetts McCarthy American Red
+2606,Cigar City Brewing,5 %,Cigar City Sertoma Smoke
+2607,High Noon Saloon & Brewery,5.50 %,High Noon Annies Amber Ale
+2608,Bucket List Brewing,6.70 %,Bucket List Storm Cat
+2609,Portland Brewing Company &#40; Pyramid - North American Breweries &#41;,-,Fire Station 5 Fire Boat Amber
+2610,Big Choice Brewing,6.70 %,Big Choice Disconnected Red Ale
+2611,Big Dog_s Brewing Co. .,5.50 %,Big Dog_s Honey Amber Ale
+2612,Santa Clara Valley Brewing,10 %,Santa Clara Valley New Almaden Red
+2613,Bespoke,3.50 %,Bespoke Raging Bull
+2614,Coronado Brewing Company,5.70 %,Coronado Mermaids Red Ale
+2615,Half Moon Bay Brewing Company,4.80 %,Half Moon Bay Mavericks Amber Ale
+2616,Mehana Brewing Company,5.40 %,Hawaii Nui Sunset Amber Ale
+2617,Big Horn Brewing Company &#40; Ram International &#41;,5.80 %,Big Horn Bourbon Buttface Amber
+2618,Legacy Brewing,7.10 %,Legacy Bourbon Barrel Hedonism Red
+2619,Companyia Cervesera del Montseny,7 %,Omnipollo / NÃ ³ mada En el Bosque Red
+2620,Two Beers Brewing Co. .,5.20 %,Two Beers Immersion Amber Ale
+2621,Black Shirt Brewing Company,7.09 %,Black Shirt American India Red Ale
+2622,Mad River Brewery,6.50 %,Mad River Jamaica Red Ale
+2623,Squatters Craft Beers,4 %,Squatters Emigration Amber Ale
+2624,Sawgrass Brewing Company,5.60 %,Sawgrass Flat Tired Amber Ale
+2625,10 Barrel Brewing &#40; AB InBev &#41;,11.50 %,10 Barrel Rare Breed Imperial Red
+2626,Costa Rica_s Craft Brewing Co. .,5 %,Costa Rica_s Segua Red Ale
+2627,Central City Brewers + Distillers,5.50 %,Central City Red Racer India Style Red Ale
+2628,Heavy Seas Brewing Company,-,Phillips Amber Ale
+2629,Hi-Wire Brewing,7 %,Hi-Wire Lion Tamer Red Rye
+2630,Georgetown Brewing Company,6.20 %,Georgetown Choppers Red Ale
+2631,Boscos Brewing Company &#40; Roma Pomodori &#41;,-,Boscos Derailleur Ale
+2632,Revolution Brewing Company,6.30 %,Revolution Fistmas Ale
+2633,Fordham Brewing Company &#40; Coastal Brewing Co. &#41;,6.50 %,Fordham Close Encounter Harvest Ale
+2634,Battenkill Brewing Company,-,Battenkill Harvest Moon Amber Ale
+2635,Bridge Brew Works,-,Bridge Brew Works The Blunt
+2636,Piney River Brewing Company,-,Piney River McKinney Eddy Amber Ale
+2637,Elk Mountain Brewing Company,-,Elk Mountain Devils Head Red
+2638,Mickey Finns Brewery & Pub,5.60 %,Mickey Finns Abana Amber Ale
+2639,Kane Brewing Company,9.20 %,Kane Hop Lab # 4 - Imperial Red
+2640,Kemptown,4.50 %,Brighton Bier Red Rye
+2641,Saint Arnold Brewing Company,5.50 %,Saint Arnold Amber Ale
+2642,Broken Tooth Brewing Company,6.10 %,Broken Tooth Something Red
+2643,Lagerheads Brewing Company,8 %,Lagerheads Winter Mischief
+2644,Black Husky Brewing,6.60 %,Black Husky Harold The Red Ale
+2645,Eastern Shore Brewing,5 %,Eastern Shore St. Michaels Ale
+2646,Broad Brook Brewing Company,6.10 %,Broad Brook Ale
+2647,4 Noses Brewing Company,7.70 %,4 Noses One Point Five IPA
+2648,A1A Ale Works,5.42 %,A1A Ale Works Red Brick Ale
+2649,Brewsters Brewing Co. - Alberta,8.50 %,Brewsters Pursuit of Hoppiness
+2650,Portsmouth Brewing,-,Portsmouth Brewing Red Bird Ale
+2651,Round Barn Brewery & Winery,5.30 %,Round Barn Indecision Ale
+2652,Marin Brewing Company,5 %,Marin Albion Amber Ale
+2653,Lonerider Brewing Company,7.30 %,Lonerider Red Spur
+2654,Granville Island &#40; Brewery - MolsonCoors &#41;,5.50 %,Granville Island Gastown Amber Ale
+2655,Midland Brewing Company,5.30 %,Midland Copper Harbor Ale
+2656,BruRm @ BAR,-,BruRm AmBAR Ale
+2657,Pub Dog Brewing Company,7.30 %,Local Option Mourning Wood
+2658,Southern Oregon Brewing Co. .,6.30 %,Southern Oregon Woodshed Red
+2659,Broadhead Brewing Company,4.80 %,Broadhead Grindstone Amber
+2660,Atwater Block Brewery,5 %,Atwater Rost
+2661,Black Bear Brewery,4.50 %,Black Bear Gearhead Ale
+2662,Mayday Brewery,6 %,Mayday Angry Redhead
+2663,Golden Valley Brewery,5.50 %,Golden Valley Red Thistle Ale
+2664,De Rustica Meadery,-,De Rustica Red Pyment
+2665,Coors Brewing Company &#40; MillerCoors &#41;,5.90 %,Blue Moon Valencia Grove Amber Ale
+2666,Cervejaria Bamberg,5 %,Bamberg Franconian Rhapsody
+2667,Artisan_s Brewery and Italian Grill,5 %,Artisan_s Toasted Amber Ale
+2668,Cascade Brewing,5 %,Cascade Amber
+2669,Boulevard Brewing Company &#40; Duvel-Moortgat &#41;,3.30 %,Boulevard Tenpenny Ale
+2670,Mountain Sun Pub & Brewery,5.70 %,Mountain Sun Annapurna Amber
+2671,F.X. Matt Brewing Company,-,Fiddlers Green Amber
+2672,Destihl Brewery,-,Destihl Barrel Aged Deadhead Double Red Ale
+2673,Fin City Brewing Company,5.80 %,Fin City Jackspot Amber Ale
+2674,Peabody Heights Brewery,5.25 %,Public Works Red Cent Amber
+2675,Stevens Point Brewery,5.40 %,Horny Goat Red Planet Red Ale
+2676,Bear Republic Brewing Company,9.20 %,Bear Republic Altered Beast
+2677,Coalition Brewing,5.75 %,Coalition King Kitty Red Ale
+2678,Bison Brewing Company,6 %,Bison Organic Red Ale
+2679,Pig Minds Brewing Co. .,5.50 %,Pig Minds Vanilla Bitch Slap
+2680,Day Block Brewing Company,5.30 %,Day Block Frank_s Red Ale
+2681,Alley Kat Brewing Company,-,Alley Kat Rocky Mountain Red Ale &#40; The Cheesecake Cafe &#41;
+2682,Bells Brewery,5.80 %,Bells Amber Ale
+2683,Pipeworks Brewing Company,8.50 %,Pipeworks Blood of the Unicorn
+2684,38 State Brewing Company,5.40 %,38 State Irish Red Ale
+2685,Church-Key Brewing,-,Church-Key Tobacco Road
+2686,Caldera Brewing Company,5.40 %,Caldera Dry Hop Orange
+2687,Empyrean Brewing Company,6 %,Empyrean Winter Axis Festiv_Ale
+2688,Estes Park Brewery,4.50 %,Estes Park Redrum Ale
+2689,Ei8ht Ball Brewing,7.50 %,Ei8ht Ball Red Drink
+2690,Long Valley Pub and Brewery,4.50 %,Long Valley German Valley Amber
+2691,Keuka Brewing Company,5 %,Keuka Briglin Road Red
+2692,Olde Main Brewing Co. .,5.50 %,Olde Main Long Face Amber
+2693,Backyard,4.20 %,Backyard January S_Ale
+2694,Rockyard Brewing Company,5 %,Rockyard Redhawk Ale
+2695,Pivovar &#268; ernÃ ¡ Hora &#40; Pivovary Lobkowicz &#41;,6.30 %,&#268; ernÃ ¡ Hora 1530
+2696,Basil Ts &#40; Red Bank &#41;,5 %,Basil Ts Beer of the Dragon
+2697,Railway City Brewing Company,4.40 %,Railway City Iron Spike Copper Ale
+2698,Moosehead Brewery,5 %,Clancys Amber
+2699,El Segundo Brewing Company,6.70 %,El Segundo Station No. 1
+2700,Block 15 Brewery,12.50 %,Block 15 Hellion
+2701,Arizona Wilderness Brewing Company,6 %,Arizona Wilderness Red Rock Secret
+2702,Tenaya Creek Brewery,6.70 %,Tenaya Creek Red Ryder
+2703,Deschutes Brewery,5.30 %,Deschutes Cinder Cone Red Ale
+2704,Devils Backbone Brewing Company,5.40 %,Devils Backbone Montpelier_s Best Ambition Ale
+2705,Lexington Avenue Brewery,8 %,Lexington Avenue Eleanor_s Rye
+2706,Shmaltz Brewing Company,4.80 %,Coney Island 1609 Amber Ale
+2707,Saint Arnould,6.20 %,Saint Arnould Vlimeuse
+2708,Glutenberg Craft Brewery,5 %,Glutenberg Rousse
+2709,Against the Grain Brewery,7.20 %,Against the Grain The Wrath of the Krauth of Khan
+2710,Dark Horse Brewing Company,5.50 %,Dark Horse Amber Ale
+2711,Tenute Collesi,7.50 %,Collesi Imper Ale Ambrata Fiat Lux
+2712,HopTown Brewing Company,5.50 %,HopTown Paint the Town Red
+2713,Ice Harbor Brewing Company,5.70 %,Ice Harbor Runaway Red Ale
+2714,Geneva Lake Brewing Company,5 %,Geneva Lake Cedar Point Amber Ale
+2715,Ellis Island Casino & Brewery,6 %,Ellis Island Amber Ale
+2716,Anheuser-Busch InBev,-,1904 American Red
+2717,Red Brick Brewing Company,5.30 %,Atlanta Laughing Skull Amber Ale &#40; 2009 - present &#41;
+2718,Chatham Brewing,5.50 %,Chatham Maple Amber
+2719,Big Dog_s Brewing Co. .,9.10 %,Big Dog_s Alpha Dog Double Red
+2720,Genesee Brewing Company &#40; North American Breweries &#41;,4.50 %,Cheers Norm_s Amber Ale
+2721,Strawn Brewing Company,6 %,Strawn Amber Ale
+2722,Madhouse Brewing Company,8.50 %,Madhouse Venture Series Oak Aged Imperial Red
+2723,Iron Hill Lancaster,7.50 %,Iron Hill Big Red Wibby
+2724,Silver Gulch Brewing & Bottling Co. .,5 %,Silver Gulch Copper Creek Amber Ale
+2725,Widmer Brothers Brewing Company,5.30 %,Widmer Brothers Drop Top Amber Ale
+2726,Southbound Brewing Company,7.30 %,Southbound Fade to Red
+2727,Firefly Hollow Brewing Company,6.30 %,Firefly Hollow Moonrise Amber
+2728,Pizza Port &#40; Ocean Beach &#41;,9.50 %,Pizza Port Rhino Chaser Imperial Red Ale
+2729,Noble Ale Works,7.20 %,Noble Ale Works Alpha Red
+2730,Zion Canyon Brewing Company,4 %,Zion Canyon Springdale Amber Ale
+2731,Granville Island &#40; Brewery - MolsonCoors &#41;,5.60 %,Granville Island Swing Span Amber Ale
+2732,Thirsty Dog Brewing Company,5.90 %,Thirsty Dog Hoppus Maximus
+2733,Falling Sky Brewing,6.30 %,Falling Sky Reelin _ In the Oats Stout
+2734,Ale Asylum,7.80 %,Ale Asylum Limited # 8 : Phantasm Autumn Ale
+2735,Maumee Bay Brewing Co. .,5 %,Maumee Bay Fallen Timbers Red Ale
+2736,Kuhnhenn Brewing,6 %,Kuhnhenn Red Run Red Ale
+2737,Martens,5 %,Boot Tread
+2738,Breakside Brewery,10.30 %,Breakside Alan from the Wood
+2739,2cabeÃ § as,5 %,2cabeÃ § as Sunset American Pale Ale
+2740,Okanagan Spring Brewery &#40; Sapporo &#41;,5 %,Okanagan Spring Cloudy Amber Ale
+2741,Angry Minnow,4.50 %,Angry Minnow Nut Red Ale
+2742,De Proefbrouwerij,4.70 %,Beer Here Dead Cat
+2743,Mudshark Brewing Company,5.20 %,Mudshark Scorpion Amber Ale
+2744,The Brew on Broadway &#40; BoB &#41;,5.70 %,BoB The Griffin Ryerish Redhead Ale
+2745,Battered Boar Brewing Company,7 %,Battered Boar Briarpatch Amber Ale
+2746,Four Sons Brewing,5.20 %,Four Sons Going &#40; Coco &#41; Nuts
+2747,Renaissance Brewing,4.40 %,8 Wired Semiconductor Session IPA
+2748,Bent Hill Brewery,4.80 %,Bent Hill Maple Irish Red Ale
+2749,Chicago Brewing Company,4.50 %,Chicago Ramblin Reck Amber Ale
+2750,Big Horn Brewing Company &#40; Ram International &#41;,5.80 %,Big Horn Buttface Amber Ale
+2751,Beer Valley Brewing Company,7 %,Beer Valley Jackalope Imperial Pumpkin Porter
+2752,Kilannan Brewing Company,4.20 %,Kilannan 100 Mile Rye Pale Ale
+2753,Kawaba Beer,5 %,Kawaba Sunrise Ale
+2754,Pair O _ Dice Brewing Company,5.20 %,Pair O _ Dice Hop Bet Red Ale &#40; Red IPA &#41;
+2755,Weeping Radish Farm Brewery,4.90 %,Weeping Radish Ruddy Raddish
+2756,Crooked Ladder Brewing Company,5 %,Crooked Ladder Gypsy Red
+2757,Sierra Nevada Brewing Company,6.20 %,Sierra Nevada Flipside Red IPA
+2758,Two Roads Brewing Company,7 %,Evil Twin Hop Flood
+2759,Infamous Brewing Company,5.50 %,Infamous Bugsy_s Firebrush Amber
+2760,Big Buck Brewery,5.50 %,Big Buck Redbird Ale
+2761,Barrio Brewing Co. .,-,Barrio Rojo
+2762,Ruhstaller,6.20 %,Ruhstaller The Kenyan [ v. 2 ]
+2763,The Brew Hub,8.50 %,The Brew Hub Diver Down
+2764,Fearless Brewing Company,7.50 %,Fearless Loki Red Ale
+2765,Roy Pitz Brewing Company,6 %,Roy Pitz Truly Honest Ale
+2766,Florida Beer Company,4.80 %,Florida Beer Key West Sunset Ale
+2767,21st Amendment Brewery,6.50 %,21st Amendment British Invasion IPA
+2768,Circle Brewing Company,4.80 %,Circle Devil_s Envy
+2769,&#379; ywiec &#40; &#379; ywiec Group/Heineken &#41;,4.50 %,&#379; ywiec Freeq Red Fruits
+2770,Abbey Wright Brewing Company,7.80 %,Abbey Wright Alpha Deuce IPA
+2771,Great Adirondack Brewing Co. .,5.60 %,Great Adirondack Ausable Wulff Red Ale
+2772,Fernie Brewing Company,5 %,Fernie Big Caboose Red Ale
+2773,Breconshire,4.20 %,Breconshire Alleycat Amber Ale
+2774,Morgantown Brewing Company,5.80 %,Morgantown Old Morgantown Amber Ale
+2775,Boston Beer Company,-,Bell In Hand Ale
+2776,Ales of Scilly,4 %,Ales of Scilly Maiden Voyage
+2777,Barkerville Brewing Company,4.90 %,Barkerville 18 Karat Ale
+2778,8 Sail,4.20 %,8 Sail Green Man Harvest Ale
+2779,Faction Brewing,5.60 %,Faction Red
+2780,BlueTarp Brewing Company,4.50 %,BlueTarp BantamWeight Ale
+2781,Four Corners Brewing Company,6.20 %,Four Corners Red_s Roja
+2782,Porcupine Quill Micro Brewery,6 %,African Moon Amber Ale
+2783,Redneck Riviera Brewing Project,-,Redneck Riviera Farmer_s Tan
+2784,New England Brewing Co. .,6.50 %,New England Fat Ten-Er # 14
+2785,McCashin Family Brewery,4.50 %,McCashin Family Stoke Amber
+2786,Bluegrass Brewing Company,5 %,Sheltowee 502 Amber Ale
+2787,Ecliptic Brewing,5.20 %,Ecliptic Phobos Extra Red Ale
+2788,Market Cross Pub and Brewery,5.20 %,Market Cross Red Ale
+2789,Firefly Hollow Brewing Company,8.90 %,Firefly Hollow Photon Imperial Crimson
+2790,Temperance Beer Company,8 %,Temperance Evenfall
+2791,Genesee Brewing Company &#40; North American Breweries &#41;,4.70 %,Trouble Brewing Amber Ale
+2792,Odell Brewing Company,5.10 %,Odell Levity Amber Ale
+2793,Champion Brewing Company,9 %,Champion Red Scare Imperial Stout
+2794,Red Wing Brewery,6.50 %,Red Wing Remmler_s Royal Brew &#40; Oak Aged &#41;
+2795,Altamont Beer Works,6 %,Altamont Beer Works Rich Mahogany
+2796,Petoskey Brewing,5.80 %,Petoskey North 45 Amber Ale
+2797,Freetail Brewing Co. .,4.90 %,Freetail Original Ale
+2798,McAuslan Brewing,5 %,St. Ambroise Rousse
+2799,Brewery Vivant,6.30 %,Brewery Vivant Big Red Coq
+2800,Blimp City Brewery,-,Blimp City Akron/Macon German Style Alt Bier
+2801,Big Time Brewery,-,Big Time Better Off Red Ale
+2802,Council Brewing Company,8.10 %,Council Royal Blood Imperial Red
+2803,Dead Frog Brewery,5 %,Dead Frog Mandarin Orange Amber Ale
+2804,Kellys Caribbean Bar & Grill & Brewery,-,Kellys Havana Red Ale
+2805,Genesee Brewing Company &#40; North American Breweries &#41;,5.10 %,Metolius River Ales Rusty Spinner Amber Ale
+2806,Flat Earth Brewing Company,6.50 %,Flat Earth Cygnus X-1 Red Barchetta
+2807,Blue Point Brewing &#40; AB InBev &#41;,4.50 %,Blue Point Bourbon Barrel-Aged Winter Ale
+2808,Sierra Blanca Brewing Co,-,Isotopes Slammin Amber
+2809,Black Bear Brewery,4.80 %,Black Bear Drop Dead Red Ale
+2810,Texas Ale Project,6 %,Texas Ale Project Fire Ant Funeral
+2811,Fulton Beer Company,8.50 %,Fulton Garage Series 4 : The Libertine - 2 Gingers Barrel Aged
+2812,Railway City Brewing Company,4.60 %,Railway City Iron Spike Amber Ale
+2813,New Holland Brewing Company,5 %,New Holland revered
+2814,Brasserie GÃ © nÃ © rale,5 %,Les BiÃ ¨ res BÃ © luga Golden Ale
+2815,Abita Brewing Company,-,Abita Red Fish Ale
+2816,Arizona Wilderness Brewing Company,4.70 %,Arizona Wilderness Rincon Red
+2817,Great Black Swamp Brewing Company,-,Great Black Swamp Mosquito Red
+2818,Cascade Brewery &#40; CUB &#41;,4.80 %,Cascade Amber Ale
+2819,Four Corners Brewing Company,6.20 %,Four Corners Boss Lady Rustic Red
+2820,Hardknott,6.50 %,Hardknott Infra Red
+2821,Barley and Hops Grill and Microbrewery,5.70 %,Barley and Hops Tuscarora Red
+2822,Barnhouse Brewery,5.50 %,Barnhouse Banshee Irish Red
+2823,Mildura Brewery,4.50 %,Mildura Brewery Storm Cloudy Ale
+2824,Persephone Brewing,6 %,Persephone Rum Runner Red Ale
+2825,Alameda Brewing Co. .,6.40 %,Alameda Rose City Red
+2826,Galaxy Brewing Company,6.10 %,Galaxy Galactic Silk Ale
+2827,Carlton & United Breweries &#40; CUB &#41;,4.60 %,Victoria Bitter Original Ale
+2828,Genesee Brewing Company &#40; North American Breweries &#41;,5.10 %,Double Take Amber Ale
+2829,Olde Peninsula Brewpub and Restaurant,5.75 %,Olde Peninsula Sunset Red
+2830,Dragonmead Brewery,6 %,Dragonmead Corktown Red
+2831,Deschutes Brewery,6.40 %,Deschutes Green Lakes Non-Organic Ale
+2832,Kamloops Brewery,5.50 %,Bowen Island Mutiny Red Ale
+2833,Silver Moon Brewing,4.50 %,Silver Moon Hounds Tooth Amber
+2834,Iron Horse Brewery,7.50 %,Iron Horse Loco Imperial Red
+2835,Estes Park Brewery,4.50 %,Estes Park Trail Ridge Red
+2836,Harviestoun,4.50 %,Harviestoun Broken Dial
+2837,4 Noses Brewing Company,5.10 %,4 Noses The Rambler
+2838,James River Brewery,4.90 %,James River Rock Island Red
+2839,Engine House No. 9 Restaurant and Brewery,5.30 %,Engine House No. 9 Rowdy Dick Amber Ale
+2840,BrewDog,8.20 %,BrewDog Hello
+2841,Coors Brewing Company &#40; MillerCoors &#41;,5.60 %,Blue Moon Rising Moon Spring Ale
+2842,Australian Independent Brewers,5.20 %,Endeavour 2011 Reserve Amber Ale
+2843,Marley_s Brewery and Grille,6.30 %,Marley_s Pack Dog Peanut Butter Ale
+2844,5 Seasons Westside,-,5 Seasons Westside Raspberry Rapture
+2845,1516 Brewing Company,5.40 %,1516 Maple Fall Ale
+2846,Rockfish Grill & Anacortes Brewery,5 %,Anacortes Amber
+2847,Birrificio Antoniano,5.20 %,Birra Antoniana Bionda Integrale
+2848,Water Street Brewery,5 %,Water Street Amber
+2849,Great Western Brewing &#40; Canadian Brewing &#41;,5.20 %,Great Western Original 16 Canadian Copper Ale
+2850,523,11.30 %,523 / Blackwell / Evil Twin Eau Trappiste
+2851,COAST Brewing Company,5.50 %,COAST Same Old
+2852,Asher Brewing Company,6 %,Asher Tree Hugger Organic Amber
+2853,House Ales,6 %,House Ales X Great Lakes California Love
+2854,Beaver Street Brewery,-,Beaver Street Railhead Red
+2855,Kennebec River Pub & Brewery,5.20 %,Kennebec River Sledhead Red
+2856,Kern River Brewing,10 %,Kern River Double Dirty Hippie
+2857,Wrecking Bar Brewpub,7.40 %,Wrecking Bar Nathan_s 13 Minute Amber
+2858,Natty Greene_s Pub & Brewing Company,4.90 %,Natty Greene_s Buckshot Amber Ale
+2859,Redondo Beach Brewing Company,-,Redondo Beach Dubbel Dark IPA
+2860,Great Rhythm Brewing Company,5 %,Great Rhythm AMPLIFIED Amber Ale
+2861,18th Street Brewery,8.50 %,18th Street Alpha Company
+2862,Kroghs Restaurant & Brew Pub,4.50 %,Kroghs Alpine Glow Red Ale
+2863,38 State Brewing Company,7.50 %,38 State Extra Special Bitters
+2864,Dempseys Restaurant and Brewery,6 %,Dempseys Red Rooster Ale
+2865,Auburn Alehouse &#40; CA &#41;,9 %,Auburn Alehouse Hop Donkey
+2866,Cycle Brewing,5.50 %,Cycle Blind Date
+2867,O_Fallon Brewery,5.50 %,O_Fallon Hemp Hop Rye
+2868,Freetail Brewing Co. .,6 %,Freetail PiÃ ± ata Protest
+2869,Creature Comforts Brewing Company,5.50 %,Creature Comforts Misty Valley Reclaimed Rye
+2870,Cannon Brewpub,-,Cannon Red Jacket Ale
+2871,Tiny Rebel,4.60 %,Tiny Rebel Cwtch
+2872,Pyramid Breweries &#40; North American Breweries &#41;,4.80 %,Pyramid Alehouse Amber
+2873,Black Dragon Brewery,5 %,Black Dragon Expedition Amber
+2874,Bent River Brewing Company,-,Bent River Mississippi Red Lager
+2875,Big Time Brewery,5.40 %,Big Time Atlas Amber Ale
+2876,Bishop Nick,4.50 %,Bishop Nick Revelry
+2877,Austin Beer Garden Brewery,7.90 %,Austin Beer Garden Big Mama Red
+2878,Microbrasserie de l __ le d_OrlÃ © ans,6 %,OrlÃ © ans Suzanne Marceau &#40; AmbrÃ © e _ l_rable &#41;
+2879,Microbrasserie du LiÃ ¨ vre,5.40 %,La LiÃ ¨ vre Frousse
+2880,City Brewery &#40; Melanie Brewing Co &#41;,-,Fort Pitt Ale
+2881,Crossroads Brewing Company,5 %,Crossroads Brick Row Red
+2882,Bullfrog Brewery,6 %,Bullfrog That Red Ale
+2883,Custom Brewcrafters,9.20 %,Three Heads Buffalo Soul Jah Imperial Red Ale
+2884,Minocqua Brewing Company,8.50 %,Minocqua Road-Kill Red Ale
+2885,SKA Brewing,5.15 %,SKA Pinstripe Red Ale
+2886,HammerHeart Brewing Company,8.34 %,HammerHeart Barrel Aged Serpensblod
+2887,Howe Sound Brewing,5.50 %,Howe Sound Mettleman Copper Ale
+2888,Riverside Brewing Company,6.50 %,Riverside Forty Four American Amber
+2889,Metropolitan Brewing,5.40 %,Metropolitan BaphoMetro
+2890,Aarhus Bryghus,5 %,Aarhus Frederik
+2891,Twin Leaf Brewery,4.90 %,Twin Leaf Paradigm Shift
+2892,Coastal Extreme Brewing Company,5.20 %,Newport Storm Hurricane Amber Ale
+2893,Microbrasserie Pit-Caribou,5 %,Pit-Caribou Bonne Aventure Rousse
+2894,Delafield Brewhaus,5 %,Delafield Bricklayer Pale Ale
+2895,Crabtree Brewing Company,6.10 %,Crabtree Serenity Amber Ale
+2896,BogotÃ ¡ Beer Company &#40; AB InBev &#41;,5 %,BogotÃ ¡ Beer Company &#40; BBC &#41; Monserrate Roja
+2897,Blue Canoe Brewing Company,7.50 %,Blue Canoe Razorback Rye P.A.
+2898,Baja Brewing Co. .,6 %,Baja Red
+2899,Boxing Rock Brewing Company,6 %,Boxing Rock Temptation Red Ale
+2900,Redhook Brewery,5.90 %,Redhook Late Harvest Autumn Ale
+2901,Original Gravity Brewing Company,5.50 %,Original Gravity County Street Amber
+2902,Rip Current Brewing,7 %,Rip Current Raked Over Red
+2903,Drakes Brewing Company,6.50 %,Drakes Red Eye
+2904,5 Seasons North,7 %,5 Seasons North The GA Wholesalers Give Millions of Dollars to Our State
+2905,18th Street Brewery,6.90 %,18th Street / Central State Garce SalÃ © e
+2906,Amazon Beer,6 %,Amazon Beer Priprioca Red Ale
+2907,Anheuser-Busch InBev,6 %,Budweiser Black Crown
+2908,Charlie & Jakes Brewery & BBQ,-,Charlie and Jakes Indian River Red
+2909,Cigar City Brewing,7.50 %,Cigar City Joe_s Hoppy Time IPA
+2910,Potbelly,4.80 %,Potbelly / Twickenham Joint Effort
+2911,Chelsea Brewing Company,5 %,Chelsea Sunset Red Ale
+2912,Dad and Dude_s Breweria,4.60 %,Dad & Dude_s Rockpile Pale Ale
+2913,Argus Brewery,-,Argus Country House Red Ale
+2914,Exit 6 Pub and Brewery,6.80 %,Exit 6 Ryane_s Red
+2915,Elysian Brewing &#40; AB-InBev &#41;,5.60 %,Elysian Men_s Room Summer Gold Ale
+2916,Blue Bell Brewery,4.80 %,Blue Bell Old Fashioned
+2917,Carver Brewing Company,-,Carver Old Oak Amber Ale
+2918,Barley Island Brewing,4.10 %,Barley Island Rust Belt Porter
+2919,Maui Brewing Company,5.80 %,Maui Brewing Barefoot Brew
+2920,Alpha Brewing Company,5 %,Alpha Northwest Double Pale Ale
+2921,5 Seasons Westside,-,5 Seasons Westside High Fiveinator Doppelbock
+2922,Mt. Hood Brewing,5 %,Mt. Hood Cloudcap Amber Ale
+2923,Shipyard Brewing Company,5 %,Belfast Bay Lobster Ale
+2924,Market Street Brewing Co. &#40; NY &#41;,4.60 %,Market Street Wrought Iron Red Ale
+2925,_ umavskÃ 1/2 Pivovar,-,_ P Vimperk ZÃ ¡ zvorovÃ 1/2 SpeciÃ ¡ l 13Â ° &#40; Ginger &#41;
+2926,903 Brewers,6.90 %,903 Roo_s Red Ale
+2927,Nano Brew Cleveland,5.50 %,Nano Brew Cleveland Namber Ale
+2928,Alligator Brewing Company &#40; aka : Tall Paul Brew House &#41;,5 %,Alligator Habanero Smoked Ale
+2929,Mayflower Brewing Company,5.20 %,Mayflower Spring Hop Ale
+2930,Barrel Harbor Brewing,5.20 %,Barrel Harbor Red Ale
+2931,Deverell,4.50 %,Deverell Redemption Amber Ale
+2932,Lumina Brewing Company,-,Lumina Raccoon Red Ale
+2933,Kauai Island Brewing Company,5.80 %,Kauai Island Cane Fire Red
+2934,Brutopia Brewery & Kitchen,5.50 %,Brutopian Valhalla Amber
+2935,Four Fathers Brewing,9.80 %,Four Fathers Heavy Hitter
+2936,Actual Brewing Company,7.30 %,Actual Bourbon Barrel Aged Elektron
+2937,North Coast Brewing Company,5.50 %,North Coast Red Seal Ale
+2938,Buoy Beer Company,6.70 %,Buoy NW Red Ale
+2939,Barnet,4.30 %,Barnet Giddy Up
+2940,Napier Brewery,6 %,Napier Roadster Red
+2941,Vindication Brewing Co. .,7.20 %,Vindication American Bold Ale
+2942,Stonehammer Brewery,5 %,F & M StoneHammer Maple Red Ale
+2943,Laurelwood Public House & Brewery,6 %,Laurelwood Tre Otto Amber
+2944,Northwest Brewing Company,6 %,Northwest Joker Amber Ale
+2945,AF Brew,5.80 %,AF Brew Redrum IPA
+2946,Burn _ Em Brewing,7 %,Burn _ Em Red Dead Revelvet
+2947,Coors Brewing Company &#40; MillerCoors &#41;,-,AC Golden Colorado Native Saison
+2948,Big Island Brewhaus,6.50 %,Big Island Red Giant Ale
+2949,Fegley_s Brew Works,4.20 %,Bethlehem Brew Works Knuckleball
+2950,Feral Brewing Co. .,7.40 %,Feral Fantapants
+2951,Blackrocks Brewery,-,Blackrocks Three Wolf Moon IPA
+2952,Bricktown Brewery,-,Bricktown Remington Red
+2953,Intracoastal Brewing Company,5 %,Intracoastal This is Americ_Ale _
+2954,Aiken Brewing Company,5.20 %,Aiken Thoroughbred Red
+2955,Cottrell Brewing Company,5 %,Cottrell Old Yankee Ale
+2956,Wolf Hills Brewing Company,4.80 %,Wolf Hills Creeper Trail Amber Ale
+2957,Hood Canal Brewery,-,Hood Canal Agate Pass Amber
+2958,Skookum Brewery,5.10 %,Skookum Amber_s Hot Friend
+2959,Frankenmuth Brewery,-,Frankenmuth Old Detroit Amber Ale
+2960,Australian Independent Brewers,5.20 %,Endeavour 2010 Reserve Amber Ale
+2961,Hollister Brewing Company,5.50 %,Hollister Table 42 Red
+2962,Sand Creek Brewing Company,4.70 %,4 Brothers Blended Beer Sibling Rivalry
+2963,Atwater in the Park,5.30 %,Atwater Red Crown Red
+2964,Rock Bottom King of Prussia,-,Rock Bottom King of Prussia Penns Curse Amber Ale
+2965,Big Grove Brewery,8 %,Big Grove Anniversary Ale 2014
+2966,101 Cider House,6.90 %,101 Cider House SoCal Scrumpy
+2967,New Belgium Brewing Company,5.20 %,New Belgium Fat Tire
+2968,Coda Brewing,6.70 %,Coda Dogcatcher Red Ale
+2969,Long Trail Brewery,7.90 %,Long Trail Brewmaster Series Centennial Red
+2970,Belching Beaver,6 %,Belching Beaver Blushing Beaver
+2971,Indiana City Brewing Company,8.50 %,Indiana City Crimson Bombshell
+2972,GoodLife Brewing Company,6 %,GoodLife Redside India Red Ale
+2973,Acorn,5 %,Acorn Comet IPA
+2974,Boulevard Brewing Company &#40; Duvel-Moortgat &#41;,5.80 %,Boulevard Tasting Room Series Red IPA
+2975,Swashbuckler Brewing Company,-,Swashbuckler Red Sea Amber Ale
+2976,Central Waters Brewing Co. .,5 %,Central Waters Ouisconsing Red Ale
+2977,Le Grimoire Microbrasserie,5 %,Le Grimoire Grimousse
+2978,Wicked Weed Brewing,6 %,Wicked Weed Decoy Red
+2979,2 Brothers Brewery,5.70 %,2 Brothers Grizz
+2980,Cigar City Brewing,6 %,Cigar City Brewpub Grass Fed Red
+2981,Howe Sound Brewing,4.50 %,Howe Sound Super Jupiter Grapefruit ISA
+2982,Blue Corn Brewery &#40; Santa Fe &#41;,-,Blue Corn Rio Chama Amber Ale
+2983,Howe Sound Brewing,5 %,Howe Sound Boomer_s Canadian Red Ale
+2984,Caldera Brewing Company,5.60 %,Caldera Ashland Amber Ale
+2985,Deschutes Brewery,6.10 %,Deschutes India Red Delicious
+2986,Cascade Brewing,7.20 %,Cascade Honeyed Combs
+2987,Bison Brewing Company,7 %,Bison Organic Red Reuben
+2988,Barley Boys Brewery,-,Barley Boys Eds Red Pale Ale
+2989,McMenamins Pubs and Breweries,7.10 %,McMenamins Red Riser IRA
+2990,Brew Wharf,5.30 %,Brew Wharf Fire From The Top Of A Monkeys Head
+2991,Wildcard Brewing Company,7.50 %,Wildcard Double Down Imperial Red Ale
+2992,Red Car Brewery & Restaurant,4.94 %,Red Car Motorman Reserve
+2993,Rumspringa Brewing Company,-,Rumspringa Red Caboose Ale
+2994,Renaissance Brewing,5 %,8 Wired Farmhouse Pale Ale
+2995,The Unknown Brewing Company,5.60 %,The Unknown Southern Hospitali-TEA
+2996,Blue & Gray Brewing Co. .,6.50 %,Blue & Gray Christmas Cranberry Ale
+2997,Millys Tavern / Stark Brewing Company,4.80 %,Millys Tavern Tashas Red Tail Ale
+2998,75th Street Brewery,-,75th Street Hoppopotamus
+2999,Point Ybel Brewing Company,5.60 %,Point Ybel Sanibel Red Island Ale

@@ -1,0 +1,107 @@
+place_id,restaurant_nm,urban_center,cuisine_type,street_address,restaurant_rating
+0,` arnie morton \ 's of chicago ',` los angeles ',american,' 435 s. la cienega blv . ',0
+1,` art \ 's delicatessen ',` studio city ',american,' 12224 ventura blvd. ',1
+2,` hotel bel-air ',` bel air ',californian,' 701 stone canyon rd. ',2
+3,` cafe bizou ',` sherman oaks ',french,' 14016 ventura blvd. ',3
+4,campanile,` los angeles ',american,' 624 s. la brea ave. ',4
+5,` chinois on main ',` santa monica ',french,' 2709 main st. ',5
+6,citrus,` los angeles ',californian,' 6703 melrose ave. ',6
+7,fenix,hollywood,american,' 8358 sunset blvd. west ',7
+8,granita,malibu,californian,' 23725 w. malibu rd. ',8
+9,` grill on the alley ',` los angeles ',american,' 9560 dayton way ',9
+10,` restaurant katsu ',` los angeles ',asian,' 1972 n. hillhurst ave. ',10
+11,` l \ ` orangerie ',` los angeles ',french,' 903 n. la cienega blvd. ',11
+12,` le chardonnay ',` los angeles ',french,' 8284 melrose ave. ',12
+13,` locanda veneta ',` los angeles ',italian,' 3rd st. ',13
+14,matsuhisa,` beverly hills ',asian,' 129 n. la cienega blvd. ',14
+15,` the palm ',` los angeles ',american,' 9001 santa monica blvd. ',15
+16,patina,` los angeles ',californian,' 5955 melrose ave. ',16
+17,` philippe \ 's the original ',` los angeles ',american,' 1001 n. alameda st. ',17
+18,` pinot bistro ',` los angeles ',french,' 12969 ventura blvd. ',18
+19,` rex il ristorante ',` los angeles ',italian,' 617 s. olive st. ',19
+20,spago,` los angeles ',californian,' 1114 horn ave. ',20
+21,valentino,` santa monica ',italian,' 3115 pico blvd. ',21
+22,` yujean kang \ 's gourmet chinese cuisine ',` los angeles ',asian,'67 n. raymond ave. ',22
+23,'21 club ',` new york ',american,'21 w. 52nd st. ',23
+24,aquavit,` new york ',continental,'13 w. 54th st. ',24
+25,aureole,` new york ',american,'34 e. 61st st. ',25
+26,` cafe lalo ',` new york ',` coffee bar ',' 201 w. 83rd st. ',26
+27,` cafe des artistes ',` new york ',continental,' 1 w. 67th st. ',27
+28,` carmine \ 's ',` new york ',italian,' 2450 broadway between 90th and 91st sts . ',28
+29,` carnegie deli ',` new york ',delicatessen,' 854 7th ave. between 54th and 55th sts . ',29
+30,chanterelle,` new york ',american,' 2 harrison st. near hudson st. ',30
+31,daniel,` new york ',french,'20 e. 76th st. ',31
+32,dawat,` new york ',asian,' 210 e. 58th st. ',32
+33,felidia,` new york ',italian,' 243 e. 58th st. ',33
+34,` four seasons grill room ',` new york ',american,'99 e. 52nd st. ',34
+35,` gotham bar & grill ',` new york ',american,'12 e. 12th st. ',35
+36,` gramercy tavern ',` new york ',american,'42 e. 20th st. between park ave. s and broadway ',36
+37,` island spice ',` new york ',` tel caribbean ',' 402 w. 44th st. ',37
+38,` jo jo ',` new york ',american,' 160 e. 64th st. ',38
+39,` la caravelle ',` new york ',french,'33 w. 55th st. ',39
+40,` la cote basque ',` new york ',french,'60 w. 55th st. between 5th and 6th ave. ',40
+41,` le bernardin ',` new york ',french,' 155 w. 51st st. ',41
+42,` les celebrites ',` new york ',french,' 160 central park s ',42
+43,lespinasse,` new york ',american,' 2 e. 55th st. ',43
+44,lutece,` new york ',french,' 249 e. 50th st. ',44
+45,` manhattan ocean club ',` new york ',seafood,'57 w. 58th st. ',45
+46,march,` new york ',american,' 405 e. 58th st. ',46
+47,` mesa grill ',` new york ',american,' 102 5th ave. between 15th and 16th sts . ',47
+48,` mi cocina ',` new york ',mexican,'57 jane st. off hudson st. ',48
+49,montrachet,` new york ',french,' 239 w. broadway between walker and white sts . ',49
+50,oceana,` new york ',seafood,'55 e. 54th st. ',50
+51,` park avenue cafe ',` new york ',american,' 100 e. 63rd st. ',51
+52,petrossian,` new york ',french,' 182 w. 58th st. ',52
+53,picholine,` new york ',mediterranean,'35 w. 64th st. ',53
+54,pisces,` new york ',seafood,'95 ave. a at 6th st. ',54
+55,` rainbow room ',` new york ',` or 212/632 -5100 american ','30 rockefeller plaza ',55
+56,` river cafe ',brooklyn,american,' 1 water st. at the east river ',56
+57,` san domenico ',` new york ',italian,' 240 central park s ',57
+58,` second avenue deli ',` new york ',delicatessen,' 156 2nd ave. at 10th st. ',58
+59,seryna,` new york ',asian,'11 e. 53rd st. ',59
+60,` shun lee west ',` new york ',asian,'43 w. 65th st. ',60
+61,` sign of the dove ',` new york ',american,' 1110 3rd ave. at 65th st. ',61
+62,` smith & wollensky ',` new york ',american,' 201 e. 49th st. ',62
+63,` tavern on the green ',` new york ',american,` in central park at 67th st. ',63
+64,` uncle nick \ 's ',` new york ',mediterranean,' 747 9th ave. between 50th and 51st sts . ',64
+65,` union square cafe ',` new york ',american,'21 e. 16th st. ',65
+66,` virgil \ 's ',` new york ',american,' 152 w. 44th st. ',66
+67,` chin \ 's ',` las vegas ',asian,' 3200 las vegas blvd. s ',67
+68,` coyote cafe ',` las vegas ',southwestern,' 3799 las vegas blvd. s ',68
+69,` le montrachet ',` las vegas ',continental,' 3000 w. paradise rd. ',69
+70,` palace court ',` las vegas ',continental,' 3570 las vegas blvd. s ',70
+71,` second street grille ',` las vegas ',seafood,' 200 e. fremont st. ',71
+72,` steak house ',` las vegas ',` steak houses ',' 2880 las vegas blvd. s ',72
+73,tillerman,` las vegas ',seafood,' 2245 e. flamingo rd. ',73
+74,abruzzi,atlanta,italian,' 2355 peachtree rd. . peachtree battle shopping center ',74
+75,bacchanalia,atlanta,international,' 3125 piedmont rd. . near peachtree rd. ',75
+76,` bone \ 's ',atlanta,american,' 3130 piedmont road ',76
+77,` brasserie le coze ',atlanta,french,' 3393 peachtree rd. . lenox square mall near neiman marcus ',77
+78,` buckhead diner ',atlanta,american,' 3073 piedmont road ',78
+79,ciboulette,atlanta,french,' 1529 piedmont ave. ',79
+80,delectables,atlanta,american,' 1 margaret mitchell sq. ',80
+81,` georgia grille ',atlanta,american,' 2290 peachtree rd. . peachtree square shopping center ',81
+82,` hedgerose heights inn ',atlanta,international,' 490 e. paces ferry rd. ',82
+83,` heera of india ',atlanta,asian,' 595 piedmont ave. rio shopping mall ',83
+84,` indigo coastal grill ',atlanta,caribbean,' 1397 n. highland ave. ',84
+85,` la grotta ',atlanta,italian,' 2637 peachtree rd. . peachtree house condominium ',85
+86,` mary mac \ 's tea room ',atlanta,southern,' 224 ponce de leon ave. ',86
+87,` nikolai \ 's roof ',atlanta,continental,' 255 courtland st. at harris st. ',87
+88,` pano \ 's and paul \ 's ',atlanta,international,' 1232 w. paces ferry rd. ',88
+89,` cafe ritz-carlton buckhead ',atlanta,` ext 6108 international ',' 3434 peachtree rd. ',89
+90,` dining room ritz-carlton buckhead ',atlanta,international,' 3434 peachtree rd. ',90
+91,` restaurant ritz-carlton atlanta ',atlanta,continental,' 181 peachtree st. ',91
+92,toulouse,atlanta,french,' b peachtree rd. ',92
+93,` veni vidi vici ',atlanta,italian,'41 14th st. ',93
+94,` alain rondelli ',` san francisco ',french,' 126 clement st. ',94
+95,aqua,` san francisco ',seafood,' 252 california st. ',95
+96,boulevard,` san francisco ',american,' 1 mission st. ',96
+97,` cafe claude ',` san francisco ',french,' 7 claude la . ',97
+98,` campton place ',` san francisco ',american,' 340 stockton st. ',98
+99,` chez michel ',` san francisco ',french,' 804 northpoint ',99
+100,` fleur de lys ',` san francisco ',french,' 777 sutter st. ',100
+101,fringale,` san francisco ',french,' 570 4th st. ',101
+102,` hawthorne lane ',` san francisco ',american,'22 hawthorne st. ',102
+103,` khan toke thai house ',` san francisco ',asian,' 5937 geary blvd. ',103
+104,` la folie ',` san francisco ',french,' 2316 polk st. ',104
+105,lulu,` san francisco ',mediterranean,' 816 folsom st. ',105

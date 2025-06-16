@@ -1,0 +1,4 @@
+co_applicant_id,co_applicant_name,co_applicant_role_code,co_applicant_role_en,co_applicant_role_fr,co_applicant_org_id,co_applicant_org_name,province_en,province_fr,country_en,country_fr,fiscal_year
+694712,Fabio M. Macciardi,SUP,Research Supervisor,Superviseur,CEAH,CAMH / Centre de toxicomanie et de santé mentale,ON,ON,CA,CA,2002-2003
+417197,David R. Bundle,N.P.I.,PI (Nominated),Chercheur principal désigné,CBAA,U of A,AB,AB,CA,CA,2002-2003
+Row 669140,Barbara B. Sherwin,PSUP,Lead Supervisor,Superviseur principal,MCGILL_ID,McGill University,QC,Quebec (Province),CA,CA,FY 2002-03

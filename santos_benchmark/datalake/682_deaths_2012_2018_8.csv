@@ -1,0 +1,4 @@
+rec_id,death_dt,dt_type,age,sex,res_city,res_county,loc,inj_desc,inj_place,cod
+17-0922,2017-11-21,Report Date,26,F,"Somers, CT",Tolland County,Home,Substance Abuse,Home,Fentanyl Overdose
+Case 17-0602,"July 16, 2017",Reporting Date,59 years old,M,"Meriden, CT",New Haven County,At home,Drug overdose,Deceased's home,"Fatal intoxication due to Fentanyl, Heroin, Alcohol, Topiramate, Quetiapine, and Escitalopram."
+Case 18-0401,"May 26, 2018",Date of Report,59 years old,M,Bristol,Hartford County,Other Location,Substance Ingestion,Lodging Facility,"Fatal overdose due to combined effects of Ethanol, Chlordiazepoxide, Bupropion, Duloxetine, and Citalopram/Escitalopram."

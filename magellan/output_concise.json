@@ -1,0 +1,1784 @@
+{
+  "abt_buy_tableA.csv: id": {
+    "original_column_name": "id",
+    "alternative_column_names": [
+      "item_id",
+      "product_id",
+      "prod_id",
+      "abt_buy_id",
+      "record_id",
+      "entity_id",
+      "item_no",
+      "sku_id",
+      "item_key",
+      "primary_key",
+      "unique_id",
+      "abt_id",
+      "identifier",
+      "item_code",
+      "product_key"
+    ]
+  },
+  "abt_buy_tableA.csv: name": {
+    "original_column_name": "name",
+    "alternative_column_names": [
+      "product_name",
+      "item_name",
+      "prod_name",
+      "p_name",
+      "product_nm",
+      "item_nm",
+      "prod_nm",
+      "product_desc_name",
+      "product_full_name",
+      "item_full_name",
+      "product_title",
+      "item_title",
+      "prod_title",
+      "p_title",
+      "item_desc_name"
+    ]
+  },
+  "abt_buy_tableA.csv: description": {
+    "original_column_name": "description",
+    "alternative_column_names": [
+      "desc",
+      "item_desc",
+      "prod_desc",
+      "product_description",
+      "item_details",
+      "detail_desc",
+      "long_desc",
+      "full_desc",
+      "spec_desc",
+      "features",
+      "item_features",
+      "product_features",
+      "specifications",
+      "detailed_info",
+      "product_info"
+    ]
+  },
+  "abt_buy_tableA.csv: price": {
+    "original_column_name": "price",
+    "alternative_column_names": [
+      "item_price",
+      "product_price",
+      "cost",
+      "unit_price",
+      "sale_price",
+      "price_amount",
+      "amount",
+      "pricing",
+      "value",
+      "retail_price",
+      "wholesale_price",
+      "list_price",
+      "market_price",
+      "current_price",
+      "base_price"
+    ]
+  },
+  "abt_buy_tableB.csv: id": {
+    "original_column_name": "id",
+    "alternative_column_names": [
+      "identifier",
+      "abt_buy_id",
+      "abt_id",
+      "buy_id",
+      "record_id",
+      "product_id",
+      "item_id",
+      "item_no",
+      "prod_id",
+      "pid",
+      "abt_buy_key",
+      "unique_id",
+      "unique_identifier",
+      "abt_key",
+      "buy_key"
+    ]
+  },
+  "abt_buy_tableB.csv: name": {
+    "original_column_name": "name",
+    "alternative_column_names": [
+      "product_name",
+      "item_name",
+      "prod_name",
+      "product_nm",
+      "item_nm",
+      "product_title",
+      "item_title",
+      "prod_desc",
+      "product_desc",
+      "item_desc",
+      "prod_label",
+      "product_label",
+      "item_label",
+      "p_name",
+      "i_name"
+    ]
+  },
+  "abt_buy_tableB.csv: description": {
+    "original_column_name": "description",
+    "alternative_column_names": [
+      "desc",
+      "prod_desc",
+      "item_desc",
+      "product_description",
+      "item_description",
+      "specs",
+      "details",
+      "prod_details",
+      "item_details",
+      "features",
+      "product_features",
+      "item_features",
+      "info",
+      "product_info",
+      "item_info"
+    ]
+  },
+  "abt_buy_tableB.csv: price": {
+    "original_column_name": "price",
+    "alternative_column_names": [
+      "cost",
+      "amount",
+      "item_price",
+      "unit_price",
+      "price_value",
+      "sale_price",
+      "retail_price",
+      "purchase_price",
+      "list_price",
+      "selling_price",
+      "price_amount",
+      "product_price",
+      "item_cost",
+      "prc",
+      "pr"
+    ]
+  },
+  "amazon_google_tableA.csv: id": {
+    "original_column_name": "id",
+    "alternative_column_names": [
+      "product_id",
+      "prod_id",
+      "item_id",
+      "amazon_google_id",
+      "ag_id",
+      "product_key",
+      "pk",
+      "identifier",
+      "unique_id",
+      "uid",
+      "record_id",
+      "rec_id",
+      "amazon_google_product_id",
+      "ag_product_id",
+      "item_key"
+    ]
+  },
+  "amazon_google_tableA.csv: title": {
+    "original_column_name": "title",
+    "alternative_column_names": [
+      "product_name",
+      "product_title",
+      "item_name",
+      "item_title",
+      "name",
+      "product_desc",
+      "product_description",
+      "prod_name",
+      "prod_title",
+      "item_desc",
+      "item_description",
+      "title_desc",
+      "book_title",
+      "software_title",
+      "media_title"
+    ]
+  },
+  "amazon_google_tableA.csv: manufacturer": {
+    "original_column_name": "manufacturer",
+    "alternative_column_names": [
+      "mfg",
+      "maker",
+      "prod_company",
+      "brand",
+      "vendor",
+      "supplier",
+      "producer",
+      "manufact",
+      "mfr",
+      "source",
+      "origin",
+      "maker_company",
+      "builder",
+      "manufacturer_name",
+      "manu"
+    ]
+  },
+  "amazon_google_tableA.csv: price": {
+    "original_column_name": "price",
+    "alternative_column_names": [
+      "cost",
+      "amount",
+      "price_value",
+      "price_amount",
+      "item_price",
+      "product_price",
+      "retail_price",
+      "sale_price",
+      "unit_price",
+      "list_price",
+      "purchase_price",
+      "selling_price",
+      "price_tag",
+      "msrp",
+      "price_amt"
+    ]
+  },
+  "amazon_google_tableB.csv: id": {
+    "original_column_name": "id",
+    "alternative_column_names": [
+      "product_id",
+      "item_id",
+      "sku",
+      "product_number",
+      "record_id",
+      "entity_id",
+      "unique_id",
+      "prod_id",
+      "item_number",
+      "amazon_google_id",
+      "ag_id",
+      "product_key",
+      "listing_id",
+      "id_num",
+      "identifier"
+    ]
+  },
+  "amazon_google_tableB.csv: title": {
+    "original_column_name": "title",
+    "alternative_column_names": [
+      "product_title",
+      "product_name",
+      "item_title",
+      "item_name",
+      "prod_title",
+      "prod_name",
+      "product_desc",
+      "item_desc",
+      "product_label",
+      "item_label",
+      "prod_desc",
+      "name",
+      "description",
+      "title_name",
+      "product_title_name"
+    ]
+  },
+  "amazon_google_tableB.csv: manufacturer": {
+    "original_column_name": "manufacturer",
+    "alternative_column_names": [
+      "mfr",
+      "maker",
+      "brand",
+      "producer",
+      "vendor",
+      "supplier",
+      "company",
+      "fabricator",
+      "creator",
+      "builder",
+      "origin",
+      "source",
+      "manufacturer_name",
+      "mfg",
+      "manuf"
+    ]
+  },
+  "amazon_google_tableB.csv: price": {
+    "original_column_name": "price",
+    "alternative_column_names": [
+      "item_price",
+      "product_price",
+      "unit_price",
+      "retail_price",
+      "cost",
+      "amount",
+      "sales_price",
+      "list_price",
+      "price_value",
+      "price_amount",
+      "price_tag",
+      "selling_price",
+      "market_price",
+      "base_price",
+      "final_price"
+    ]
+  },
+  "beer_tableA.csv: id": {
+    "original_column_name": "id",
+    "alternative_column_names": [
+      "beer_id",
+      "beer_key",
+      "beer_pk",
+      "beer_identifier",
+      "beer_code",
+      "beer_num",
+      "beer_no",
+      "beer_ref",
+      "beer_uid",
+      "beer_serial",
+      "br_id",
+      "bev_id",
+      "brew_id",
+      "prod_id",
+      "item_id"
+    ]
+  },
+  "beer_tableA.csv: Beer_Name": {
+    "original_column_name": "Beer_Name",
+    "alternative_column_names": [
+      "beer_nm",
+      "beer_name",
+      "beer_desc",
+      "beer_title",
+      "brew_name",
+      "brew_nm",
+      "beer_label",
+      "beer_product",
+      "beer_item",
+      "beer_brew",
+      "beer_brand",
+      "brew_product",
+      "brew_item",
+      "beer_style_name",
+      "brew_beer_name"
+    ]
+  },
+  "beer_tableA.csv: Brew_Factory_Name": {
+    "original_column_name": "Brew_Factory_Name",
+    "alternative_column_names": [
+      "brewery_name",
+      "brewery",
+      "brew_factory",
+      "brew_fct_name",
+      "brew_fac_name",
+      "brewery_factory",
+      "beer_factory_name",
+      "beer_brewery_name",
+      "manufacturer_name",
+      "maker_name",
+      "producer_name",
+      "brewer_name",
+      "factory_name",
+      "brew_fac",
+      "brewery_fac_name"
+    ]
+  },
+  "beer_tableA.csv: Style": {
+    "original_column_name": "Style",
+    "alternative_column_names": [
+      "beer_style",
+      "beer_type",
+      "brew_style",
+      "brew_type",
+      "style_type",
+      "beer_category",
+      "beer_class",
+      "beer_flavor",
+      "beer_kind",
+      "brew_category",
+      "beer_subtype",
+      "beer_variety",
+      "alcohol_style",
+      "drink_style",
+      "fermentation_style"
+    ]
+  },
+  "beer_tableA.csv: ABV": {
+    "original_column_name": "ABV",
+    "alternative_column_names": [
+      "alcohol_by_volume",
+      "alc_vol",
+      "beer_abv",
+      "abv_percentage",
+      "beer_alc_content",
+      "alcohol_content",
+      "vol_alc",
+      "abv_value",
+      "beer_strength",
+      "alc_percentage",
+      "beer_abv_percent",
+      "alc_by_vol",
+      "abv_pct",
+      "beer_alcohol_pct",
+      "alcohol_pct"
+    ]
+  },
+  "beer_tableB.csv: id": {
+    "original_column_name": "id",
+    "alternative_column_names": [
+      "beer_id",
+      "beer_key",
+      "beer_identifier",
+      "beer_pk",
+      "b_id",
+      "b_key",
+      "brew_id",
+      "beer_code",
+      "beer_no",
+      "beer_num",
+      "brew_key",
+      "brew_code",
+      "beer_uid",
+      "beer_ref",
+      "beer_index"
+    ]
+  },
+  "beer_tableB.csv: Beer_Name": {
+    "original_column_name": "Beer_Name",
+    "alternative_column_names": [
+      "beer_name",
+      "beername",
+      "name",
+      "beer_nm",
+      "brew_name",
+      "beer_title",
+      "beer_label",
+      "brew_label",
+      "beer_product",
+      "product_name",
+      "brew_product",
+      "beer_desc",
+      "beer_description",
+      "brew_desc",
+      "beer_designation"
+    ]
+  },
+  "beer_tableB.csv: Brew_Factory_Name": {
+    "original_column_name": "Brew_Factory_Name",
+    "alternative_column_names": [
+      "Brewery_Name",
+      "Brewery",
+      "Brewer_Name",
+      "Brewer",
+      "Factory_Name",
+      "Manufacturer_Name",
+      "Manufacturer",
+      "Producer_Name",
+      "Producer",
+      "Brew_Facility_Name",
+      "Brew_Facility",
+      "Beer_Maker",
+      "Beer_Maker_Name",
+      "Brew_Co_Name",
+      "Brew_Co"
+    ]
+  },
+  "beer_tableB.csv: Style": {
+    "original_column_name": "Style",
+    "alternative_column_names": [
+      "beer_style",
+      "style_type",
+      "beer_type",
+      "brew_style",
+      "style_category",
+      "category",
+      "brew_type",
+      "beer_category",
+      "type",
+      "style_desc",
+      "desc_style",
+      "beer_style_desc",
+      "style_name",
+      "name_style",
+      "beer_style_name"
+    ]
+  },
+  "beer_tableB.csv: ABV": {
+    "original_column_name": "ABV",
+    "alternative_column_names": [
+      "alcohol_by_volume",
+      "alcohol_content",
+      "beer_strength",
+      "brew_alcohol",
+      "abv_percentage",
+      "alc_vol",
+      "alcohol_percent",
+      "beer_abv",
+      "brew_abv",
+      "alc_by_vol",
+      "beer_alcohol",
+      "alcohol_level",
+      "beer_alc_content",
+      "brew_strength",
+      "alcohol_measure"
+    ]
+  },
+  "company_tableA.csv: id": {
+    "original_column_name": "id",
+    "alternative_column_names": [
+      "company_id",
+      "entity_id",
+      "record_id",
+      "org_id",
+      "firm_id",
+      "business_id",
+      "enterprise_id",
+      "co_id",
+      "corp_id",
+      "cmp_id",
+      "identifier",
+      "pk_id",
+      "uid",
+      "ref_id",
+      "serial_id"
+    ]
+  },
+  "company_tableA.csv: content": {
+    "original_column_name": "content",
+    "alternative_column_names": [
+      "description",
+      "info",
+      "details",
+      "text",
+      "data",
+      "body",
+      "content_data",
+      "content_text",
+      "content_info",
+      "content_description",
+      "company_content",
+      "company_info",
+      "company_description",
+      "company_details",
+      "company_data"
+    ]
+  },
+  "company_tableB.csv: id": {
+    "original_column_name": "id",
+    "alternative_column_names": [
+      "company_id",
+      "comp_id",
+      "co_id",
+      "id_company",
+      "company_identifier",
+      "cid",
+      "entity_id",
+      "record_id",
+      "org_id",
+      "firm_id",
+      "business_id",
+      "corp_id",
+      "ent_id",
+      "co_pk",
+      "pk_company"
+    ]
+  },
+  "company_tableB.csv: content": {
+    "original_column_name": "content",
+    "alternative_column_names": [
+      "description",
+      "details",
+      "text_content",
+      "data",
+      "info",
+      "body",
+      "main_text",
+      "item_text",
+      "document",
+      "record_data",
+      "content_data",
+      "content_text",
+      "article",
+      "narrative",
+      "full_text"
+    ]
+  },
+  "dblp_acm_tableA.csv: id": {
+    "original_column_name": "id",
+    "alternative_column_names": [
+      "record_id",
+      "doc_id",
+      "paper_id",
+      "publication_id",
+      "entry_id",
+      "ref_id",
+      "acm_id",
+      "dblp_id",
+      "item_id",
+      "pub_id",
+      "article_id",
+      "acm_dblp_id",
+      "identifier",
+      "unique_id",
+      "acm_record_id"
+    ]
+  },
+  "dblp_acm_tableA.csv: title": {
+    "original_column_name": "title",
+    "alternative_column_names": [
+      "doc_title",
+      "pub_title",
+      "title_name",
+      "article_title",
+      "paper_name",
+      "paper_title",
+      "pub_name",
+      "document_title",
+      "work_title",
+      "publication_title",
+      "research_title",
+      "study_title",
+      "journal_title",
+      "conf_title",
+      "pub_desc"
+    ]
+  },
+  "dblp_acm_tableA.csv: authors": {
+    "original_column_name": "authors",
+    "alternative_column_names": [
+      "author_list",
+      "author_names",
+      "written_by",
+      "contributors",
+      "authors_list",
+      "author_names_list",
+      "authored_by",
+      "pub_authors",
+      "paper_authors",
+      "doc_authors",
+      "publication_authors",
+      "researchers",
+      "creators",
+      "writers",
+      "collaborators"
+    ]
+  },
+  "dblp_acm_tableA.csv: venue": {
+    "original_column_name": "venue",
+    "alternative_column_names": [
+      "event_location",
+      "conference_name",
+      "publication_venue",
+      "proc_venue",
+      "conf_abbr",
+      "journal_name",
+      "pub_location",
+      "event_name",
+      "venue_name",
+      "conf_venue",
+      "pub_source",
+      "source_venue",
+      "event_site",
+      "pub_forum",
+      "conf_loc"
+    ]
+  },
+  "dblp_acm_tableA.csv: year": {
+    "original_column_name": "year",
+    "alternative_column_names": [
+      "publication_year",
+      "pub_year",
+      "year_published",
+      "yr",
+      "publishing_year",
+      "record_year",
+      "doc_year",
+      "article_year",
+      "pubdate_year",
+      "date_year",
+      "creation_year",
+      "time_year",
+      "event_year",
+      "release_year",
+      "timestamp_year"
+    ]
+  },
+  "dblp_acm_tableB.csv: id": {
+    "original_column_name": "id",
+    "alternative_column_names": [
+      "record_id",
+      "entry_id",
+      "pub_id",
+      "dblp_id",
+      "acm_id",
+      "paper_id",
+      "item_id",
+      "doc_id",
+      "pub_key",
+      "ref_id",
+      "unique_id",
+      "identifier",
+      "uid",
+      "rec_id",
+      "article_id"
+    ]
+  },
+  "dblp_acm_tableB.csv: title": {
+    "original_column_name": "title",
+    "alternative_column_names": [
+      "article_title",
+      "pub_title",
+      "paper_title",
+      "research_title",
+      "doc_title",
+      "title_txt",
+      "heading",
+      "name",
+      "subject",
+      "desc",
+      "pub_name",
+      "article_name",
+      "paper_name",
+      "research_name",
+      "work_title"
+    ]
+  },
+  "dblp_acm_tableB.csv: authors": {
+    "original_column_name": "authors",
+    "alternative_column_names": [
+      "author_list",
+      "writer",
+      "creator",
+      "contributors",
+      "author_names",
+      "auth",
+      "writers",
+      "paper_authors",
+      "article_authors",
+      "pub_authors",
+      "researchers",
+      "co_authors",
+      "author_details",
+      "author_info",
+      "publishers"
+    ]
+  },
+  "dblp_acm_tableB.csv: venue": {
+    "original_column_name": "venue",
+    "alternative_column_names": [
+      "conference_name",
+      "event_name",
+      "publication_venue",
+      "conf_name",
+      "event_location",
+      "pub_venue",
+      "conf_title",
+      "event_site",
+      "venue_name",
+      "location",
+      "conf_abbr",
+      "event_abbr",
+      "venue_abbr",
+      "venue_location",
+      "conference_venue"
+    ]
+  },
+  "dblp_acm_tableB.csv: year": {
+    "original_column_name": "year",
+    "alternative_column_names": [
+      "pub_year",
+      "publish_year",
+      "pub_date",
+      "year_published",
+      "release_year",
+      "pub_yr",
+      "yr",
+      "pub_y",
+      "publ_year",
+      "publication_year",
+      "pub_year_num",
+      "pub_year_val",
+      "year_of_pub",
+      "pub_time",
+      "date_year"
+    ]
+  },
+  "dblp_scholar_tableA.csv: id": {
+    "original_column_name": "id",
+    "alternative_column_names": [
+      "record_id",
+      "entry_id",
+      "doc_id",
+      "paper_id",
+      "pub_id",
+      "article_id",
+      "ref_id",
+      "item_id",
+      "object_id",
+      "unique_id",
+      "identifier",
+      "dblp_id",
+      "scholar_id",
+      "dblp_scholar_id",
+      "publication_id"
+    ]
+  },
+  "dblp_scholar_tableA.csv: title": {
+    "original_column_name": "title",
+    "alternative_column_names": [
+      "article_title",
+      "paper_title",
+      "pub_title",
+      "document_title",
+      "work_title",
+      "schol_title",
+      "pub_name",
+      "doc_name",
+      "research_title",
+      "paper_name",
+      "work_name",
+      "subject_title",
+      "capt_title",
+      "paper_subject",
+      "topic_title"
+    ]
+  },
+  "dblp_scholar_tableA.csv: authors": {
+    "original_column_name": "authors",
+    "alternative_column_names": [
+      "author_list",
+      "auth_names",
+      "written_by",
+      "creator_list",
+      "paper_authors",
+      "author_names",
+      "contributors",
+      "pub_authors",
+      "researchers",
+      "authors_list",
+      "author_team",
+      "auth_entities",
+      "doc_authors",
+      "creator_names",
+      "author_group"
+    ]
+  },
+  "dblp_scholar_tableA.csv: venue": {
+    "original_column_name": "venue",
+    "alternative_column_names": [
+      "publication_venue",
+      "conference_name",
+      "journal_name",
+      "publishing_venue",
+      "event_name",
+      "pub_venue",
+      "conf_journal",
+      "venue_name",
+      "source_name",
+      "proceedings",
+      "pub_location",
+      "series_name",
+      "pub_forum",
+      "conf_abbrev",
+      "event_abbr"
+    ]
+  },
+  "dblp_scholar_tableA.csv: year": {
+    "original_column_name": "year",
+    "alternative_column_names": [
+      "pub_year",
+      "pub_date",
+      "pub_yr",
+      "publication_year",
+      "publication_yr",
+      "published_year",
+      "published_yr",
+      "year_published",
+      "year_pub",
+      "yr_published",
+      "pub_year_num",
+      "pub_year_val",
+      "doc_year",
+      "record_year",
+      "entry_year"
+    ]
+  },
+  "dblp_scholar_tableB.csv: id": {
+    "original_column_name": "id",
+    "alternative_column_names": [
+      "record_id",
+      "entry_id",
+      "document_id",
+      "pub_id",
+      "paper_id",
+      "article_id",
+      "item_id",
+      "scholar_id",
+      "dblp_id",
+      "ref_id",
+      "unique_id",
+      "identifier",
+      "key_id",
+      "entity_id",
+      "obj_id"
+    ]
+  },
+  "dblp_scholar_tableB.csv: title": {
+    "original_column_name": "title",
+    "alternative_column_names": [
+      "paper_title",
+      "pub_title",
+      "article_title",
+      "doc_title",
+      "research_title",
+      "pub_name",
+      "paper_name",
+      "article_name",
+      "title_text",
+      "name",
+      "heading",
+      "work_title",
+      "document_title",
+      "scholarly_title",
+      "academic_title"
+    ]
+  },
+  "dblp_scholar_tableB.csv: authors": {
+    "original_column_name": "authors",
+    "alternative_column_names": [
+      "author_list",
+      "auth_names",
+      "writer_list",
+      "contributors",
+      "creators",
+      "pub_authors",
+      "paper_authors",
+      "article_authors",
+      "auth_details",
+      "author_names",
+      "researchers",
+      "pub_writers",
+      "doc_authors",
+      "author_info",
+      "auth_contributors"
+    ]
+  },
+  "dblp_scholar_tableB.csv: venue": {
+    "original_column_name": "venue",
+    "alternative_column_names": [
+      "publication_venue",
+      "conf_name",
+      "journal_name",
+      "proceedings",
+      "pub_venue",
+      "event_name",
+      "conference",
+      "journal",
+      "publication_name",
+      "meeting_place",
+      "location",
+      "publication_forum",
+      "pub_site",
+      "conf_title",
+      "pub_event"
+    ]
+  },
+  "dblp_scholar_tableB.csv: year": {
+    "original_column_name": "year",
+    "alternative_column_names": [
+      "publication_year",
+      "pub_year",
+      "pub_yr",
+      "yr",
+      "release_year",
+      "rel_year",
+      "rel_yr",
+      "date_year",
+      "dt_year",
+      "publish_date_year",
+      "pub_date_yr",
+      "year_published",
+      "yr_published",
+      "document_year",
+      "doc_year"
+    ]
+  },
+  "fodors_zagat_tableA.csv: id": {
+    "original_column_name": "id",
+    "alternative_column_names": [
+      "restaurant_id",
+      "rest_id",
+      "r_id",
+      "location_id",
+      "loc_id",
+      "place_id",
+      "p_id",
+      "establishment_id",
+      "e_id",
+      "record_id"
+    ]
+  },
+  "fodors_zagat_tableA.csv: name": {
+    "original_column_name": "name",
+    "alternative_column_names": [
+      "restaurant_name",
+      "restaurant_nm",
+      "restaurant_title",
+      "business_name",
+      "biz_nm",
+      "establishment_name",
+      "estab_nm",
+      "venue_name",
+      "dining_spot_name",
+      "place_name"
+    ]
+  },
+  "fodors_zagat_tableA.csv: addr": {
+    "original_column_name": "addr",
+    "alternative_column_names": [
+      "address",
+      "location_address",
+      "street_address",
+      "full_address",
+      "physical_address",
+      "postal_address",
+      "billing_address",
+      "addr_line",
+      "street",
+      "addr_details"
+    ]
+  },
+  "fodors_zagat_tableA.csv: city": {
+    "original_column_name": "city",
+    "alternative_column_names": [
+      "locality",
+      "town",
+      "municipality",
+      "metro_area",
+      "urban_center",
+      "district",
+      "location_city",
+      "place",
+      "city_name",
+      "residence_city"
+    ]
+  },
+  "fodors_zagat_tableA.csv: phone": {
+    "original_column_name": "phone",
+    "alternative_column_names": [
+      "phone_number",
+      "contact_phone",
+      "business_phone",
+      "telephone",
+      "tel",
+      "phone_num",
+      "contact_num",
+      "telephone_num",
+      "phone_no",
+      "phone_contact"
+    ]
+  },
+  "fodors_zagat_tableA.csv: type": {
+    "original_column_name": "type",
+    "alternative_column_names": [
+      "category",
+      "cuisine_type",
+      "restaurant_type",
+      "dining_type",
+      "food_category",
+      "cuisine",
+      "restaurant_category",
+      "dining_category",
+      "food_type",
+      "restaurant_style"
+    ]
+  },
+  "fodors_zagat_tableA.csv: class": {
+    "original_column_name": "class",
+    "alternative_column_names": [
+      "rating",
+      "score",
+      "grade",
+      "rank",
+      "quality_score",
+      "restaurant_class",
+      "classification",
+      "cat_grade",
+      "rate_val",
+      "restaurant_rating"
+    ]
+  },
+  "fodors_zagat_tableB.csv: id": {
+    "original_column_name": "id",
+    "alternative_column_names": [
+      "restaurant_id",
+      "fodors_id",
+      "fz_id",
+      "rest_id",
+      "establishment_id",
+      "location_id"
+    ]
+  },
+  "fodors_zagat_tableB.csv: name": {
+    "original_column_name": "name",
+    "alternative_column_names": [
+      "restaurant_name",
+      "establishment_name",
+      "biz_name",
+      "rest_name",
+      "restaurant_nm",
+      "estb_name"
+    ]
+  },
+  "fodors_zagat_tableB.csv: addr": {
+    "original_column_name": "addr",
+    "alternative_column_names": [
+      "address",
+      "location",
+      "street_address",
+      "addr_line",
+      "physical_address",
+      "bldg_addr"
+    ]
+  },
+  "fodors_zagat_tableB.csv: city": {
+    "original_column_name": "city",
+    "alternative_column_names": [
+      "location_city",
+      "restaurant_city",
+      "loc_city",
+      "res_city",
+      "establishment_city",
+      "venue_city"
+    ]
+  },
+  "fodors_zagat_tableB.csv: phone": {
+    "original_column_name": "phone",
+    "alternative_column_names": [
+      "phone_number",
+      "contact_number",
+      "tel",
+      "telephone",
+      "phone_no",
+      "ph"
+    ]
+  },
+  "fodors_zagat_tableB.csv: type": {
+    "original_column_name": "type",
+    "alternative_column_names": [
+      "restaurant_type",
+      "cuisine_type",
+      "food_category",
+      "dining_type",
+      "cuisine_cat",
+      "food_type"
+    ]
+  },
+  "fodors_zagat_tableB.csv: class": {
+    "original_column_name": "class",
+    "alternative_column_names": [
+      "classification",
+      "category",
+      "rating",
+      "score",
+      "rank",
+      "class_code"
+    ]
+  },
+  "itunes_amazon_tableA.csv: id": {
+    "original_column_name": "id",
+    "alternative_column_names": [
+      "record_id",
+      "track_id",
+      "song_id",
+      "entry_id",
+      "item_id",
+      "music_id",
+      "itunes_id",
+      "amazon_id",
+      "track_no",
+      "music_entry_id",
+      "song_entry_id",
+      "itunes_track_id",
+      "amazon_track_id",
+      "digital_track_id",
+      "media_id"
+    ]
+  },
+  "itunes_amazon_tableA.csv: Song_Name": {
+    "original_column_name": "Song_Name",
+    "alternative_column_names": [
+      "song_name",
+      "song_title",
+      "track_name",
+      "track_title",
+      "music_name",
+      "music_title",
+      "song",
+      "track",
+      "sng_nm",
+      "trk_nm",
+      "song_label",
+      "track_label",
+      "song_desc",
+      "track_desc",
+      "song_name_text"
+    ]
+  },
+  "itunes_amazon_tableA.csv: Artist_Name": {
+    "original_column_name": "Artist_Name",
+    "alternative_column_names": [
+      "artist",
+      "artist_name",
+      "artist_name_str",
+      "artist_nm",
+      "artist_title",
+      "artist_label",
+      "performer",
+      "performer_name",
+      "musician",
+      "musician_name",
+      "singer",
+      "singer_name",
+      "creator",
+      "creator_name",
+      "artist_id"
+    ]
+  },
+  "itunes_amazon_tableA.csv: Album_Name": {
+    "original_column_name": "Album_Name",
+    "alternative_column_names": [
+      "album_name",
+      "album",
+      "album_title",
+      "album_title_name",
+      "alb_name",
+      "alb_title",
+      "alb_nm",
+      "album_nm",
+      "album_title_nm",
+      "music_album",
+      "record_album",
+      "record_title",
+      "disc_title",
+      "collection_name",
+      "release_album"
+    ]
+  },
+  "itunes_amazon_tableA.csv: Genre": {
+    "original_column_name": "Genre",
+    "alternative_column_names": [
+      "music_genre",
+      "genre_type",
+      "song_category",
+      "music_category",
+      "category",
+      "music_style",
+      "style",
+      "genre_name",
+      "music_genre_type",
+      "song_genre",
+      "genre_desc",
+      "genre_code",
+      "genre_class",
+      "genre_classification",
+      "track_genre"
+    ]
+  },
+  "itunes_amazon_tableA.csv: Price": {
+    "original_column_name": "Price",
+    "alternative_column_names": [
+      "price_value",
+      "track_price",
+      "song_price",
+      "price_amount",
+      "music_price",
+      "item_price",
+      "digital_price",
+      "price_usd",
+      "purchase_price",
+      "paid_amount",
+      "tune_price",
+      "dollar_price",
+      "cost_amount",
+      "download_price",
+      "price_tag"
+    ]
+  },
+  "itunes_amazon_tableA.csv: CopyRight": {
+    "original_column_name": "CopyRight",
+    "alternative_column_names": [
+      "copyright",
+      "copyright_info",
+      "copyright_text",
+      "copyright_notice",
+      "copyright_details",
+      "copy_right",
+      "record_label",
+      "rights_info",
+      "rights_text",
+      "label_info",
+      "license_info",
+      "publisher_info",
+      "rights_holder",
+      "legal_info",
+      "rights_details"
+    ]
+  },
+  "itunes_amazon_tableA.csv: Time": {
+    "original_column_name": "Time",
+    "alternative_column_names": [
+      "duration",
+      "track_length",
+      "song_duration",
+      "length",
+      "run_time",
+      "play_time",
+      "time_length",
+      "duration_time",
+      "track_time",
+      "time_sec",
+      "time_min",
+      "duration_sec",
+      "duration_min",
+      "total_time",
+      "musical_length"
+    ]
+  },
+  "itunes_amazon_tableA.csv: Released": {
+    "original_column_name": "Released",
+    "alternative_column_names": [
+      "release_date",
+      "date_released",
+      "release_day",
+      "pub_date",
+      "publication_date",
+      "avail_date",
+      "available_date",
+      "music_release_date",
+      "song_release_date",
+      "album_release_date",
+      "track_release_date",
+      "release_time",
+      "published_on",
+      "issue_date",
+      "launch_date"
+    ]
+  },
+  "itunes_amazon_tableB.csv: id": {
+    "original_column_name": "id",
+    "alternative_column_names": [
+      "track_id",
+      "song_id",
+      "item_id",
+      "record_id",
+      "entry_id",
+      "music_id",
+      "itunes_id",
+      "amazon_id",
+      "product_id",
+      "media_id",
+      "audio_id",
+      "content_id",
+      "unique_id",
+      "primary_key",
+      "identifier"
+    ]
+  },
+  "itunes_amazon_tableB.csv: Song_Name": {
+    "original_column_name": "Song_Name",
+    "alternative_column_names": [
+      "song_name",
+      "song_title",
+      "track_name",
+      "track_title",
+      "music_title",
+      "name_of_song",
+      "song",
+      "song_desc",
+      "track",
+      "music_name",
+      "song_label",
+      "title_of_song",
+      "song_nm",
+      "track_nm",
+      "music_track"
+    ]
+  },
+  "itunes_amazon_tableB.csv: Artist_Name": {
+    "original_column_name": "Artist_Name",
+    "alternative_column_names": [
+      "artist",
+      "art_name",
+      "song_artist",
+      "performer",
+      "performer_name",
+      "music_artist",
+      "singer",
+      "singer_name",
+      "band",
+      "band_name",
+      "musician",
+      "musician_name",
+      "artist_id",
+      "artist_nm",
+      "creator"
+    ]
+  },
+  "itunes_amazon_tableB.csv: Album_Name": {
+    "original_column_name": "Album_Name",
+    "alternative_column_names": [
+      "album",
+      "album_name",
+      "album_title",
+      "album_nm",
+      "album_name_txt",
+      "album_label",
+      "alb_name",
+      "alb_nm",
+      "alb_title",
+      "alb_txt",
+      "record_name",
+      "record_nm",
+      "record_title",
+      "music_album",
+      "music_collection"
+    ]
+  },
+  "itunes_amazon_tableB.csv: Genre": {
+    "original_column_name": "Genre",
+    "alternative_column_names": [
+      "genre_type",
+      "song_genre",
+      "music_genre",
+      "track_genre",
+      "gen",
+      "genre_cat",
+      "genre_category",
+      "musical_genre",
+      "song_category",
+      "music_type",
+      "genre_code",
+      "gnr",
+      "genre_desc",
+      "track_type",
+      "genre_class"
+    ]
+  },
+  "itunes_amazon_tableB.csv: Price": {
+    "original_column_name": "Price",
+    "alternative_column_names": [
+      "price_value",
+      "track_price",
+      "song_price",
+      "cost",
+      "item_cost",
+      "purchase_price",
+      "item_price",
+      "price_amount",
+      "unit_price",
+      "song_cost",
+      "track_cost",
+      "music_price",
+      "amt",
+      "price_usd",
+      "retail_price"
+    ]
+  },
+  "itunes_amazon_tableB.csv: CopyRight": {
+    "original_column_name": "CopyRight",
+    "alternative_column_names": [
+      "copyright",
+      "copyright_info",
+      "copyright_notice",
+      "copyright_text",
+      "copyright_details",
+      "copyright_owner",
+      "copyright_holder",
+      "copyright_year",
+      "copy_right",
+      "copy_r",
+      "cp_right",
+      "cp_r",
+      "legal_copyright",
+      "licensing_info",
+      "rights_info"
+    ]
+  },
+  "itunes_amazon_tableB.csv: Time": {
+    "original_column_name": "Time",
+    "alternative_column_names": [
+      "duration",
+      "track_duration",
+      "song_duration",
+      "length",
+      "track_length",
+      "song_length",
+      "time_duration",
+      "duration_time",
+      "music_length",
+      "run_time",
+      "play_time",
+      "track_time",
+      "music_duration",
+      "audio_duration",
+      "mins_secs"
+    ]
+  },
+  "itunes_amazon_tableB.csv: Released": {
+    "original_column_name": "Released",
+    "alternative_column_names": [
+      "release_date",
+      "date_released",
+      "published_date",
+      "pub_date",
+      "release_day",
+      "avail_date",
+      "date_available",
+      "available_on",
+      "dist_date",
+      "first_released",
+      "launch_date",
+      "initial_release",
+      "issued_date",
+      "distribution_date",
+      "debut_date"
+    ]
+  },
+  "walmart_amazon_tableA.csv: id": {
+    "original_column_name": "id",
+    "alternative_column_names": [
+      "item_id",
+      "product_id",
+      "item_number",
+      "record_id",
+      "product_number",
+      "sku_id",
+      "item_identifier",
+      "product_identifier",
+      "unique_id",
+      "entry_id",
+      "ident",
+      "id_num",
+      "item_code",
+      "product_code",
+      "ref_id"
+    ]
+  },
+  "walmart_amazon_tableA.csv: title": {
+    "original_column_name": "title",
+    "alternative_column_names": [
+      "product_title",
+      "item_name",
+      "product_name",
+      "description",
+      "product_description",
+      "item_title",
+      "product_label",
+      "name",
+      "item_description",
+      "product_display_name",
+      "prod_title",
+      "prod_name",
+      "item_label",
+      "product_detail",
+      "display_name"
+    ]
+  },
+  "walmart_amazon_tableA.csv: category": {
+    "original_column_name": "category",
+    "alternative_column_names": [
+      "cat",
+      "prod_cat",
+      "product_category",
+      "item_category",
+      "item_cat",
+      "category_name",
+      "cat_name",
+      "class",
+      "classification",
+      "product_type",
+      "type",
+      "group",
+      "prod_group",
+      "sector",
+      "segment"
+    ]
+  },
+  "walmart_amazon_tableA.csv: brand": {
+    "original_column_name": "brand",
+    "alternative_column_names": [
+      "manufacturer",
+      "brand_name",
+      "vendor",
+      "maker",
+      "producer",
+      "company",
+      "firm",
+      "label",
+      "supplier",
+      "trademark",
+      "brand_id",
+      "source",
+      "b_name",
+      "origin",
+      "manufacturer_name"
+    ]
+  },
+  "walmart_amazon_tableA.csv: modelno": {
+    "original_column_name": "modelno",
+    "alternative_column_names": [
+      "model_num",
+      "model_number",
+      "model_id",
+      "model_code",
+      "product_model",
+      "item_model",
+      "model_reference",
+      "sku_model",
+      "model_identifier",
+      "model_tag",
+      "model_no",
+      "model_key",
+      "product_code",
+      "item_code",
+      "product_ref"
+    ]
+  },
+  "walmart_amazon_tableA.csv: price": {
+    "original_column_name": "price",
+    "alternative_column_names": [
+      "cost",
+      "amount",
+      "value",
+      "retail_price",
+      "sale_price",
+      "unit_price",
+      "list_price",
+      "current_price",
+      "product_price",
+      "item_price",
+      "marked_price",
+      "selling_price",
+      "discount_price",
+      "final_price",
+      "price_value"
+    ]
+  },
+  "walmart_amazon_tableB.csv: id": {
+    "original_column_name": "id",
+    "alternative_column_names": [
+      "item_id",
+      "product_id",
+      "unique_id",
+      "identification_number",
+      "product_number",
+      "entry_id",
+      "sku_id",
+      "record_id",
+      "product_identifier",
+      "item_number",
+      "primary_key",
+      "reference_id",
+      "item_code",
+      "alt_id",
+      "serial_number"
+    ]
+  },
+  "walmart_amazon_tableB.csv: title": {
+    "original_column_name": "title",
+    "alternative_column_names": [
+      "product_title",
+      "item_name",
+      "product_name",
+      "prod_title",
+      "product_desc",
+      "item_title",
+      "name",
+      "product_descr",
+      "prod_name",
+      "item_desc",
+      "description",
+      "prod_descr",
+      "item_descr",
+      "product_label",
+      "title_text"
+    ]
+  },
+  "walmart_amazon_tableB.csv: category": {
+    "original_column_name": "category",
+    "alternative_column_names": [
+      "prod_category",
+      "product_category",
+      "item_category",
+      "item_type",
+      "product_type",
+      "prod_type",
+      "cat",
+      "category_name",
+      "category_type",
+      "class",
+      "classification",
+      "group",
+      "product_group",
+      "prod_group",
+      "category_code"
+    ]
+  },
+  "walmart_amazon_tableB.csv: brand": {
+    "original_column_name": "brand",
+    "alternative_column_names": [
+      "product_brand",
+      "brand_name",
+      "manufacturer",
+      "company",
+      "prod_brand",
+      "item_brand",
+      "vendor_brand",
+      "brand_id",
+      "brand_tag",
+      "maker",
+      "brand_code",
+      "supplier_brand",
+      "producer",
+      "origin_brand",
+      "brand_label"
+    ]
+  },
+  "walmart_amazon_tableB.csv: modelno": {
+    "original_column_name": "modelno",
+    "alternative_column_names": [
+      "model_number",
+      "model_num",
+      "model_no",
+      "model_id",
+      "product_model",
+      "prod_model",
+      "item_model",
+      "model_code",
+      "model_ref",
+      "model_identifier",
+      "model_ref_no",
+      "model_ref_num",
+      "model_ref_id",
+      "product_code",
+      "sku_model"
+    ]
+  },
+  "walmart_amazon_tableB.csv: price": {
+    "original_column_name": "price",
+    "alternative_column_names": [
+      "cost",
+      "amount",
+      "retail_price",
+      "sale_price",
+      "unit_price",
+      "list_price",
+      "base_price",
+      "current_price",
+      "price_value",
+      "price_amount",
+      "price_tag",
+      "price_point",
+      "selling_price",
+      "purchase_price",
+      "product_price"
+    ]
+  }
+}

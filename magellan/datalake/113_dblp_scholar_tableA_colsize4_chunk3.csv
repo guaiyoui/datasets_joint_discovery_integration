@@ -1,0 +1,524 @@
+ref_id,pub_year,series_name,paper_subject
+1569,1995,sigmod conference,directv and oracle rdb : the challenges of vldb transaction processing
+1570,1995,sigmod conference,"enterprise objects framework , a second generation object-relational enabler"
+1571,1998,vldb,low-cost compensation-based query processing
+1572,1995,sigmod conference,an overview of db2 parallel edition
+1573,1998,vldb,a quantitative analysis and performance study for similarity-search methods in high-dimensional spaces
+1574,1995,sigmod conference,data extraction and transformation for the data warehouse
+1575,1998,vldb,reducing the braking distance of an sql query engine
+1576,1995,sigmod conference,cover your assets
+1577,1998,vldb,querying continuous time sequences
+1578,1995,sigmod conference,recovery protocols for shared memory database systems
+1579,2003,sigmod record,edgar f. codd : a tribute and personal memoir
+1580,1998,vldb,nd-sql : a multi-dimensional language for interoperability and olap
+1581,1995,sigmod conference,the lyric language : querying constraint objects
+1582,1998,vldb,the heterogeneity problem and middleware technology : experiences with and performance of database gateways
+1583,1998,vldb,evaluating functional joins along nested reference sets in object-relational and object-oriented databases
+1584,1995,sigmod conference,datamine - interactive rule discovery system
+1585,1998,vldb,using schema matching to simplify heterogeneous data translation
+1586,1995,sigmod conference,efendi : federated database system of cadlab
+1587,1995,sigmod conference,nearest neighbor queries
+1588,1998,vldb,on optimal node splitting for r-trees
+1589,1998,vldb,r-tree based indexing of now-relative bitemporal data
+1590,1995,sigmod conference,topological relations in the world of minimum bounding rectangles : a study with r-trees
+1591,1995,sigmod conference,towards an effective calculus for object query languages
+1592,1998,vldb,optimal histograms with quality guarantees
+1593,1995,sigmod conference,ofl : a functional execution model for object query languages
+1594,1998,vldb,incremental clustering for mining in a data warehousing environment
+1595,1998,vldb,inferring function semantics to optimize queries
+1596,1995,sigmod conference,oodb indexing by class-division
+1597,1995,sigmod conference,the handwritten trie : indexing electronic ink
+1598,1998,vldb,"topaz : a cost-based , rule-driven , multi-phase parallelizer"
+1599,1998,vldb,improving adaptable similarity query processing by using approximations
+1600,1995,sigmod conference,parallel evaluation of multi-join queries
+1601,1998,vldb,mindreader : querying databases through multiple examples
+1602,1995,sigmod conference,the merge/purge problem for large databases
+1603,1995,sigmod conference,semantic assumptions and query evaluation in temporal databases
+1604,1999,vldb,"what do those weird xml types want , anyway ?"
+1605,1999,vldb,online dynamic reordering for interactive data processing
+1606,1995,sigmod conference,implementing crash recovery in quickstore : a performance study
+1607,1999,vldb,hyper-programming in java
+1608,1995,sigmod conference,reducing multidatabase query response time by tree balancing
+1609,1999,vldb,"industrial panel on data warehousing technologies : experiences , challenges , and directions"
+1610,1995,sigmod conference,temporal conditions and integrity constraints in active database systems
+1611,1999,vldb,"pm3 : an orthogonal persistent systems programming language - design , implementation , performance"
+1612,1995,sigmod conference,view maintenance in a warehousing environment
+1613,1999,vldb,implementation of sql3 structured types with inheritance and value substitutability
+1614,1995,sigmod conference,hypergraph based reorderings of outer join queries with complex predicates
+1615,1995,sigmod conference,the spiffi scalable video-on-demand system
+1616,1999,vldb,implementation of two semantic query optimization techniques in db2 universal database
+1617,1999,vldb,optimization of run-time management of data intensive web-sites
+1618,1995,sigmod conference,incremental maintenance of views with duplicates
+1619,1995,sigmod conference,join queries with external text sources : execution and optimization techniques
+1620,1998,vldb,determining text databases to search in the internet
+1621,1995,sigmod conference,an online video placement policy based on bandwith to space ratio ( bsr )
+1622,1998,vldb,atomicity versus anonymity : distributed transactions for electronic commerce
+1623,1998,vldb,diag-join : an opportunistic join algorithm for 1 : n relationships
+1624,1995,sigmod conference,upsizing from file server to clent server architectures
+1625,1995,sigmod conference,"object-oriented , rapid application development in a pc database environment"
+1626,1998,vldb,hash joins and hash teams in microsoft sql server
+1627,1995,sigmod conference,the data that you wo n't find in databases : tutorial panel on data exchange formats
+1628,1999,vldb,spatio-temporal retrieval with rasdaman
+1629,1995,sigmod conference,using the calanda time series management system
+1630,1999,vldb,xml repository and active views demonstration
+1631,1995,sigmod conference,the lotus notes storage system
+1632,1999,vldb,the mirror mmdbms architecture
+1633,1995,,keynote address
+1634,1999,vldb,miro web : integrating multiple data sources through semistructured data types
+1635,1995,sigmod conference,parallel database systems 101
+1636,1998,vldb,clustering categorical data : an approach based on dynamical systems
+1637,1995,,keynote address
+1638,1995,sigmod conference,things every update replication customer should know
+1639,1998,vldb,fast high-dimensional data search in incomplete databases
+1640,1998,vldb,algorithms for mining association rules for binary segmentations of huge categorical databases
+1641,1995,sigmod conference,versant replication : supporting fault-tolerant object databases
+1642,1995,sigmod conference,research and products : are they relevant to each other ? ( panel )
+1643,1998,vldb,algorithms for mining distance-based outliers in large datasets
+1644,1995,sigmod conference,real world requirements for decision support - implications for rdbms
+1645,1998,vldb,design and analysis of parametric query optimization algorithms
+1646,1998,vldb,filtering with approximate predicates
+1647,1995,sigmod conference,`` one size fits all '' database architectures do not work for dds
+1648,1998,vldb,binding propagation in disjunctive databases
+1649,1995,sigmod conference,leveraging the information asset
+1650,1995,sigmod conference,use of a component architecture in integrating relational and non-relational storage systems
+1651,1998,vldb,computing iceberg queries efficiently
+1652,1998,vldb,bulk-loading techniques for object databases and an application to relational data
+1653,1995,sigmod conference,informix online xps
+1654,1995,sigmod conference,order-of-magnitude advantage of tpc-c though massive parallelism
+1655,1998,vldb,algorithms for querying by spatial structure
+1656,1998,vldb,a raster approximation for processing of spatial joins
+1657,1995,sigmod conference,objects and sql : strange relations ? panel
+1658,1998,vldb,bank of america case study : the information currency advantage
+1659,1995,,indexing multimedia databases ( tutorial )
+1660,1998,vldb,an asynchronous avoidance-based cache consistency algorithm for client caching dbmss
+1661,1995,,an overview of the emerging third-generation sql standard ( tutorial )
+1662,1995,,"workflow automation : applications , technology , and research ( tutorial )"
+1663,1998,vldb,"design , implementation , and performance of the lham log-structured history data access method"
+1664,1995,,integration approaches for cim
+1665,1998,vldb,expiring data in a warehouse
+1666,1995,,storage technology : raid and beyond
+1667,1998,vldb,buffering and read-ahead strategies for external mergesort
+1668,1997,vldb,an efficient cost-driven index selection tool for microsoft sql server
+1669,1995,sigmod conference,the samos active dbms prototype
+1670,1995,sigmod conference,design and implementation of advanced knowledge processing in the kdms krisys ( demonstration description )
+1671,1997,vldb,algorithms for materialized view design in data warehousing environment
+1672,1997,vldb,data warehouse configuration
+1673,1995,sigmod conference,infoharness : a system for search and retrieval of heterogeneous information
+1674,1997,vldb,fast computation of sparse datacubes
+1675,1995,sigmod conference,qbi : query by icons
+1676,1997,vldb,1-safe algorithms for symmetric site configurations
+1677,1995,sigmod conference,the reach active oodbms
+1678,1997,vldb,"do n't scrap it , wrap it ! a wrapper architecture for legacy data sources"
+1679,1995,sigmod conference,the query by image content ( qbic ) system
+1680,1995,sigmod conference,the naos system
+1681,1997,vldb,describing and using query capabilities of heterogeneous sources
+1682,1997,vldb,efficient construction of regression trees with range and region splitting
+1683,1995,sigmod conference,the algres testbed of chimera : an active object-oriented database system
+1684,1997,vldb,concurrent garbage collection in o2
+1685,1995,sigmod conference,ptool : a light weight persistent object manager
+1686,1997,vldb,a one-pass algorithm for accurately estimating quantiles for disk-resident data
+1687,1997,vldb,finding data in the neighborhood
+1688,1995,sigmod conference,"pattern matching and pattern discovery in scientific , program , and document databases"
+1689,1997,vldb,adaptive data broadcast in hybrid networks
+1690,1995,sigmod conference,shore : combining the best features of oodbms and file systems
+1691,1997,vldb,a generic approach to bulk loading multidimensional index structures
+1692,1995,sigmod conference,paradise : a database system for gis applications
+1693,1997,vldb,evaluation of main memory join algorithms for joins with set comparison join predicates
+1694,1995,sigmod conference,semint : a system prototype for semantic integration in heterogeneous databases
+1695,1997,vldb,dynamic memory adjustment for external mergesort
+1696,1995,sigmod conference,"information translation , mediation , and mosaic-based browsing in the tsimmis system"
+1697,1997,vldb,garbage collection in object oriented databases using transactional cyclic reference counting
+1698,1995,sigmod conference,visdb : a system for visualizing large databases
+1699,1994,sigmod conference,data modeling of time-based media
+1700,1997,vldb,fast incremental maintenance of approximate histograms
+1701,1997,vldb,groupwise processing of relational queries
+1702,1994,sigmod conference,combinatorial pattern discovery for scientific data : some preliminary results
+1703,1997,vldb,a region splitting strategy for physical database design of multidimensional file organizations
+1704,1994,sigmod conference,aries/csa : a method for database recovery in client-server architectures
+1705,1994,sigmod conference,ensuring relaxed atomicity for flexible transactions in multidatabase systems
+1706,1997,vldb,dataguides : enabling query formulation and optimization in semistructured databases
+1707,1994,sigmod conference,energy efficient indexing on air
+1708,1997,vldb,geo/environmental and medical data management in the rasdaman system
+1709,1994,sigmod conference,asset : a system for supporting extended transactions
+1710,1997,vldb,gte superpages : using ir techniques for searching complex objects
+1711,1997,vldb,effective memory use in a media server
+1712,1995,sigmod conference,the ecrc multi database system
+1713,1994,sigmod conference,data replication for mobile computers
+1714,1997,vldb,efficient user-adaptable similarity search in large multimedia databases
+1715,1994,sigmod conference,fine-grained sharing in a page server oodbms
+1716,1997,vldb,critical database technologies for high energy physics
+1717,1994,sigmod conference,fast subsequence matching in time-series databases
+1718,1997,vldb,caprera : an activity framework for transaction processing on wide-area networks
+1719,1994,sigmod conference,distributing a search tree among a growing number of processors
+1720,1997,vldb,data manager for evolvable real-time command and control systems
+1721,1997,vldb,distributed processing over stand-alone systems and applications
+1722,1994,sigmod conference,from structured documents to novel query facilities
+1723,1994,sigmod conference,alphasort : a risc machine sort
+1724,1997,vldb,the microsoft repository
+1725,1994,sigmod conference,distributed file organization with scalable cost/performance
+1726,1997,vldb,multidimensional access methods : trees have grown everywhere
+1727,1994,sigmod conference,adaptive selectivity estimation using query feedback
+1728,1997,vldb,efficient testing of high performance transaction processing systems
+1729,1997,vldb,innovation in database management : computer science vs. engineering
+1730,1994,sigmod conference,estimating page fetches for index scans with finite lru buffers
+1731,1998,vldb,public : a decision tree classifier that integrates building and pruning
+1732,1994,sigmod conference,genesys : a system for efficient spatial query processing
+1733,1994,sigmod conference,eos : an extensible object store
+1734,1998,vldb,on the discovery of interesting patterns in association rules
+1735,1998,vldb,wavecluster : a multi-resolution clustering approach for very large spatial databases
+1736,1994,sigmod conference,databases for networks
+1737,1994,sigmod conference,a survey and critique of advanced transaction models
+1738,1998,vldb,rainforest - a framework for fast decision tree construction of large datasets
+1739,1994,sigmod conference,dec data distributor : for data replication and data warehousing
+1740,1998,vldb,small materialized aggregates : a light weight index structure for data warehousing
+1741,1998,vldb,secure buffering in firm real-time database systems
+1742,1994,sigmod conference,a performance study of transitive closure algorithms
+1743,1998,vldb,safely and efficiently updating references during on-line reorganization
+1744,1994,sigmod conference,database in crisis and transition : a technical agenda for the year 2001
+1745,1994,sigmod conference,coss : the common object services specifications
+1746,1998,vldb,materialized view selection for multidimensional datasets
+1747,1994,sigmod conference,the effectiveness of gloss for the text database discovery problem
+1748,1998,vldb,"ratio rules : a new paradigm for fast , quantifiable data mining"
+1749,1994,sigmod conference,implementation of magic-sets in a relational database system
+1750,1998,vldb,scalable sweeping-based spatial join
+1751,1998,vldb,mining surprising patterns using temporal description length
+1752,1994,sigmod conference,optimization of dynamic query evaluation plans
+1753,1994,sigmod conference,incomplete path expressions and their disambiguation
+1754,1998,vldb,scalable techniques for mining causal structures
+1755,1994,sigmod conference,sleepers and workaholics : caching strategies in mobile environments
+1756,1998,vldb,selectivity estimation in extensible databases - a neural network approach
+1757,1994,sigmod conference,evolving teradata decision support for massively parallel processing with unix
+1758,1998,vldb,massive stochastic testing of sql
+1759,1998,vldb,issues in developing very large data warehouses
+1760,1994,sigmod conference,staggered striping in multimedia information systems
+1761,1994,sigmod conference,database issues in telecommunications network management
+1762,1998,vldb,the drill down benchmark
+1763,1998,vldb,the national medical knowledge bank
+1764,1994,sigmod conference,quickly generating billion-record synthetic databases
+1765,1998,vldb,experiences in federated databases : from iro-db to miro-web
+1766,1994,sigmod conference,predictive dynamic load balancing of parallel and distributed rule and query processing
+1767,1998,vldb,materialized views in oracle
+1768,1994,sigmod conference,incremental updates of inverted lists for text document retrieval
+1769,1998,vldb,koda - the architecture and interface of a data model independent kernel
+1770,1994,sigmod conference,optimizing queries on files
+1771,1994,sigmod conference,on parallel execution of multiple pipelined hash joins
+1772,1998,vldb,the adabas buffer pool manager
+1773,1994,sigmod conference,multi-step processing of spatial joins
+1774,1998,vldb,plan-per-tuple optimization solution - parallel execution of expensive user-defined functions
+1775,1994,sigmod conference,spatial joins using seeded trees
+1776,1998,vldb,is web-site management a database problem ?
+1777,1994,sigmod conference,managing memory for real-time queries
+1778,1998,vldb,"information , communication , and money : for what can we charge and how can we meter it ?"
+1779,1998,vldb,starting ( and sometimes ending ) a database company
+1780,1994,sigmod conference,shoring up persistent applications
+1781,1998,vldb,the cubetree storage organization
+1782,1994,sigmod conference,quickstore : a high performance mapped object store
+1783,1994,sigmod conference,"self-adaptive , on-line reclustering of complex object data"
+1784,1998,vldb,ibm 's db2 universal database demonstrations at vldb '98
+1785,1994,sigmod conference,sequence query processing
+1786,1998,vldb,mapinfo spatialware : a spatial information server for rdbms
+1787,1994,sigmod conference,practical predicate placement
+1788,1994,sigmod conference,optimizing disjunctive queries with expensive predicates
+1789,1998,vldb,oracle industrial exhibit
+1790,1997,vldb,a language for manipulating arrays
+1791,1994,sigmod conference,outerjoins as disjunctions
+1792,1997,vldb,a foundation for multi-dimensional databases
+1793,1994,sigmod conference,partition selection policies in object database garbage collection
+1794,1996,vldb,cost-based selection of path expression processing algorithms in object-oriented databases
+1795,1994,sigmod conference,nonstop sql : scalability and availability for decision support
+1796,1996,vldb,dynamic load balancing in hierarchical parallel database systems
+1797,1994,sigmod conference,red brick warehouse : a read-mostly rdbms for open smp platforms
+1798,1996,vldb,disseminating updates on broadcast disks
+1799,1994,sigmod conference,the montage extensible datablade achitecture
+1800,1994,sigmod conference,object-oriented features of db2 client/server
+1801,1996,vldb,"calibrating the query optimizer cost model of iro-db , an object-oriented federated database system"
+1802,1996,vldb,answering queries with aggregation using views
+1803,1994,sigmod conference,the impress ddt : a database design toolbox based on a formal specification language
+1804,1996,vldb,clustering techniques for minimizing external path length
+1805,1994,sigmod conference,the medusa project : autonomous data management in a shared-nothing parallel database machine
+1806,1994,sigmod conference,enterprise information architectures -- they 're finally changing
+1807,1996,vldb,fast nearest neighbor search in medical image databases
+1808,1994,sigmod conference,relaxed transaction processing
+1809,1996,vldb,applying data mining techniques to a health insurance information system
+1810,1994,sigmod conference,oracle 's symmetric replication technology and implications for application design
+1811,1996,vldb,coalescing in temporal databases
+1812,1994,sigmod conference,sybase replication server
+1813,1996,vldb,effective & efficient document ranking without using a large lexicon
+1814,1994,sigmod conference,xsb as an efficient deductive database engine
+1815,1996,vldb,a new sql-like operator for mining association rules
+1816,1994,sigmod conference,parallel database systems in the 1990 's
+1817,1996,vldb,constructing efficient decision trees by using optimized numeric association rules
+1818,1994,sigmod conference,odmg-93 : a standard for object-oriented dbmss
+1819,1996,vldb,efficient snapshot differential algorithms for data warehousing
+1820,1996,vldb,eroc : a toolkit for building neato query optimizers
+1821,1994,sigmod conference,unisql/x unified relational and object-oriented database system
+1822,1996,vldb,filter trees for managing spatial data over a range of size granularities
+1823,1994,sigmod conference,oracle media server : providing consumer based interactive access to multimedia data
+1824,1994,sigmod conference,object-oriented extensions in sql3 : a status report
+1825,1996,vldb,analysis of n-dimensional quadtrees using the hausdorff fractal dimension
+1826,1996,vldb,the design and implementation of a sequence database system
+1827,2003,sigmod record,editor 's notes
+1828,1996,vldb,optimization of queries with user-defined predicates
+1829,1994,,open object database management systems
+1830,1996,vldb,incremental maintenance of externally materialized views
+1831,1994,sigmod conference,the myriad federated database prototype
+1832,1996,vldb,watchman : a data warehouse intelligent cache manager
+1833,1994,sigmod conference,dblearn : a system prototype for knowledge discovery in relational databases
+1834,1996,vldb,the x-tree : an index structure for high-dimensional data
+1835,2003,sigmod record,an environmental sensor network to determine drinking water quality and security
+1836,2003,sigmod record,bluetooth-based sensor networks
+1837,1996,vldb,of objects and databases : a decade of turmoil
+1838,2003,sigmod record,developments at acm tods
+1839,1996,vldb,the changing landscape of the software industry and its implications for india
+1840,1994,sigmod conference,the ores temporal database management system
+1841,1996,vldb,database management systems and the internet
+1842,1996,vldb,dwms : data warehouse management system
+1843,1994,sigmod conference,ptool : a scalable persistent object manager
+1844,1996,vldb,disnic-plan : a nicnet based distributed database for micro-level planning in india
+1845,1994,sigmod conference,a language based multidatabase system
+1846,1994,sigmod conference,mosaico - a system for conceptual modeling and rapid prototyping of object-oriented database application
+1847,1996,vldb,bellcore 's adapt/x harness system for managing information on internet and intranets
+1848,1996,vldb,cache coherency in oracle parallel server
+1849,1994,sigmod conference,query by diagram : a graphical environment for querying databases
+1850,1996,vldb,extracting large data sets using db2 parallel edition
+1851,1994,sigmod conference,quest : a project on database mining
+1852,1994,sigmod conference,metu object-oriented dbms
+1853,1996,vldb,further improvements on integrity constraint checking for stratifiable deductive databases
+1854,1996,vldb,estimation of query-result distribution and its application in parallel-join load balancing
+1855,1994,sigmod conference,xsb as a deductive database
+1856,2003,sigmod record,power efficient data gathering and aggregation in wireless sensor networks
+1857,1997,vldb,to weave the web
+1858,2003,sigmod record,multimedia streaming in large-scale sensor networks with mobile swarms
+1859,1997,vldb,using probabilistic information in data integration
+1860,2003,sigmod record,reasoning on regular path queries
+1861,1997,vldb,on-demand data elevation in hierarchical multimedia storage servers
+1862,2003,,interview with pat selinger
+1863,1997,vldb,principles of optimally placing data in tertiary storage libraries
+1864,2003,,reminiscences on influential papers
+1865,1997,vldb,materialized views selection in a multidimensional database
+1866,2003,,review of web caching and replication by michael rabinovich and oliver spatscheck . addison wesley 2002
+1867,1997,vldb,parallel algorithms for high-dimensional similarity joins for data mining applications
+1868,1997,vldb,sting : a statistical information grid approach to spatial data mining
+1869,2003,,"review of data on the web : from relational to semistructured data and xml by serge abiteboul , peter buneman , and dan suciu . morgan kaufmann 1999"
+1870,2003,,"review of spatial databases with application to gis by philippe rigaux , michel scholl , and agnes voisard . morgan kaufmann 2002"
+1871,1997,vldb,merging ranks from heterogeneous internet sources
+1872,2003,sigmod record,energy and rate based mac protocol for wireless sensor networks
+1873,1997,vldb,the case for enhanced abstract data types
+1874,1997,vldb,integrating reliable memory in databases
+1875,2003,sigmod record,distributed deviation detection in sensor networks
+1876,1997,vldb,logical and physical versioning in main memory databases
+1877,2003,sigmod record,book review column
+1878,2003,sigmod record,sensor : the atomic computing particle
+1879,1997,vldb,using versions in update transactions : application to integrity checking
+1880,1997,vldb,incremental organization for data recording and warehousing
+1881,2003,sigmod record,"the sensor spectrum : technology , trends , and requirements"
+1882,2003,sigmod record,understanding the semantics of sensor data
+1883,1997,vldb,multiple-view self-maintenance in data warehousing environments
+1884,1997,vldb,recovering information from summary data
+1885,2003,sigmod record,managing uncertainty in sensor database
+1886,1997,vldb,implementing abstract objects with inheritance in datalogneg
+1887,2003,sigmod record,the cougar project : a work-in-progress report
+1888,2003,sigmod record,dbglobe : a service-oriented p2p system for global computing
+1889,1997,vldb,mining insurance data at swiss life
+1890,1997,vldb,facilitating multimedia database exploration through visual interfaces and perpetual query reformulations
+1891,2003,sigmod record,toward network data independence
+1892,2003,sigmod record,design issues and challenges for rdf - and schema-based peer-to-peer systems
+1893,2003,,treasurer 's message
+1894,1997,vldb,the oracle universal server buffer
+1895,2003,,chair 's message
+1896,1997,vldb,"the network as a global database : challenges of interoperability , proactivity , interactiveness , legacy"
+1897,1997,vldb,selectivity estimation without the attribute value independence assumption
+1898,2003,sigmod record,journal relevance
+1899,1997,vldb,towards an odmg-compliant visual object query language
+1900,2003,sigmod record,2003 sigmod innovations award speech
+1901,2003,,guest editor 's introduction
+1902,1997,vldb,integrating sql databases with content-specific search engines
+1903,1997,vldb,resource scheduling in enhanced pay-per-view continuous media databases
+1904,2003,sigmod record,learning about data integration challenges from day one
+1905,1997,vldb,spatial joins using r-trees : breadth-first traversal with global optimizations
+1906,2003,,agent-oriented software engineering report on the 4th aose workshop ( aose 2003 )
+1907,1997,vldb,the complexity of transformation-based join enumeration
+1908,2003,,report on the 5th international workshop on the design and management of data warehouses ( dmdw ' 03 )
+1909,1997,vldb,"using taxonomy , discriminants , and signatures for navigating in text databases"
+1910,2003,sigmod record,information integration on the web : a view from ai and databases ( report on iiweb-03 )
+1911,2003,,report on fqas 2002 : fifth international conference on flexible query answering systems
+1912,1997,vldb,m-tree : an efficient access method for similarity search in metric spaces
+1913,1997,vldb,optimizing queries across diverse data sources
+1914,2003,sigmod record,editor 's notes
+1915,1997,vldb,vertical data migration in large near-line document archives based on markov-chain predictions
+1916,2003,sigmod record,research in database engineering at the university of namur
+1917,2003,sigmod record,exposing undergraduate students to database system internals
+1918,1997,vldb,parallel query scheduling and optimization with time - and space-shared resources
+1919,2003,sigmod record,analysis of sigmod 's co-authorship graph
+1920,1997,vldb,optimizing queries with universal quantification in object-oriented and object-relational databases
+1921,1995,vldb,a performance evaluation of oid mapping techniques
+1922,2003,sigmod record,editor 's notes
+1923,1995,vldb,efficient incremental garbage collection for client-server object database systems
+1924,2003,sigmod record,closing the key loophole in mls databases
+1925,2003,,report on the 4th international conference on mobile data management
+1926,1995,vldb,document management as a database problem
+1927,2003,,in memory of gэsli r. hjaltason
+1928,1995,vldb,from vldb to vmldb ( very many large data bases ) : dealing with large-scale semantic heterogenity
+1929,1995,vldb,declustering databases on heterogeneous disk systems
+1930,2003,sigmod record,standards for databases on the grid
+1931,2003,,"review of the data warehouse toolkit : the complete guide to dimensional modeling ( 2nd edition ) by ralph kimball , margy ross . john wiley & sons , inc. 2002"
+1932,1995,vldb,high-concurrency locking in r-trees
+1933,1995,vldb,duplicate removal in information system dissemination
+1934,2003,,interview with rakesh agrawal
+1935,2003,,reminiscences on influential papers
+1936,1995,vldb,generalizing gloss to vector-space databases and broker hierarchies
+1937,2003,sigmod record,in-context peer-to-peer information filtering on the web
+1938,1996,vldb,tribeca : a stream database manager for network traffic analysis
+1939,2003,sigmod record,selective information dissemination in p2p networks : problems and solutions
+1940,1996,vldb,mineset ( tm ) : a system for high-end data mining and visualization
+1941,1996,vldb,the query optimizer in tandem 's new serverware sql product
+1942,2003,sigmod record,the hyperion project : from data integration to data coordination
+1943,1996,vldb,"tpc-d : the challenges , issues and results"
+1944,2003,sigmod record,relational data sharing in peer-based data management systems
+1945,1996,vldb,performance of future database systems : bottlenecks and bonananzas
+1946,1996,vldb,what is the data warehousing problem ? ( are materialized views the answer ? )
+1947,2003,sigmod record,the piazza peer data management project
+1948,2003,sigmod record,peer-to-peer research at stanford
+1949,1996,vldb,the structured information manager : a database system for sgml documents
+1950,1996,vldb,loading the data warehouse across various parallel architectures
+1951,2003,sigmod record,p-grid : a self-organizing structured p2p system
+1952,2003,,"report on the 10th conference on database systems for business , technology , and the web ( btw 2003 )"
+1953,1995,vldb,an efficient algorithm for mining association rules in large databases
+1954,1995,vldb,discovery of multiple-level association rules from large databases
+1955,2003,,reminiscences on influential papers
+1956,2003,sigmod record,a mapping mechanism to support bitmap index and other auxiliary structures on tables stored as primary b + - trees
+1957,1995,vldb,dynamic multi-resource load balancing in parallel database systems
+1958,2003,,interview with michael stonebraker
+1959,1995,vldb,a non-uniform data fragmentation strategy for parallel main-menory database systems
+1960,2003,sigmod record,information rules
+1961,1995,vldb,applying database technology in the adsm mass storage system
+1962,2003,sigmod record,peer-to-peer : harnessing the power of disruptive technologies
+1963,1995,vldb,generalized search trees for database systems
+1964,2003,sigmod record,fundamentals of data warehouses : 2nd revised and extended edition
+1965,1995,vldb,a scalable architecture for autonomous heterogeneous database interactions
+1966,1995,vldb,"fast similarity search in the presence of noise , scaling , and translation in time-series databases"
+1967,2003,sigmod record,towards a database body of knowledge : a study from spain
+1968,2003,sigmod record,research issues for data communication in mobile ad-hoc network database systems
+1969,1995,vldb,coloring away communication in parallel query optimization
+1970,1995,vldb,bypassing joins in disjunctive queries
+1971,2003,sigmod record,modelling temporal thematic map contents
+1972,2003,,xpath processing in a nutshell
+1973,1995,vldb,a practical and modular implementation of extended transaction models
+1974,1995,vldb,a data transformation system for biological data sources
+1975,2003,sigmod record,issues in data stream management
+1976,2003,,chair 's message
+1977,1995,vldb,aggregate-query processing in data warehousing environments
+1978,2003,sigmod record,a web odyssey : from codd to xml
+1979,1995,vldb,eager aggregation and lazy aggregation
+1980,2003,sigmod record,book review column
+1981,1995,vldb,a cost model for clustered object-oriented databases
+1982,1995,vldb,estimating the selectivity of spatial queries using the ` correlation ' fractal dimension
+1983,2003,sigmod record,an approach to confidence based page ranking for user oriented web search
+1984,2003,sigmod record,acm tods in this internet age
+1985,1996,vldb,zoo : a desktop experiment management environment
+1986,1996,vldb,querying multiple features of groups in relational databases
+1987,2003,sigmod record,performing jobs without decompression in a compressed database system
+1988,1996,vldb,modeling skewed distribution using multifractals and the ` 80-20 ' law
+1989,2003,sigmod record,xpath processing in a nutshell
+1990,1996,vldb,semantic data caching and replacement
+1991,2003,,interview with jim gray
+1992,2003,sigmod record,a database approach to quality of service specification in video databases
+1993,1996,vldb,implementation and analysis of a parallel collection query language
+1994,2003,sigmod record,ansi sql hierarchical processing can fully integrate native xml
+1995,1996,vldb,obtaining complete answers from incomplete databases
+1996,1996,vldb,object fusion in mediator systems
+1997,2003,sigmod record,analysis of existing databases at the logical level : the dba companion project
+1998,2003,sigmod record,database research at ut arlington
+1999,1996,vldb,the role of integrity constraints in database interoperation
+2000,2003,vldb,multiscale histograms : summarizing topological relations in large spatial datasets
+2001,2003,vldb,query processing in spatial network databases
+2002,2003,vldb,merging models based on given correspondences
+2003,2003,vldb,avoiding ordering and grouping in query processing
+2004,2003,vldb,anipqo : almost non-intrusive parametric query optimization for nonlinear cost functions
+2005,2003,vldb,supporting top-k join queries in relational databases
+2006,2003,vldb,the tpr * - tree : an optimized spatio-temporal access method for predictive queries
+2007,2003,vldb,efficient approximation of optimization queries under parametric aggregation constraints
+2008,2003,vldb,cache tables : paving the way for an adaptive database cache
+2009,2003,vldb,lachesis : robust database storage management based on device-specific performance characteristics
+2010,2003,vldb,a dependability benchmark for oltp application environments
+2011,2003,vldb,primitives for workload summarization and implications for sql
+2012,2003,vldb,bhunt : automatic discovery of fuzzy algebraic constraints in relational data
+2013,2003,vldb,estimating the output cardinality of partial preaggregation with a measure of clusteredness
+2014,2003,vldb,memory requirements for query execution in highly constrained devices
+2015,2003,vldb,tabular placement of relational data on mems-based storage devices
+2016,2003,vldb,capturing global transactions from multiple recovery log files in a partitioned database system
+2017,2003,vldb,the bea/xqrl streaming xquery processor
+2018,2003,vldb,xml schemas in oracle xml db
+2019,2003,vldb,integrated data management for mobile services in the real world
+2020,2003,vldb,improving performance with bulk-inserts in oracle r-trees
+2021,2003,vldb,statistics on views
+2022,2003,vldb,efficient query processing for multi-dimensionally clustered tables in db2
+2023,2003,vldb,a platform based on the multi-dimensional data model for analysis of bio-molecular structures
+2024,2003,vldb,controlling access to published data using cryptography
+2025,2003,vldb,oasis : an online and accurate technique for local-alignment searches on biological sequences
+2026,2003,vldb,privacy-preserving indexing of documents on the network
+2027,2003,vldb,data compression in oracle
+2028,2003,vldb,operator scheduling in a data stream manager
+2029,2003,vldb,efficient ir-style keyword search over relational databases
+2030,2003,vldb,locating data sources in large distributed systems
+2031,2003,vldb,robust estimation with sampling and approximate pre-aggregation
+2032,2003,vldb,chameleon : an extensible and customizable tool for web data translation
+2033,2003,vldb,webservice composition with o'grape and osiris
+2034,2003,vldb,implementing xquery 1.0 : the galax experience
+2035,2003,vldb,xiss/r : xml indexing and storage system using rdbms
+2036,2003,vldb,a system for keyword proximity search on xml databases
+2037,2003,vldb,xquec : pushing queries to compressed xml data
+2038,2003,vldb,managing distributed workspaces with active xml
+2039,2003,vldb,orientstore : a schema based native xml storage system
+2040,2003,vldb,xcerpt and visxcerpt : from pattern-based to visual querying of xml and semistructured data
+2041,2003,vldb,illuminating the dark side of web services
+2042,2003,vldb,who needs xml databases ?
+2043,2003,vldb,a database striptease or how to manage your personal databases
+2044,2003,vldb,the zero-delay data warehouse : mobilizing heterogeneous databases
+2045,2003,vldb,commercial use of database technology
+2046,2003,vldb,grid and applications ( industrial session )
+2047,2003,vldb,web services ( industrial session )
+2048,2003,,privacy-enhanced data management for next-generation e-commerce
+2049,2003,,the semantic web : semantics for data on the web
+2050,2003,vldb,irisnet : an architecture for internet-scale sensing services
+2051,2003,vldb,"large-scale , standards-based earth observation imagery and web mapping services"
+2052,2003,vldb,quiet : continuous query-driven index tuning
+2053,2003,vldb,chip-secured data access : reconciling access rights with data encryption
+2054,2003,vldb,an interpolated volume data model
+2055,2003,vldb,efficacious data cube exploration by semantic summarization and compression
+2056,2003,vldb,atlas : a small but complete sql extension for data mining and data streams
+2057,2003,vldb,business modelling using sql spreadsheets
+2058,2003,vldb,from focused crawling to expert information : an application framework for web exploration and portal generation
+2059,2003,vldb,cacheportal ii : acceleration of very large scale data center-hosted database-driven web applications
+2060,2003,vldb,bibfinder/statminer : effectively mining and using coverage and overlap statistics in data integration
+2061,2003,vldb,s-topss : semantic toronto publish/subscribe system
+2062,2003,vldb,"nexusscout : an advanced location-based application on a distributed , open mediation platform"
+2063,2003,vldb,schema-driven customization of web services
+2064,2003,vldb,integrating information for on demand computing
+2065,2003,vldb,a nanotechnology-based approach to data storage
+2066,2003,vldb,the history of histograms ( abridged )
+2067,2003,vldb,the data-centric revolution in networking
+2068,2003,vldb,xsearch : a semantic search engine for xml
+2069,2003,vldb,complex queries over web repositories
+2070,2003,vldb,efficient mining of xml query patterns for caching
+2071,2003,vldb,an efficient and resilient approach to filtering and disseminating streaming data
+2072,2003,vldb,phrase matching in xml
+2073,2003,vldb,rrxf : redundancy reducing xml storage in relations
+2074,2003,vldb,mars : a system for publishing xml from mixed and redundant storage
+2075,2003,vldb,projecting xml documents
+2076,2003,vldb,mixed mode xml query processing
+2077,2003,vldb,from tree patterns to generalized tree patterns : on efficient evaluation of xquery
+2078,2003,vldb,efficient processing of expressive node-selecting queries on xml data in secondary storage : a tree automata-based approach
+2079,2003,vldb,query processing for high-volume xml message brokering
+2080,2003,vldb,a framework for clustering evolving data streams
+2081,2003,vldb,a regression-based temporal pattern mining scheme for data streams
+2082,2003,vldb,on the costs of multilingualism in database systems
+2083,2003,vldb,distributed top-n query processing with possibly uncooperative local systems
+2084,2003,vldb,optimized query execution in large search engines with global page ordering
+2085,2003,vldb,path queries on compressed xml
+2086,2003,vldb,on the minimization of xpath queries
+2087,2003,vldb,covering indexes for xml queries : bisimulation - simulation = negation
+2088,2003,vldb,buffering accesses to memory-resident index structures
+2089,2003,vldb,balancing performance and data freshness in web database servers
+2090,2003,vldb,vipas : virtual link powered authority search in the web
+2091,2003,vldb,sash : a self-adaptive histogram set for dynamically changing workloads

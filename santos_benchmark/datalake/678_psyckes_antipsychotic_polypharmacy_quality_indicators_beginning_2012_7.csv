@@ -1,0 +1,4 @@
+indicator_name,age_group,county_name,provider_name,eligible_population_count,num_with_qi_flag,is_rate_high
+Indicator 2AP,Ages 18 and over,Kings County,Housing Works E. NY HIV 3 AADC,Fifty-one,Three,Not high
+2AP Indicator,Eighteen and Over,St. Lawrence County,County-level Provider,292 individuals,17 flagged cases,Not High
+2AP,18 and older,Cattaraugus County,County-level services,348,44,No

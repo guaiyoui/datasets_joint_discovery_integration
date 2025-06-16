@@ -1,0 +1,110 @@
+p_id,tel,establishment_name,urban_center,address,grade
+424,702/739 -4111,` bally \ 's big kitchen ',` las vegas ',' 3645 las vegas blvd. s ',424
+425,702/871 -3262,` bamboo garden ',` las vegas ',' 4850 flamingo rd. ',425
+426,702/732 -1424,` battista \ 's hole in the wall ',` las vegas ',' 4041 audrie st. at flamingo rd. ',426
+427,702/735 -4663,` bertolini \ 's ',` las vegas ',' 3570 las vegas blvd. s ',427
+428,702/382 -1600,` binion \ 's coffee shop ',` las vegas ',' 128 fremont st. ',428
+429,702/791 -7111,bistro,` las vegas ',' 3400 las vegas blvd. s ',429
+430,702/432 -7777,broiler,` las vegas ',' 4111 boulder hwy . ',430
+431,702/733 -3111,` bugsy \ 's diner ',` las vegas ',' 3555 las vegas blvd. s ',431
+432,702/735 -8686,` cafe michelle ',` las vegas ',' 1350 e. flamingo rd. ',432
+433,702/731 -7547,` cafe roma ',` las vegas ',' 3570 las vegas blvd. s ',433
+434,702/731 -5311,` capozzoli \ 's ',` las vegas ',' 3333 s. maryland pkwy . ',434
+435,702/252 -7777,` carnival world ',` las vegas ',' 3700 w. flamingo rd. ',435
+436,702/386 -2512,` center stage plaza hotel ',` las vegas ',' 1 main st. ',436
+437,702/734 -0410,` circus circus ',` las vegas ',' 2880 las vegas blvd. s ',437
+438,702/731 -7888,'em press court ',` las vegas ',' 3570 las vegas blvd. s ',438
+439,702/367 -2411,feast,` las vegas ',' 2411 w. sahara ave. ',439
+440,702/385 -7111,` golden nugget hotel ',` las vegas ',' 129 e. fremont st. ',440
+441,702/384 -4470,` golden steer ',` las vegas ',' 308 w. sahara ave. ',441
+442,702/385 -7111,` lillie langtry \ 's ',` las vegas ',' 129 e. fremont st. ',442
+443,702/737 -1234,` mandarin court ',` las vegas ',' 1510 e. flamingo rd. ',443
+444,702/794 -8200,` margarita \ 's mexican cantina ',` las vegas ',' 3120 las vegas blvd. s ',444
+445,702/454 -8073,` mary \ 's diner ',` las vegas ',' 5111 w. boulder hwy . ',445
+446,702/791 -7111,mikado,` las vegas ',' 3400 las vegas blvd. s ',446
+447,702/733 -2066,pamplemousse,` las vegas ',' 400 e. sahara ave. ',447
+448,702/732 -6330,` ralph \ 's diner ',` las vegas ',' 3000 las vegas blvd. s ',448
+449,702/731 -7525,` the bacchanal ',` las vegas ',' 3570 las vegas blvd. s ',449
+450,702/876 -4190,venetian,` las vegas ',' 3713 w. sahara ave. ',450
+451,702/871 -8826,` viva mercado \ 's ',` las vegas ',' 6182 w. flamingo rd. ',451
+452,702/794 -0700,` yolie \ 's ',` las vegas ',' 3900 paradise rd. ',452
+453,415/431 -0692,2223,` san francisco ',' 2223 market st. ',453
+454,415/567 -5432,acquarello,` san francisco ',' 1722 sacramento st. ',454
+455,415/982 -0243,` bardelli \ 's ',` san francisco ',' 243 o \ ` farrell st. ',455
+456,415/929 -8855,betelnut,` san francisco ',' 2030 union st. ',456
+457,415/495 -6500,` bistro roti ',` san francisco ',' 155 steuart st. ',457
+458,415/433 -6300,bix,` san francisco ','56 gold st. ',458
+459,415/543 -2222,bizou,` san francisco ',' 598 fourth st. ',459
+460,415/776 -7766,` buca giovanni ',` san francisco ',' 800 greenwich st. ',460
+461,415/474 -4180,` cafe adriano ',` san francisco ',' 3347 fillmore st. ',461
+462,415/776 -1506,` cafe marimba ',` san francisco ',' 2317 chestnut st. ',462
+463,415/771 -3500,` california culinary academy ',` san francisco ',' 625 polk st. ',463
+464,415/989 -2589,` capp \ 's corner ',` san francisco ',' 1600 powell st. ',464
+465,415/863 -3516,carta,` san francisco ',' 1772 market st. ',465
+466,415/543 -8060,chevys,` san francisco ',' 4th and howard sts . ',466
+467,415/296 -8555,` cypress club ',` san francisco ',' 500 jackson st. ',467
+468,415/788 -9900,` des alpes ',` san francisco ',' 732 broadway ',468
+469,415/362 -0404,faz,` san francisco ',' 161 sutter st. ',469
+470,415/982 -2000,` fog city diner ',` san francisco ',' 1300 battery st. ',470
+471,415/546 -5011,` garden court ',` san francisco ',` market and new montgomery sts . ',471
+472,415/771 -8822,` gaylord \ 's ',` san francisco ',` ghirardelli sq. ',472
+473,415/292 -0101,` grand cafe hotel monaco ',` san francisco ',' 501 geary st. ',473
+474,415/771 -6222,greens,` san francisco ',` bldg. a fort mason ',474
+475,415/781 -8833,` harbor village ',` san francisco ',' 4 embarcadero center ',475
+476,415/673 -1888,` harris \ '',` san francisco ',' 2100 van ness ave. ',476
+477,415/882 -1333,` harry denton \ 's ',` san francisco ',' 161 steuart st. ',477
+478,415/863 -5545,` hayes street grill ',` san francisco ',' 320 hayes st. ',478
+479,415/362 -0641,helmand,` san francisco ',' 430 broadway ',479
+480,415/668 -8998,` hong kong flower lounge ',` san francisco ',' 5322 geary blvd. ',480
+481,415/752 -8833,` hong kong villa ',` san francisco ',' 2332 clement st. ',481
+482,415/441 -7778,` hyde street bistro ',` san francisco ',' 1521 hyde st. ',482
+483,415/986 -0100,` il fornaio levi \ 's plaza ',` san francisco ',' 1265 battery st. ',483
+484,415/563 -0487,` izzy \ 's steak & chop house ',` san francisco ',' 3345 steiner st. ',484
+485,415/986 -9854,` jack \ 's ',` san francisco ',' 615 sacramento st. ',485
+486,415/752 -5652,` kabuto sushi ',` san francisco ',' 5116 geary blvd. ',486
+487,415/668 -9292,` katia \ 's ',` san francisco ',' 600 5th ave. ',487
+488,415/397 -7720,` kuleto \ 's ',` san francisco ',' 221 powell st. ',488
+489,415/546 -5000,` kyo-ya . sheraton palace hotel ',` san francisco ',' 2 new montgomery st. at market st. ',489
+490,415/982 -1124,` l \ ` osteria del forno ',` san francisco ',' 519 columbus ave. ',490
+491,415/391 -2233,` le central ',` san francisco ',' 453 bush st. ',491
+492,415/668 -4848,` le soleil ',` san francisco ',' 133 clement st. ',492
+493,415/398 -5700,` macarthur park ',` san francisco ',' 607 front st. ',493
+494,415/861 -6224,manora,` san francisco ',' 3226 mission st. ',494
+495,415/362 -8286,maykadeh,` san francisco ',' 470 green st. ',495
+496,415/929 -1730,` mccormick & kuleto \ 's ',` san francisco ',` ghirardelli sq. ',496
+497,415/487 -9800,millennium,` san francisco ',' 246 mcallister st. ',497
+498,415/989 -7800,` moose \ 's ',` san francisco ',' 1652 stockton st. ',498
+499,415/931 -1556,` north india ',` san francisco ',' 3131 webster st. ',499
+500,415/777 -5577,` one market ',` san francisco ',' 1 market st. ',500
+501,415/346 -1333,oritalia,` san francisco ',' 1915 fillmore st. ',501
+502,415/929 -2087,` pacific pan pacific hotel ',` san francisco ',' 500 post st. ',502
+503,415/395 -9800,` palio d \ ` asti ',` san francisco ',' 640 sacramento st. ',503
+504,415/346 -2111,` pane e vino ',` san francisco ',' 3011 steiner st. ',504
+505,415/391 -2555,pastis,` san francisco ',' 1015 battery st. ',505
+506,415/922 -9022,` perry \ 's ',` san francisco ',' 1944 union st. ',506
+507,415/982 -7877,` r & g lounge ',` san francisco ',' 631 b kearny st. ',507
+508,415/434 -4100,rubicon,` san francisco ',' 558 sacramento st. ',508
+509,415/421 -2300,rumpus,` san francisco ',' 1 tillman pl . ',509
+510,415/346 -3486,sanppo,` san francisco ',' 1702 post st. ',510
+511,415/395 -8555,` scala \ 's bistro ',` san francisco ',' 432 powell st. ',511
+512,415/495 -7275,` south park cafe ',` san francisco ',' 108 south park ',512
+513,415/986 -3222,` splendido embarcadero ',` san francisco ',4,513
+514,415/861 -7827,stars,` san francisco ',' 150 redwood alley ',514
+515,415/861 -4344,` stars cafe ',` san francisco ',' 500 van ness ave. ',515
+516,415/664 -3664,` stoyanof \ 's cafe ',` san francisco ',' 1240 9th ave. ',516
+517,415/668 -1783,` straits cafe ',` san francisco ',' 3300 geary blvd. ',517
+518,415/252 -9289,suppenkuche,` san francisco ',' 601 hayes st. ',518
+519,415/391 -2373,` tadich grill ',` san francisco ',' 240 california st. ',519
+520,415/474 -8890,` the heights ',` san francisco ',' 3235 sacramento st. ',520
+521,415/863 -9335,thepin,` san francisco ',' 298 gough st. ',521
+522,415/752 -4440,` ton kiang ',` san francisco ',' 3148 geary blvd. ',522
+523,415/433 -7250,vertigo,` san francisco ',' 600 montgomery st. ',523
+524,415/346 -4430,` vivande porta via ',` san francisco ',' 2125 fillmore st. ',524
+525,415/673 -9245,` vivande ristorante ',` san francisco ',' 670 golden gate ave. ',525
+526,415/563 -9727,` world wrapps ',` san francisco ',' 2257 chestnut st. ',526
+527,415/957 -9300,` wu kong ',` san francisco ',' 101 spear st. ',527
+528,415/541 -4949,` yank sing ',` san francisco ',' 427 battery st. ',528
+529,415/566 -6966,` yaya cuisine ',` san francisco ',' 1220 9th ave. ',529
+530,415/922 -7788,` yoyo tsumami bistro ',` san francisco ',' 1611 post st. ',530
+531,415/346 -0800,zarzuela,` san francisco ',' 2000 hyde st. ',531
+532,415/552 -2522,` zuni cafe & grill ',` san francisco ',' 1658 market st. ',532

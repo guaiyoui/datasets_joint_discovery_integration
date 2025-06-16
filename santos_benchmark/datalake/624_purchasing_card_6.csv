@@ -1,0 +1,4 @@
+org_name,exp_department,service_category,supplier_name,exp_purpose,procurement_category,purchase_date,settlement_date,transaction_id,net_amount
+Stockport Metropolitan Borough Council,Corporate & Support Services Dept.,General Administrative Overhead,Trainline.com,Travel Costs,HR Travel and Per Diem,"January 4, 2019","Feb 16, 2019",GPC-0119-0000306,35.55 GBP
+Stockport Metropolitan Borough Council,Human Services Department,Child and Youth Services,DW Fitness,Payments for Care Services,Community Care & Social Services,2019-01-22,2019-02-16,GPC-0119-0000199,£230.00
+Stockport Metropolitan Borough Council,People Services Department,Educational and Childcare Services,Trainline.com,Travel Costs,"HR, Travel and Subsistence","January 28, 2019",2019-02-16,GPC 0119-0000139,83.5

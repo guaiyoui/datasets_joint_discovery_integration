@@ -1,0 +1,4 @@
+indicator_name,age_group,county,provider_name,eligible_pop_count,qi_flag_count,is_rate_high
+Indicator 2AP,Ages 18 and over,Rockland County,Rockland County Mental Health Association,154,49,True
+Indicator 3AP,Eighteen and Over,Bronx County,NYC-HHC Lincoln Medical and Mental Health Center,557 individuals eligible,A single record with QI flag,Rate not high
+Antipsychotic Polypharmacy Indicator 3,Ages 0-17,Jefferson County,North Country Transitional Living Services Incorporated,Twenty-six,Zero,No

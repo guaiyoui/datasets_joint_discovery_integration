@@ -1,0 +1,524 @@
+paper_id,event_year,pub_name,pub_authors
+1046,1999,clustering methods for large databases : from the past to the future,"alexander hinneburg , daniel a. keim"
+1047,1995,managing a db2 parallel edition database,gilles fecteau
+1048,1995,type classification of semi-structured documents,"allen luniewski , markus tresch , neal palmer"
+1049,1996,dbsim : a simulation tool for predicting database performance,"craig wong , mark stokrp , mike lefler"
+1050,2001,querying xml views of relational data,"jerry kiernan , jayavel shanmugasundaram , catalina fan , eugene j. shekita , john funderburk"
+1051,1998,clustering categorical data : an approach based on dynamical systems,"prabhakar raghavan , david gibson , jon m. kleinberg"
+1052,1994,a new join algorithm,"arnold charles meltzer , dong keun shin"
+1053,1998,cost-based optimization of decision support queries using transient views,"shivakumar venkataraman , subbu n. subramanian"
+1054,1997,concurrency and recovery for index trees,"david b. lomet , betty salzberg"
+1055,1998,resource scheduling for composite multimedia objects,"yannis e. ioannidis , minos n. garofalakis , banu özden"
+1056,2001,an extension of the relational data model to incorporate ordered domains,wilfred ng
+1057,1995,alphasort : a cache-sensitive parallel external sort,"jim gray , zarka cvetanovic , tom barclay , chris nyberg , david b. lomet"
+1058,1999,in-memory data management for consumer transactions the times-ten approach,times-ten team
+1059,1999,daytona and the fourth-generation language cymbal,rick greer
+1060,2000,quantifiable data mining using ratio rules,"christos faloutsos , yannis kotidis , flip korn , alexandros labrinidis"
+1061,2001,data management for pervasive computing,"mitch cherniack , stanley b. zdonik , michael j. franklin"
+1062,2003,closing the key loophole in mls databases,"nenad jukic , svetlozar nestorov , susan v. vrbsky"
+1063,1999,gloss : text-source discovery over the internet,"hector garcia-molina , luis gravano , anthony tomasic"
+1064,2001,progressive approximate aggregate queries with a multi-resolution tree structure,"iosif lazaridis , sharad mehrotra"
+1065,2003,nonstop sql/mx publish/subscribe : continuous data streams in transaction processing,hansjörg zeller
+1066,2003,report on the 5th international workshop on the design and management of data warehouses ( dmdw ' 03 ),"manfred a. jeusfeld , hans-joachim lenz , panos vassiliadis , martin staudt"
+1067,2002,general match : a subsequence matching method in time-series databases based on generalized windows,"kyu-young whang , yang-sae moon , wook-shin han"
+1068,2003,"report on the 10th conference on database systems for business , technology , and the web ( btw 2003 )","erhard rahm , harald schöning , gerhard weikum"
+1069,2002,ontologies : a silver bullet for knowledge management and electronic commerce - book review,antonio badia
+1070,1997,adaptive data broadcast in hybrid networks,"konstantinos stathatos , john s. baras , nick roussopoulos"
+1071,1998,incremental distance join algorithms for spatial databases,"gísli r. hjaltason , hanan samet"
+1072,1997,a region splitting strategy for physical database design of multidimensional file organizations,"kyu-young whang , il-yeol song , young-koo lee , jong-hak lee"
+1073,2001,sql/xml and the sqlx informal group of companies,"jim melton , andrew eisenberg"
+1074,2002,database technologies for electronic commerce,"yirong xu , ramakrishnan srikant , rakesh agrawal"
+1075,1999,semantic interoperability in information services : experiencing with coopware,avigdor gal
+1076,1997,open gis and on-line environmental libraries,kenn gardels
+1077,1999,client-site query extensions,"praveen seshadri , tobias mayr"
+1078,2002,joining ranked inputs in practice,"walid g. aref , ihab f. ilyas , ahmed k. elmagarmid"
+1079,2003,complex queries over web repositories,"hector garcia-molina , sriram raghavan"
+1080,1996,"database research at the indian institute of technology , bombay","s. seshadri , nandlal l. sarda , d. b. phatak , s. sudarshan"
+1081,1996,goal-oriented buffer management revisited,"kurt p. brown , michael j. carey , miron livny"
+1082,1995,the naos system,"christine collet , thierry coupaye"
+1083,2002,chair 's message,m. tamer özsu
+1084,2003,robust and efficient fuzzy match for online data cleaning,"surajit chaudhuri , kris ganjam , venkatesh ganti , rajeev motwani"
+1085,2000,agora : living with xml and relational,"daniela florescu , donald kossmann , dan olteanu , ioana manolescu , florian xhumari"
+1086,2002,editorial,"peter m. g. apers , stefano ceri , richard t. snodgrass"
+1087,1998,a data mining application : customes retention at the port of singapore authority ( psa ),"kiansing ng , huan liu , hweebong kwah"
+1088,2001,materialized view and index selection tool for microsoft sql server 2000,"vivek r. narasayya , sanjay agrawal , surajit chaudhuri"
+1089,1999,optimization of queries with user-defined predicates,"kyuseok shim , surajit chaudhuri"
+1090,1994,metadata for multimedia documents,"thomas c. rakow , klemens böhm"
+1091,1998,introduction ( special issue on multimedia databases ),"m. tamer özsu , stavros christodoulakis"
+1092,2000,concurrency in the data warehouse,richard taylor
+1093,2001,editor 's notes,ling liu
+1094,2000,asera : extranet architecture for b2b solutions,anil nori
+1095,1994,energy efficient indexing on air,"s. viswanathan , b. r. badrinath , tomasz imielinski"
+1096,2003,iterative spatial join,"hanan samet , edwin h. jacox"
+1097,2000,editor 's notes,michael j. franklin
+1098,2002,storing and querying ordered xml using a relational database system,"kevin s. beyer , jayavel shanmugasundaram , chun zhang , igor tatarinov , stratis viglas , eugene j. shekita"
+1099,1994,ptool : a scalable persistent object manager,"xiao qin , robert l. grossman"
+1100,2003,agent-oriented software engineering report on the 4th aose workshop ( aose 2003 ),paolo giorgini
+1101,2002,approximate frequency counts over data streams,"rajeev motwani , gurmeet singh manku"
+1102,1994,relaxed transaction processing,"darrell woelk , munindar p. singh , christine tomlinson"
+1103,1996,workshop report : the first international workshop on active and real-time database systems ( artdb-95 ),"mikael berndtsson , jörgen hansson"
+1104,1995,an introduction to remy 's fast polymorphic record projection,limsoon wong
+1105,1996,pixel-oriented database visualizations,daniel a. keim
+1106,2003,adaptive algorithms for set containment joins,"hector garcia-molina , sergey melnik"
+1107,1995,the ecrc multi database system,"heribert schütz , willem jonker"
+1108,1996,semantics for update rule programs and implementations in a relational database management system,"louiqa raschid , jorge lobo"
+1109,2000,efficient resumption of interrupted warehouse loads,"hector garcia-molina , vlad gorelik , wilburt labio , janet l. wiener"
+1110,1995,calls for papers and announcements,?
+1111,1994,quickstore : a high performance mapped object store,"david j. dewitt , seth j. white"
+1112,1994,using semantic values to falilitate interoperability among heterogeneous information systems,"edward sciore , michael siegel , arnon rosenthal"
+1113,2003,covering indexes for xml queries : bisimulation - simulation = negation,prakash ramanan
+1114,2002,"database tuning : principles , experiments , and troubleshooting techniques ( part ii )","dennis shasha , philippe bonnet"
+1115,1994,towards automated performance tuning for complex workloads,"michael j. carey , manish mehta , miron livny , kurt p. brown"
+1116,1994,integrating a structured-text retrieval system with an object-oriented database system,"jurgen annevelink , tak w. yan"
+1117,1997,efficient user-adaptable similarity search in large multimedia databases,"thomas seidl , hans-peter kriegel"
+1118,1996,index nesting - an efficient approach to indexing in object-oriented databases,"jiawei han , beng chin ooi , hongjun lu , kian-lee tan"
+1119,1995,an annotated bibliography on real-time database systems,özgür ulusoy
+1120,1996,effective & efficient document ranking without using a large lexicon,yasushi ogawa
+1121,2001,re-designing distance functions and distance-based applications for high dimensional data,charu c. aggarwal
+1122,2003,information integration on the web : a view from ai and databases ( report on iiweb-03 ),"subbarao kambhampati , craig a. knoblock"
+1123,1996,a probabilistic relational model and algebra,"debabrata dey , sumit sarkar"
+1124,1999,evolvable view environment ( eve ) : non-equivalent view maintenance under schema changes,"andreas koeller , amy j. lee , xin zhang , anisoara nica , elke a. rundensteiner , amber van wyk , yong li"
+1125,1996,declustering of key-based partitioned signature files,"pavel zezula , paolo ciaccia , paolo tiberio"
+1126,1999,query processing techniques for arrays,"kenneth salem , arunprasad p. marathe"
+1127,1994,charter and scope,won kim
+1128,1998,towards a theory of cost management for digital libraries and electronic commerce,"a. prasad sistla , robert h. sloan , yelena yesha , ouri wolfson"
+1129,2003,locating data sources in large distributed systems,"david j. dewitt , leonidas galanis , shawn r. jeffery , yuan wang"
+1130,2001,picodbms : validation and experience,"philippe pucheral , christophe bobineau , luc bouganim , patrick valduriez , nicolas anciaux"
+1131,2000,mining frequent patterns without candidate generation,"jian pei , jiawei han , yiwen yin"
+1132,1998,panel on next generation database systems wo n't work without semantics !,john mylopoulos
+1133,1997,extracting entity profiles from semistructured information spaces,"robert a. nado , scott b. huffman"
+1134,2003,data quality and data cleaning : an overview,"theodore johnson , tamraparni dasu"
+1135,2002,small worlds : the dynamics of networks between order and randomness - book review,jie wu
+1136,1996,eroc : a toolkit for building neato query optimizers,"melissa truong , louis burger , william j. mckenna , chi hoang"
+1137,2003,composing mappings among data sources,"alon y. halevy , jayant madhavan"
+1138,1998,proximity search in databases,"narayanan shivakumar , hector garcia-molina , roy goldman , suresh venkatasubramanian"
+1139,1998,database research at columbia university,"kenneth a. ross , gail e. kaiser , luis gravano , salvatore j. stolfo , shih-fu chang"
+1140,1995,use of a component architecture in integrating relational and non-relational storage systems,robert g. atkinson
+1141,1998,providing database-like access to the web using queries based on textual similarity,william w. cohen
+1142,1997,on-line warehouse view maintenance,"jennifer widom , dallan quass"
+1143,1998,dms : a parallel data mining server,felicity a. w. george
+1144,2003,supporting frequent updates in r-trees : a bottom-up approach,"christian s. jensen , bin cui , mong-li lee , keng lik teo , wynne hsu"
+1145,1995,leveraging the information asset,janet perna
+1146,1999,the cornell jaguar system : adding mobility to predator,"zhiyuan chen , daniel mahashin , victor cheng , kyle buza , tobias mayr , hubert siu , randolph chung , ivan oprencak , philippe bonnet , takako m. hickey , praveen seshadri , ryan kennedy"
+1147,1999,networked data management design points,james r. hamilton
+1148,2000,the bt-tree : a branched and temporal access method,"david b. lomet , betty salzberg , linan jiang , manuel barrena garcía"
+1149,1998,microsoft index tuning wizard for sql server 7.0,"surajit chaudhuri , vivek r. narasayya"
+1150,1994,incomplete path expressions and their disambiguation,"yannis e. ioannidis , yezdi lashkari"
+1151,1995,data and knowledge base research at hong kong university of science and technology,"babak hamidzadeh , kamalakar karlapalem , qing li , chung-dak shum , dik lun lee , frederick h. lochovsky , beat wüthrich , alex chia-yee kean , pamela drew"
+1152,2002,protdb : probabilistic data in xml,"andrew nierman , h. v. jagadish"
+1153,1999,database architecture optimized for the new bottleneck : memory access,"stefan manegold , peter a. boncz , martin l. kersten"
+1154,2000,efficient and extensible algorithms for multi query optimization,"s. sudarshan , siddhesh bhobe , s. seshadri , prasan roy"
+1155,1998,chair 's message,richard t. snodgrass
+1156,1994,distributed file organization with scalable cost/performance,"yuri breitbart , gerhard weikum , radek vingralek"
+1157,2003,the piazza peer data management project,"gerome miklau , jayant madhavan , igor tatarinov , zachary g. ives , xin dong , yana kadiyska , alon y. halevy , nilesh n. dalvi , dan suciu , peter mork"
+1158,1998,microsoft universal data access platform,"michael pizzo , josé a. blakeley"
+1159,2002,searching and mining fine-grained semi-structured data,soumen chakrabarti
+1160,1998,reminiscences on influential papers,"z. meral özsoyoglu , philip s. yu , nick roussopoulos , krithi ramamritham , alberto o. mendelzon , richard t. snodgrass , laura m. haas , jennifer widom , jan paredaens"
+1161,2000,lh * rs : a high-availability scalable distributed data structure using reed solomon codes,"thomas j. e. schwarz , witold litwin"
+1162,1997,"do n't scrap it , wrap it ! a wrapper architecture for legacy data sources","peter m. schwarz , mary tork roth"
+1163,1997,foreword : management of semistructured data,dan suciu
+1164,2001,querying atsql databases with temporal logic,"jan chomicki , david toman , michael h. böhlen"
+1165,1996,"tpc-d : the challenges , issues and results",ramesh bhashyam
+1166,1995,"fastmap : a fast algorithm for indexing , data-mining and visualization of traditional and multimedia datasets","king-ip lin , christos faloutsos"
+1167,1996,"shutdown , budget , and funding",xiaolei qian
+1168,1996,cost-based optimization for magic : algebra and implementation,"hamid pirahesh , t. y. cliff leung , s. sudarshan , praveen seshadri , divesh srivastava , raghu ramakrishnan , joseph m. hellerstein , peter j. stuckey"
+1169,1996,query processing and optimization in oracle rdb,"gennady antoshenkov , mohamed ziauddin"
+1170,2002,roadrunner : automatic data extraction from data-intensive web sites,"giansalvatore mecca , valter crescenzi , paolo merialdo"
+1171,2001,c2p : clustering based on closest pairs,"yannis theodoridis , alexandros nanopoulos , yannis manolopoulos"
+1172,1996,object query standards,andrew e. wade
+1173,2000,using quantitative information for efficient association rule generation,"márcio de carvalho , rodolfo f. resende , bruno pôssas , wagner meira jr."
+1174,2003,estimating compilation time of a query optimizer,"dengfeng gao , eileen tien lin , jun rao , ihab f. ilyas , guy m. lohman"
+1175,2001,pbir - perception-based image retrieval,"lihyuarn l. chang , edward y. chang , tim cheng"
+1176,2002,experiments on query expansion for internet yellow page services using web log mining,"iko pramudiono , katsumi takahashi , masaru kitsuregawa , yusuke ohura"
+1177,2001,supervised wrapper generation with lixto,"sergio flesca , robert baumgartner , georg gottlob"
+1178,1994,alphasort : a risc machine sort,"david b. lomet , jim gray , zarka cvetanovic , chris nyberg , tom barclay"
+1179,1995,mapping extended entity relationship model to object modeling technique,joseph fong
+1180,1999,data management issues in electronic commerce ( panel ),m. tamer özsu
+1181,1996,answering queries with aggregation using views,"h. v. jagadish , shaul dar , divesh srivastava , alon y. levy"
+1182,1999,ghost : fine granularity buffering of indexes,"cheng hian goh , kian-lee tan , beng chin ooi , d. sim"
+1183,2000,a database platform for bioinformatics,sandeepan banerjee
+1184,1999,"powerbookmarks : a system for personalizable web information organization , sharing , and management","kazuyuki shimazu , sougata mukherjea , yi-leh wu , divyakant agrawal , kyoji hirata , yukiyoshi saito , quoc vu , corey bufi , wen-syan li , kevin chen-chuan chang , edward y. chang , reiko ito , yoshinori hara , yutaka kimura"
+1185,1996,"lh * - a scalable , distributed data structure","donovan a. schneider , marie-anne neimat , witold litwin"
+1186,1994,maximizing buffer and disk utilizations for news on-demand,"raymond t. ng , jinhai yang"
+1187,1999,relational databases for querying xml documents : limitations and opportunities,"jeffrey f. naughton , kristin tufte , chun zhang , gang he , david j. dewitt , jayavel shanmugasundaram"
+1188,2003,panel : querying networked databases,"divesh srivastava , nick koudas"
+1189,1996,"a query language for multidimensional arrays : design , implementation , and optimization techniques","limsoon wong , rona machlin , leonid libkin"
+1190,1994,reasoning about spatial relationships in picture retrieval systems,"clement t. yu , a. prasad sistla , r. haddad"
+1191,2002,"wireless graffiti - data , data everywhere matters","tomasz imielinski , b. r. badrinath"
+1192,1994,using metadata for the intelligent browsing of structured media objects,"william i. grosky , farshad fotouhi , ishwar k. sethi"
+1193,2003,a performance study of four index structures for set-valued attributes of low cardinality,"guido moerkotte , sven helmer"
+1194,1994,a requirement-based approach to data modeling and re-engineering,"christian t. ramiller , alice h. muntz"
+1195,1997,editor 's notes,michael j. franklin
+1196,1997,integrating reliable memory in databases,"peter m. chen , wee teck ng"
+1197,1997,vertical data migration in large near-line document archives based on markov-chain predictions,"achim kraiss , gerhard weikum"
+1198,2003,on schema matching with opaque column names and data values,"jaewoo kang , jeffrey f. naughton"
+1199,2001,lots o ' ticks : real-time high performance time series queries on billions of trades and quotes,"arthur t. whitney , dennis shasha"
+1200,1998,an anonymous electronic commerce scheme with an off-line authority and untrusted agents,"josep domingo-ferrer , jordi herrera-joancomartí"
+1201,1996,the structured information manager : a database system for sgml documents,ron sacks-davis
+1202,1995,the new middleware,rich finkelstein
+1203,1996,disnic-plan : a nicnet based distributed database for micro-level planning in india,m. moni
+1204,1996,semantic and schematic similarities between database objects : a context-based approach,"vipul kashyap , amit p. sheth"
+1205,2002,ebusiness standards and architectures,anil nori
+1206,1994,metadata in video databases,"ramesh jain , arun hampapur"
+1207,1999,issues in network management in the next millennium,"michael l. brodie , surajit chaudhuri"
+1208,2001,"cosima - your smart , speaking e-salesperson","werner kießling , thorsten ehm , stefan holland , stefan fischer 0003"
+1209,1999,on efficiently implementing schemasql on an sql database system,"fereidoon sadri , laks v. s. lakshmanan , subbu n. subramanian"
+1210,1995,the power of languages for the manipulation of complex values,"serge abiteboul , catriel beeri"
+1211,2003,stream processing of xpath queries with predicates,"ashish kumar gupta , dan suciu"
+1212,2001,xml-enabled workflow management for e-services across heterogeneous platforms,"michael gillmann , german shegalov , gerhard weikum"
+1213,1995,db2 query parallelism : staging and implementation,yun wang
+1214,1995,an overview of the emerging third-generation sql standard ( tutorial ),"nelson mendonça mattos , jim melton"
+1215,1999,online association rule mining,christian hidber
+1216,2002,using latency-recency profiles for data delivery on the web,"louiqa raschid , laura bright"
+1217,2001,smooth - a distributed multimedia database system,"christian hanin , roland tusch , carmen riedler , harald kosch , margit lang , lászló böszörményi , christian hofbauer , alexander bachlechner"
+1218,2000,clustering categorical data : an approach based on dynamical systems,"david gibson , jon m. kleinberg , prabhakar raghavan"
+1219,2000,data mining in the bioinformatics domain,shalom tsur
+1220,1998,simultaneous optimization and evaluation of multiple dimensional queries,"amit shukla , jeffrey f. naughton , yihong zhao , prasad deshpande"
+1221,1994,coss : the common object services specifications,bruce e. martin
+1222,2000,application architecture : 2tier or 3tier ? what is dbms 's role ? ( panel abstract ),anil nori
+1223,2000,emancipating instances from the tyranny of classes in information modeling,"jeffrey parsons , yair wand"
+1224,2003,from tree patterns to generalized tree patterns : on efficient evaluation of xquery,"zhimin chen , stelios paparizos , h. v. jagadish , laks v. s. lakshmanan"
+1225,1999,an xml-based wrapper generator for web information extraction,"david buttler , wei tang , calton pu , wei han , ling liu"
+1226,2003,pix : exact and approximate phrase matching in xml,"yu xu , mary f. fernandez , sihem amer-yahia , divesh srivastava"
+1227,2001,developing an indexing scheme for xml document collection using the oracle8i extensibility framework,"ying hu , timothy chorma , nipun agarwal , seema sundara , jagannathan srinivasan"
+1228,2001,answering xml queries on heterogeneous data sources,"ioana manolescu , donald kossmann , daniela florescu"
+1229,2002,business data management for b2b electronic commerce,"manfred a. jeusfeld , mareike schoop , christoph quix"
+1230,2001,lopix : a system for xml data integration and manipulation,wolfgang may
+1231,2001,i/o reference behavior of production database workloads and the tpc benchmarks - an analysis at the logical level,"windsor w. hsu , alan jay smith , honesty c. young"
+1232,2001,weaving relations for cache performance,"mark d. hill , anastassia ailamaki , david j. dewitt , marios skounakis"
+1233,2002,efficient algorithms for processing xpath queries,"reinhard pichler , georg gottlob , christoph koch"
+1234,1994,xsb as an efficient deductive database engine,"david scott warren , konstantinos f. sagonas , terrance swift"
+1235,1999,agent-based semantic interoperability in infosleuth,"bruce bargmeyer , brad perry , jerry fowler , marian h. nodine"
+1236,2002,the xml typechecking problem,dan suciu
+1237,1999,data integration and warehousing in telecom italia,"daniele nardi , maurizio lenzerini , stefano trisolini"
+1238,2002,a compact b-tree,"ivan t. bowman , peter bumbulis"
+1239,1997,partitioned garbage collection of large object store,"barbara liskov , umesh maheshwari"
+1240,1995,addendum to automatic generation of production rules for integrity maintenance,"letizia tanca , stefano paraboschi , piero fraternali , stefano ceri"
+1241,1995,information systems research at rwth aachen,matthias jarke
+1242,2001,orthogonal optimization of subqueries and aggregation,"milind joshi , césar a. galindo-legaria"
+1243,2003,lineage tracing for general data warehouse transformations,"jennifer widom , yingwei cui"
+1244,1998,design and implementation of rmp - a virtual electronic market place,"wolfgang klas , susanne boll , bernard battaglin"
+1245,1994,modelling and querying video data,"rune hjelsvold , roger midtstraum"
+1246,1996,the xps approach to loading and unloading terabyte databases,sanket atal
+1247,1995,dynamic multi-resource load balancing in parallel database systems,"robert marek , erhard rahm"
+1248,1999,update propagation protocols for replicated databases,"raghavan komondoor , abraham silberschatz , yuri breitbart , s. seshadri , rajeev rastogi"
+1249,2002,cost models for overlapping and multiversion structures,"yufei tao , jun zhang , dimitris papadias"
+1250,2001,data mining-based intrusion detectors : an overview of the columbia ids project,"wenke lee , eleazar eskin , wei fan , salvatore j. stolfo , philip k. chan"
+1251,2000,mocha : a self-extensible database middleware system for distributed data sources,"manuel rodriguez-martinez , nick roussopoulos"
+1252,1997,probview : a flexible probabilistic database system,"nicola leone , robert ross , laks v. s. lakshmanan , v. s. subrahmanian"
+1253,2002,proxy-based acceleration of dynamically generated content on the world wide web : an approach and implementation,"suresha , kaushik dutta , krithi ramamritham , anindya datta , helen m. thomas , debra e. vandermeer"
+1254,1995,the oracle warehouse,gary hallmark
+1255,2003,standards for databases on the grid,"andrew eisenberg , jim melton , susan malaika"
+1256,2000,evolution of groupware for business applications : a database perspective on lotus domino/notes,"c. mohan , s. watts , ron barber , amit somani , markos zaharioudakis"
+1257,2003,index-driven similarity search in metric spaces,"gísli r. hjaltason , hanan samet"
+1258,1998,discovering internet marketing intelligence through online analytical web usage mining,"alex g. büchner , maurice d. mulvenna"
+1259,1998,low-cost compensation-based query processing,"øystein torbjørnsen , øystein grøvlen , svein-olaf hvasshovd"
+1260,2003,editor 's notes,ling liu
+1261,2003,visionary : a next generation visualization system for databases,michael stonebraker
+1262,2003,bhunt : automatic discovery of fuzzy algebraic constraints in relational data,"peter j. haas , paul brown"
+1263,1995,efficient search of multi-dimensional b-trees,"dave birdsall , hedieh yaghmai , harry leslie , rohit jain"
+1264,1996,practical issues with commercial use of federated databases,jim kleewein
+1265,1995,parallelism and its price : a case study of nonstop sql/mp,"susanne englert , ray glasstone , waqar hasan"
+1266,1999,in cyber space no one can hear you scream,chris pound
+1267,2000,cache invalidation scheme for mobile computing systems with real-time data,"hei-wing leung , joe chun-hung yuen , edward chan , kam-yiu lam"
+1268,2000,semantic access : semantic interface for querying databases,"naphtali rishe , rukshan athauda , artyom shaposhnikov , jun yuan , dmitry vasilevsky , xiaoling lu , xiaobin ma , shu-ching chen , alexander vaschillo"
+1269,1999,database design for incomplete relations,"mark levene , george loizou"
+1270,2002,data streams : fresh current or stagnant backwater ? ( panel ),"joseph m. hellerstein , jennifer widom"
+1271,2002,hippocratic databases,"yirong xu , jerry kiernan , rakesh agrawal , ramakrishnan srikant"
+1272,2000,a new approach to developing and implementing eager database replication protocols,"gustavo alonso , bettina kemme"
+1273,1996,intra-transaction parallelism in the mapping of an object model to a relational multi-processor system,"moira c. norrie , hans-jörg schek , michael rys"
+1274,2001,indexing very high-dimensional sparse and quasi-sparse vectors for similarity searches,"xiaoyang sean wang , changzhou wang"
+1275,2002,the role of b2b engines in b2b integration architectures,christoph bussler
+1276,1997,management of data and services in the environmental information system ( uis ) of baden-württemberg,"wolf-fritz riekert , roland mayer-föll , gerlinde wiest"
+1277,1999,merge replication in microsoft 's sql server 7.0,brad hammond
+1278,2002,qursed : querying and reporting semistructured data,"yannis papakonstantinou , michalis petropoulos , vasilis vassalos"
+1279,2003,on the costs of multilingualism in database systems,"a. kumaran , jayant r. haritsa"
+1280,1997,wrapper generation for semi-structured internet sources,"craig a. knoblock , naveen ashish"
+1281,2001,time series similarity measures and time series indexing,"gautam das , dimitrios gunopulos"
+1282,2000,chair 's message,richard t. snodgrass
+1283,1996,dbminer : interactive mining of multiple-level knowledge in relational databases,"wei wang , krzysztof koperski , yongjian fu , osmar r. zaïane , jenny chiang , jiawei han"
+1284,2000,answering complex sql queries using automatic summary tables,"roberta cochrane , hamid pirahesh , monica urata , markos zaharioudakis , george lapis"
+1285,1995,efficient incremental garbage collection for client-server object database systems,"laurent amsaleg , olivier gruber , michael j. franklin"
+1286,1998,user-oriented smart-cache for the web : what you seek is what you get !,"arnaud sahuguet , raman chandrasekar , zoé lacroix"
+1287,2002,maintaining data privacy in association rule mining,"shariq rizvi , jayant r. haritsa"
+1288,2003,merging models based on given correspondences,"philip a. bernstein , rachel pottinger"
+1289,2003,"review of spatial databases with application to gis by philippe rigaux , michel scholl , and agnes voisard . morgan kaufmann 2002",nancy wiegand
+1290,2000,an approximate search engine for structural databases,"kaizhong zhang , qicheng ma , jason tsong-li wang , xinhuan zheng , xiong wang , dennis shasha , zasha weinberg , bruce a. shapiro"
+1291,2001,answering queries using views : a survey,alon y. halevy
+1292,1997,semcog : an object-based image retrieval system and its visual query interface,"k. selçuk candan , wen-syan li , kyoji hirata , yoshinori hara"
+1293,2003,finding hierarchical heavy hitters in data streams,"graham cormode , flip korn , s. muthukrishnan , divesh srivastava"
+1294,1996,tribeca : a stream database manager for network traffic analysis,mark sullivan
+1295,1996,a complete temporal relational algebra,"debabrata dey , veda c. storey , terence m. barron"
+1296,2002,data modelling versus ontology engineering,"mustafa jarrar , peter spyns , robert meersman"
+1297,1996,implementing deductive databases by mixed integer programming,"anil nerode , colin bell , raymond t. ng , v. s. subrahmanian"
+1298,1997,evaluation of main memory join algorithms for joins with set comparison join predicates,"guido moerkotte , sven helmer"
+1299,2003,on relational support for xml publishing : beyond sorting and tagging,"raghav kaushik , jeffrey f. naughton , surajit chaudhuri"
+1300,1994,spatial joins using seeded trees,"chinya v. ravishankar , ming-ling lo"
+1301,2002,xbase : making your gigabyte disk queriable,"jianhua lv , yubin bao , hongjun lu , ge yu , guoren wang , yaxin yu"
+1302,2003,poesia : an ontological workflow approach for composing web services in agriculture,"ling liu , eduardo delgado assad , calton pu , renato fileto , claudia bauzer medeiros"
+1303,1994,database graph views : a practical model to manage persistent graphs,"alejandro gutiérrez , philippe pucheral , jean-marc thévenin , hermann steffen"
+1304,1995,accessing a relational database through an object-oriented database interface,"jack a. orenstein , d. n. kamber"
+1305,2001,research in multi-organizational processes and semantic information brokering at the lsdis lab,"john a. miller , amit p. sheth , ismailcem budak arpinar , krys kochut"
+1306,2003,"the sensor spectrum : technology , trends , and requirements","samuel madden , wei hong , joseph m. hellerstein"
+1307,2001,visual web information extraction with lixto,"georg gottlob , robert baumgartner , sergio flesca"
+1308,1994,on completeness of historical relational query languages,"james clifford , albert croker , alexander tuzhilin"
+1309,1994,the gmap : a versatile tool for physical data independence,"marvin h. solomon , yannis e. ioannidis , odysseas g. tsatalos"
+1310,2001,describing semistructured data,luca cardelli
+1311,1999,"towards adaptive workflow systems , cscw-98 workshop report","mark klein , abraham bernstein , chrysanthos dellarocas"
+1312,1998,on periodic resource scheduling for continuous-media databases,"minos n. garofalakis , banu özden , abraham silberschatz"
+1313,2002,querying multiple bioinformatics data sources : can semantic web research help ?,"terence critchlow , matthew coleman , david buttler , wei han , daniel rocco , li xiong , ling liu , calton pu , renato fileto"
+1314,2003,locking protocols for materialized aggregate join views,"michael watzke , gang luo , curt ellmann , jeffrey f. naughton"
+1315,1996,capbased-ams : a capability-based and event-driven activity management system,"kamalakar karlapalem , helen p. yeung , patrick c. k. hung"
+1316,1998,issues in developing very large data warehouses,"vish jumani , lyman do , david van rossum , pamela drew , wei jin"
+1317,2000,efficient algorithms for mining outliers from large data sets,"kyuseok shim , sridhar ramaswamy , rajeev rastogi"
+1318,1997,maintenance of data cubes and summary tables in a warehouse,"inderpal singh mumick , dallan quass , barinderpal singh mumick"
+1319,1995,historical queries along multiple lines of time evolution,"vassilis j. tsotras , gad m. landau , jeanette p. schmidt"
+1320,1994,the impact of database research on industrial products ( panel summary ),"david b. lomet , daniel barbará , josé a. blakeley , michael stonebraker , daniel h. fishman"
+1321,2003,xquery : a query language for xml,donald d. chamberlin
+1322,1995,"the clustra telecom database : high availability , high throughput , and real-time response","svein-olaf hvasshovd , øystein torbjørnsen , svein erik bratsberg , per holager"
+1323,2003,efficient processing of joins on set-valued attributes,nikos mamoulis
+1324,1996,evaluating queries with generalized path expressions,"guido moerkotte , sophie cluet , vassilis christophides"
+1325,1994,towards an infrastructure for temporal databases : report of an invitational arpa/nsf workshop,"ramez elmasri , richard t. snodgrass , babis theodoulidis , inderpal singh mumick , arie segev , m. tamer özsu , umeshwar dayal , niki pissinou , barbara pernici"
+1326,2003,p-grid : a self-organizing structured p2p system,"zoran despotovic , manfred hauswirth , karl aberer , philippe cudré-mauroux , magdalena punceva , anwitaman datta , roman schmidt"
+1327,2002,the cougar approach to in-network query processing in sensor networks,"johannes gehrke , yong yao"
+1328,2002,automata theory for xml researchers,frank neven
+1329,1996,act-net - the active database management system manifesto : a rulebase of adbms features,?
+1330,2003,issues in data stream management,"lukasz golab , m. tamer özsu"
+1331,1994,tsql2 language specification,"wolfgang käfer , curtis e. dyreson , arie segev , krishna g. kulkarni , michael d. soo , don s. batory , ramez elmasri , nikos a. lorentzos , nick kline , john f. roddick , gad ariav , james clifford , richard t. snodgrass , suryanarayana m. sripada , t. y. cliff leung , fabio grandi , ilsoo ahn , christian s. jensen"
+1332,1997,mdm : a multiple-data-model tool for the management of heterogeneous database schemes,"paolo atzeni , riccardo torlone"
+1333,2001,spatial data management for computer aided design,"andreas müller , marco pötke , thomas seidl , hans-peter kriegel"
+1334,2003,estimating the output cardinality of partial preaggregation with a measure of clusteredness,"guido moerkotte , thomas neumann , sven helmer"
+1335,2003,illuminating the dark side of web services,michael l. brodie
+1336,1994,cache conscious algorithms for relational query processing,"jeffrey f. naughton , ambuj shatdal , chander kant"
+1337,2001,proxy-server architectures for olap,"panos kalnis , dimitris papadias"
+1338,1997,logical design for temporal databases with multiple granularities,"alexander brodsky , sushil jajodia , claudio bettini , xiaoyang sean wang"
+1339,2002,legodb : customizing relational storage for xml documents,"prasan roy , philip bohannon , jayant r. haritsa , jérôme siméon , maya ramanath , juliana freire"
+1340,2002,an xml query engine for network-bound data,"daniel s. weld , alon y. halevy , zachary g. ives"
+1341,1994,v-trees - a storage method for long vector data,"maurício r. mediano , marcelo dreux , marco a. casanova"
+1342,2001,application servers : born-again tp monitors for the web ? ( panel abstract ),c. mohan
+1343,1999,dbmss on a modern processor : where does time go ?,"david a. wood , mark d. hill , david j. dewitt , anastassia ailamaki"
+1344,1999,high-performance extensible indexing,marcel kornacker
+1345,1999,"message from editor-in-chief , acm transactions on database systems",won kim
+1346,1997,data management for earth system science,"james frew , jeff dozier"
+1347,1997,dataguides : enabling query formulation and optimization in semistructured databases,"roy goldman , jennifer widom"
+1348,1998,approximate medians and other quantiles in one pass and with limited memory,"bruce g. lindsay , gurmeet singh manku , sridhar rajagopalan"
+1349,1997,on-demand data elevation in hierarchical multimedia storage servers,"thomas papadakis , peter triantafillou"
+1350,1994,rp * : a family of order preserving scalable distributed data structures,"witold litwin , marie-anne neimat , donovan a. schneider"
+1351,2000,foreword by the vldb '98 pc chairmen : best papers of vldb '98,"oded shmueli , jennifer widom"
+1352,2002,going public : open-source databases and database research,philippe bonnet
+1353,1999,chorochronos : a research network for spatiotemporal database systems,"enrico nardelli , timos k. sellis , andrew u. frank , stéphane grumbach , hans-jörg schek , manolis koubarakis , michel scholl , ralf hartmut güting , barbara pernici , christian s. jensen , nikos a. lorentzos , babis theodoulidis , yannis manolopoulos , peter widmayer"
+1354,2003,qxtract : a building block for efficient information extraction from plain-text databases,"luis gravano , eugene agichtein"
+1355,1997,information systems research at george mason university,"sushil jajodia , amihai motro , edgar h. sibley , alexander brodsky , larry kerschberg , xiaoyang sean wang , daniel barbará"
+1356,2001,answering queries with useful bindings,"edward y. chang , chen li"
+1357,1996,heraclitus : elevating deltas to be first-class citizens in a database programming language,"dean jacobs , shahram ghandeharizadeh , richard hull"
+1358,1996,using referential integrity to easily define consistent subset replicas,brad hammond
+1359,1997,sentinel : an object-oriented dbms with event-based rules,sharma chakravarthy
+1360,1996,pesto : an integrated query/browser for object databases,"laura m. haas , michael j. carey , vivekananda maganty , john h. williams"
+1361,1997,integrating modelling systems for environmental management information systems,"david j. abel , dean kuo , kerry l. taylor"
+1362,2002,timber : a native xml database,"andrew nierman , cong yu , jignesh m. patel , adriane chapman , nuwee wiwatwattana , h. v. jagadish , yuqing wu , laks v. s. lakshmanan , divesh srivastava , shurug al-khalifa , stelios paparizos"
+1363,1998,nodose - a tool for semi-automatically extracting semi-structured data from text documents,brad adelberg
+1364,2001,distinct sampling for highly-accurate answers to distinct values queries and event reports,phillip b. gibbons
+1365,1996,report on first international workshop on real-time database systems,"sang hyuk son , kwei-jay lin , azer bestavros"
+1366,1996,real-time index concurrency control,"s. seshadri , jayant r. haritsa"
+1367,1997,efficiently supporting ad hoc queries in large datasets of time sequences,"h. v. jagadish , christos faloutsos , flip korn"
+1368,1999,extending practical pre-aggregation in on-line analytical processing,"torben bach pedersen , curtis e. dyreson , christian s. jensen"
+1369,2003,call for book reviews,karl aberer
+1370,2003,cmvf : a novel dimension reduction scheme for efficient indexing in a large image database,"john shepherd , quan z. sheng , du q. huynh , jialie shen , anne h. h. ngu"
+1371,1998,your mediators need data conversion !,"sophie cluet , katarzyna smaga , jérôme siméon , claude delobel"
+1372,2000,generating spatiotemporal datasets on the www,"mario a. nascimento , yannis theodoridis"
+1373,2001,enabling end-users to construct data-intensive web-sites from xml repositories : an example-based approach,"hiroyuki kitagawa , satoshi takano , seiichi koizumi , atsuyuki morishima"
+1374,1997,the context interchange mediator prototype,"kofi fynn , henry b. kon , cheng hian goh , thomas lee , stéphane bressan , stuart e. madnick , michael siegel , annie w. shum , marta jessica jakobisiak , tito pena , jessica qu , karim hussein"
+1375,1997,1-safe algorithms for symmetric site configurations,"maitrayi sabaratnam , øystein torbjørnsen , rune humborstad , svein-olaf hvasshovd"
+1376,1996,a framework for information visualisation,"peter j. barclay , kenneth j. mitchell , jessie b. kennedy"
+1377,2002,introduction to constraint databases - book review,bart kuijpers
+1378,1999,broadcast protocols to support efficient retrieval from databases by mobile users,"anindya datta , vijay kumar , aslihan celik , debra e. vandermeer"
+1379,1998,bitmap index design and evaluation,"yannis e. ioannidis , chee yong chan"
+1380,2003,book review column,karl aberer
+1381,2003,analysis of existing databases at the logical level : the dba companion project,"fabien de marchi , jean-marc petit , farouk toumani , stéphane lopes"
+1382,1996,a framework for supporting data integration using the materialized and virtual approaches,"gang zhou , richard hull"
+1383,2000,from browsing to interacting : dbms support for responive websites ( abstract ),raghu ramakrishnan
+1384,1995,enterprise transaction processing on windows nt,greg hope
+1385,1999,semantic integration of semistructured and structured data sources,"sonia bergamaschi , maurizio vincini , silvana castano"
+1386,1997,picture programming project,"nita goyal , moshé m. zloof , charles hoch , michael suckow , ravi krishnamurthy , brian meckler"
+1387,2000,ajax : an extensible data cleaning tool,"daniela florescu , helena galhardas , dennis shasha , eric simon"
+1388,2002,"database tuning : principles , experiments , and troubleshooting techniques ( part i )","dennis shasha , philippe bonnet"
+1389,2003,tuple routing strategies for distributed eddies,"feng tian , david j. dewitt"
+1390,1999,aqua : a fast decision support systems using approximate query answers,"swarup acharya , phillip b. gibbons , viswanath poosala"
+1391,2003,systematic development of data mining-based data quality tools,"matthias jarke , udo grimmer , dominik lübbers"
+1392,2002,xl : a platform for web services,"andreas grünhagen , steffen rost , donald kossmann , daniela florescu"
+1393,1996,prospector : a content-based multimedia server for massively parallel architectures,"g. linderman , alexandros biliris , h. chen , k. ganapathi , euthimios panagos , s. choo , david schrader , william o'connell"
+1394,2002,exploiting versions for on-line data warehouse maintenance in molap servers,"heum-geun kang , chin-wan chung"
+1395,1994,optimizing disjunctive queries with expensive predicates,"alfons kemper , guido moerkotte , michael steinbrunn , klaus peithner"
+1396,1994,an approach for building secure database federations,"klaus r. dittrich , dirk jonscher"
+1397,2000,guest editorial : databases and the web,"alberto o. mendelzon , paolo atzeni"
+1398,1996,guidelines for presentation and comparison of indexing techniques,"kotagiri ramamohanarao , alistair moffat , justin zobel"
+1399,2002,a bandwidth model for internet search,axel uhl
+1400,2003,a system for watermarking relational databases,"peter j. haas , rakesh agrawal , jerry kiernan"
+1401,2001,mining multi-dimensional constrained gradients in data cubes,"jiawei han , ke wang , joyce m. w. lam , guozhu dong , jian pei"
+1402,2003,a comprehensive xquery to sql translation using dynamic interval encoding,"m. tamer özsu , david toman , mariano p. consens , david dehaan"
+1403,2001,advanced xml data processing - guest editor 's introduction,karl aberer
+1404,1996,an asymptotically optimal multiversion b-tree,"thomas ohler , peter widmayer , bruno becker , stephan gschwind , bernhard seeger"
+1405,2003,interview with rakesh agrawal,marianne winslett
+1406,1997,supporting multiple view maintenance policies,"latha s. colby , kenneth a. ross , akira kawaguchi , daniel f. lieuwen , inderpal singh mumick"
+1407,1998,flowback : providing backward recovery for workflow systems,"maria e. orlowska , ralf mühlberger , bartek kiepuszewski"
+1408,1994,towards event-driven modelling for database design,"maguelonne teisseire , pascal poncelet , rosine cicchetti"
+1409,2000,congressional samples for approximate answering of group-by queries,"viswanath poosala , swarup acharya , phillip b. gibbons"
+1410,1997,a configrable type hierarchy index for oodb,"thomas a. mück , martin l. polaschek"
+1411,2000,functional-join processing,"reinhard braumandl , alfons kemper , donald kossmann , jens claußen"
+1412,1998,autoadmin ` what-if ' index analysis utility,"surajit chaudhuri , vivek r. narasayya"
+1413,2002,efficient k-nn search on vertically decomposed data,"niels nes , martin l. kersten , nikos mamoulis , arjen p. de vries"
+1414,1999,"`` honey , i shrunk the dbms '' : footprint , mobility , and beyond ( panel )",praveen seshadri
+1415,1994,the impact of global clustering on spatial database systems,"thomas brinkhoff , hans-peter kriegel"
+1416,1994,access to objects by path expressions and rules,"jürgen frohn , georg lausen , heinz uphoff"
+1417,2002,a multi-version cache replacement and prefetching policy for hybrid data delivery environments,"andré seifert , marc h. scholl"
+1418,1994,on parallel execution of multiple pipelined hash joins,"philip s. yu , hui-i hsiao , ming-syan chen"
+1419,2003,preference formulas in relational queries,jan chomicki
+1420,2002,supply chain infrastructures : system integration and information sharing,"michael o. ball , louiqa raschid , meng ma , zhengying zhao"
+1421,1997,critical database technologies for high energy physics,"david m. malon , edward n. may"
+1422,2000,chair 's message,richard t. snodgrass
+1423,2003,composing xsl transformations with xml publishing views,"chengkai li , p. p. s. narayan , henry f. korth , philip bohannon"
+1424,1995,informix online xps,robert h. gerber
+1425,2003,analysis of predictive spatio-temporal queries,"dimitris papadias , jimeng sun , yufei tao"
+1426,1994,quickly generating billion-record synthetic databases,"susanne englert , jim gray , kenneth baclawski , peter j. weinberger , prakash sundaresan"
+1427,2003,projecting xml documents,"amélie marian , jérôme siméon"
+1428,1996,sampling large databases for association rules,hannu toivonen
+1429,1997,"adaptive , fine-grained sharing in a client-server oodbms : a callback-based approach","michael j. carey , michael j. franklin , markos zaharioudakis"
+1430,1995,a performance evaluation of oid mapping techniques,"andré eickler , carsten andreas gerlhof , donald kossmann"
+1431,2001,"jeffrey d. ullman speaks out on the future of higher education , startups , database theory , and more",marianne winslett
+1432,1995,political winds change direction again,xiaolei qian
+1433,2000,rethinking database system architecture : towards a self-tuning risc-style database system,"surajit chaudhuri , gerhard weikum"
+1434,2000,online dynamic reordering,"bhaskaran raman , joseph m. hellerstein , vijayshankar raman"
+1435,1995,hyperfile : a data and query model for documents,"david bloom , chris clifton , hector garcia-molina"
+1436,1998,a case for intelligent disks ( idisks ),"kimberly keeton , joseph m. hellerstein , david a. patterson"
+1437,2002,learning table access cardinalities with leo,"volker markl , guy m. lohman"
+1438,1995,implementing deletion in b + - trees,jan jannink
+1439,1999,implementation of two semantic query optimization techniques in db2 universal database,"k. bernhard schiefer , fred koo , t. y. cliff leung , linqi liu , jarek gryz , xiaoyan qian , qi cheng"
+1440,1997,multiple-view self-maintenance in data warehousing environments,nam huyn
+1441,1994,oracle media server : providing consumer based interactive access to multimedia data,"mark porter , andrew laursen , jeffrey olkin"
+1442,2003,irisnet : an architecture for internet-scale sensing services,"phillip b. gibbons , suman nath , amol deshpande , srinivasan seshan , brad karp , yan ke"
+1443,2000,a framework for expressing and combining preferences,"edward l. wimmers , rakesh agrawal"
+1444,1994,the myriad federated database prototype,"k. mediratta , ee-peng lim , j. stenoien , s. musukula , jaideep srivastava , h.-r . yang , d. clements , m. ganesh , san-yih hwang"
+1445,1998,xmas : an extensible main-memory storage system for high-performance applications,"ki hong kim , yong sik kwon , sang kyun cha , jang ho park , byoung dae park , sangho lee"
+1446,2002,effective change detection using sampling,"alexandros ntoulas , junghoo cho"
+1447,1994,qualified answers that reflect user needs and preferences,"terry gaasterland , jorge lobo"
+1448,2001,constraints for semi-structured data and xml,"wenfei fan , peter buneman , scott weinstein , jérôme siméon"
+1449,1995,trade press news,rafael alonso
+1450,1995,acm multimedia '94 conference workshop on multimedia database management systems,"p. bruce berra , bhavani m. thuraisingham , kingsley c. nwosu"
+1451,2002,querying and mining data streams : you only get one look a tutorial,"minos n. garofalakis , rajeev rastogi , johannes gehrke"
+1452,2003,book review column,karl aberer
+1453,2001,independence is good : dependency-based histogram synopses for high-dimensional data,"amol deshpande , rajeev rastogi , minos n. garofalakis"
+1454,2002,xmark : a benchmark for xml data management,"martin l. kersten , ralph busse , florian waas , michael j. carey , albrecht schmidt , ioana manolescu"
+1455,2003,chair 's message,m. tamer özsu
+1456,1998,approximate similarity retrieval with m-trees,"fausto rabitti , giuseppe amato , pavel zezula , pasquale savino"
+1457,1999,finding intensional knowledge of distance-based outliers,"raymond t. ng , edwin m. knorr"
+1458,1997,highly concurrent cache consistency for indices in client-server database systems,"michael j. carey , markos zaharioudakis"
+1459,1994,a taxonomy for secure object-oriented databases,"sebastiaan h. von solms , martin s. olivier"
+1460,2000,xtract : a system for extracting document type descriptors from xml documents,"rajeev rastogi , s. seshadri , minos n. garofalakis , aristides gionis , kyuseok shim"
+1461,2003,atlas : a small but complete sql extension for data mining and data streams,"haixun wang , chang luo , carlo zaniolo"
+1462,2001,filtering algorithms and implementation for very fast publish/subscribe,"kenneth a. ross , françoise fabret , françois llirbat , joão pereira , hans-arno jacobsen , dennis shasha"
+1463,1995,towards an effective calculus for object query languages,"david maier , leonidas fegaras"
+1464,2003,xml schema,"jim melton , charles e. campbell , andrew eisenberg"
+1465,2003,fast and accurate text classification via multiple linear discriminant projections pp,"shourya roy , mahesh v. soundalgekar , soumen chakrabarti"
+1466,1995,document management as a database problem,rudolf bayer
+1467,1997,fast incremental maintenance of approximate histograms,"yossi matias , phillip b. gibbons , viswanath poosala"
+1468,2001,minimization of tree pattern queries,"sihem amer-yahia , divesh srivastava , laks v. s. lakshmanan , sungran cho"
+1469,2001,report on the fourth international conference on flexible query answering systems,"gabriella pasi , amihai motro , patrick bosc"
+1470,1999,a user-centered interface for querying distributed multimedia databases,"kimberly m. james , isabel f. cruz"
+1471,1998,evaluating functional joins along nested reference sets in object-relational and object-oriented databases,"alfons kemper , reinhard braumandl , jens claußen"
+1472,1996,the query optimizer in tandem 's new serverware sql product,pedro celis
+1473,2001,self-similarity in the web,"stephen dill , andrew tomkins , ravi kumar , sridhar rajagopalan , kevin s. mccurley , d. sivakumar"
+1474,2003,developments at acm tods,richard t. snodgrass
+1475,2001,sit-in : a real-life spatio-temporal information system,"stefano de francisci , rossella molinaro , orietta gargano , mario paolucci , leonardo tininini , giuseppe sindoni , paola patteri , amedea ambrosetti , pina ticca , cristina bedeschi"
+1476,1998,conceptual schema analysis : techniques and applications,"valeria de antonellis , barbara pernici , maria grazia fugini , silvana castano"
+1477,1998,on the discovery of interesting patterns in association rules,"sridhar ramaswamy , sameer mahajan , abraham silberschatz"
+1478,1995,"db2 common server : technology , progress , & directions",bruce g. lindsay
+1479,2001,models and languages for describing and discovering e-services,"ming-chien shan , fabio casati"
+1480,2002,distributed query evaluation on semistructured data,dan suciu
+1481,1996,database management systems and the internet,susan malaika
+1482,2001,estimating the selectivity of xml path expressions for internet scale applications,"ashraf aboulnaga , jeffrey f. naughton , alaa r. alameldeen"
+1483,2002,active xml : peer-to-peer data and web services integration,"tova milo , roger weber , ioana manolescu , omar benjelloun , serge abiteboul"
+1484,2000,a 20/20 vision of the vldb-2020 ?,"shamkant b. navathe , erich j. neuhold , gio wiederhold , anant jhingran , s. misbah deen"
+1485,2002,a brief survey of web data extraction tools,"berthier a. ribeiro-neto , alberto h. f. laender , altigran soares da silva , juliana s. teixeira"
+1486,1994,editor 's notes,arie segev
+1487,1999,"pm3 : an orthogonal persistent systems programming language - design , implementation , performance","antony l. hosking , jiawan chen"
+1488,1996,query execution techniques for caching expensive methods,"joseph m. hellerstein , jeffrey f. naughton"
+1489,2001,online query processing,"peter j. haas , joseph m. hellerstein"
+1490,1997,"lessons from wall street : case studies in configuration , tuning , and distribution ( tutorial )",dennis shasha
+1491,1995,declarative updates of relational databases,weidong chen
+1492,2002,a case for fractured mirrors,"ravishankar ramamurthy , qi su , david j. dewitt"
+1493,1994,providing dynamic security control in a federated database,"r. f. churchhouse , w. a. gray , n. b. idris"
+1494,2001,"semantic web workshop : models , architectures and management","vassilis christophides , dimitris plexousakis , panos constantopoulos"
+1495,1994,persistent threads,"joachim w. schmidt , florian matthes"
+1496,1997,secure transaction processing in firm real-time database systems,"binto george , jayant r. haritsa"
+1497,1995,flexible relations - operational support of variant relational structures,"peter dadam , christian kalus"
+1498,1996,mariposa : a wide-area distributed database system,"carl staelin , paul m. aoki , witold litwin , michael stonebraker , adam sah , jeff sidell , andrew yu , avi pfeffer"
+1499,2002,report on the semantic web workshop at www 2002,"martin r. frank , natalya fridman noy , steffen staab"
+1500,1994,overview of the special section on temporal database infrastructure,richard t. snodgrass
+1501,2003,path queries on compressed xml,"martin grohe , peter buneman , christoph koch"
+1502,1999,a comparison of selectivity estimators for range queries on metric attributes,"bernhard seeger , björn blohsfeld , dieter korus"
+1503,1996,the dangers of replication and a solution,"dennis shasha , jim gray , patrick e. o'neil , pat helland"
+1504,1995,the query by image content ( qbic ) system,"denis lee , wayne niblack , james l. hafner , dragutin petkovic , myron flickner , jonathan ashley"
+1505,2003,distributed deviation detection in sensor networks,"dimitrios gunopulos , themistoklis palpanas , dimitris papadopoulos , vana kalogeraki"
+1506,1995,response to a close look at the ifo data model,"serge abiteboul , richard hull"
+1507,1996,query decomposition and view maintenance for query languages for unstructured data,dan suciu
+1508,2001,"et tu , xml ? the downfall of the relational empire ( abstract )",philip wadler
+1509,1998,scalable sweeping-based spatial join,"lars arge , jeffrey scott vitter , torsten suel , sridhar ramaswamy , octavian procopiuc"
+1510,1998,algorithms for mining association rules for binary segmentations of huge categorical databases,"kunikazu yoda , hirofumi matsuzawa , takeshi tokuyama , yasuhiko morimoto , takeshi fukuda"
+1511,2002,selectivity estimation for spatio-temporal queries to moving objects,"yong-jin choi , chin-wan chung"
+1512,2001,surfing wavelets on streams : one-pass summaries for approximate aggregate queries,"anna c. gilbert , martin strauss , yannis kotidis , s. muthukrishnan"
+1513,1996,incremental data structures and algorithms for dynamic query interfaces,"ben shneiderman , richard beigel , egemen tanin"
+1514,1997,the sr-tree : an index structure for high-dimensional nearest neighbor queries,"norio katayama , shin ` ichi satoh"
+1515,1994,sequoia 2000 metadata schema for satellite images,"michael stonebraker , jean t. anderson"
+1516,2002,archiving scientific data,"sanjeev khanna , peter buneman , wang chiew tan , keishi tajima"
+1517,2003,extracting structured data from web pages,"arvind arasu , hector garcia-molina"
+1518,1997,a consumer viewpoint on mediator languages - a proposal for a standard,"eric hughes , leonard j. seligman , arnon rosenthal , scott renner"
+1519,2001,a data warehousing architecture for enabling service provisioning process,yannis kotidis
+1520,1995,qbi : query by icons,"antonio massari , panos k. chrysanthis , lorenzo saladini , stefano pavani"
+1521,2001,crawling the hidden web,"sriram raghavan , hector garcia-molina"
+1522,2003,peer-to-peer : harnessing the power of disruptive technologies,mario a. nascimento
+1523,2001,a graph-theoretic model for optimizing queries involving methods,"yaw-huei chen , chi-sheng shih , chiang lee"
+1524,1994,a tsql2 tutorial,"james clifford , ramez elmasri , michael d. soo , wolfgang käfer , nick kline , arie segev , suryanarayana m. sripada , fabio grandi , john f. roddick , richard t. snodgrass , christian s. jensen , nikos a. lorentzos , ilsoo ahn , gad ariav , don s. batory , t. y. cliff leung , curtis e. dyreson , krishna g. kulkarni"
+1525,1997,dynamic itemset counting and implication rules for market basket data,"shalom tsur , rajeev motwani , sergey brin , jeffrey d. ullman"
+1526,1998,unbundling active functionality,"hans fritschi , arne koschel , günter von bültzingsloewen , stella gatziu"
+1527,2003,checks and balances : monitoring data quality problems in network traffic databases,"flip korn , yunyue zhu , s. muthukrishnan"
+1528,1998,the cubetree storage organization,"yannis kotidis , nick roussopoulos"
+1529,1995,multigranularity locking in multiple job classes transaction processing system,"sheung-lun hung , shan-hoi ng"
+1530,2001,"a robust , optimization-based approach for approximate answering of aggregate queries","vivek r. narasayya , gautam das , surajit chaudhuri"
+1531,2002,optimizing the secure evaluation of twig queries,"sihem amer-yahia , divesh srivastava , sungran cho , laks v. s. lakshmanan"
+1532,1996,illustra 's web datablade module,john gaffney
+1533,1994,sequence query processing,"raghu ramakrishnan , miron livny , praveen seshadri"
+1534,1997,innovation in database management : computer science vs. engineering,kenneth r. jacobs
+1535,1995,oodb indexing by class-division,"sridhar ramaswamy , paris c. kanellakis"
+1536,2000,"toto , we 're not in kansas anymore : on transitioning from research to the real ( invited industrial talk )",michael j. carey
+1537,2000,an optimisation scheme for coalesce/valid time selection operator sequences,costas vassilakis
+1538,2000,automated selection of materialized views and indexes in sql databases,"surajit chaudhuri , sanjay agrawal , vivek r. narasayya"
+1539,2001,efficient management of multiversion documents by object referencing,"vassilis j. tsotras , carlo zaniolo , shu-yao chien"
+1540,2001,efficient index structures for string databases,"tamer kahveci , ambuj k. singh"
+1541,1996,data mining techniques,jiawei han
+1542,1997,extraction of object-oriented structures from existing relational databases,"julia e. hodges , shekar ramanathan"
+1543,2002,multi-dimensional regression analysis of time-series data streams,"benjamin w. wah , yixin chen , jianyong wang , guozhu dong , jiawei han"
+1544,2000,"proceedings of the 2000 acm sigmod international conference on management of data , may 16-18 , 2000 , dallas , texas , usa",?
+1545,1996,dynamic information visualization,yannis e. ioannidis
+1546,2003,grid data management systems & services,"reagan moore , arun jagatheesan , paul watson , norman w. paton"
+1547,2000,comparative analysis of six xml schema languages,"dongwon lee , wesley w. chu"
+1548,1994,graphdb : modeling and querying graphs in databases,ralf hartmut güting
+1549,1997,"the five-minute rule ten years later , and other computer storage rules of thumb","jim gray , goetz graefe"
+1550,2001,cache fusion : extending shared-disk clusters with shared caches,"tirthankar lahiri , n. macnaughton , sashikanth chandrasekaran , wilson chan , vinay srihari"
+1551,1997,www-udk : a web-based environmental meta-information system,"rudolf legat , arne koschel , andree keitel , ralf kramer , claudia rolker , ralf nikolai , peter c. lockemann , konrad zirm"
+1552,2003,on the computation of relational view complements,"gottfried vossen , jens lechtenbörger"
+1553,2002,database indexing for large dna and protein sequence collections,"robert w. irving , malcolm p. atkinson , ela hunt"
+1554,2003,mars : a system for publishing xml from mixed and redundant storage,"alin deutsch , val tannen"
+1555,1997,incremental organization for data recording and warehousing,"s. sudarshan , p. p. s. narayan , rama kanneganti , h. v. jagadish , s. seshadri"
+1556,2003,understanding the semantics of sensor data,murali mani
+1557,2003,power efficient data gathering and aggregation in wireless sensor networks,"ibrahim korpeoglu , hüseyin özgür tan"
+1558,2003,treasurer 's message,joachim hammer
+1559,1994,multi-step processing of spatial joins,"ralf schneider , thomas brinkhoff , bernhard seeger , hans-peter kriegel"
+1560,2001,combining multi-visual features for efficient indexing in a large image database,"quan z. sheng , anne h. h. ngu , ron lei , du q. huynh"
+1561,1996,lifestreams : a storage model for personal data,"eric freeman , david gelernter"
+1562,2003,computing complete answers to queries in the presence of limited access patterns,chen li
+1563,2002,report on the web dynamics workshop at www 2002,"alexandra poulovassilis , mark levene"
+1564,1994,dblearn : a system prototype for knowledge discovery in relational databases,"yue huang , yandong cai , yongjian fu , nick cercone , jiawei han"
+1565,1998,information gathering in the world-wide web : the w3ql query language and the w3qs system,"david konopnicki , oded shmueli"
+1566,2002,advanced database technologies in a diabetic healthcare system,"chenyi xia , wynne hsu , keng lik teo , mong-li lee , beng chin ooi , pranab kumar mohanty"
+1567,2000,"counting , enumerating , and sampling of execution plans in a cost-based query optimizer","césar a. galindo-legaria , florian waas"
+1568,1995,parallel evaluation of multi-join queries,"jan flokstra , annita n. wilschut , peter m. g. apers"

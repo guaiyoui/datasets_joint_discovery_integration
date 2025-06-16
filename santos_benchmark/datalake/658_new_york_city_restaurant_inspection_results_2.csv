@@ -1,0 +1,4 @@
+camis_id,dba_name,borough_name,building_number,street_name,zip_code,phone_number,cuisine_desc,action_code,violation_code,inspection_type,nta_code
+41424610,Friends Sports Bar,The Bronx,1448,Olmstead Ave,10462,(347) 851-5788,American Food,Demerit Issued,Violation 04L,Initial Cycle Inspection,BX-46
+40810032,Al-Mehran Eatery,QUEENS,8746,PARSONS BLVD,11432,(718) 523-5533,INDIAN,D,06D,Cycle Re-inspection,QN35
+41249167,Charlie's Kitchen,Manhattan,139,East 45th Street,10017,(646) 476-9532,American Cuisine,U,06-D,First Inspection of Cycle,MN19

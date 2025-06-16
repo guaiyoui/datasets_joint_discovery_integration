@@ -1,0 +1,4 @@
+bldg_name,borough_nm,web_url,ab_uprn,borough_cd,ward_2018_nm,ward_2018_cd,addr1,addr2,addr3,lon,lat,easting_val,northing_val,proc_dt
+Saint Moritz Club,Westminster,http://stmoritzclub.co.uk,10033622399,E09-000033,The West End,E05 000649,Apt. 159,Wardour St.,Westminster City,-0.134975,51.514476,529509,181153.92,2021-11-04
+Yard Theatre,London Borough of Tower Hamlets,theyardtheatre.co.uk,6077552,E09 000 030,Bow East Ward,E05 009 319,"Unit 2A, Queens Yard",White Post Ln,"London, Tower Hamlets",-0.02338,51.5426,537167,184489,2021-11-04
+Piano Works Farringdon,London Borough of Islington,pianoworks.bar,10012787103,E09000019,Clerkenwell Ward,E05000370,113 Farringdon Rd (Corner),"Farringdon, London","London, UK",-0.108065,51.522867,531352,182135,2021-11-04

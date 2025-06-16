@@ -1,0 +1,4 @@
+opened_yr,complaint_status,practice_cd,practice_nm,naics_cd,naics_nm,bus_street_line1,bus_city,bus_state_cd,practice_id,complaint_id
+Year 2016,Resolved,Practice Code 512,Document Forgery,"233000 - General Construction, Building, and Development",General Construction and Development,"22122 20th Avenue SE, Unit 157",Bothell,Washington,Practice ID 51,Complaint ID 51000477936
+Year 2015,Finalized,Code 316,Invoicing Problems,NAICS 513320 - Telecommunications & Wireless,Telecommunications & Wireless Services,President's Office,"Dallas, Texas",Texas,Practice ID 107,Complaint Reference 107000462456
+2015,Completed,203,Online and Mobile Transaction Methods,454100 - Mail Order & Electronic Retail,E-commerce and Catalog Sales,"344 North Ogden Avenue, 4th Floor","Chicago, IL",Illinois,27,27000464298

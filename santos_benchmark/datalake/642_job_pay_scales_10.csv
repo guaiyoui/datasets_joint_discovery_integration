@@ -1,0 +1,4 @@
+parent_department,organisation,unit,reporting_senior_post,grade,payscale_min_gbp,payscale_max_gbp,job_title,num_posts_fte,occupational_group
+HMRC,HMRC,Special Investigations Unit,SI/10,Officer Grade,"£22,669","£30,331","Examiner, Insolvency",1,Taxation Professionals
+HMRC,HM Revenue & Customs,IMS,CH-1,Sr. Officer,"£35,232","£42,856",Viability Manager SO,0.92 FTE,IT
+HMRC,HMRC,IMS,CH-1,SO,"£35,232","£42,856",SO Viability Manager,7,IT

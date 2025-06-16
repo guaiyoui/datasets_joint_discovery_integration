@@ -1,0 +1,459 @@
+acm_record_id,doc_year,study_title,author_names,conference_name
+916,2002,energy-performance trade-offs for spatial access methods on memory-resident data,"ning an , sudhanva gurumurthi , anand sivasubramaniam , narayanan vijaykrishnan , mahmut kandemir , mary jane irwin",the vldb journal -- the international journal on very large data bases
+917,2002,editorial,"peter apers , stefano ceri , richard snodgrass",the vldb journal -- the international journal on very large data bases
+918,2002,a formal perspective on the view selection problem,"rada chirkova , alon y. halevy , dan suciu",the vldb journal -- the international journal on very large data bases
+919,2002,data page layouts for relational databases on deep memory hierarchies,"anastassia ailamaki , david j. dewitt , mark d. hill",the vldb journal -- the international journal on very large data bases
+920,2003,ansi sql hierarchical processing can fully integrate native xml,michael m. david,acm sigmod record
+921,2003,a database approach to quality of service specification in video databases,"elisa bertino , ahmed k. elmagarmid , mohand-sa &#239; d hacid",acm sigmod record
+922,2003,distinguished database profiles,marianne winslett,acm sigmod record
+923,2003,analysis of existing databases at the logical level : the dba companion project,"fabien de marchi , st &#233; phane lopes , jean-marc petit , farouk toumani",acm sigmod record
+924,2003,influential papers,ken ross,acm sigmod record
+925,2003,jim gray speaks out,marianne winslett,acm sigmod record
+926,2003,reports,avigdor gal,acm sigmod record
+927,2003,reminiscences on influential papers,kenneth a. ross,acm sigmod record
+928,1997,the microsoft repository,"philip a. bernstein , brian harry , paul sanders , david shutt , jason zander",very large data bases
+929,1997,1-safe algorithms for symmetric site configurations,"rune humborstad , maitrayi sabaratnam , svein-olaf hvasshovd , &#216; ystein torbj &#248; rnsen",very large data bases
+930,1997,data manager for evolvable real-time command and control systems,"eric hughes , roman ginis , bhavani m. thuraisingham , peter c. krupp , john a. maurer",very large data bases
+931,1997,efficient testing of high performance transaction processing systems,"d. wildfogel , ramana yerneni",very large data bases
+932,1997,groupwise processing of relational queries,"damianos chatziantoniou , kenneth a. ross",very large data bases
+933,1997,parallel query scheduling and optimization with time - and space-shared resources,"minos n. garofalakis , yannis e. ioannidis",very large data bases
+934,1997,mining insurance data at swiss life,"j &#246; rg-uwe kietz , ulrich reimer , martin staudt",very large data bases
+935,1997,a language for manipulating arrays,"arunprasad p. marathe , kenneth salem",very large data bases
+936,1997,using versions in update transactions : application to integrity checking,"fran &#231; ois llirbat , eric simon , dimitri tombroff",very large data bases
+937,1997,"do n't scrap it , wrap it ! a wrapper architecture for legacy data sources","mary tork roth , peter m. schwarz",very large data bases
+938,2002,views in a large-scale xml repository,"vincent aguilera , sophie cluet , tova milo , pierangelo veltri , dan vodislav",the vldb journal -- the international journal on very large data bases
+939,2002,database indexing for large dna and protein sequence collections,"ela hunt , malcolm p. atkinson , robert w. irving",the vldb journal -- the international journal on very large data bases
+940,1997,optimizing queries across diverse data sources,"laura m. haas , donald kossmann , edward l. wimmers , jun yang",very large data bases
+941,1997,spatial joins using r-trees : breadth-first traversal with global optimizations,"yun-wu huang , ning jing , elke a. rundensteiner",very large data bases
+942,1997,fast computation of sparse datacubes,"kenneth a. ross , divesh srivastava",very large data bases
+943,1997,merging ranks from heterogeneous internet sources,"luis gravano , hector garcia-molina",very large data bases
+944,1997,a generic approach to bulk loading multidimensional index structures,"jochen van den bercken , bernhard seeger , peter widmayer",very large data bases
+945,1997,a region splitting strategy for physical database design of multidimensional file organizations,"jong-hak lee , young-koo lee , kyu-young whang , il-yeol song",very large data bases
+946,1997,to weave the web,"paolo atzeni , giansalvatore mecca , paolo merialdo",very large data bases
+947,1997,incremental organization for data recording and warehousing,"h. v. jagadish , p. p. s. narayan , s. seshadri , s. sudarshan , rama kanneganti",very large data bases
+948,1997,distributed processing over stand-alone systems and applications,"gustavo alonso , claus hagen , hans-j &#246; rg schek , markus tresch",very large data bases
+949,1997,materialized views selection in a multidimensional database,"elena baralis , stefano paraboschi , ernest teniente",very large data bases
+950,1997,parallel algorithms for high-dimensional similarity joins for data mining applications,"john c. shafer , rakesh agrawal",very large data bases
+951,1997,logical and physical versioning in main memory databases,"rajeev rastogi , s. seshadri , philip bohannon , dennis w. leinbaugh , abraham silberschatz , s. sudarshan",very large data bases
+952,1997,dataguides : enabling query formulation and optimization in semistructured databases,"roy goldman , jennifer widom",very large data bases
+953,1997,principles of optimally placing data in tertiary storage libraries,"stavros christodoulakis , peter triantafillou , fenia zioga",very large data bases
+954,1997,dynamic memory adjustment for external mergesort,"weiye zhang , per - &#197; ke larson",very large data bases
+955,1997,m-tree : an efficient access method for similarity search in metric spaces,"paolo ciaccia , marco patella , pavel zezula",very large data bases
+956,1997,integrating sql databases with content-specific search engines,"stefan de &#223; loch , nelson mendon &#231; a mattos",very large data bases
+957,1997,the oracle universal server buffer,"william bridge , ashok joshi , m. keihl , tirthankar lahiri , juan loaiza , n. macnaughton",very large data bases
+958,1997,the case for enhanced abstract data types,"praveen seshadri , miron livny , raghu ramakrishnan",very large data bases
+959,1997,caprera : an activity framework for transaction processing on wide-area networks,"suresh kumar , eng-kee kwang , divyakant agrawal",very large data bases
+960,1998,hash joins and hash teams in microsoft sql server,"goetz graefe , ross bunker , shaun cooper",very large data bases
+961,1998,nd-sql : a multi-dimensional language for interoperability and olap,"fr &#233; d &#233; ric gingras , laks v. s. lakshmanan",very large data bases
+962,1998,algorithms for querying by spatial structure,"dimitris papadias , nikos mamoulis , vasilis delis",very large data bases
+963,1998,expiring data in a warehouse,"hector garcia-molina , wilburt labio , jun yang",very large data bases
+964,1998,fast high-dimensional data search in incomplete databases,"beng chin ooi , cheng hian goh , kian-lee tan",very large data bases
+965,1998,bank of america case study : the information currency advantage,"felipe cari &#241; o , mark jahnke",very large data bases
+966,1998,plan-per-tuple optimization solution - parallel execution of expensive user-defined functions,"felipe cari &#241; o , william o'connell",very large data bases
+967,1998,querying continuous time sequences,"ling lin , tore risch",very large data bases
+968,1998,"ratio rules : a new paradigm for fast , quantifiable data mining","flip korn , alexandros labrinidis , yannis kotidis , christos faloutsos",very large data bases
+969,1998,"design , implementation , and performance of the lham log-structured history data access method","peter muth , patrick e. o'neil , achim pick , gerhard weikum",very large data bases
+970,1998,scalable techniques for mining causal structures,"craig silverstein , sergey brin , rajeev motwani , jeffrey d. ullman",very large data bases
+971,1998,heterogeneous database query optimization in db2 universal datajoiner,"shivakumar venkataraman , tian zhang",very large data bases
+972,1997,towards an odmg-compliant visual object query language,"manoj chavda , peter t. wood",very large data bases
+973,1997,effective memory use in a media server,"edward y. chang , hector garcia-molina",very large data bases
+974,1998,architecture of oracle parallel server,"roger bamford , d. butler , boris klots , n. macnaughton",very large data bases
+975,1998,an asynchronous avoidance-based cache consistency algorithm for client caching dbmss,"m. tamer &#214; zsu , kaladhar voruganti , ronald c. unrau",very large data bases
+976,1998,filtering with approximate predicates,"narayanan shivakumar , hector garcia-molina , chandra chekuri",very large data bases
+977,1998,starting ( and sometimes ending ) a database company,jack a. orenstein,very large data bases
+978,1998,the adabas buffer pool manager,harald sch &#246; ning,very large data bases
+979,1998,the cubetree storage organization,"nick roussopoulos , yannis kotidis",very large data bases
+980,1998,datablitz : a high performance main-memory storage manager,"jerry baulier , philip bohannon , s. gogate , s. joshi , c. gupta , a. khivesera , henry f. korth , peter mcilroy , j. miller , p. p. s. narayan , m. nemeth , rajeev rastogi , abraham silberschatz , s. sudarshan",very large data bases
+981,1998,small materialized aggregates : a light weight index structure for data warehousing,guido moerkotte,very large data bases
+982,1998,inferring function semantics to optimize queries,"mitch cherniack , stanley b. zdonik",very large data bases
+983,1998,a single pass computing engine for interactive analysis of vldbs,ted mihalisin,very large data bases
+984,1998,on the discovery of interesting patterns in association rules,"sridhar ramaswamy , sameer mahajan , abraham silberschatz",very large data bases
+985,1998,technology and the future of commerce and finance ( abstract ),david elliot shaw,very large data bases
+986,1998,incremental maintenance for materialized views over semistructured data,"serge abiteboul , jason mchugh , michael rys , vasilis vassalos , janet l. wiener",very large data bases
+987,1998,the drill down benchmark,"peter a. boncz , tim r &#252; hl , fred kwakkel",very large data bases
+988,1998,reducing the braking distance of an sql query engine,"michael j. carey , donald kossmann",very large data bases
+989,1998,issues in developing very large data warehouses,"lyman do , pamela drew , wei jin , vish jumani , david van rossum",very large data bases
+990,1998,is web-site management a database problem ?,"daniela florescu , alon y. levy , dan suciu",very large data bases
+991,1998,a database system for real-time event aggregation in telecommunication,"jerry baulier , stephen blott , henry f. korth , abraham silberschatz",very large data bases
+992,1998,a raster approximation for processing of spatial joins,"geraldo zimbrao , jano moreira de souza",very large data bases
+993,1998,diag-join : an opportunistic join algorithm for 1 : n relationships,"sven helmer , till westmann , guido moerkotte",very large data bases
+994,1998,the heterogeneity problem and middleware technology : experiences with and performance of database gateways,"fernando de ferreira rezende , klaudia hergula",very large data bases
+995,1998,bridging heterogeneity : research and practice of database middleware technology,"fernando de ferreira rezende , g &#252; nter sauter",very large data bases
+996,1998,a quantitative analysis and performance study for similarity-search methods in high-dimensional spaces,"roger weber , hans-j &#246; rg schek , stephen blott",very large data bases
+997,1998,resource scheduling for composite multimedia objects,"minos n. garofalakis , yannis e. ioannidis , banu &#214; zden",very large data bases
+998,1998,secure buffering in firm real-time database systems,"binto george , jayant r. haritsa",very large data bases
+999,1998,optimal histograms with quality guarantees,"h. v. jagadish , nick koudas , s. muthukrishnan , viswanath poosala , kenneth c. sevcik , torsten suel",very large data bases
+1000,1998,on optimal node splitting for r-trees,"yv &#225; n j. garc &#237; a , mario a. lopez , scott t. leutenegger",very large data bases
+1001,1998,materialized view selection for multidimensional datasets,"amit shukla , prasad deshpande , jeffrey f. naughton",very large data bases
+1002,1998,algorithms for mining association rules for binary segmentations of huge categorical databases,"yasuhiko morimoto , takeshi fukuda , hirofumi matsuzawa , takeshi tokuyama , kunikazu yoda",very large data bases
+1003,1998,ibm 's db2 universal database demonstrations at vldb '98,"k. bernhard schiefer , jim kleewein , karen brannon , guy m. lohman , gene fuh",very large data bases
+1004,1998,checkpointing in oracle,"ashok joshi , william bridge , juan loaiza , tirthankar lahiri",very large data bases
+1005,1998,determining text databases to search in the internet,"weiyi meng , king-lup liu , clement t. yu , xiaodong wang , yuhsi chang , naphtali rishe",very large data bases
+1006,1998,safely and efficiently updating references during on-line reorganization,"chendong zou , betty salzberg",very large data bases
+1007,1998,public : a decision tree classifier that integrates building and pruning,"rajeev rastogi , kyuseok shim",very large data bases
+1008,1998,buffering and read-ahead strategies for external mergesort,"weiye zhang , per - &#197; ke larson",very large data bases
+1009,1998,mindreader : querying databases through multiple examples,"yoshiharu ishikawa , ravishankar subramanya , christos faloutsos",very large data bases
+1010,1998,rainforest - a framework for fast decision tree construction of large datasets,"johannes gehrke , raghu ramakrishnan , venkatesh ganti",very large data bases
+1011,1998,design and analysis of parametric query optimization algorithms,sumit ganguly,very large data bases
+1012,1998,mining surprising patterns using temporal description length,"soumen chakrabarti , sunita sarawagi , byron dom",very large data bases
+1013,1998,performance measurements of tertiary storage devices,"theodore johnson , ethan l. miller",very large data bases
+1014,1998,using schema matching to simplify heterogeneous data translation,"tova milo , sagit zohar",very large data bases
+1015,1998,dtl 's dataspot : database exploration using plain language,"shaul dar , gadi entin , shai geva , eran palmon",very large data bases
+1016,1998,bulk-loading techniques for object databases and an application to relational data,"sihem amer-yahia , sophie cluet , claude delobel",very large data bases
+1017,1998,low-cost compensation-based query processing,"&#216; ystein gr &#248; vlen , svein-olaf hvasshovd , &#216; ystein torbj &#248; rnsen",very large data bases
+1018,1998,the national medical knowledge bank,warren sterling,very large data bases
+1019,1998,clustering categorical data : an approach based on dynamical systems,"david gibson , jon m. kleinberg , prabhakar raghavan",very large data bases
+1020,1998,incremental clustering for mining in a data warehousing environment,"martin ester , hans-peter kriegel , j &#246; rg sander , michael wimmer , xiaowei xu",very large data bases
+1021,1998,selectivity estimation in extensible databases - a neural network approach,"m. seetha lakshmi , shaoyu zhou",very large data bases
+1022,1998,massive stochastic testing of sql,donald r. slutz,very large data bases
+1023,1998,improving adaptable similarity query processing by using approximations,"mihael ankerst , bernhard braunm &#252; ller , hans-peter kriegel , thomas seidl",very large data bases
+1024,1996,querying a multilevel database : a logical analysis,fr &#233; d &#233; ric cuppens,very large data bases
+1025,1997,selectivity estimation without the attribute value independence assumption,"viswanath poosala , yannis e. ioannidis",very large data bases
+1026,1997,a foundation for multi-dimensional databases,"marc gyssens , laks v. s. lakshmanan",very large data bases
+1027,1997,concurrent garbage collection in o2,"marcin skubiszewski , patrick valduriez",very large data bases
+1028,1997,recovering information from summary data,"christos faloutsos , h. v. jagadish , nikolaos sidiropoulos",very large data bases
+1029,1997,critical database technologies for high energy physics,"david m. malon , edward n. may",very large data bases
+1030,1997,integrating reliable memory in databases,"wee teck ng , peter m. chen",very large data bases
+1031,1997,multiple-view self-maintenance in data warehousing environments,nam huyn,very large data bases
+1032,1997,garbage collection in object oriented databases using transactional cyclic reference counting,"srinivas ashwin , prasan roy , s. seshadri , abraham silberschatz , s. sudarshan",very large data bases
+1033,1997,an efficient cost-driven index selection tool for microsoft sql server,"surajit chaudhuri , vivek r. narasayya",very large data bases
+1034,1997,implementing abstract objects with inheritance in datalogneg,hasan m. jamil,very large data bases
+1035,1997,optimizing queries with universal quantification in object-oriented and object-relational databases,"jens clau &#223; en , alfons kemper , guido moerkotte , klaus peithner",very large data bases
+1036,1997,a one-pass algorithm for accurately estimating quantiles for disk-resident data,"khaled alsabti , sanjay ranka , vineet singh",very large data bases
+1037,1997,efficient construction of regression trees with range and region splitting,"yasuhiko morimoto , hiromu ishii , shinichi morishita",very large data bases
+1038,1997,geo/environmental and medical data management in the rasdaman system,"peter baumann , paula furtado , roland ritsch , norbert widmann",very large data bases
+1039,1997,adaptive data broadcast in hybrid networks,"konstantinos stathatos , nick roussopoulos , john s. baras",very large data bases
+1040,1996,integrating triggers and declarative constraints in sql database sytems,"roberta cochrane , hamid pirahesh , nelson mendon &#231; a mattos",very large data bases
+1041,1996,on the computation of multidimensional aggregates,"sameet agarwal , rakesh agrawal , prasad deshpande , ashish gupta , jeffrey f. naughton , raghu ramakrishnan , sunita sarawagi",very large data bases
+1042,1996,a new sql-like operator for mining association rules,"rosa meo , giuseppe psaila , stefano ceri",very large data bases
+1043,1996,how system 11 sql server became fast,t. k. rengarajan,very large data bases
+1044,1996,the x-tree : an index structure for high-dimensional data,"stefan berchtold , daniel a. keim , hans-peter kriegel",very large data bases
+1045,1996,intra-transaction parallelism in the mapping of an object model to a relational multi-processor system,"michael rys , moira c. norrie , hans-j &#246; rg schek",very large data bases
+1046,1996,querying multiple features of groups in relational databases,"damianos chatziantoniou , kenneth a. ross",very large data bases
+1047,1996,answering queries with aggregation using views,"divesh srivastava , shaul dar , h. v. jagadish , alon y. levy",very large data bases
+1048,1996,database management systems and the internet,susan malaika,very large data bases
+1049,1996,query decomposition and view maintenance for query languages for unstructured data,dan suciu,very large data bases
+1050,1996,reordering query execution in tertiary memory databases,"sunita sarawagi , michael stonebraker",very large data bases
+1051,1996,dwms : data warehouse management system,narendra mohan,very large data bases
+1052,1996,the design and implementation of a sequence database system,"praveen seshadri , miron livny , raghu ramakrishnan",very large data bases
+1053,1996,pesto : an integrated query/browser for object databases,"michael j. carey , laura m. haas , vivekananda maganty , john h. williams",very large data bases
+1054,1996,clustering techniques for minimizing external path length,"a. a. diwan , sanjeeva rane , s. seshadri , s. sudarshan",very large data bases
+1055,1996,the role of integrity constraints in database interoperation,"mark w. w. vermeer , peter m. g. apers",very large data bases
+1056,1995,scientific journals : extinction or explosion ? ( panel ),"raghu ramakrishnan , hector garcia-molina , gerhard rossbach , abraham silberschatz , gio wiederhold , jaco zijlstra",very large data bases
+1057,2001,information management for genome level bioinformatics,"norman w. paton , carole a. goble",very large data bases
+1058,1999,"physical data independence , constraints , and optimization with universal plans","alin deutsch , lucian popa , val tannen",very large data bases
+1059,2000,olap + + : powerful and easy-to-use federations of olap and object databases,"junmin gu , torben bach pedersen , arie shoshani",very large data bases
+1060,1995,neurorule : a connectionist approach to data mining,"hongjun lu , rudy setiono , huan liu",very large data bases
+1061,1995,the double life of the transaction abstraction : fundamental principle and evolving system concept,henry f. korth,very large data bases
+1062,2001,managing business processes via workflow technology,frank leymann,very large data bases
+1063,1994,cache conscious algorithms for relational query processing,"ambuj shatdal , chander kant , jeffrey f. naughton",very large data bases
+1064,1997,resource scheduling in enhanced pay-per-view continuous media databases,"minos n. garofalakis , banu &#214; zden , abraham silberschatz",very large data bases
+1065,1997,sting : a statistical information grid approach to spatial data mining,"wei wang , jiong yang , richard r. muntz",very large data bases
+1066,1996,performance of future database systems : bottlenecks and bonananzas,chaitanya k. baru,very large data bases
+1067,1996,watchman : a data warehouse intelligent cache manager,"peter scheuermann , junho shim , radek vingralek",very large data bases
+1068,1999,mining deviants in a time series database,"h. v. jagadish , nick koudas , s. muthukrishnan",very large data bases
+1069,1999,hyper-programming in java,"evangelos zirintsis , graham n. c. kirby , ronald morrison",very large data bases
+1070,1998,koda - the architecture and interface of a data model independent kernel,"gopalan arun , ashok joshi",very large data bases
+1071,1998,experiences in federated databases : from iro-db to miro-web,"peter fankhauser , georges gardarin , m. lopez , j. mu &#241; oz , anthony tomasic",very large data bases
+1072,1997,algorithms for materialized view design in data warehousing environment,"jian yang , kamalakar karlapalem , qing li",very large data bases
+1073,1997,data warehouse configuration,"dimitri theodoratos , timos k. sellis",very large data bases
+1074,1997,efficient user-adaptable similarity search in large multimedia databases,"thomas seidl , hans-peter kriegel",very large data bases
+1075,1997,using probabilistic information in data integration,"daniela florescu , daphne koller , alon y. levy",very large data bases
+1076,1997,the complexity of transformation-based join enumeration,"arjan pellenkoft , c &#233; sar a. galindo-legaria , martin l. kersten",very large data bases
+1077,1997,gte superpages : using ir techniques for searching complex objects,"steven d. whitehead , himanshu sinha , michael murphy",very large data bases
+1078,1997,"using taxonomy , discriminants , and signatures for navigating in text databases","soumen chakrabarti , byron dom , rakesh agrawal , prabhakar raghavan",very large data bases
+1079,1997,multidimensional access methods : trees have grown everywhere,"timos k. sellis , nick roussopoulos , christos faloutsos",very large data bases
+1080,1997,"the network as a global database : challenges of interoperability , proactivity , interactiveness , legacy","peter c. lockemann , ulrike k &#246; lsch , arne koschel , ralf kramer , ralf nikolai , mechtild wallrath , hans-dirk walter",very large data bases
+1081,1997,vertical data migration in large near-line document archives based on markov-chain predictions,"achim kraiss , gerhard weikum",very large data bases
+1082,1997,on-demand data elevation in hierarchical multimedia storage servers,"peter triantafillou , thomas papadakis",very large data bases
+1083,1997,describing and using query capabilities of heterogeneous sources,"vasilis vassalos , yannis papakonstantinou",very large data bases
+1084,1997,fast incremental maintenance of approximate histograms,"phillip b. gibbons , yossi matias , viswanath poosala",very large data bases
+1085,1997,facilitating multimedia database exploration through visual interfaces and perpetual query reformulations,"wen-syan li , k. sel &#231; uk candan , kyoji hirata , yoshinori hara",very large data bases
+1086,1997,evaluation of main memory join algorithms for joins with set comparison join predicates,"sven helmer , guido moerkotte",very large data bases
+1087,1997,finding data in the neighborhood,"andr &#233; eickler , alfons kemper , donald kossmann",very large data bases
+1088,1996,sampling large databases for association rules,hannu toivonen,very large data bases
+1089,1996,information retrieval from an incomplete data cube,curtis e. dyreson,very large data bases
+1090,1996,modeling skewed distribution using multifractals and the ` 80-20 ' law,"christos faloutsos , yossi matias , abraham silberschatz",very large data bases
+1091,1996,extracting large data sets using db2 parallel edition,sriram padmanabhan,very large data bases
+1092,1996,effective & ; efficient document ranking without using a large lexicon,yasushi ogawa,very large data bases
+1093,1996,estimation of query-result distribution and its application in parallel-join load balancing,"viswanath poosala , yannis e. ioannidis",very large data bases
+1094,1996,disseminating updates on broadcast disks,"swarup acharya , michael j. franklin , stanley b. zdonik",very large data bases
+1095,1996,the changing landscape of the software industry and its implications for india,umang gupta,very large data bases
+1096,1996,scalablity and availability in oracle7 7.3,dieter gawlick,very large data bases
+1097,1996,optimization of queries with user-defined predicates,"surajit chaudhuri , kyuseok shim",very large data bases
+1098,1996,semantic data caching and replacement,"shaul dar , michael j. franklin , bj &#246; rn &#222; &#243; r j &#243; nsson , divesh srivastava , michael tan",very large data bases
+1099,1996,loading the data warehouse across various parallel architectures,vijay v. raghavan,very large data bases
+1100,1996,dynamic load balancing in hierarchical parallel database systems,"luc bouganim , daniela florescu , patrick valduriez",very large data bases
+1101,1996,further improvements on integrity constraint checking for stratifiable deductive databases,"sin yeung lee , tok wang ling",very large data bases
+1102,1996,obtaining complete answers from incomplete databases,alon y. levy,very large data bases
+1103,1996,modeling design versions,"r. ramakrishnan , d. janaki ram",very large data bases
+1104,1995,applying database technology in the adsm mass storage system,"luis-felipe cabrera , robert rees , wayne hineman",very large data bases
+1105,1995,hot block clustering for disk arrays with dynamic striping,"kazuhiko mogi , masaru kitsuregawa",very large data bases
+1106,1995,processing object-oriented queries with invertible late bound functions,"staffan flodin , tore risch",very large data bases
+1107,1995,type classification of semi-structured documents,"markus tresch , neal palmer , allen luniewski",very large data bases
+1108,1995,mining generalized association rules,"ramakrishnan srikant , rakesh agrawal",very large data bases
+1109,1995,metrics for accessing heterogeneous data : is there any hope ? ( panel ),"leonard j. seligman , nicholas j. belkin , erich j. neuhold , michael stonebraker , gio wiederhold",very large data bases
+1110,1995,from vldb to vmldb ( very many large data bases ) : dealing with large-scale semantic heterogenity,stuart e. madnick,very large data bases
+1111,1995,high-concurrency locking in r-trees,"marcel kornacker , douglas banks",very large data bases
+1112,1995,efficient search of multi-dimensional b-trees,"harry leslie , rohit jain , dave birdsall , hedieh yaghmai",very large data bases
+1113,1995,"the hbp-tree : a modified hb-tree supporting concurrency , recovery and node consolidation","georgios evangelidis , david b. lomet , betty salzberg",very large data bases
+1114,1995,promises and realities of active database systems,"eric simon , angelika kotz dittrich",very large data bases
+1115,1995,databases and workflow management : what is it all about ? ( panel ),"andreas reuter , stefano ceri , jim gray , betty salzberg , gerhard weikum",very large data bases
+1116,1995,database de-centralization - a practical approach,"tor didriksen , c &#233; sar a. galindo-legaria , eirik dahle",very large data bases
+1117,1995,retrieval of composite multimedia objects,"surajit chaudhuri , shahram ghandeharizadeh , cyrus shahabi",very large data bases
+1118,1995,flexible relations - operational support of variant relational structures,"christian kalus , peter dadam",very large data bases
+1119,1995,schema and database evolution in the o2 object database system,"fabrizio ferrandina , thorsten meyer , roberto zicari , guy ferran , jo &#235; lle madec",very large data bases
+1120,1996,analysis of n-dimensional quadtrees using the hausdorff fractal dimension,"christos faloutsos , volker gaede",very large data bases
+1121,1996,implementation and analysis of a parallel collection query language,dan suciu,very large data bases
+1122,1996,"calibrating the query optimizer cost model of iro-db , an object-oriented federated database system","georges gardarin , fei sha , zhao-hui tang",very large data bases
+1123,1996,the structured information manager : a database system for sgml documents,ron sacks-davis,very large data bases
+1124,1996,cache coherency in oracle parallel server,boris klots,very large data bases
+1125,1996,cost-based selection of path expression processing algorithms in object-oriented databases,"georges gardarin , jean-robert gruser , zhao-hui tang",very large data bases
+1126,1996,object fusion in mediator systems,"yannis papakonstantinou , serge abiteboul , hector garcia-molina",very large data bases
+1127,1996,what is the data warehousing problem ? ( are materialized views the answer ? ),"ashish gupta , inderpal singh mumick",very large data bases
+1128,1996,constructing efficient decision trees by using optimized numeric association rules,"takeshi fukuda , yasuhiko morimoto , shinichi morishita , takeshi tokuyama",very large data bases
+1129,1996,zoo : a desktop experiment management environment,"yannis e. ioannidis , miron livny , s. gupta , nagavamsi ponnekanti",very large data bases
+1130,1996,fast nearest neighbor search in medical image databases,"flip korn , nikolaos sidiropoulos , christos faloutsos , eliot siegel , zenon protopapas",very large data bases
+1131,1996,storage estimation for multidimensional aggregates in the presence of hierarchies,"amit shukla , prasad deshpande , jeffrey f. naughton , karthikeyan ramasamy",very large data bases
+1132,1996,sprint : a scalable parallel classifier for data mining,"john c. shafer , rakesh agrawal , manish mehta",very large data bases
+1133,1996,bellcore 's adapt/x harness system for managing information on internet and intranets,amit p. sheth,very large data bases
+1134,1996,tribeca : a stream database manager for network traffic analysis,mark sullivan,very large data bases
+1135,1996,schemasql - a language for interoperability in relational multi-database systems,"laks v. s. lakshmanan , fereidoon sadri , iyer n. subramanian",very large data bases
+1136,1996,the query optimizer in tandem 's new serverware sql product,pedro celis,very large data bases
+1137,1996,"tpc-d : the challenges , issues and results",ramesh bhashyam,very large data bases
+1138,1996,querying heterogeneous information sources using source descriptions,"alon y. levy , anand rajaraman , joann j. ordille",very large data bases
+1139,1996,supporting state-wide immunisation tracking using multi-paradigm workflow technology,"amit p. sheth , krys kochut , john a. miller , devashish worah , souvik das , chenye lin , devanand palaniswami , john lynch , ivan shevchenko",very large data bases
+1140,1996,supporting procedural constructs in sql compilers,nelson mendon &#231; a mattos,very large data bases
+1141,1996,filter trees for managing spatial data over a range of size granularities,"kenneth c. sevcik , nick koudas",very large data bases
+1142,1996,of objects and databases : a decade of turmoil,"michael j. carey , david j. dewitt",very large data bases
+1143,1996,applying data mining techniques to a health insurance information system,"marisa s. viveros , john p. nearhos , michael j. rothman",very large data bases
+1144,1996,query processing techniques for multiversion access methods,"jochen van den bercken , bernhard seeger",very large data bases
+1145,1996,incremental maintenance of externally materialized views,"martin staudt , matthias jarke",very large data bases
+1146,1996,mineset ( tm ) : a system for high-end data mining and visualization,,very large data bases
+1147,1996,efficient snapshot differential algorithms for data warehousing,"wilburt labio , hector garcia-molina",very large data bases
+1148,1996,eroc : a toolkit for building neato query optimizers,"william j. mckenna , louis burger , chi hoang , melissa truong",very large data bases
+1149,1996,supporting periodic authorizations and temporal reasoning in database access control,"elisa bertino , claudio bettini , elena ferrari , pierangela samarati",very large data bases
+1150,1996,coalescing in temporal databases,"michael h. b &#246; hlen , richard thomas snodgrass , michael d. soo",very large data bases
+1151,1996,practical issues with commercial use of federated databases,jim kleewein,very large data bases
+1152,1997,synchronization and recovery in a client-server storage system,"e. panagos , a. biliris",the vldb journal -- the international journal on very large data bases
+1153,1997,heuristic and randomized optimization for the join ordering problem,"michael steinbrunn , guido moerkotte , alfons kemper",the vldb journal -- the international journal on very large data bases
+1154,1997,sing the truth about ad hoc join costs,"laura m. haas , michael j. carey , miron livny , amit shukla",the vldb journal -- the international journal on very large data bases
+1155,1997,concurrency and recovery for index trees,"david lomet , betty salzberg",the vldb journal -- the international journal on very large data bases
+1156,1997,query processing over object views of relational data,"gustav fahl , tore risch",the vldb journal -- the international journal on very large data bases
+1157,1997,erratum-a database model for object dynamics,"m. p. papazoglou , b. j. kr &#228; mer",the vldb journal -- the international journal on very large data bases
+1158,1997,structured document storage and refined declarative and navigational access mechanisms in hyperstorm,"klemens b &#246; hm , karl aberer , erich j. neuhold , xiaoya yang",the vldb journal -- the international journal on very large data bases
+1159,1997,exact : an extensible approach to active object-oriented databases,"oscar d &#237; az , arturo jaime",the vldb journal -- the international journal on very large data bases
+1160,1997,data placement in shared-nothing parallel database systems,"manish mehta , david j. dewitt",the vldb journal -- the international journal on very large data bases
+1161,1997,analysis of locking behavior in three real database systems,"vigyan singhal , alan jay smith",the vldb journal -- the international journal on very large data bases
+1162,1997,graphical interaction with heterogeneous databases,"t. catarci , g. santucci , j. cardiff",the vldb journal -- the international journal on very large data bases
+1163,1997,a database model for object dynamics,"m. p. papazoglou , b. j. kr &#228; mer",the vldb journal -- the international journal on very large data bases
+1164,1997,parametric query optimization,"yannis e. ioannidis , raymond t. ng , kyuseok shim , timos k. sellis",the vldb journal -- the international journal on very large data bases
+1165,1997,on applying hash filters to improving the execution of multi-join queries,"ming-syan chen , hui-i hsiao , philip s. yu",the vldb journal -- the international journal on very large data bases
+1166,1997,the impact of object technology on commercial transaction processing,edward e. cobb,the vldb journal -- the international journal on very large data bases
+1167,1997,concurrency control in hierarchical multidatabase systems,"sharad mehrotra , henry f. korth , avi silberschatz",the vldb journal -- the international journal on very large data bases
+1168,1998,introduction,"m. tamer &#214; zsu , stavros christodoulakis",the vldb journal -- the international journal on very large data bases
+1169,1998,spatial and temporal content-based access to hypervideo databases,"haitao jiang , ahmed k. elmagarmid",the vldb journal -- the international journal on very large data bases
+1170,1998,optimal clip ordering for multi-clip queries,"raymond t. ng , paul shum",the vldb journal -- the international journal on very large data bases
+1171,1998,integrating symbolic images into a multimedia database system using classification and abstraction approaches,"aya soffer , hanan samet",the vldb journal -- the international journal on very large data bases
+1172,1998,approximate similarity retrieval with m-trees,"pavel zezula , pasquale savino , giuseppe amato , fausto rabitti",the vldb journal -- the international journal on very large data bases
+1173,1998,delivering presentations from multimedia servers,"nevzat hurkan balkir , gultekin ozsoyoglu",the vldb journal -- the international journal on very large data bases
+1174,1997,"the hb $ ^ \ \ pi $ - tree : a multi-attribute index supporting concurrency , recovery and node consolidation","georgios evangelidis , david lomet , betty salzberg",the vldb journal -- the international journal on very large data bases
+1175,1997,dictionary-based order-preserving string compression,gennady antoshenkov,the vldb journal -- the international journal on very large data bases
+1176,1998,a logical view of structured files,"serge abiteboul , sophie cluet , tova milo",the vldb journal -- the international journal on very large data bases
+1177,1998,fast image retrieval using color-spatial information,"beng chin ooi , kian-lee tan , tat seng chua , wynne hsu",the vldb journal -- the international journal on very large data bases
+1178,1998,guest editorial,matthias jarke,the vldb journal -- the international journal on very large data bases
+1179,1998,enhanced abstract data types in object-relational databases,praveen seshadri,the vldb journal -- the international journal on very large data bases
+1180,1998,integrated document caching and prefetching in storage hierarchies based on markov-chain predictions,"achim kraiss , gerhard weikum",the vldb journal -- the international journal on very large data bases
+1181,1998,"scalable feature selection , classification and signature generation for organizing large text databases into hierarchical topic taxonomies","soumen chakrabarti , byron dom , rakesh agrawal , prabhakar raghavan",the vldb journal -- the international journal on very large data bases
+1182,1998,garbage collection in object-oriented databases using transactional cyclic reference counting,"p. roy , s. seshadri , a. silberschatz , s. sudarshan , s. ashwin",the vldb journal -- the international journal on very large data bases
+1183,1998,integrating reliable memory in databases,"wee teck ng , peter m. chen",the vldb journal -- the international journal on very large data bases
+1184,2002,speeding up construction of pmr quadtree-based spatial indexes,"gisli r. hjaltason , hanan samet",the vldb journal -- the international journal on very large data bases
+1185,2002,spatial indexing of high-dimensional data based on relative approximation,"yasushi sakurai , masatoshi yoshikawa , shunsuke uemura , haruhiko kojima",the vldb journal -- the international journal on very large data bases
+1186,2002,query processing techniques for arrays,"arunprasad p. marathe , kenneth salem",the vldb journal -- the international journal on very large data bases
+1187,2002,an authorization system for digital libraries,"e. ferrari , n.r. adam , v. atluri , e. bertino , u. capuozzo",the vldb journal -- the international journal on very large data bases
+1188,2001,designing wrapper components for e-services in integrating heterogeneous systems,"massimo mecella , barbara pernici",the vldb journal -- the international journal on very large data bases
+1189,2001,guest editorial,"fabio casati , ming-chien shan , dimitrios georgakopoulos",the vldb journal -- the international journal on very large data bases
+1190,2002,a template model for multidimensional inter-transactional association rules,"ling feng , jeffrey xu yu , hongjun lu , jiawei han",the vldb journal -- the international journal on very large data bases
+1191,2002,efficient similarity search for market basket data,"alexandros nanopoulos , yannis manolopoulos",the vldb journal -- the international journal on very large data bases
+1192,1996,semantic and schematic similarities between database objects : a context-based approach,"vipul kashyap , amit sheth",the vldb journal -- the international journal on very large data bases
+1193,1996,an asymptotically optimal multiversion b-tree,"bruno becker , stephan gschwind , thomas ohler , bernhard seeger , peter widmayer",the vldb journal -- the international journal on very large data bases
+1194,1996,building knowledge base management systems,"john mylopoulos , vinay chaudhri , dimitris plexousakis , adel shrufi , thodoros topologlou",the vldb journal -- the international journal on very large data bases
+1195,1996,query processing and optimization in oracle rdb,"gennady antoshenkov , mohamed ziauddin",the vldb journal -- the international journal on very large data bases
+1196,2002,locating and accessing data repositories with websemantics,"george a. mihaila , louiqa raschid , anthony tomasic",the vldb journal -- the international journal on very large data bases
+1197,2002,searching in metric spaces by spatial approximation,gonzalo navarro,the vldb journal -- the international journal on very large data bases
+1198,2002,efficient retrieval of similar shapes,"davood rafiei , alberto o. mendelzon",the vldb journal -- the international journal on very large data bases
+1199,2002,indexing of now-relative spatio-bitemporal data,"simonas &#352; altenis , christian s. jensen",the vldb journal -- the international journal on very large data bases
+1200,1996,join algorithm costs revisited,"evan p. harris , kotagiri ramamohanarao",the vldb journal -- the international journal on very large data bases
+1201,1996,a taxonomy of correctness criteria in database applications,"krithi ramamritham , panos k. chrysanthis",the vldb journal -- the international journal on very large data bases
+1202,1996,a predicate-based caching scheme for client-server database architectures,"arthur m. keller , julie basu",the vldb journal -- the international journal on very large data bases
+1203,1996,mariposa : a wide-area distributed database system,"michael stonebraker , paul m. aoki , witold litwin , avi pfeffer , adam sah , jeff sidell , carl staelin , andrew yu",the vldb journal -- the international journal on very large data bases
+1204,1996,access path support for referential integrity in sql2,"theo h &#228; rder , joachim reinert",the vldb journal -- the international journal on very large data bases
+1205,1996,index nesting - an efficient approach to indexing in object-oriented databases,"beng chin ooi , jiawei han , hongjun lu , kian lee tan",the vldb journal -- the international journal on very large data bases
+1206,1996,a complete temporal relational algebra,"debabrata dey , terence m. barron , veda c. storey",the vldb journal -- the international journal on very large data bases
+1207,1996,the design and implementation of k : a high-level knowledge-base programming language of osam * . kbms,"yuh-ming shyy , javier arroyo , stanley y.w. su , herman lam",the vldb journal -- the international journal on very large data bases
+1208,1996,the gmap : a versatile tool for physical data independence,"odysseas g. tsatalos , marvin h. solomon , yannis e. ioannidis",the vldb journal -- the international journal on very large data bases
+1209,1996,algebraic query optimisation for database programming languages,"alexandra poulovassilis , carol small",the vldb journal -- the international journal on very large data bases
+1210,1997,a configurable type hierarchy index for oodb,"thomas a. mueck , martin l. polaschek",the vldb journal -- the international journal on very large data bases
+1211,1997,using extended feature objects for partial similarity retrieval,"stefan berchtold , daniel a. keim , hans-peter kriegel",the vldb journal -- the international journal on very large data bases
+1212,1996,parallelizing oodbms traversals : a performance evaluation,"david j. de witt , jeffrey f. naughton , john c. shafer , shivakumar venkataraman",the vldb journal -- the international journal on very large data bases
+1213,1996,priority assignment in real-time active databases,"rajendran m. sivasankaran , john a. stankovic , don towsley , bhaskar purimetla , krithi ramamritham",the vldb journal -- the international journal on very large data bases
+1214,1996,type-safe relaxing of schema consistency rules for flexible modelling in oodbms,"eric amiel , marie-jo bellosta , eric dujardin , eric simon",the vldb journal -- the international journal on very large data bases
+1215,1996,an experimental object-based sharing system for networked databases,"doug fang , shahram ghandeharizadeh , dennis mcleod",the vldb journal -- the international journal on very large data bases
+1216,2000,guest editorial,"paolo atzeni , alberto o. mendelzon",the vldb journal -- the international journal on very large data bases
+1217,2000,optimizing multiple dimensional queries simultaneously in multidimensional databases,"weifa liang , maria e. orlowska , jeffrey x. yu",the vldb journal -- the international journal on very large data bases
+1218,2000,learning response time for websources using query feedback and application in query optimization,"jean-robert gruser , louiqa raschid , vladimir zadorozhny , tao zhan",the vldb journal -- the international journal on very large data bases
+1219,2000,semantic caching of web queries,"boris chidlovskii , uwe m. borghoff",the vldb journal -- the international journal on very large data bases
+1220,2000,effective timestamping in databases,"kristian torp , christian s. jensen , richard thomas snodgrass",the vldb journal -- the international journal on very large data bases
+1221,2000,quantifiable data mining using ratio rules,"flip korn , alexandros labrinidis , yannis kotidis , christos faloutsos",the vldb journal -- the international journal on very large data bases
+1222,2000,update propagation strategies to improve freshness in lazy master replicated databases,"esther pacitti , eric simon",the vldb journal -- the international journal on very large data bases
+1223,2000,wavecluster : a wavelet-based clustering approach for spatial data in very large databases,"gholamhosein sheikholeslami , surojit chatterjee , aidong zhang",the vldb journal -- the international journal on very large data bases
+1224,2000,the lham log-structured history data access method,"peter muth , patrick o'neil , achim pick , gerhard weikum",the vldb journal -- the international journal on very large data bases
+1225,2000,secure buffering in firm real-time database systems,"binto george , jayant r. haritsa",the vldb journal -- the international journal on very large data bases
+1226,2000,distance-based outliers : algorithms and applications,"edwin m. knorr , raymond t. ng , vladimir tucakov",the vldb journal -- the international journal on very large data bases
+1227,2000,clustering categorical data : an approach based on dynamical systems,"david gibson , jon kleinberg , prabhakar raghavan",the vldb journal -- the international journal on very large data bases
+1228,2002,an xml query engine for network-bound data,"zachary g. ives , a. y. halevy , d. s. weld",the vldb journal -- the international journal on very large data bases
+1229,2002,efficient filtering of xml documents with xpath expressions,"c.-y . chan , p. felber , m. garofalakis , r. rastogi",the vldb journal -- the international journal on very large data bases
+1230,2000,functional-join processing,"r. braumandl , j. claussen , a. kemper , d. kossmann",the vldb journal -- the international journal on very large data bases
+1231,2000,foreword by the vldb '98 pc chairmen,"o. shmueli , j. widom",the vldb journal -- the international journal on very large data bases
+1232,2002,timber : a native xml database,"h. v. jagadish , s. al-khalifa , a. chapman , l. v. s. lakshmanan , a. nierman , s. paparizos , j. m. patel , d. srivastava , n. wiwatwattana , y. wu , c. yu",the vldb journal -- the international journal on very large data bases
+1233,2002,anatomy of a native xml base management system,"t. fiebig , s. helmer , c.-c . kanne , g. moerkotte , j. neumann , r. schiele , t. westmann",the vldb journal -- the international journal on very large data bases
+1234,2002,tree pattern query minimization,"s. amer-yahia , s. cho , l. v. s. lakshmanan , d. srivastava",the vldb journal -- the international journal on very large data bases
+1235,2002,efficient schemes for managing multiversionxml documents,"s.-y . chien , v. j. tsotras , c. zaniolo",the vldb journal -- the international journal on very large data bases
+1236,2003,description logics for semantic query optimization in object-oriented database systems,"domenico beneventano , sonia bergamaschi , claudio sartori",acm transactions on database systems ( tods )
+1237,2003,a simple algorithm for finding frequent elements in streams and bags,"richard m. karp , scott shenker , christos h. papadimitriou",acm transactions on database systems ( tods )
+1238,2003,adaptive algorithms for set containment joins,"sergey melnik , hector garcia-molina",acm transactions on database systems ( tods )
+1239,2002,guest editorial,alon y. halevy,the vldb journal -- the international journal on very large data bases
+1240,2000,picodmbs : scaling down database techniques for the smartcard,"christophe bobineau , luc bouganim , philippe pucheral , patrick valduriez",very large data bases
+1241,2001,picodbms : validation and experience,"nicolas anciaux , christophe bobineau , luc bouganim , philippe pucheral , patrick valduriez",very large data bases
+1242,2001,netcube : a scalable tool for fast data mining and compression,"dimitris margaritis , christos faloutsos , sebastian thrun",very large data bases
+1243,2001,db2 spatial extender - spatial data within the rdbms,david w. adler,very large data bases
+1244,1999,the persistent cache : improving oid indexing in temporal object-oriented database systems,kjetil n &#248; rv &#229; g,very large data bases
+1245,2000,efficient numerical error bounding for replicated network services,"haifeng yu , amin vahdat",very large data bases
+1246,2000,memex : a browsing assistant for collaborative archiving and mining of surf trails,"soumen chakrabarti , sandeep srivastava , mallela subramanyam , mitul tiwari",very large data bases
+1247,2000,building and customizing data-intensive web sites using weave,"khaled yagoub , daniela florescu , val &#233; rie issarny , patrick valduriez",very large data bases
+1248,1998,"advanced data processing in krisys : modeling concepts , implementation techniques , and client/server issues","stefan de &#223; loch , theo h &#228; rder , nelson mattos , bernhard mitschang , joachim thomas",the vldb journal -- the international journal on very large data bases
+1249,1998,maintenance of implication integrity constraints under updates to constraints,"naci s. ishakbeyoglu , z. meral ozsoyoglu",the vldb journal -- the international journal on very large data bases
+1250,1998,data partitioning and load balancing in parallel disk systems,"peter scheuermann , gerhard weikum , peter zabback",the vldb journal -- the international journal on very large data bases
+1251,1998,the oodb path-method generator ( pmg ) using access weights and precomputed access relevance,"ashish mehta , james geller , yehoshua perl , erich neuhold",the vldb journal -- the international journal on very large data bases
+1252,1998,a flexible and recoverable client/server database event notification system,"eric n. hanson , i.-cheng chen , roxana dastur , kurt engel , vijay ramaswamy , wendy tan , chun xu",the vldb journal -- the international journal on very large data bases
+1253,1998,"optimizing relational queries in connection hypergraphs : nested queries , views , and binding propagations",jia liang han,the vldb journal -- the international journal on very large data bases
+1254,1999,opt + + : an object-oriented implementation for extensible database query optimization,"navin kabra , david j. dewitt",the vldb journal -- the international journal on very large data bases
+1255,1999,constant time permutation : an efficient block allocation strategy for variable-bit-rate continuous media data,"yueh-min huang , jen-wen ding , shiao-li tsao",the vldb journal -- the international journal on very large data bases
+1256,1999,the intrinsic problems of structural heterogeneity and an approach to their solution,"theo h &#228; rder , g &#252; nter sauter , joachim thomas",the vldb journal -- the international journal on very large data bases
+1257,1999,fast joins using join indices,"zhe li , kenneth a. ross",the vldb journal -- the international journal on very large data bases
+1258,1999,efficient support for interactive service in multi-resolution vod systems,"kelvin k. w. law , john c. s. lui , leana golubchik",the vldb journal -- the international journal on very large data bases
+1259,1999,semantic heterogeneity resolution in federated databases by metadata implantation and stepwise evolution,"goksel aslan , dennis mcleod",the vldb journal -- the international journal on very large data bases
+1260,1999,mil primitives for querying a fragmented world,"peter a. boncz , martin l. kersten",the vldb journal -- the international journal on very large data bases
+1261,1999,deadlock detection in distributed database systems : a new algorithm and a comparative performance analysis,"natalija krivokapi &#263; , alfons kemper , ehud gudes",the vldb journal -- the international journal on very large data bases
+1262,2001,indexing very high-dimensional sparse and quasi-sparse vectors for similarity searches,"changzhou wang , x. sean wang",the vldb journal -- the international journal on very large data bases
+1263,2001,a graph-theoretic model for optimizing queries involving methods,"chiang lee , chi-sheng shih , yaw-huei chen",the vldb journal -- the international journal on very large data bases
+1264,2001,hmap - a temporal data model managing intervals with different granularities and indeterminacy from natural language sentences,"carlo combi , giuseppe pozzi",the vldb journal -- the international journal on very large data bases
+1265,2001,supporting efficient multimedia database exploration,"wen-syan li , k.sel &#231; uk candan , kyoji hirata , yoshinori hara",the vldb journal -- the international journal on very large data bases
+1266,2000,progressive evaluation of nested aggregate queries,"kian-lee tan , cheng hian goh , beng chin ooi",the vldb journal -- the international journal on very large data bases
+1267,2001,combining multi-visual features for efficient indexing in a large image database,"anne h. h. ngu , quan z. sheng , du q. huynh , ron lei",the vldb journal -- the international journal on very large data bases
+1268,2000,optimizing database architecture for the new bottleneck : memory access,"stefan manegold , peter a. boncz , martin l. kersten",the vldb journal -- the international journal on very large data bases
+1269,2000,online dynamic reordering,"vijayshankar raman , bhaskaran raman , joseph m. hellerstein",the vldb journal -- the international journal on very large data bases
+1270,2000,exploiting early sorting and early partitioning for decision support query processing,"j. claussen , a. kemper , d. kossmann , c. wiesner",the vldb journal -- the international journal on very large data bases
+1271,2000,one-dimensional and multi-dimensional substring selectivity estimation,"h. v. jagadish , olga kapitskaia , raymond t. ng , divesh srivastava",the vldb journal -- the international journal on very large data bases
+1272,2000,guest editorial,malcolm p. atkinson,the vldb journal -- the international journal on very large data bases
+1273,2000,context-based prefetch - an optimization for implementing objects on relations,"philip a. bernstein , shankar pal , david shutt",the vldb journal -- the international journal on very large data bases
+1274,2000,view management in multimedia databases,"k. sel &#231; uk candan , eric lemar , v. s. subrahmanian",the vldb journal -- the international journal on very large data bases
+1275,2000,dynamic vp-tree indexing for n-nearest neighbor search given pair-wise distances,"ada wai-chee fu , polly mei-shuen chan , yin-ling cheung , yiu sang moon",the vldb journal -- the international journal on very large data bases
+1276,2000,unql : a query language and algebra for semistructured data based on structural recursion,"peter buneman , mary fernandez , dan suciu",the vldb journal -- the international journal on very large data bases
+1277,2000,checking the temporal integrity of interactive multimedia documents,"i. mirbel , b. pernici , t. sellis , s. tserkezoglou , m. vazirgiannis",the vldb journal -- the international journal on very large data bases
+1278,2000,declarative specification of web sites with s,"mary fern &#225; ndez , daniela florescu , alon levy , dan suciu",the vldb journal -- the international journal on very large data bases
+1279,2000,analysis of navigation behaviour in web sites integrating multiple information systems,"bettina berendt , myra spiliopoulou",the vldb journal -- the international journal on very large data bases
+1280,2001,mining multi-dimensional constrained gradients in data cubes,"guozhu dong , jiawei han , joyce m. w. lam , jian pei , ke wang",very large data bases
+1281,2001,storage and querying of e-commerce data,"rakesh agrawal , amit somani , yirong xu",very large data bases
+1282,2001,surfing wavelets on streams : one-pass summaries for approximate aggregate queries,"anna c. gilbert , yannis kotidis , s. muthukrishnan , martin strauss",very large data bases
+1283,2001,data staging for on-demand broadcast,"demet aksoy , michael j. franklin , stanley b. zdonik",very large data bases
+1284,2001,data management for pervasive computing,"mitch cherniack , michael j. franklin , stanley b. zdonik",very large data bases
+1285,2001,flexible and scalable digital library search,"henk ernst blok , menzo windhouwer , roelof van zwol , milan petkovic , peter m. g. apers , martin l. kersten , willem jonker",very large data bases
+1286,2001,indexing the distance : an efficient method to knn processing,"cui yu , beng chin ooi , kian-lee tan , h. v. jagadish",very large data bases
+1287,2001,an extendible hash for multi-precision similarity querying of image databases,"shu lin , m. tamer &#214; zsu , vincent oria , raymond t. ng",very large data bases
+1288,2001,collaborative analytical processing - dream or reality ? ( panel abstract ),"william o'connell , andrew witkowski , goetz graefe",very large data bases
+1289,2001,a data warehousing architecture for enabling service provisioning process,yannis kotidis,very large data bases
+1290,2001,aggregate maintenance for data warehousing in informix red brick vista,"craig j. bunker , latha s. colby , richard l. cole , william j. mckenna , gopal mulagund , david wilhite",very large data bases
+1291,2001,self-similarity in the web,"stephen dill , ravi kumar , kevin s. mccurley , sridhar rajagopalan , d. sivakumar , andrew tomkins",very large data bases
+1292,2001,supervised wrapper generation with lixto,"robert baumgartner , sergio flesca , georg gottlob",very large data bases
+1293,2001,dynamic pipeline scheduling for improving interactive query performance,"tolga urhan , michael j. franklin",very large data bases
+1294,2001,enabling end-users to construct data-intensive web-sites from xml repositories : an example-based approach,"atsuyuki morishima , seiichi koizumi , hiroyuki kitagawa , satoshi takano",very large data bases
+1295,2001,the worlinfo assistant : spatio-temporal information integration on the web,"jos &#233; luis ambite , craig a. knoblock , mohammad r. kolahdouzan , maria muslea , cyrus shahabi , snehal thakkar",very large data bases
+1296,2001,views in a large scale xml repository,"sophie cluet , pierangelo veltri , dan vodislav",very large data bases
+1297,1994,automated resolution of semantic heterogeneity in multidatabases,"m. w. bright , a. r. hurson , s. pakzad",acm transactions on database systems ( tods )
+1298,2001,comparing hybrid peer-to-peer systems,"beverly yang , hector garcia-molina",very large data bases
+1299,1994,using semantic values to facilitate interoperability among heterogeneous information systems,"edward sciore , michael siegel , arnon rosenthal",acm transactions on database systems ( tods )
+1300,2001,"improving business process quality through exception understanding , prediction , and prevention","daniela grigori , fabio casati , umeshwar dayal , ming-chien shan",very large data bases
+1301,1994,on completeness of historical relational query languages,"james clifford , albert croker , alexander tuzhilin",acm transactions on database systems ( tods )
+1302,2001,generic schema matching with cupid,"jayant madhavan , philip a. bernstein , erhard rahm",very large data bases
+1303,1994,tools and transformations-rigorous and otherwise-for practical database design,"arnon rosenthal , david reiner",acm transactions on database systems ( tods )
+1304,2001,an evaluation of generic bulk loading techniques,"jochen van den bercken , bernhard seeger",very large data bases
+1305,1994,in memory of bob kooi ( 1951-1993 ),michael stonebraker,acm sigmod record
+1306,2001,fast evaluation techniques for complex similarity queries,"klemens b &#246; hm , michael mlivoncic , hans-j &#246; rg schek , roger weber",very large data bases
+1307,1994,observations on the odmg-93 proposal for an object-oriented database language,won kim,acm sigmod record
+1308,2001,visual web information extraction with lixto,"robert baumgartner , sergio flesca , georg gottlob",very large data bases
+1309,1994,amalgamating knowledge bases,v. s. subrahmanian,acm transactions on database systems ( tods )
+1310,2001,webfilter : a high-throughput xml-based publish and subscribe system,"jo &#227; o pereira , fran &#231; oise fabret , hans-arno jacobsen , fran &#231; ois llirbat , dennis shasha",very large data bases
+1311,1994,index structures for selective dissemination of information under the boolean model,"tak w. yan , h &#233; ctor garc &#237; a-molina",acm transactions on database systems ( tods )
+1312,2001,ontology-based support for digital government,"athman bouguettaya , ahmed k. elmagarmid , brahim medjahed , m. ouzzani",very large data bases
+1313,2001,a fast index for semistructured data,"brian cooper , neal sample , michael j. franklin , gisli r. hjaltason , moshe shadmon",very large data bases
+1314,2001,the propel distributed services platform,"michael j. carey , steve kirsch , mary roth , bert van der linden , nicolas adiba , michael blow , daniela florescu , david li , ivan oprencak , rajendra panwar , runping qi , david rieber , john c. shafer , brian sterling , tolga urhan , brian vickery , dan wineman , kuan yee",very large data bases
+1315,2001,approximate string joins in a database ( almost ) for free,"luis gravano , panagiotis g. ipeirotis , h. v. jagadish , nick koudas , s. muthukrishnan , divesh srivastava",very large data bases
+1316,2001,change-centric management of versions in an xml warehouse,"am &#233; lie marian , serge abiteboul , gregory cobena , laurent mignet",very large data bases
+1317,1994,a taxonomy for secure object-oriented databases,"martin s. olivier , sebastiaan h. von solms",acm transactions on database systems ( tods )
+1318,2001,vxmlr : a visual xml-relational database system,"aoying zhou , hongjun lu , shihui zheng , yuqi liang , long zhang , wenyun ji , zengping tian",very large data bases
+1319,1994,a modified random perturbation method for database security,"patrick tendick , norman matloff",acm transactions on database systems ( tods )
+1320,2001,querying xml views of relational data,"jayavel shanmugasundaram , jerry kiernan , eugene j. shekita , catalina fan , john funderburk",very large data bases
+1321,2001,hyperqueries : dynamic distributed query processing on the internet,"alfons kemper , christian wiesner",very large data bases
+1322,1994,altruistic locking,"kenneth salem , h &#233; ctor garc &#237; a-molina , jeannie shands",acm transactions on database systems ( tods )
+1323,2001,warlock : a data allocation tool for parallel warehouses,"thomas st &#246; hr , erhard rahm",very large data bases
+1324,2001,discovery of influence sets in frequently updated databases,"ioana stanoi , mirek riedewald , divyakant agrawal , amr el abbadi",very large data bases
+1325,2001,operating system extensions for the teradata parallel vldb,"john catozzi , sorana rabinovici",very large data bases
+1326,2001,query engines for web-accessible xml data,"leonidas fegaras , ramez elmasri",very large data bases
+1327,2001,warehousing workflow data : challenges and opportunities,"angela bonifati , fabio casati , umeshwar dayal , ming-chien shan",very large data bases
+1328,2001,"business process coordination : state of the art , trends , and open issues","umeshwar dayal , meichun hsu , rivka ladin",very large data bases
+1329,2001,analyzing quantitative databases : image is everything,"amihood amir , reuven kashi , nathan s. netanyahu",very large data bases
+1330,2001,tavant system architecture for sell-side channel management,"srinivasa narayanan , subbu n. subramanian",very large data bases
+1331,2001,efficient progressive skyline computation,"kian-lee tan , pin-kwang eng , beng chin ooi",very large data bases
+1332,2001,a formal perspective on the view selection problem,"rada chirkova , alon y. halevy , dan suciu",very large data bases
+1333,2001,online scaling in a highly available database,"svein erik bratsberg , rune humborstad",very large data bases
+1334,2001,dynamic update cube for range-sum queries,"seok-ju chun , chin-wan chung , ju-hong lee , seok-lyong lee",very large data bases
+1335,2001,functional properties of information filtering,"rie sawai , masahiko tsukamoto , yin-huei loh , tsutomu terada , shojiro nishio",very large data bases
+1336,2001,leo - db2 's learning optimizer,"michael stillger , guy m. lohman , volker markl , mokhtar kandil",very large data bases
+1337,2001,storage service providers : a solution for storage management ? ( panel ),"banu &#214; zden , eran gabber , bruce hillyer , wee teck ng , elizabeth a. m. shriver , david j. dewitt , bruce gordon , jim gray , john wilkes",very large data bases
+1338,2001,distinct sampling for highly-accurate answers to distinct values queries and event reports,phillip b. gibbons,very large data bases
+1339,2001,are web services the next revolution in e-commerce ? ( panel ),"shalom tsur , serge abiteboul , rakesh agrawal , umeshwar dayal , johannes klein , gerhard weikum",very large data bases
+1340,2001,smooth - a distributed multimedia database system,"harald kosch , l &#225; szl &#243; b &#246; sz &#246; rm &#233; nyi , alexander bachlechner , christian hanin , christian hofbauer , margit lang , carmen riedler , roland tusch",very large data bases
+1341,2001,navigating large-scale semi-structured data in business portals,"man abrol , neil latarche , uma mahadevan , jianchang mao , rajat mukherjee , prabhakar raghavan , michel tourn , john wang , grace zhang",very large data bases
+1342,2001,approximate query processing : taming the terabytes,"minos n. garofalakis , phillip b. gibbon",very large data bases
+1343,2001,user-optimizer communication using abstract plans in sybase ase,"mihnea andrei , patrick valduriez",very large data bases
+1344,2001,c2p : clustering based on closest pairs,"alexandros nanopoulos , yannis theodoridis , yannis manolopoulos",very large data bases
+1345,2001,caching technologies for web applications,c. mohan,very large data bases
+1346,2001,developing an indexing scheme for xml document collection using the oracle8i extensibility framework,"seema sundara , ying hu , timothy chorma , nipun agarwal , jagannathan srinivasan",very large data bases
+1347,2001,update propagation strategies for improving the quality of data on the web,"alexandros labrinidis , nick roussopoulos",very large data bases
+1348,2001,mv3r-tree : a spatio-temporal access method for timestamp and interval queries,"yufei tao , dimitris papadias",very large data bases
+1349,2001,a comparative study of alternative middle tier caching solutions to support dynamic web content acceleration,"anindya datta , kaushik dutta , helen m. thomas , debra e. vandermeer , krithi ramamritham , dan fishman",very large data bases
+1350,2001,supporting incremental join queries on ranked inputs,"apostol natsev , yuan-chi chang , john r. smith , chung-sheng li , jeffrey scott vitter",very large data bases
+1351,2001,intelligent rollups in multidimensional olap data,"gayatri sathe , sunita sarawagi",very large data bases
+1352,2001,weaving relations for cache performance,"anastassia ailamaki , david j. dewitt , mark d. hill , marios skounakis",very large data bases
+1353,2001,answering xml queries on heterogeneous data sources,"ioana manolescu , daniela florescu , donald kossmann",very large data bases
+1354,2001,architectures for internal web services deployment,oded shmueli,very large data bases
+1355,2000,cheetah : a lightweight transaction server for plug-and-play internet data management,"guy pardon , gustavo alonso",very large data bases
+1356,2000,concurrency in the data warehouse,richard taylor,very large data bases
+1357,2000,evolution of groupware for business applications : a database perspective on lotus domino/notes,"c. mohan , ron barber , s. watts , a. somani , markos zaharioudakis",very large data bases
+1358,2000,"biodiversity informatics : the challenge of rapid development , large databases , and complex data ( keynote )","meridith a. lane , james l. edwards , ebbe nielsen",very large data bases
+1359,2000,"do n't be lazy , be consistent : postgres-r , a new way to implement database replication","bettina kemme , gustavo alonso",very large data bases
+1360,2000,focused crawling using context graphs,"michelangelo diligenti , frans coetzee , steve lawrence , c. lee giles , marco gori",very large data bases
+1361,2000,an ultra highly available dbms,"svein-olaf hvasshovd , svein erik bratsberg , &#216; ystein torbj &#248; rnsen",very large data bases
+1362,2000,local dimensionality reduction : a new approach to indexing high dimensional spaces,"kaushik chakrabarti , sharad mehrotra",very large data bases
+1363,2000,hierarchical compact cube for range-max queries,"sin yeung lee , tok wang ling , hua-gang li",very large data bases
+1364,2000,panel : is generic metadata management feasible ?,"philip a. bernstein , laura m. haas , matthias jarke , erhard rahm , gio wiederhold",very large data bases
+1365,2000,linking business to deliver value : a data management challenge,anand deshpande,very large data bases
+1366,2000,building scalable internet applications with oracle8i server,"julie basu , jos &#233; alberto fern &#225; ndez , olga peschansky",very large data bases
+1367,2000,model-based information integration in a neuroscience mediator system,"bertram lud &#228; scher , amarnath gupta , maryann e. martone",very large data bases
+1368,2000,the 3w model and algebra for unified data mining,"theodore johnson , laks v. s. lakshmanan , raymond t. ng",very large data bases
+1369,2000,xperanto : middleware for publishing object-relational data as xml documents,"michael j. carey , jerry kiernan , jayavel shanmugasundaram , eugene j. shekita , subbu n. subramanian",very large data bases
+1370,2000,"panel : future directions of database research - the vldb broadening strategy , part 1",hans-j &#246; rg schek,very large data bases
+1371,2000,optimizing multi-feature queries for image databases,"ulrich g &#252; ntzer , wolf-tilo balke , werner kie &#223; ling",very large data bases
+1372,2000,practical applications of triggers and constraints : success and lingering issues ( 10-year award ),"stefano ceri , roberta cochrane , jennifer widom",very large data bases
+1373,2000,approximating aggregate queries about web pages via random walks,"ziv bar-yossef , alexander berg , steve chien , jittat fakcharoenphol , dror weitz",very large data bases

@@ -1,0 +1,4 @@
+tkt_id,iss_typ,tkt_status,nbrhd_dist,cncl_dist,cty,clsr_rsn,case_ttl
+101000645360,General Code Enforcement Inquiry,Resolved,Gert Town Neighborhood,District A,"New Orleans, Louisiana",Issue Addressed,General Code Enforcement Case
+101000645360,Household Waste Recycling Services,Resolved,Old Aurora District,District C,"New Orleans, LA",Issue Fixed,Request for Recycling Bin
+101000454311,Waste Collection,Completed,Saint Roch,D,New Orleans,Issue Addressed,Initiate Waste Pickup

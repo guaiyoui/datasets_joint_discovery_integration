@@ -1,0 +1,107 @@
+restaurant_id,city_name,location_address,business_phone,category,quality_score
+318,` new york ',' 142 w. 44th st. ',212/944 -3643,italian,317
+319,` new york ','68 e. 56th st. ',212/223 -7575,asian,318
+320,` new york ',' 138 lafayette st. between canal and howard sts . ',212/941 -4168,asian,319
+321,` new york ',' 151 w. 51st . st. ',212/245 -4850,italian,320
+322,` new york ',' 1065 1st ave. at 58th st. ',212/644 -9258,` middle eastern ',321
+323,` new york ','24 e. 81st st. ',212/288 -2391,italian,322
+324,` new york ',' 250 park ave. s at 20th st. ',212/777 -6211,` latin american ',323
+325,` new york ',' 301 park ave. between 49th and 50th sts . ',212/872 -4895,french,324
+326,` new york ',' 205 e. 45th st. ',212/682 -8660,american,325
+327,` new york ',' 109 spring st. between greene and mercer sts . ',212/274 -8883,asian,326
+328,` new york ',' 1423 2nd ave. between 74th and 75th sts . ',212/535 -1100,` middle eastern ',327
+329,` new york ',' 140 w. 57th st. ',212/333 -7827,american,328
+330,` new york ',' 371 w. 46th st. off 9th ave. ',' 212 / 956-3055 ',` latin american ',329
+331,` new york ',' 551 amsterdam ave. between 86th and 87th sts . ',212/595 -8555,american,330
+332,` new york ','28 e. 63rd st. ',212/935 -2888,american,331
+333,` new york ',' 100 w. 82nd st. ',212/501 -0776,asian,332
+334,` new york ',' 439 e. 75th st. ',212/734 -4893,` eastern european ',333
+335,` new york ',' 37a union sq. w between 16th and 17th sts . ',212/627 -7172,asian,335
+336,` new york ',' 126 e. 7th st. between 1st ave. and ave. a ',212/674 -4140,continental,336
+337,` new york ',' 1063 1st ave. at 58th st. ',212/753 -7407,mexican,337
+338,` new york ',' 148 w. 51st st. ',212/245 -9600,american,338
+339,` new york ',' 133 mulberry st. between hester and grand sts . ',212/925 -3120,italian,339
+340,` new york ','55 irving pl . ',212/982 -9030,italian,340
+341,` new york ',' 157 chrystie st. at delancey st. ',212/673 -0330,` east european ',341
+342,` new york ','18 e. 54th st. ',212/753 -9015,italian,342
+343,` new york ',' 1000 madison ave. between 77th and 78th sts . ',212/570 -2211,` coffee bar ',343
+344,` new york ',' 423 amsterdam ave. between 80th and 81st sts . ',212/496 -6280,american,344
+345,` new york ','19 w. 49th st. ',212/332 -7610,seafood,345
+346,` new york ',' 3 225 e. 60th st. ',212/838 -3531,american,346
+347,` new york ',' 643 park ave. at 66th st. ',212/744 -4107,american,347
+348,` new york ','58 w. 65th st. ',212/873 -3700,american,348
+349,` new york ','57 w. 48th st. ',' 212 / 977-8400 ',asian,349
+350,` new york ',' 1022 madison ave. near 79th st. ',212/734 -2676,italian,350
+351,` new york ','62 spring st. at lafayette st. ',212/966 -0290,american,351
+352,` new york ',' 834 7th ave. between 53rd and 54th sts . ',212/245 -7850,delicatessen,352
+353,` new york ',' 428 amsterdam ave. between 80th and 81st sts . ',212/501 -7515,seafood,353
+354,` new york ','76 mott st. at canal st. ',212/334 -8088,asian,354
+355,` new york ',' 143 mercer st. at prince st. ',212/925 -3700,` coffee bar ',355
+356,` new york ','65 w. 55th st. ',212/956 -6888,asian,356
+357,` new york ',' 950 8th ave. at 56th st. ',' 212 / 397-3737 ',american,357
+358,` new york ',' 103 1st ave. between 6th and 7th sts . ',212/228 -0604,` east european ',358
+359,` new york ',' 400 w. 119th st. between amsterdam and morningside aves . ',212/666 -9490,continental,359
+360,` new york ',' 350 9th ave. at 49th st. ',212/265 -3566,` coffee bar ',360
+361,` new york ',' 2420 broadway at 89th st. ',212/496 -1066,american,361
+362,` new york ',' 900 7th ave. between 56th and 57th sts . ',212/245 -9800,italian,362
+363,` new york ',' 345 e. 83rd st. ',212/472 -4488,italian,363
+364,` new york ',' 375 greenwich st. near franklin st. ',212/941 -3900,american,364
+365,` new york ',' 154 e. 79th st. between lexington and 3rd aves . ',212/988 -4858,` coffee bar ',365
+366,` new york ','34 e. 51st st. ',212/688 -5447,asian,366
+367,` new york ',' 386 3rd ave. between 27th and 28th sts . ',212/679 -1810,` middle eastern ',367
+368,` new york ',' 222 w. 79th st. ',212/799 -0400,american,368
+369,` new york ',' 342 e. 11th st. near 1st ave. ',212/674 -7264,` coffee bar ',369
+370,` new york ','54 irving pl . at 17th st. ',212/260 -5454,american,370
+371,` new york ','52 236 w. 52nd st. ',212/586 -7714,` latin american ',371
+372,` new york ','70 w. 68th st. ',212/721 -0068,american,372
+373,` new york ',' 200 e. 54th st. ',212/486 -9592,american,373
+374,` new york ',' 500 e. 30th st. ',212/683 -3333,american,374
+375,` new york ',' 63rd street steakhouse 44 w. 63rd st. ',212/246 -6363,american,375
+376,` new york ',' 174 1st ave. between 10th and 11th sts . ',212/614 -0620,mediterranean,376
+377,` new york ','34 union sq. e at 16th st. ',212/614 -9291,` and 212/614 -9345 asian ',377
+378,` new york ','90 prince st. between broadway and mercer st. ',212/966 -6722,american,378
+379,atlanta,' 163 ponce de leon ave. ',404/876 -8532,international,379
+380,atlanta,' 783 martin luther king jr. dr. ',404/525 -2062,barbecue,380
+381,atlanta,' 3195 roswell rd. ',404/264 -9546,asian,381
+382,atlanta,' 3109 piedmont rd. . just south of peachtree rd. ',404/262 -7379,american,382
+383,atlanta,' 265 pharr rd. ',404/262 -3165,american,383
+384,atlanta,' 260 e. paces ferry road ',404/264 -1334,continental,384
+385,atlanta,' 3500 peachtree rd. . phipps plaza ',404/233 -2333,italian,385
+386,atlanta,' 1100 peachtree st. ',404/724 -0901,mediterranean,386
+387,atlanta,' 7050 jimmy carter blvd. . norcross ',770/441 -- 0291,american,387
+388,atlanta,' 1186 n. highland ave. ',404/872 -7203,italian,388
+389,atlanta,' 3300 peachtree rd. . grand hyatt ',404/365 -8100,mediterranean,389
+390,atlanta,'50 hurt plaza ',404/524 -2489,international,390
+391,atlanta,'40 buckhead crossing mall on the sidney marcus blvd. ',404/364 -0212,caribbean,391
+392,atlanta,' 1879 cheshire bridge rd. ',404/874 -5642,southern,392
+393,atlanta,' 3380 peachtree rd. ',404/266 -1600,continental,393
+394,atlanta,` underground underground mall underground atlanta ',404/577 -1800,continental,394
+395,atlanta,' 1811 piedmont ave. near cheshire bridge rd. ',404/607 -1622,barbecue,395
+396,atlanta,' 923 peachtree st. at 8th st. ',404/875 -2489,southern,396
+397,atlanta,' 6359 jimmy carter blvd. . at buford hwy . norcross ',770/242 -3984,barbecue,397
+398,atlanta,' 4320 powers ferry rd. ',404/255 -7277,southern,398
+399,atlanta,' 192 peachtree center ave. at international blvd. ',404/659 -2788,asian,399
+400,atlanta,' 2285 peachtree rd. . peachtree battle condominium ',404/351 -0870,mediterranean,400
+401,atlanta,' 3300 peachtree rd. . grand hyatt ',404/841 -0314,asian,401
+402,atlanta,` holiday inn/crowne plaza at ravinia dunwoody ',770/395 -9925,italian,402
+403,atlanta,' c buford hwy . northwoods plaza doraville ',770/451 -0192,asian,403
+404,atlanta,' 6301 roswell rd. . sandy springs plaza sandy springs ',404/255 -5160,barbecue,404
+405,atlanta,' 1931 peachtree rd. ',404/355 -5993,continental,405
+406,atlanta,' 1402 n. highland ave. ',404/874 -2626,caribbean,406
+407,atlanta,' 3209 maple dr. ',404/237 -1313,southern,407
+408,atlanta,` park place across from perimeter mall dunwoody ',770/393 -1333,italian,408
+409,atlanta,' 247 buckhead ave. east village sq. ',404/842 -0334,fusion,409
+410,atlanta,' 1829 peachtree rd. ',404/350 -6755,continental,410
+411,atlanta,' 555 peachtree st. at linden ave. ',404/874 -3223,american,411
+412,atlanta,' 500 pharr rd. ',404/237 -2941,italian,412
+413,atlanta,' 870 n. highland ave. ',404/875 -7775,american,413
+414,atlanta,'25 irby ave. ',404/233 -7644,barbecue,414
+415,atlanta,' 3043 buford hwy . ',404/325 -5285,asian,415
+416,atlanta,' 6050 peachtree pkwy . norcross ',770/449 -0033,asian,416
+417,atlanta,' 1144 crescent ave. ',404/873 -7358,southern,417
+418,atlanta,' 2345 cheshire bridge rd. ',404/325 -6963,french,418
+419,atlanta,' 3384 shallowford rd. . chamblee ',770/458 -7145,southern,419
+420,atlanta,' 2165 cheshire bridge rd. ',404/321 -1118,american,420
+421,atlanta,' 889 w. peachtree st. ',404/874 -5535,southern,421
+422,atlanta,' 3393 peachtree rd. ',404/264 -1163,continental,422
+423,` las vegas ',' 3700 w. flamingo ',702/252 -7737,italian,423
