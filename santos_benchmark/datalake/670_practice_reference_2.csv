@@ -1,4 +1,3 @@
-practice_id,practice_name,address_line_1,address_line_2,address_line_3,post_code,lc_group,registered_patients_count
-278,Doctor Kennedy & Partners,Surgery,No. 1 Church St.,"Newtownards, UK",BT234FH,South-Eastern,"4,435"
-537,DR MCEVOY AND PARTNERS,MCVERRY-MCEVOY MEDICAL CENTER,THE NEWRY HEALTH VILLAGE,"NEWRY, MONAGHAN ST.",BT356BW,Southern LCG,9589
-13,Dr. Coogan's Surgery,Templemore Medical Center,225 Albertbridge Rd,"Belfast, Northern Ireland",BT54PX,Belfast HSC Trust,"3,228"
+version https://git-lfs.github.com/spec/v1
+oid sha256:db0e62a2c7bf0cffc294cdc24df387d0196f63c810189f6dc31188adabf0dd7b
+size 480

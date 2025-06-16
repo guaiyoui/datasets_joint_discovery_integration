@@ -1,4 +1,3 @@
-school_yr,county_name,esd_name,school_code,school_name,student_group,discp_supp_notes,discp_denom,discp_numer,discp_rate
-School Year 2015-2016,Kitsap County,Olympic ESD 114,2026,Poulsbo Elementary,Boys,Data suppressed (Top/Bottom),Denominator Count Suppressed,Numerator Count Suppressed,Less than 9%
-Academic Year 2015-16,Kitsap County,Olympic ESD 114,4029,Burley Glenwood Elementary School,Total Student Population,Data suppressed due to top/bottom rule,Denominator Suppressed,Numerator Suppressed,Under 3%
-School Year 2015-2016,Snohomish County,ESD 189,4164,Mukilteo Elementary School,Non-ELL Students,Data suppressed (Top/Bottom),Suppressed Denominator Count,Suppressed Numerator Count,Less than 1 percent
+version https://git-lfs.github.com/spec/v1
+oid sha256:f83a40de0d00dbccb4b768d83eb1e6178af99126767c16fa22ffa457cb8f153d
+size 709

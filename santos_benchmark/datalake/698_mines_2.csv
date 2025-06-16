@@ -1,4 +1,3 @@
-fiscal_year,ministry_code,ministry_name,department_number,department_name,object_code,object_name,total_payment_amount
-FY 2009-2010,Ministry Code 22,Department of Transport,Department No. 34,Department of Transportation,Object Code 1231,"Office Furniture and Furnishings, including parts","$394,504.67"
-Fiscal Year: 2009-2010,14,Industry Department,35,National Research Council of Canada (NRC),1228,Software,"23,258.89"
-FY 2009/2010,Code 15,Department of Justice,96 (Department Identifier),Office of the Information & Privacy Commissioner,Object Code 1227,"Small desktop, personal, and portable computer equipment","$20,183.64"
+version https://git-lfs.github.com/spec/v1
+oid sha256:63314d971d4ea1d8e1070e8cb8a36e599fab5b5fb750e1b70af060e8e7cbc1b9
+size 628

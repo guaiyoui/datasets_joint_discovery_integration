@@ -1,4 +1,3 @@
-site_name,location_name,brc_yr,brc_mth_nm,brc_wk_num,day_of_wk_nm,metric_dt,metric_hr,in_cnt,out_cnt,report_cnt,factored_in_cnt,factored_out_cnt,factored_report_cnt
-City of Leeds,South Albion Street,Year 2017,Feb,Week 6,Mon,"February 6, 2017",7 AM,131 entries,No exits,131 reported,Adjusted In: 131,Adjusted Out: 0,Adjusted Report Total: 131
-Leeds City,"Sharps, Commercial Street",'17,Feb,Week 7,Mon,2017-02-13,1:00 PM,"3,838",0.0,"3,838","3,838",0.0,"3,838"
-"Leeds, UK",Briggate Street,Year 2017,Feb.,Week 6,Fri.,"February 10, 2017",2:00 PM,"3,408",Zero,"3,408","3,408",Zero,"3,408"
+version https://git-lfs.github.com/spec/v1
+oid sha256:15970fcc110b70cfbd2069ca5b5fc9d370ccf938d9e6bc1572e61bbd49382e42
+size 584

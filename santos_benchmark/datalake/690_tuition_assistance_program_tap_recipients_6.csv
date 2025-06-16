@@ -1,4 +1,3 @@
-acad_year,lvl,tap_study_lvl,tap_sector_grp,recipient_age_grp,tap_fin_stat,tap_recip_amt
-School Year 2006,Undergraduate,Two-Year Undergraduate,CUNY Community College,50 and older,Independent Student,"2,246.00"
-2008-09,Undergraduate,Two-Year Undergraduate Program,State University of New York Community College,Less than 22 years of age,Independent Financial Status,"139,009.00"
-2017 Academic Year,Undergraduate,Four-year Undergraduate,SUNY State Operated,26-35 years old,Financially Dependent,500.00
+version https://git-lfs.github.com/spec/v1
+oid sha256:75bc0cdee4e6a66d283feaa029053fafe08a929fc936a7ac948d73b658b2ccd4
+size 499

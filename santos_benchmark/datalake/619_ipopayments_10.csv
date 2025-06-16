@@ -1,4 +1,3 @@
-dept_family,entity,payment_date,exp_type,exp_area,supplier,transaction_id,amount,vat_reg_num
-"Department for Business, Innovation & Skills",IPO,"Sep 21, 2010",Advertising and Promotions,Innovation Dept.,Brand Yorkshire Ltd.,BY-175,£127.66,N/A
-"Dept. for Business, Innovation & Skills",IPO,"September 10, 2010",Professional Development,Patents Dir.,Business Language Services Limited,TRN10087,£54.72,N/A
-BIS,IPO,"September 14, 2010",UK Travel & Subsistence,Patent Division,CWT,TRN-724652,£102.70,N/A
+version https://git-lfs.github.com/spec/v1
+oid sha256:afba986276667bbc7e5c81920540d4fdd788e0ece77e74343b51eef679f8e095
+size 502

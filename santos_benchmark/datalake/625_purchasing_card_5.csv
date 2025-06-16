@@ -1,4 +1,3 @@
-org_name,dept_incurred,svc_cat_label,supplier_name,exp_purpose,proc_merch_cat,purch_dt,settle_dt,trans_num,net_amt_gbp
-Stockport Metropolitan Borough Council,Social Services Department,Education and Childcare Services,WOODSMOOR STATION TICKET OFFICE,Travel Expenses,HR Travel & Per Diem,"January 11, 2018","February 16, 2018",Ref: GPC01180000289,£6.10
-Stockport Metropolitan Borough Council,Corporate & Support Services Department,General Administrative Overhead,Trainline.com,Travel Costs,HR Travel and Meals,"January 25, 2018",2018-02-16,GPC 01180000319,31.95 GBP
-Stockport Council,People Services,Children and Education Services,Lindow Lawnturf,Office Furniture and Equipment,Furniture & Related Furnishings,"January 10, 2018","Feb 16, 2018",GPC-01180000269,£461.10
+version https://git-lfs.github.com/spec/v1
+oid sha256:8ea2610832fae63da75fa2b6adca33a2a69a67f196395cb16efc818611ce691e
+size 771

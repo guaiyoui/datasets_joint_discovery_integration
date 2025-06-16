@@ -1,4 +1,3 @@
-id,artist_name,track_title,album_name,track_number,release_year
-992,The Doors,Break on Through,The Doors,1,1967
-Record 3050,The Cast of The Simpsons,My Fair Laddy (Medley Version),The Testify Album,Thirty,2007 CE
-1385,Huey Lewis & The News,Power of Love,Back to the Future OST,1,1985
+version https://git-lfs.github.com/spec/v1
+oid sha256:95f548a1602794d28b6779012c266e5a57636c817c52d7081b125261a2c39047
+size 284

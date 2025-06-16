@@ -1,4 +1,3 @@
-practice_id,yr,mnth,vtm_name,vmp_name,amp_name,presentation,strength,item_count,total_qty,gross_cost_amt,actual_cost_amt,bnf_cd,bnf_chptr,bnf_sect,bnf_para,bnf_sub_para
-Practice 61,2015,June,N/A,"Insulin pen needles, hypodermic, 6mm/31G, screw-on","Unifine Pentips insulin pen needles, 6mm/31 gauge",Screw-on needle,6 mm / 31 gauge,Three,300 units,£35.25,£31.84,N/A,Chapter Six,Section One,Paragraph One,Sub-Paragraph Three
-517,2014,7,-,"Applicator, vaginal, type 1",Gynest (Type 1) Vaginal Applicator,APPLI,-,2,2,1.7,1.50,-,22,2,1,1
-Clinic 283,YR 2015,June,Dorzolamide (substance),Dorzolamide 2% ophthalmic solution,Trusopt 2% eye solution,Ophthalmic drops,2 percent,1 item,Qty 15,£18.99,£17.20,Not applicable,Chapter 11,Section 6,Paragraph 0,Sub-Paragraph 0
+version https://git-lfs.github.com/spec/v1
+oid sha256:93b006fbb39ed812b620d34cae59e677d00886e52cbb3f13381e31358c3975b9
+size 764

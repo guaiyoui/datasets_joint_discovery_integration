@@ -1,4 +1,3 @@
-pol_entity_typ,rec_id,rec_name,elec_event_typ,fisc_dt
-Registered Political Party,61,The Liberal Party of Canada,Yearly,"December 31, 2003"
-Political Party,61,The Liberal Party,Yearly Event,"December 31, 2003"
-Political Party,07,Reform Conservative Alliance,Yearly,"Dec. 31, 2001"
+version https://git-lfs.github.com/spec/v1
+oid sha256:61fd459c0382323811cce5ecc97b2711928e817802a22f7a7c7a020a036957c3
+size 280

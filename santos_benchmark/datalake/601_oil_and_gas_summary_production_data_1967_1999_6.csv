@@ -1,4 +1,3 @@
-prod_year,operator_nm,cnty_nm,town_nm,prod_formation,active_gas_well_cnt,inactive_gas_well_cnt,purch_cd
-Nineteen ninety-six,Sherman Oil Company,Allegany County,Genesee (Town),Richburg Formation,zero,zero,O.C.
-The year 1977,Pennzoil Products Company,Cattaraugus County,Olean,Bradford Formation,Zero,One,Purchaser Code OA
-Year 1977,Mrs. C. Nell Taylor,Allegany County,Bolivar,Richburg Formation,None,No inactive gas wells,Code OB
+version https://git-lfs.github.com/spec/v1
+oid sha256:964fc68e545254408e3928b27d7d0f628fa451a5484bb6d6c34ab07517aa0acb
+size 428

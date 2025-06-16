@@ -1,4 +1,3 @@
-prod_year,prod_date_entered,operator,county,field,active_oil_wells,inactive_oil_wells,is_self_use_well
-the year 1980,"June 22, 1994",Eliskim Incorporated,Chautauqua County,Lakeshore Field,zero,none,True
-Nineteen eighty-four,"April 10, 1985","Alden Aurora Gas Company, Incorporated",Erie County,Alden-Lancaster Field,zero,zero,No
-1984,"April 4, 1985",Joyce Mgmt. Corp.,Allegany Co.,Andover,nineteen,four,No
+version https://git-lfs.github.com/spec/v1
+oid sha256:9d6e5bfe118c6cf49eec1ba8c0607f84e2a905a08cfecd24256909b1acd5284a
+size 406

@@ -1,4 +1,3 @@
-bio_category,tax_group,tax_subgroup,sci_name,comm_name,last_doc_year,ny_list_status
-Flora,Angiosperms,Poaceae,Dichanthelium scoparium (Michx.) Gould & C.A.Clark,Broom Panic Grass,N/A,Seriously threatened
-Fauna,Aves,Hirundinidae,R. riparia,Sand Martin,Between 2000 and 2005,Protected (New York state)
-Flora,Angiospermae,Miscellaneous Flowering Plants,Viola primulifolia variety primulifolia,Primroseleaf Violet,Data unavailable,NY State Threatened
+version https://git-lfs.github.com/spec/v1
+oid sha256:4a022ffe6a4f604ba57601c522f5cb0a96404f94e5b3104b984c348e91e476b1
+size 447

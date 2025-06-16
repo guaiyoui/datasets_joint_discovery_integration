@@ -1,4 +1,3 @@
-location_nm,borough_nm,website_url,uprn,borough_cd,ward_nm,ward_cd,addr_line1,addr_line2,addr_line3,lon,lat,easting_coord,northing_coord,load_dt
-Rogue Recording Studios,London Borough of Southwark,https://www.roguestudios.co.uk,200000000000,E09000028,Bermondsey South Ward,E05011116,"Arch 4, Bermondsey Trading Estate",Rotherhithe New Rd.,"Southwark, London",-0.0552083859642347,51.48926810905729,535117.9633872085,178494.92443379568,2021-11-04
-The Engine Rooms Studios,London Borough of Tower Hamlets,engineroomsstudios.com,6074717,E09000030,Bromley North Ward,E05009321,"Bow Triangle Business Centre, Unit 30",Eleanor St,"Tower Hamlets, London",-0.023156,51.523903,537238.96,182405.92,2021-11-04
-Audio Underground Studios,London Borough of Waltham Forest,http://www.audiounderground.co.uk,10024418697,E09000031,Leyton Ward,E05000604,Railway Arches 121-123,Beaumont Rd,"Waltham Forest, London",-0.012519,51.571852,537831.96,187757.92,2021-11-04
+version https://git-lfs.github.com/spec/v1
+oid sha256:eb4fdaafe4ba895d1f31456e16968ff7d06092fabfa85a83ba8d17e1ecab8eba
+size 946

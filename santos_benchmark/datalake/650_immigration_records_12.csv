@@ -1,4 +1,3 @@
-immig_nm,nationality,dest_city,origin_loc,rec_status_ind,has_fam_ind,admitted_ind
-"Willis, Peter",British,Province of Quebec,"Goldstone, United Kingdom",One,One,One
-Thomas Johns,British,"Quebec, Canada","Craigleith, Ontario",True,False,False
-Alfred Palmer,British,QC,"London, UK",One,One,Zero
+version https://git-lfs.github.com/spec/v1
+oid sha256:aa3ad39ef3128b5fa5ec62b58beb179c2cab82f7aa388645d027bbcbecfbfbf9
+size 293

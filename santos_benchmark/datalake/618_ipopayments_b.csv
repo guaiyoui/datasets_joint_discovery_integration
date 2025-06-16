@@ -1,4 +1,3 @@
-dept_family,entity_name,transaction_date,exp_type,exp_area,supplier_name,transaction_id,payment_amount,vat_reg_num
-"UK Department for Business, Innovation & Skills",IPO,"June 16, 2010",Promotional Activities,Directorate of Innovation,Aardman Animations Limited,TXN-20734,"£1,072.78",N/A
-BIS,IPO,"June 16, 2010",Information Technology Contractors,Trademarks Directorate,IBM United Kingdom Limited,5805-102513,"£59,350.81",N/A
-BIS,IPO,"June 4, 2010",UK Travel & Subsistence,Business Support Dept.,BAA Enterprises Ltd.,MHUMP-21,£16.20,N/A
+version https://git-lfs.github.com/spec/v1
+oid sha256:067cf8bd497c2db6ee98db5d935837dc4a8cdb2c3dc3553dd2e53d180992a019
+size 539

@@ -1,4 +1,3 @@
-call_id,req_type,req_created_ts,req_closed_ts,req_status,nbrhd_dist,city_name,state_cd,req_title
-Ticket ID: 101000293096,Bulky Waste Collection,2014-08-05 11:14:00,2014-10-23 08:40:14,Resolved,Milneburg Neighborhood,NOLA,Louisiana,Oversize Waste Collection Request
-101000622258,Derelict Car Removal Request,"November 28, 2016 10:19 AM","December 19, 2016 2:29:03 PM",Resolved,Saint Roch,New Orleans,Louisiana,Abandoned Car
-101000239388,Ground Settlement,2014-03-20 12:02:25,2014-03-21 08:55:39,Resolved,Milneburg neighborhood,New Orleans,Louisiana,Street Subsidence Remediation
+version https://git-lfs.github.com/spec/v1
+oid sha256:214b1ceffb2b16b1f73348b28e4c798e19203c715aad14b60db89e8c54ac119f
+size 578

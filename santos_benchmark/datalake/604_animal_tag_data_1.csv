@@ -1,4 +1,3 @@
-anim_id,anim_typ,breed_grp,prim_breed,tag_id,tag_typ,tag_subtyp,tag_price,tag_dt,tag_exp_dt,tag_status
-ID: A566375,Canine,Mastiff Group,German Boxer,L15056966,Altered License,Veterinary,$9.00,"July 23, 2015",2016/01/29,Active
-a564318,Canine,Toy Group,Butterfly Dog,L15023126,LICENSE ALTERED,ADOPTION,9,2015-06-30,2015-06-29,Relocated to Jeff
-a564062,Canine,Spaniel Group,English Springer Spaniel,L16022946,License Altered,Help Scan,10.00,2017-02-10,2017-11-02,Active
+version https://git-lfs.github.com/spec/v1
+oid sha256:1109a689d1b718876c144b7a07e6b4dbbe4c3b50b8f0b2bfefce78fef3caa8e2
+size 467

@@ -1,4 +1,3 @@
-practice_id,practice_name,address_line_1,address_line_2,address_line_3,post_code,lcg_name,registered_patient_count
-263,J. Bissett Practice,Robert Henry Surgery,7A Newtownards Rd,"Newtownards, Comber",BT23 5AU,South Eastern LCG,1807
-482,Gormley & McCloskey Doctors,Old School House Medical Centre,1 Antrim Rd,"LURGAN, NI",BT679BW,Southern LCG,4365
-571,Dr. Cathcart and Partners,Health Centre,Erne Rd,Enniskillen,BT74 6NN,Western,7174
+version https://git-lfs.github.com/spec/v1
+oid sha256:6893b02382c5eac75c4b7669b493397e64810684ef33b28054734599dcaec70f
+size 433

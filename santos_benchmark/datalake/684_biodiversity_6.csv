@@ -1,4 +1,3 @@
-county_nm,category,tax_group,tax_subgroup,sci_nm,comm_nm,st_consv_rank,gbl_consv_rank
-Broome County,Fauna,Aves,Fringillidae,H. purpureus,American Purple Finch,State Rank: S5,Global Rank: G5
-Otsego County,Fauna,Aves,Wren Species,T. hiemalis,North American Winter Wren,State Rank S5,Global Rank G5
-Delaware Co.,Flora,Angiosperms,Orchidaceae,L. liliifolia,Lily-leaved Twayblade,Critically Imperiled,Secure
+version https://git-lfs.github.com/spec/v1
+oid sha256:ebb7b4c374b32e73f3af8dcf50a47d2917b912245b85c6577a252f5df3a420b0
+size 403

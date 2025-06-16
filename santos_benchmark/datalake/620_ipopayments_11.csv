@@ -1,4 +1,3 @@
-dept_family,entity,transaction_date,expense_type,expense_area,supplier,transaction_num,amount,vat_reg_num
-"Dept for Business, Innovation and Skills",IPO,"August 19, 2010",Domestic Travel and Accommodation,The Patents Directorate,Carlson Wagonlit Travel,Trans. No. 685065,£194.47,N/A
-"Department for Business, Innovation & Skills",IPO,"August 23, 2010",Small-scale building repairs & upkeep,Business Operations Directorate,Springvale Weatherproofing Limited,Txn 22653,£447.36,Not available
-"UK Department for Business, Innovation & Skills",IPO,5th August 2010,Telecom Charges,Directorate of Business Support,BT,TRN-356974,-£78.36,N/A
+version https://git-lfs.github.com/spec/v1
+oid sha256:ecca2a857cc836bd1c32c4732a4c865fdb3f185af808394f5ba7f7642fd08d4d
+size 636

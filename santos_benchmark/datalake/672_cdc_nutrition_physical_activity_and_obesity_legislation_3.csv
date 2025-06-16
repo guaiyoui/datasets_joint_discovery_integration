@@ -1,4 +1,3 @@
-leg_year,leg_qtr,location_name,health_topic_nm,policy_topic_nm,setting_nm,leg_title,policy_type_cd,policy_topic_cd
-Two thousand eleven,First Quarter,State of Maryland,Excess Weight,Body Mass Index,Local Community,Funding Proposal,Legislation,006-BMI
-The year 2009,First Quarter,NY,Excess Weight,Dietary Limitations,Public Settings,Toll relief for farmers,Legislation,FOR-020
-Year 2011,Q1,DE,Physical Exercise,Physical Education Requirements,Educational Institutions and After-School Programs,Interscholastic Sports for Middle School Students,Regulation,PAR-035
+version https://git-lfs.github.com/spec/v1
+oid sha256:691d831d6911ac030dd508864a6869be795963585b897df58d840e2fdb83ad41
+size 561

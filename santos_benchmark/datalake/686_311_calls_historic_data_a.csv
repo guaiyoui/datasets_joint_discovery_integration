@@ -1,4 +1,3 @@
-call_id,request_type,call_status,neighborhood,council_dist,city_name,resolution_reason,case_description
-101000722703,Storm Drain Maintenance,Completed,MID-CITY,A,NEW ORLEANS,Issue Addressed,Blocked Catch Basin
-101000154422,Abandoned Vehicle,Completed,Irish Channel,District B,"New Orleans, Louisiana",Issue Resolved,Abandoned Vehicle Report
-101000912345,Household Waste Collection (Recycling),Resolved,Freret Area,District B,"New Orleans, LA",Request Deemed Invalid,Curbside Recycling Program
+version https://git-lfs.github.com/spec/v1
+oid sha256:476c89090d3553bcce98b128df8859086e11e6e6c405debef1e6d6e45e56a504
+size 493

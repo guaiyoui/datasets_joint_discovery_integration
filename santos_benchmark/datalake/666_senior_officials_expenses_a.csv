@@ -1,4 +1,3 @@
-official_name,travel_mode,destination,travel_class,total_expense
-M. Campbell,Train,"Euston, London",Standard Class,GBP 78.71
-Mr. Peter Storr,Eurostar (International Rail),"St. Pancras International, London",Standard Class,£114.58
-"Calam, Mary",Train,"Barrow-in-Furness, Cumbria",Standard Class,38.50 GBP
+version https://git-lfs.github.com/spec/v1
+oid sha256:8883d81a0eca17feef030892b2ee50a288474a08cc06132b1885a47934b6922e
+size 305
