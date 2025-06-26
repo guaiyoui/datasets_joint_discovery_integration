@@ -79,13 +79,16 @@ for dataset_name in dataset_names:
 
             column_renamed = {}
             # creat schema_matching_labels
-            for column in df.columns.tolist():
+            for column in chunk.columns.tolist():
                 column_renamed[column] = np.random.choice(column_mapping_data[f"{dataset_name}_tableA.csv: {column}"]['alternative_column_names'], 1)[0]
-
+                
                 schema_matching_labels["table_name"].append(f"{table_cnt}_{dataset_name}_{base_filename}_colsize{chunk_size_col+1}_chunk{idx}.csv")
                 schema_matching_labels["ori_column_name"].append(column)
-                schema_matching_labels["column_idx"].append(df.columns.tolist().index(column))
+                schema_matching_labels["column_idx"].append(chunk.columns.tolist().index(column))
                 schema_matching_labels["renamed_column_name"].append(column_renamed[column])
+
+            # if dataset_name == "walmart_amazon":
+            #     print(column_renamed)
             chunk = chunk.rename(columns=column_renamed)
 
             chunk.to_csv(chunk_path, index=False)
@@ -104,13 +107,22 @@ for dataset_name in dataset_names:
 
             column_renamed = {}
             # creat schema_matching_labels
-            for column in df.columns.tolist():
+            for column in chunk.columns.tolist():
                 column_renamed[column] = np.random.choice(column_mapping_data[f"{dataset_name}_tableA.csv: {column}"]['alternative_column_names'], 1)[0]
 
                 schema_matching_labels["table_name"].append(f"{table_cnt}_{dataset_name}_{base_filename}_colsize{chunk_size_col+1}_chunk{idx}.csv")
                 schema_matching_labels["ori_column_name"].append(column)
-                schema_matching_labels["column_idx"].append(df.columns.tolist().index(column))
+                schema_matching_labels["column_idx"].append(chunk.columns.tolist().index(column))
                 schema_matching_labels["renamed_column_name"].append(column_renamed[column])
+
+                # if dataset_name == "walmart_amazon" and column == "category":
+                #     print(column, schema_matching_labels["renamed_column_name"][-1])
+
+            
+            if chunk_filename == "172_walmart_amazon_tableB_colsize5_chunk1.csv":
+                print(df.columns, column_renamed)
+                print(chunk.columns.tolist())
+
             chunk = chunk.rename(columns=column_renamed)
 
             chunk.to_csv(chunk_path, index=False)
